@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T18:23:10.468Z",
+  "fetchedAt": "2026-05-25T18:32:53.339Z",
   "date": "2026-05-25",
   "count": 3,
   "items": [
     {
-      "videoId": "3x45cv2wp8h4m26",
-      "title": "当你不小心进入了黑屋局...",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x45cv2wp8h4m26",
-      "authorName": "小博博（三角洲行动）",
-      "authorUrl": "https://www.kuaishou.com/profile/3xp32848ru2cqhc",
-      "authorId": "3xp32848ru2cqhc",
-      "publishTime": "2026-03-17T03:13:44.652Z",
-      "likeCount": 42576,
+      "videoId": "3xswq77v4b33t4s",
+      "title": "“为中华崛起而读书”，9岁男孩的话燃爆全网！ #为中华崛起而读书  #小孩哥  #少年强则国强  #社会百态",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xswq77v4b33t4s",
+      "authorName": "主持人小马哥",
+      "authorUrl": "https://www.kuaishou.com/profile/3xtttt2vbr9sue2",
+      "authorId": "3xtttt2vbr9sue2",
+      "publishTime": "2026-02-27T04:59:37.105Z",
+      "likeCount": 12101,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1051758,
-      "collectedAt": "2026-05-25T18:20:11.990Z",
+      "viewCount": 396760,
+      "collectedAt": "2026-05-25T18:30:12.414Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,19 +28,20 @@
       "aiAnalysis": {
         "explosionRate": 85,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用‘当你...’的第二人称视角，直接将观众代入情境。‘不小心’暗示意外和未知，‘黑屋局’是游戏《三角洲行动》中的高风险高回报玩法，自带紧张感和话题性。标题结构简洁，悬念感强，能有效激发好奇心和点击欲。",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“经典名句+年龄反差+情绪引爆”的结构。引用周恩来总理的名言“为中华崛起而读书”作为核心，具有极强的文化认同感和正能量。‘9岁男孩’与‘燃爆全网’形成年龄与影响力的巨大反差，制造了悬念和期待感。标签#少年强则国强进一步强化了主题，易于引发民族自豪感和集体共鸣。",
         "hotFactors": [
-          "游戏热门玩法（黑屋局）自带流量",
-          "悬念式标题引发好奇",
-          "第一人称代入感强"
+          "家国情怀与正能量主题",
+          "年龄与言论的强烈反差",
+          "经典名句的现代演绎",
+          "易于引发社会讨论和转发"
         ],
         "category": [
-          "游戏",
-          "三角洲行动",
-          "游戏实况/高光时刻"
+          "社会正能量",
+          "教育",
+          "少年榜样"
         ],
-        "reason": "标题精准切入游戏核心高热度玩法，悬念钩子强，能有效吸引目标玩家群体点击。点赞量高而评论/分享为0，可能是数据延迟或初期爆发阶段，符合潜力爆款特征。"
+        "reason": "视频内容契合快手平台主流用户对正能量、爱国情怀和少年成长的关注。标题结构清晰，情绪点明确，具备强烈的共情和传播潜力，预计能引发广泛讨论和二次传播。"
       }
     },
     {
@@ -51,11 +52,11 @@
       "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
       "authorId": "3xa85jgbhtm6hic",
       "publishTime": "2026-05-09T07:36:21.512Z",
-      "likeCount": 21989,
+      "likeCount": 21998,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 495798,
-      "collectedAt": "2026-05-25T18:20:11.990Z",
+      "viewCount": 495894,
+      "collectedAt": "2026-05-25T18:30:12.414Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -68,34 +69,34 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用‘定性+归因’结构，直接点明核心矛盾（‘台独’与‘台海和平’），并使用‘罪魁祸首’这一强烈定性词汇，立场鲜明，情绪冲击力强，符合时政类内容的传播特点。",
+        "titleAnalysis": "标题采用“定性+归因”结构，直接点明核心矛盾（“台独”与“台海和平”），并使用“罪魁祸首”这一强烈定性词汇，立场鲜明，情绪冲击力强，符合官方媒体在重大议题上简洁、有力的表达风格。",
         "hotFactors": [
           "官方权威信源（国防部发布）",
           "涉及国家主权与领土完整的核心议题",
           "标题立场鲜明、情绪煽动性强",
-          "符合平台主流价值观与流量扶持方向"
+          "符合平台主流价值观与爱国主义情绪"
         ],
         "category": [
           "时政",
           "军事",
           "爱国主义"
         ],
-        "reason": "由官方权威账号发布，议题高度敏感且符合主流叙事，标题冲突性强，极易引发爱国情绪共鸣与广泛传播，具备高爆款潜力。"
+        "reason": "由最高军事权威机构发布，议题重大且敏感，标题措辞强硬，极易引发爱国情绪共鸣与广泛传播，符合平台内容导向，爆款潜力极高。"
       }
     },
     {
-      "videoId": "3xeifpswxw2gzmc",
-      "title": "开河蚌的一天，开出许多淡紫色的珍珠",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xeifpswxw2gzmc",
-      "authorName": "捡蚌人",
-      "authorUrl": "https://www.kuaishou.com/profile/3xktr2634u7m7my",
-      "authorId": "3xktr2634u7m7my",
-      "publishTime": "2026-05-09T09:54:51.253Z",
-      "likeCount": 9533,
+      "videoId": "3xsdvktawhfnia2",
+      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
+      "authorName": "周沫讲理财",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
+      "authorId": "3xhinyavn5y69uc",
+      "publishTime": "2026-04-22T11:27:31.413Z",
+      "likeCount": 29886,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1337200,
-      "collectedAt": "2026-05-25T18:20:11.990Z",
+      "viewCount": 1468858,
+      "collectedAt": "2026-05-25T18:30:12.414Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -107,19 +108,19 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "rising",
-        "hookType": "爽点",
-        "titleAnalysis": "标题采用“过程+结果”的叙事结构，前半句“开河蚌的一天”交代了日常化、连续性的动作场景，后半句“开出许多淡紫色的珍珠”直接呈现了高价值、稀有且视觉吸引力强的结果，形成强烈的期待感和满足感。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“场景+痛点+解决方案”结构。前半句“去派出所报警被大声嚷嚷”构建了一个具体、有冲突感的场景，直击普通人在权威机构可能遭遇的不公或尴尬，引发共鸣和好奇。后半句“怎么办”直接点明视频将提供解决方案，满足用户寻求帮助的需求。标签#维权、#老铁看热点精准定位了内容属性和目标受众。",
         "hotFactors": [
-          "稀缺性（淡紫色珍珠）",
-          "过程解压与收获满足感",
-          "自然/户外题材的普适吸引力"
+          "强冲突场景（派出所+被嚷嚷）引发共情与好奇",
+          "实用性强，提供具体维权方法，满足用户“求知”需求",
+          "标签精准，切入“维权”和“热点”两大流量池"
         ],
         "category": [
-          "户外探索",
-          "手工艺/开蚌",
-          "生活记录"
+          "社会热点",
+          "生活技巧",
+          "法律维权"
         ],
-        "reason": "视频结合了“过程解压”和“稀有收获”两大核心爽点，淡紫色珍珠的稀缺性提供了强烈的视觉冲击和话题性，容易引发用户的好奇、羡慕和分享欲。点赞量高但互动（评论/分享）为零，可能处于流量爬升初期，后续有爆发潜力。"
+        "reason": "视频标题精准切中“维权难”这一社会痛点，场景具体、冲突感强，极易引发用户共鸣和讨论。提供解决方案的属性使其具备高实用价值和分享潜力。虽然当前互动数据（评论、分享）为零，但高点赞量表明内容已获得初步认可，具备后续爆发的基础。"
       }
     }
   ]
