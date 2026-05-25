@@ -1,61 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T15:43:20.351Z",
+  "fetchedAt": "2026-05-25T15:52:54.902Z",
   "date": "2026-05-25",
-  "count": 3,
+  "count": 2,
   "items": [
     {
-      "videoId": "3x9xnjeq8z79da4",
-      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
-      "authorName": "央视频",
-      "authorUrl": "https://www.kuaishou.com/profile/3xqbri2seru7w4e",
-      "authorId": "3xqbri2seru7w4e",
-      "publishTime": "2026-04-29T13:29:39.972Z",
-      "likeCount": 53441,
+      "videoId": "3xvirfkjfiwvv4a",
+      "title": "美伊停战以来，阿联酋首次遭遇大规模袭击，为何每次都是它遭殃？ #老铁看热点 #老铁知识百科 #知识播种计划 #光合计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xvirfkjfiwvv4a",
+      "authorName": "第一军情",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8epkgu35by2wg",
+      "authorId": "3x8epkgu35by2wg",
+      "publishTime": "2026-05-06T08:35:02.683Z",
+      "likeCount": 6217,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1636723,
-      "collectedAt": "2026-05-25T15:40:11.842Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用双重否定强调（“绝不...再当”、“绝不能当”）和口语化标签（“冤大头”、“工具人”），立场鲜明，情绪强烈，直击消费者痛点与主播责任争议，具有极强的代入感和话题性。",
-        "hotFactors": [
-          "央视频权威背书，自带流量与公信力",
-          "直击直播带货乱象，切中消费者普遍不满情绪",
-          "观点鲜明，立场强硬，易引发共鸣与站队讨论"
-        ],
-        "category": [
-          "社会热点",
-          "消费维权",
-          "直播电商"
-        ],
-        "reason": "权威媒体针对高热度社会议题发声，标题情绪饱满、立场鲜明，极易引发广泛共鸣和二次传播，虽评论分享数据暂未显示，但点赞量已显爆发潜力。"
-      }
-    },
-    {
-      "videoId": "3x6yy3d6gpuvgym",
-      "title": "父亲去世12年，银行突然来催债2万3千多，本金才7千，女儿发出三连问：12年为何从不通知？如何证明是父亲生前消费？有没有义务还债？@快手热点(O3xddgkd5fav5if9) #父亲去世12年银行突然来催债 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6yy3d6gpuvgym",
-      "authorName": "小强说",
-      "authorUrl": "https://www.kuaishou.com/profile/3xq56h4zipv2f9y",
-      "authorId": "3xq56h4zipv2f9y",
-      "publishTime": "2026-04-28T08:07:19.488Z",
-      "likeCount": 5011,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 218767,
-      "collectedAt": "2026-05-25T15:40:11.842Z",
+      "viewCount": 278792,
+      "collectedAt": "2026-05-25T15:50:12.061Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -67,20 +28,20 @@
       "aiAnalysis": {
         "explosionRate": 78,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“时间跨度+意外事件+核心冲突+三连问”的强冲突结构。12年的时间跨度制造了强烈的戏剧性和不合理感，“银行催债”与“父亲去世”形成天然对立，“三连问”将个人遭遇上升为公共法律与道德议题，极易引发共鸣和讨论。",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“事件+疑问”结构，前半句陈述“阿联酋首次遭遇大规模袭击”这一突发新闻事实，后半句以“为何每次都是它遭殃？”的设问制造悬念，引导用户点击寻找答案。标签#老铁看热点等强化了内容的时效性和知识属性。",
         "hotFactors": [
-          "涉及银行与普通人的债务纠纷，天然具有话题性和对立感",
-          "时间跨度长（12年）且金额翻倍（7千变2万3），细节具体，冲击力强",
-          "女儿提出的“三连问”直击法律与道德痛点，为观众提供了明确的讨论和站队方向",
-          "关联社会热点（金融债务、遗产继承、银行服务），易引发广泛共情"
+          "国际地缘政治热点（美伊关系、中东局势）",
+          "突发性冲突事件（“首次”、“大规模袭击”）",
+          "强烈的疑问钩子（“为何每次都是它？”）",
+          "发布者“第一军情”具有垂直领域权威性"
         ],
         "category": [
-          "社会民生",
-          "法律维权",
-          "家庭情感"
+          "国际时事",
+          "军事",
+          "地缘政治"
         ],
-        "reason": "视频精准切中公众对银行服务、债务纠纷的普遍焦虑与不满，冲突强烈、细节具体、议题明确，具备极高的讨论和传播潜力。点赞量已初显热度，评论和分享量为零可能因发布较早或平台数据延迟，但其内容结构符合爆款逻辑。"
+        "reason": "内容紧扣国际热点，标题悬念感强，能有效激发用户好奇心和讨论欲。发布者账号定位精准，有助于在目标受众中快速传播。"
       }
     },
     {
@@ -94,8 +55,8 @@
       "likeCount": 7686,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 419899,
-      "collectedAt": "2026-05-25T15:40:11.842Z",
+      "viewCount": 419904,
+      "collectedAt": "2026-05-25T15:50:12.061Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -105,21 +66,21 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 65,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用‘忠告’式口吻，以‘没事少和别人搅和在一起’为核心观点，直接点明主题，具有强烈的个人生活指导色彩。后接多个情感和知识类标签，精准定位目标受众。",
+        "titleAnalysis": "标题采用‘忠告’式口语化表达，以‘没事少和别人搅和在一起’为核心观点，直接点明社交边界与自我保护的主题，具有强烈的个人经验分享感和普适性，容易引发用户对自身社交经历的反思与共鸣。",
         "hotFactors": [
-          "情感共鸣与人生智慧话题",
-          "简洁有力的忠告式观点",
-          "精准的标签组合（#情感共鸣 #人生智慧）"
+          "情感共鸣与人生智慧类内容在快手有广泛受众基础",
+          "标题观点鲜明，具有争议性和讨论空间，易引发评论互动",
+          "标签精准，覆盖#忠告、#情感共鸣、#人生智慧、#知识播种计划等高流量垂类"
         ],
         "category": [
           "情感",
-          "生活感悟",
-          "个人成长"
+          "人生感悟",
+          "社交关系"
         ],
-        "reason": "内容切中大众对人际关系与个人边界的普遍困惑，观点鲜明易引发共鸣和讨论。点赞量高但互动（评论/分享）为零，可能处于流量上升初期或数据存在异常，但话题本身具备持续发酵潜力。"
+        "reason": "内容切中大众对社交疲惫、边界感的普遍情绪，观点明确易传播，但评论和分享数据暂未体现爆发迹象，需观察后续互动增长。"
       }
     }
   ]
