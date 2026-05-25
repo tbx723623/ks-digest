@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T11:32:33.139Z",
+  "fetchedAt": "2026-05-25T11:43:49.547Z",
   "date": "2026-05-25",
-  "count": 3,
+  "count": 6,
   "items": [
     {
-      "videoId": "3xies8kxwbkjj64",
-      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
-      "authorName": "甜吖",
-      "authorUrl": "https://www.kuaishou.com/profile/3xbdz5fic8euk4y",
-      "authorId": "3xbdz5fic8euk4y",
-      "publishTime": "2026-05-08T21:43:26.019Z",
-      "likeCount": 124670,
+      "videoId": "3xzesfp8pvjpqjw",
+      "title": "这次真没欺负他，全部都是他自愿的！",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xzesfp8pvjpqjw",
+      "authorName": "小瑶u",
+      "authorUrl": "https://www.kuaishou.com/profile/3xtz2zyzggmxbk6",
+      "authorId": "3xtz2zyzggmxbk6",
+      "publishTime": "2026-04-23T10:41:51.033Z",
+      "likeCount": 61155,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1290251,
-      "collectedAt": "2026-05-25T11:30:11.943Z",
+      "viewCount": 1261714,
+      "collectedAt": "2026-05-25T11:40:12.040Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,36 +28,34 @@
       "aiAnalysis": {
         "explosionRate": 85,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“节日热点+平台活动+情感共鸣”三重结构。#五月嗨翻天 #五一气氛组已就位 紧扣五一假期热点，营造轻松欢乐氛围；#快手乡村超级碗 借力平台官方活动，增加曝光权重；#思白发望断崖 使用具有画面感和情感张力的歌词或短句，引发对时光、乡愁的普遍共情。整体标题信息密度高，标签精准，覆盖了热点、平台、情感三个流量入口。",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用‘先否定后肯定’的反转结构，前半句‘真没欺负他’暗示可能存在争议或误解，后半句‘全部都是他自愿的’形成强烈反转，制造悬念和冲突感，激发用户好奇心。",
         "hotFactors": [
-          "精准的节日热点（五一）借势",
-          "参与平台官方活动（快手乡村超级碗）获得流量扶持",
-          "标题情感共鸣强烈，易引发用户互动和分享",
-          "发布者“甜吖”可能具备一定的粉丝基础或人设吸引力"
+          "强烈反转引发好奇",
+          "涉及‘自愿’与‘欺负’的道德争议点",
+          "口语化表达增强真实感和代入感"
         ],
         "category": [
-          "生活记录",
-          "乡村生活",
-          "节日热点",
-          "情感共鸣"
+          "情感剧情",
+          "反转短剧",
+          "生活记录"
         ],
-        "reason": "视频数据表现异常（高赞零评零转），通常意味着内容可能通过平台活动或热点获得了大量初始曝光和点赞，但互动深度不足。高点赞量表明内容本身或发布者具备吸引力，结合精准的热点和活动标签，具备持续爆发的潜力。零评论和零分享可能是数据延迟或内容偏向于“观看型”而非“讨论型”。"
+        "reason": "标题反转结构极具吸引力，能快速抓住用户注意力并引发互动猜测，符合快手用户偏好强冲突、快节奏内容的特点，具备高传播潜力。"
       }
     },
     {
-      "videoId": "3xmk7budsxwhuxg",
-      "title": "小伙带女友见家长，母亲一句话拆散 #民生 #婚姻 #内容启发分享计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xmk7budsxwhuxg",
-      "authorName": "董超育儿现场",
-      "authorUrl": "https://www.kuaishou.com/profile/3xdtvatrmw4fnfm",
-      "authorId": "3xdtvatrmw4fnfm",
-      "publishTime": "2026-02-25T08:05:00.041Z",
-      "likeCount": 4920,
+      "videoId": "3x9xnjeq8z79da4",
+      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
+      "authorName": "央视频",
+      "authorUrl": "https://www.kuaishou.com/profile/3xqbri2seru7w4e",
+      "authorId": "3xqbri2seru7w4e",
+      "publishTime": "2026-04-29T13:29:39.972Z",
+      "likeCount": 53435,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 592817,
-      "collectedAt": "2026-05-25T11:30:11.943Z",
+      "viewCount": 1636414,
+      "collectedAt": "2026-05-25T11:40:12.040Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -67,37 +65,117 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 85,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用“事件+结果”的强冲突结构。“小伙带女友见家长”是常见生活场景，引发代入感；“母亲一句话拆散”是核心冲突点，制造强烈悬念和情绪张力，引导用户点击探寻“哪句话”以及“为何拆散”。",
+        "titleAnalysis": "标题采用双重否定强化语气（“绝不...再当”、“绝不能当”），直击消费者痛点（“冤大头”），并明确责任主体（主播），同时引用权威信源（央视频号）增强可信度，情绪强烈，立场鲜明。",
         "hotFactors": [
-          "家庭伦理冲突（婆媳/母子关系）",
-          "情感话题（婚姻、恋爱）",
-          "悬念驱动（“一句话”引发好奇）",
-          "生活化场景（见家长）易引发共鸣"
+          "权威媒体背书（央视频）",
+          "直击消费者权益痛点",
+          "对主播带货责任的强烈呼吁",
+          "情绪化表达易引发共鸣"
         ],
         "category": [
-          "情感",
-          "家庭伦理",
-          "生活剧情"
+          "社会热点",
+          "消费维权",
+          "媒体评论"
         ],
-        "reason": "标题精准切入高热度家庭情感冲突，悬念感强，易引发用户好奇、共鸣或争议，符合快手平台情感类内容的爆款逻辑。点赞数据已显潜力，但评论和分享为零可能因视频刚发布或数据未同步，需观察后续互动增长。"
+        "reason": "内容切中当前直播带货乱象的社会痛点，由权威媒体发布，立场鲜明且情绪强烈，极易引发消费者共鸣和广泛讨论，具备高传播潜力。"
       }
     },
     {
-      "videoId": "3x8w4kgmz6wk8dy",
-      "title": "#和平精英绿洲启元 #白亿爱玩狙 #整治 讲规则是讲给谁听啊",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x8w4kgmz6wk8dy",
-      "authorName": "白亿爱玩狙",
-      "authorUrl": "https://www.kuaishou.com/profile/3xtrbt8yfdqw63e",
-      "authorId": "3xtrbt8yfdqw63e",
-      "publishTime": "2026-03-12T14:55:29.075Z",
-      "likeCount": 33943,
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
+      "authorId": "3xa85jgbhtm6hic",
+      "publishTime": "2026-05-09T07:36:21.512Z",
+      "likeCount": 21847,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 864950,
-      "collectedAt": "2026-05-25T11:30:11.943Z",
+      "viewCount": 488850,
+      "collectedAt": "2026-05-25T11:40:12.040Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“定性+归因”结构，直接点明核心矛盾（台独）并将其定性为破坏和平的“罪魁祸首”，立场鲜明，情绪强烈，具有高度的冲突性和话题性。",
+        "hotFactors": [
+          "官方权威发布（国防部）",
+          "涉及国家主权与领土完整的核心议题",
+          "强烈的民族情感与爱国共鸣",
+          "时事热点与政策宣示"
+        ],
+        "category": [
+          "时政",
+          "军事",
+          "爱国主义"
+        ],
+        "reason": "内容由国防部官方发布，权威性极高；议题涉及国家核心利益，极易引发广泛共鸣与讨论；标题立场鲜明、情绪强烈，符合平台对正能量和主旋律内容的推荐倾向。尽管当前互动数据（评论、分享）为零，但基于发布主体和内容性质，其潜在传播力和引爆力极强，数据可能处于爆发前夜或受平台审核/发布机制影响。"
+      }
+    },
+    {
+      "videoId": "3xjhfu8688tnqs6",
+      "title": "这五种号码千万不要接听，避免财产损失 #防诈骗 #老百姓关心的话题 #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xjhfu8688tnqs6",
+      "authorName": "周沫讲理财",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
+      "authorId": "3xhinyavn5y69uc",
+      "publishTime": "2026-04-22T07:13:54.198Z",
+      "likeCount": 12396,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 893426,
+      "collectedAt": "2026-05-25T11:40:12.040Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“数字+警告+后果”的强警示结构，直接点明“五种号码”和“财产损失”，并使用“千万不要”等绝对化用语，制造紧迫感和悬念。标签精准覆盖了防诈骗、民生热点和财富话题，易于引发广泛共鸣和传播。",
+        "hotFactors": [
+          "强警示性内容（防诈骗）",
+          "与大众财产安全直接相关",
+          "数字清单体易于理解和传播",
+          "标签精准，覆盖多个高流量话题"
+        ],
+        "category": [
+          "社会安全",
+          "生活技巧",
+          "财经知识"
+        ],
+        "reason": "内容切中社会普遍关注的防诈骗痛点，实用性强，标题结构具有高点击吸引力，且标签能有效触达目标人群，具备快速传播和引发讨论的潜力。"
+      }
+    },
+    {
+      "videoId": "3xeifpswxw2gzmc",
+      "title": "开河蚌的一天，开出许多淡紫色的珍珠",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xeifpswxw2gzmc",
+      "authorName": "捡蚌人",
+      "authorUrl": "https://www.kuaishou.com/profile/3xktr2634u7m7my",
+      "authorId": "3xktr2634u7m7my",
+      "publishTime": "2026-05-09T09:54:51.253Z",
+      "likeCount": 9421,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1320349,
+      "collectedAt": "2026-05-25T11:40:12.040Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -109,20 +187,58 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用‘游戏话题+玩家昵称+争议性事件+反问句式’结构，通过‘整治’和‘讲规则是讲给谁听啊’制造冲突感和悬念，吸引对游戏规则、玩家行为有看法的用户点击。",
+        "hookType": "爽点",
+        "titleAnalysis": "采用“动作+结果”的直白叙事结构，前半句“开河蚌的一天”交代日常行为，后半句“开出许多淡紫色的珍珠”突出意外收获与视觉亮点，形成“付出-回报”的爽感闭环。",
         "hotFactors": [
-          "游戏热点话题（和平精英绿洲启元）",
-          "玩家身份标签（白亿爱玩狙）",
-          "争议性内容（整治、规则讨论）",
-          "反问句式引发互动欲望"
+          "稀缺性（淡紫色珍珠）",
+          "过程解压（开蚌的未知感）",
+          "收获满足感"
+        ],
+        "category": [
+          "生活记录",
+          "解压内容",
+          "手工艺/开蚌"
+        ],
+        "reason": "内容具备强解压属性与未知惊喜感，淡紫色珍珠的稀缺性易引发好奇与讨论，符合快手用户对“真实生活+意外收获”类内容的偏好。点赞数据良好，但评论与分享为零可能因发布时间较短或互动引导不足，后续若评论区出现“求同款”“怎么养”等讨论，仍有破圈潜力。"
+      }
+    },
+    {
+      "videoId": "3xn6s8qpw6ahm8k",
+      "title": "原来我才是小丑 #和平精英 #和平精英地铁逃生 #虎说PEL",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xn6s8qpw6ahm8k",
+      "authorName": "小小飞",
+      "authorUrl": "https://www.kuaishou.com/profile/3xq9xf65awffeee",
+      "authorId": "3xq9xf65awffeee",
+      "publishTime": "2026-04-29T12:00:00.893Z",
+      "likeCount": 22871,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 808420,
+      "collectedAt": "2026-05-25T11:40:12.040Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用第一人称视角，通过‘原来我才是小丑’制造强烈的情感反转和自嘲感，结合热门游戏标签，引发玩家共鸣和好奇。",
+        "hotFactors": [
+          "情感共鸣（自嘲/反转）",
+          "热门游戏IP（和平精英）",
+          "悬念感（小丑身份）"
         ],
         "category": [
           "游戏",
-          "游戏攻略/吐槽",
-          "玩家社区"
+          "情感",
+          "搞笑"
         ],
-        "reason": "标题精准切入游戏社区常见争议点，利用玩家身份和反问句式制造冲突与共鸣，容易引发评论区讨论。点赞量已初步验证内容吸引力，但评论和分享数据缺失，表明互动深度或传播性有待观察，爆率中等偏上。"
+        "reason": "标题情感冲击力强，易引发玩家共鸣和讨论，但评论和分享数据缺失可能限制传播，需观察后续互动增长。"
       }
     }
   ]
