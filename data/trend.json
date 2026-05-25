@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T10:44:18.345Z",
+  "fetchedAt": "2026-05-25T10:52:40.643Z",
   "date": "2026-05-25",
-  "count": 4,
+  "count": 5,
   "items": [
     {
-      "videoId": "3xc63jwxz56smv4",
-      "title": "关系再好，也不要跟别人说的八句话 #忠告  #人际关系 #喜爱度激励计划 #知识播种计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xc63jwxz56smv4",
-      "authorName": "董超",
-      "authorUrl": "https://www.kuaishou.com/profile/3xba59cndhgm629",
-      "authorId": "3xba59cndhgm629",
-      "publishTime": "2026-03-04T07:25:00.519Z",
-      "likeCount": 8960,
+      "videoId": "3x6h9rxw2eu3puu",
+      "title": "人去世了，欠贷款还要还吗？ #老铁知识百科 #知识播种计划 #未来预备班",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6h9rxw2eu3puu",
+      "authorName": "敬博老师",
+      "authorUrl": "https://www.kuaishou.com/profile/3xc7eweyt22j2gg",
+      "authorId": "3xc7eweyt22j2gg",
+      "publishTime": "2026-03-01T01:53:41.689Z",
+      "likeCount": 5547,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 371479,
-      "collectedAt": "2026-05-25T10:40:12.300Z",
+      "viewCount": 765269,
+      "collectedAt": "2026-05-25T10:50:12.057Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -29,19 +29,136 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "悬念",
-        "titleAnalysis": "标题采用“数字+警告”结构（八句话），结合“关系再好”这一普遍痛点，直接点明内容价值（忠告），并利用#标签强化知识属性和平台激励计划，易于引发好奇和点击。",
+        "titleAnalysis": "标题采用“疑问句+痛点场景”结构，直接切入一个普遍但敏感、且大多数人不明确答案的法律/生活常识问题，具有极强的代入感和好奇心驱动力。",
         "hotFactors": [
-          "普适性强的人际关系话题",
-          "数字清单体提供明确预期",
-          "结合平台激励计划标签获得流量扶持",
-          "“忠告”类内容易引发共鸣和收藏"
+          "切中大众对法律/债务的普遍焦虑与知识盲区",
+          "话题具有普适性和争议性，易引发讨论和分享",
+          "“老铁知识百科”等标签定位清晰，吸引特定知识科普受众"
         ],
         "category": [
-          "人际关系",
-          "生活知识",
-          "情感心理"
+          "法律科普",
+          "生活常识",
+          "知识分享"
         ],
-        "reason": "话题精准切中大众社交痛点，标题结构清晰有吸引力，点赞数据高但互动（评论/分享）为零，可能处于流量爬升初期或内容引发“默默点赞”行为，具备爆款潜力。"
+        "reason": "话题直击社会普遍痛点（债务与死亡），悬念感强，易引发好奇、焦虑和求知欲，符合快手知识类内容爆款逻辑。点赞量高但互动（评论/分享）为零，可能处于流量爬升初期或数据异常，但话题本身潜力巨大。"
+      }
+    },
+    {
+      "videoId": "3x4wzxqfu9b68pk",
+      "title": "【“他们要打多久就打多久 一直打到完全胜利！”】1953年2月7日，针对美国在朝鲜战场上时而借谈判施压、时而军事挑衅的谈判态势，毛主席表明了中国人民和军队抗争到底的决心！",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x4wzxqfu9b68pk",
+      "authorName": "央视网",
+      "authorUrl": "https://www.kuaishou.com/profile/3xyudn6sz9nwksq",
+      "authorId": "3xyudn6sz9nwksq",
+      "publishTime": "2026-03-27T01:08:35.076Z",
+      "likeCount": 209945,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 3397989,
+      "collectedAt": "2026-05-25T10:50:12.057Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用【】符号突出核心金句，直接引用毛主席原话，具有强烈的历史感和权威性。前半部分点明时间、事件背景（朝鲜战场谈判），后半部分升华到“抗争到底的决心”，结构清晰，情感递进。",
+        "hotFactors": [
+          "权威信源（央视网）",
+          "历史事件与领袖金句结合",
+          "强烈的爱国主义与民族精神共鸣",
+          "契合当前国际形势下的民众情绪"
+        ],
+        "category": [
+          "历史",
+          "时政",
+          "爱国主义"
+        ],
+        "reason": "内容具有极高的情感共鸣和时代价值，权威发布增强了可信度，金句本身极具传播力，容易引发集体记忆和民族自豪感，符合平台正能量内容推荐机制。"
+      }
+    },
+    {
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
+      "authorId": "3xa85jgbhtm6hic",
+      "publishTime": "2026-05-09T07:36:21.512Z",
+      "likeCount": 21826,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 487781,
+      "collectedAt": "2026-05-25T10:50:12.057Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用‘定性指控+后果归因’结构，直接点名‘台独’为‘罪魁祸首’，立场鲜明、定性严厉，具有强烈的冲突性和话题性，能迅速抓住用户注意力并引发立场共鸣或讨论。",
+        "hotFactors": [
+          "官方权威信源（国防部发布）",
+          "涉及国家主权与领土完整的核心议题",
+          "标题措辞强硬，立场鲜明，易引发强烈情绪共鸣"
+        ],
+        "category": [
+          "时政",
+          "军事",
+          "爱国主义"
+        ],
+        "reason": "由国防部官方账号发布，议题敏感且重要，标题直接、有力，符合平台主流价值观，极易引发广泛共鸣、讨论和传播，具备高爆发潜力。"
+      }
+    },
+    {
+      "videoId": "3xth33y475bs5a2",
+      "title": " @漫剧大全(O3xmsyspndc9t5pm) 的精彩视频",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xth33y475bs5a2",
+      "authorName": "漫剧大全",
+      "authorUrl": "https://www.kuaishou.com/profile/3xmsyspndc9t5pm",
+      "authorId": "3xmsyspndc9t5pm",
+      "publishTime": "2026-04-10T10:01:13.800Z",
+      "likeCount": 53839,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 9205190,
+      "collectedAt": "2026-05-25T10:50:12.057Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用@账号+“的精彩视频”的通用模板，缺乏具体信息，但“漫剧大全”账号名暗示内容为动漫/漫画合集，可能吸引特定受众。",
+        "hotFactors": [
+          "动漫/漫画题材受众广泛",
+          "合集类内容满足用户“一站式”观看需求",
+          "账号名“漫剧大全”具有垂直领域辨识度"
+        ],
+        "category": [
+          "动漫",
+          "二次元",
+          "影视剪辑"
+        ],
+        "reason": "点赞量5.4万远高于评论和分享（可能为0或未显示），表明内容本身吸引力强，但互动性不足。动漫合集类内容在快手有稳定受众，若内容质量高或涉及热门IP，易引发传播。"
       }
     },
     {
@@ -55,8 +172,8 @@
       "likeCount": 29537,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 641143,
-      "collectedAt": "2026-05-25T10:40:12.300Z",
+      "viewCount": 641188,
+      "collectedAt": "2026-05-25T10:50:12.057Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -66,101 +183,22 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 65,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“地域标签+童年回忆+超能力”的结构，精准定位湖南用户群体，利用“超能力”一词制造悬念和趣味性，引发好奇和共鸣。",
+        "titleAnalysis": "标题采用“地域+童年记忆+超能力”的悬念式结构，通过“超能力”一词制造反差和好奇，精准定位湖南本地用户及对童年话题感兴趣的泛人群，易于引发共鸣和互动。",
         "hotFactors": [
-          "强烈的地域认同感",
-          "童年怀旧情绪",
-          "“超能力”概念的新奇包装"
+          "地域精准共鸣（湖南）",
+          "童年怀旧情感",
+          "悬念式标题（超能力）",
+          "强互动引导（评论区分享童年故事）"
         ],
         "category": [
-          "生活",
+          "生活记录",
           "地域文化",
-          "怀旧"
+          "怀旧情感"
         ],
-        "reason": "标题精准切入地域和童年怀旧两大流量密码，易引发特定群体共鸣和互动，数据表现良好，具备持续发酵潜力。"
-      }
-    },
-    {
-      "videoId": "3xq2mrgcxfdct5e",
-      "title": "#喜爱度激励计划 #快手乡村超级碗 #100个家乡舞台 \n @快手颜值(O3x9szgbfvmb2h92) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm) @唱作音乐人《付飞社》(O3xtbqgvpkurvnca)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xq2mrgcxfdct5e",
-      "authorName": "析澳农村娃唱跳舞",
-      "authorUrl": "https://www.kuaishou.com/profile/3x6jngx5rjy38iw",
-      "authorId": "3x6jngx5rjy38iw",
-      "publishTime": "2026-05-12T08:49:52.683Z",
-      "likeCount": 1558,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 47679,
-      "collectedAt": "2026-05-25T10:40:12.300Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“平台活动标签+地域文化标签+明星/达人联动”的复合结构。#喜爱度激励计划、#快手乡村超级碗、#100个家乡舞台 三个标签精准定位平台扶持方向、热门赛事和地域文化主题，形成流量叠加。@多位官方账号和知名唱作人，旨在借助其影响力进行初始曝光和背书。",
-        "hotFactors": [
-          "平台官方活动流量扶持（喜爱度激励计划、乡村超级碗）",
-          "地域文化共鸣与乡土情怀（农村娃、家乡舞台）",
-          "明星/达人联动引流（@付飞社等）",
-          "“唱跳舞”形式结合，内容呈现丰富"
-        ],
-        "category": [
-          "乡村生活",
-          "才艺展示",
-          "音乐舞蹈",
-          "平台活动"
-        ],
-        "reason": "视频内容契合快手平台对乡村、才艺、正能量内容的扶持导向，且通过标签和@联动获得了初始流量入口。点赞量尚可但互动（评论、分享）为零，表明内容可能已获得初步曝光但尚未引发深度互动或破圈。若内容质量过硬，有借助活动势能上升的趋势。"
-      }
-    },
-    {
-      "videoId": "3xqfa7sdj9pzyxw",
-      "title": "蛋仔派对真人版来啦",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xqfa7sdj9pzyxw",
-      "authorName": "蒙阿凡",
-      "authorUrl": "https://www.kuaishou.com/profile/3xfw37ve5msw22m",
-      "authorId": "3xfw37ve5msw22m",
-      "publishTime": "2026-05-09T14:47:11.920Z",
-      "likeCount": 13596,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 582714,
-      "collectedAt": "2026-05-25T10:40:12.300Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“IP名称+真人版”结构，直接关联热门游戏《蛋仔派对》，利用游戏本身的庞大玩家基数和情感连接，降低理解门槛，激发好奇心和观看欲望。",
-        "hotFactors": [
-          "热门游戏IP衍生内容",
-          "真人化演绎的视觉反差与趣味性",
-          "精准触达游戏核心用户群体"
-        ],
-        "category": [
-          "游戏衍生",
-          "真人演绎",
-          "趣味短剧"
-        ],
-        "reason": "标题精准绑定高热度游戏IP，内容形式（真人版）易产生新奇感和传播点，初始点赞数据良好，具备在游戏粉丝圈层内快速扩散的潜力。"
+        "reason": "标题精准触发地域和童年双重情感共鸣，具备强互动潜力，但数据中评论和分享为0，可能处于流量测试初期或数据未更新，若内容质量高，有较大上升空间。"
       }
     }
   ]
