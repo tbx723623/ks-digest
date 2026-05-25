@@ -1,178 +1,175 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T17:13:02.156Z",
+  "generatedAt": "2026-05-25T17:22:50.367Z",
   "date": "2026-05-25",
-  "count": 12,
+  "count": 11,
   "items": [
-    {
-      "videoId": "3xwryx9iibcyx59",
-      "title": "请停留3秒，为他献花！2011年，18岁英雄姚元军抓毒贩时坠江至死未松手，遗体被发现时，他双臂仍维持着锁扣毒贩的姿势！",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwryx9iibcyx59",
-      "authorName": "大象新闻",
-      "likeCount": 33912,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "共情",
-      "category": [
-        "正能量",
-        "英雄事迹",
-        "社会新闻",
-        "爱国主义"
-      ],
-      "estimatedTime": "正在爆发"
-    },
     {
       "videoId": "3xpgtbzcea8x4zk",
       "title": "“台独”是破坏台海和平的罪魁祸首",
       "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
       "authorName": "国防部发布",
-      "likeCount": 21988,
+      "likeCount": 21989,
       "commentCount": 0,
       "explosionRate": 85,
-      "trend": "stable",
+      "trend": "rising",
       "hookType": "冲突",
       "category": [
         "时政",
         "军事",
-        "爱国"
+        "爱国主义"
       ],
       "estimatedTime": "正在爆发"
     },
     {
-      "videoId": "3xa84f9u2xe529m",
-      "title": "#喜爱度激励计划 #俏黄蓉翻身 #主播评评理 @快手热点 @快手主持人 @俏黄蓉 ⚜️",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xa84f9u2xe529m",
-      "authorName": "晓晓说",
-      "likeCount": 11797,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "主播互动",
-        "平台热点",
-        "情感/剧情"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xubhfuckjikp42",
-      "title": "90岁老人去吃午饭，被女店主骗了5年！ #感动  #感恩  #正能量 #喜爱度激励计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xubhfuckjikp42",
-      "authorName": "主持人嘉文",
-      "likeCount": 3674,
+      "videoId": "3xgicqr3xsnyr36",
+      "title": "县城月薪两三千，麻将馆却天天爆满 #经济 #文娱百科明日之星 #老铁知识百科  #知识播种计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgicqr3xsnyr36",
+      "authorName": "臧其超商业心经",
+      "likeCount": 7928,
       "commentCount": 0,
       "explosionRate": 75,
-      "trend": "rising",
-      "hookType": "反转",
+      "trend": "stable",
+      "hookType": "冲突",
       "category": [
-        "社会正能量",
-        "情感故事",
-        "暖心纪实"
+        "社会观察",
+        "知识科普",
+        "下沉市场"
       ],
       "estimatedTime": "1-2小时"
     },
     {
-      "videoId": "3xhqjyj5spjf5ci",
-      "title": "存款40万能在大街上横着走吗？ #老铁知识百科 #知识播种计划 #老铁爱搜计划 #快手老铁帮帮团",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xhqjyj5spjf5ci",
-      "authorName": "敬博老师",
-      "likeCount": 5933,
+      "videoId": "3xfatberxdp4zcu",
+      "title": "用苏尔南怒嚎，解锁超低成本刷刀技巧！ #和平精英地铁逃生 #快手游戏给我流量 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xfatberxdp4zcu",
+      "authorName": "老橙子（地铁收刀）",
+      "likeCount": 13066,
       "commentCount": 0,
       "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "悬念",
+      "trend": "rising",
+      "hookType": "爽点",
       "category": [
-        "生活知识",
-        "财经科普",
-        "社会话题"
+        "游戏攻略",
+        "手游技巧"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xyjdwehqgj78fg",
-      "title": "湖南妈妈的超能力 #湖南 #真实",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xyjdwehqgj78fg",
-      "authorName": "邬天宇",
-      "likeCount": 13740,
+      "videoId": "3xdx6n8n9ce6vsc",
+      "title": "#龙虾烧烤店下酒菜 #白灼鱿鱼 #白灼鱿鱼做法 #白灼鱿鱼做法流程",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xdx6n8n9ce6vsc",
+      "authorName": "虾先生",
+      "likeCount": 27495,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "爽点",
+      "category": [
+        "美食教程",
+        "家常菜",
+        "海鲜"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xkkxjtuazi6j6s",
+      "title": "挑战拿黑市刷的，单四苏尔南赚千万（十）！ #和平精英地铁逃生  #地铁逃生炽焰灼心 #大老虎和平精英 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xkkxjtuazi6j6s",
+      "authorName": "TJ（和平精英）",
+      "likeCount": 23432,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "悬念/爽点",
+      "category": [
+        "游戏实况",
+        "挑战/冒险",
+        "垂直领域内容"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3x548jew68ciwky",
+      "title": "怎么办，两个都要外婆 #宝妈 #二胎家庭 #搞笑 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x548jew68ciwky",
+      "authorName": "小老师呀",
+      "likeCount": 7388,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "家庭生活",
-        "情感共鸣",
-        "地域文化"
+        "母婴育儿",
+        "家庭搞笑",
+        "日常生活"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x2e5du94ya6tme",
-      "title": "大合影结束后大头下楼梯都得人搀扶，为了夺回这个冠军他真的拼了命啊#王楚钦",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x2e5du94ya6tme",
-      "authorName": "多一度体育",
-      "likeCount": 29815,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "体育",
-        "明星八卦",
-        "正能量"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xs8gdkrtai7k6s",
-      "title": "“布朗尼真的是靠爹上位吗？本赛季他的进步到底有多大？”#布朗尼 #詹姆斯 #热血篮球季 #发NBA视频分现金",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xs8gdkrtai7k6s",
-      "authorName": "科比档案馆（收徒）",
-      "likeCount": 18727,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "体育",
-        "NBA",
-        "人物争议"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xzqur7qam7b2si",
-      "title": "偶尔留点时间，在自己喜欢的状态里，努力，尽力，随意。#秀出你的民族范儿 #民族舞蹈舞出民族特色 #春熙路街拍",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xzqur7qam7b2si",
-      "authorName": "春熙路街拍",
-      "likeCount": 4247,
+      "videoId": "3xxc6e8ncym8jrm",
+      "title": "不必远行，家门口的油菜花，就是整个春天。#油菜花",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xxc6e8ncym8jrm",
+      "authorName": "小不点（笑笑就开心）",
+      "likeCount": 14562,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
         "生活记录",
-        "舞蹈",
-        "街拍",
-        "民族文化"
+        "自然风光",
+        "情感治愈"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x4ei4qffmvegxs",
-      "title": "今天可能位置没选对没钓到龙虾，今天买了点做了个麻辣龙虾看着还不错吧，你们老家河里能掉龙虾了没？#农村守护人 #三农 #记录真实生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4ei4qffmvegxs",
-      "authorName": "李会儿、、",
-      "likeCount": 7416,
+      "videoId": "3xxjtby3euzsi84",
+      "title": "深情从来都不是一时兴起 而是岁岁年年的坚守与笃定... #民族风情 #文化传承 #春熙路街拍 #少数民族风情",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xxjtby3euzsi84",
+      "authorName": "春熙路街拍",
+      "likeCount": 2819,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "三农",
-        "美食",
-        "生活记录"
+        "文化纪实",
+        "街拍",
+        "民族风情"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xvkrjekjy5yrfa",
+      "title": "#电风扇 #电风扇维修 #家电维修",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xvkrjekjy5yrfa",
+      "authorName": "一招哥",
+      "likeCount": 9274,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "爽点",
+      "category": [
+        "生活技巧",
+        "家电维修",
+        "实用教程"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xamn33qhbqwa3i",
+      "title": "#父女俩的欢乐时光 #骗你生女儿",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xamn33qhbqwa3i",
+      "authorName": "小金果宝贝",
+      "likeCount": 1821,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "亲子",
+        "家庭生活",
+        "萌娃"
       ],
       "estimatedTime": "2-4小时"
     },
@@ -185,28 +182,11 @@
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
-      "hookType": "冲突",
+      "hookType": "悬念",
       "category": [
         "汽车知识",
         "驾驶技巧",
         "生活实用"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x39fjfd37uvz5e",
-      "title": "重庆最偏僻的一座地铁站，四周几公里全是田地和山沟，极大方便了附近村民出行！",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x39fjfd37uvz5e",
-      "authorName": "枫哥旅行记",
-      "likeCount": 2455,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "反转",
-      "category": [
-        "旅行探索",
-        "社会纪实",
-        "正能量"
       ],
       "estimatedTime": "2-4小时"
     }

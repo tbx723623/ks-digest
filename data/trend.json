@@ -1,66 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T17:13:02.155Z",
+  "fetchedAt": "2026-05-25T17:22:50.365Z",
   "date": "2026-05-25",
-  "count": 3,
+  "count": 2,
   "items": [
     {
-      "videoId": "3xwryx9iibcyx59",
-      "title": "请停留3秒，为他献花！2011年，18岁英雄姚元军抓毒贩时坠江至死未松手，遗体被发现时，他双臂仍维持着锁扣毒贩的姿势！",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwryx9iibcyx59",
-      "authorName": "大象新闻",
-      "authorUrl": "https://www.kuaishou.com/profile/3xxdnfw963m6abu",
-      "authorId": "3xxdnfw963m6abu",
-      "publishTime": "2026-04-03T12:08:17.878Z",
-      "likeCount": 33912,
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
+      "authorId": "3xa85jgbhtm6hic",
+      "publishTime": "2026-05-09T07:36:21.512Z",
+      "likeCount": 21989,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 261546,
-      "collectedAt": "2026-05-25T17:10:11.812Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 80,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": [
-          "点赞率异常偏高"
-        ]
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“祈使句+数字+英雄事迹+细节特写”结构。开头“请停留3秒”直接与用户互动，降低划走率；“2011年，18岁”用具体时间和年龄强化真实感与悲剧性；“坠江至死未松手”和“遗体双臂仍维持锁扣姿势”是极具画面感和冲击力的细节，将英雄的坚毅与牺牲精神具象化，极易引发强烈的情感共鸣。",
-        "hotFactors": [
-          "英雄事迹与牺牲精神",
-          "极具冲击力的细节描写",
-          "官媒（大象新闻发布）背书增强可信度",
-          "符合主流价值观与爱国主义情感",
-          "互动式开头提升完播率"
-        ],
-        "category": [
-          "正能量",
-          "英雄事迹",
-          "社会新闻",
-          "爱国主义"
-        ],
-        "reason": "内容为真实英雄事迹，情感冲击力极强，细节描写极具画面感，能瞬间激发用户的敬佩、感动与爱国情怀。官媒发布增强了权威性。标题结构设计精巧，互动性强，符合短视频平台的传播规律，极易引发点赞、评论和分享。"
-      }
-    },
-    {
-      "videoId": "3xa84f9u2xe529m",
-      "title": "#喜爱度激励计划 #俏黄蓉翻身 #主播评评理 @快手热点 @快手主持人 @俏黄蓉 ⚜️",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xa84f9u2xe529m",
-      "authorName": "晓晓说",
-      "authorUrl": "https://www.kuaishou.com/profile/3x28w3che86fmim",
-      "authorId": "3x28w3che86fmim",
-      "publishTime": "2026-04-30T04:48:47.874Z",
-      "likeCount": 11797,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 714261,
-      "collectedAt": "2026-05-25T17:10:11.813Z",
+      "viewCount": 495618,
+      "collectedAt": "2026-05-25T17:20:11.988Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -73,34 +29,33 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用“平台活动+热点事件+主播互动+官方引流”的复合结构。#喜爱度激励计划 和 @快手热点 @快手主持人 是平台流量入口和活动标签；#俏黄蓉翻身 是核心事件，暗示主播有逆袭或反转故事；@俏黄蓉 是事件当事人，直接关联。整体结构信息密度高，旨在同时吸引活动流量、热点关注和粉丝互动。",
+        "titleAnalysis": "标题采用“定性指控+后果归因”结构，直接点明“台独”为破坏和平的“罪魁祸首”，立场鲜明、结论强烈，具有高度的冲突性和话题性。",
         "hotFactors": [
-          "平台活动加持（喜爱度激励计划）",
-          "强冲突/反转事件（俏黄蓉翻身）",
-          "官方流量入口（@快手热点 @快手主持人）",
-          "主播与粉丝的互动诉求（评评理）"
+          "官方权威信源（国防部发布）",
+          "涉及国家主权与领土完整的核心议题",
+          "立场鲜明，易引发强烈情感共鸣与讨论"
         ],
         "category": [
-          "主播互动",
-          "平台热点",
-          "情感/剧情"
+          "时政",
+          "军事",
+          "爱国主义"
         ],
-        "reason": "标题精准结合平台官方活动与热点事件，利用“翻身”制造冲突悬念，并通过@官方账号和当事人最大化引流。点赞量已破万，但评论和分享为0，表明视频可能处于流量爆发初期或数据存在异常，但其结构具备极高的爆款潜力。"
+        "reason": "议题重大、立场鲜明、信源权威，极易在特定受众中引发广泛共鸣与传播，符合平台正能量内容推荐逻辑。"
       }
     },
     {
-      "videoId": "3xubhfuckjikp42",
-      "title": "90岁老人去吃午饭，被女店主骗了5年！ #感动  #感恩  #正能量 #喜爱度激励计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xubhfuckjikp42",
-      "authorName": "主持人嘉文",
-      "authorUrl": "https://www.kuaishou.com/profile/3xj72yai5mqsgc2",
-      "authorId": "3xj72yai5mqsgc2",
-      "publishTime": "2026-04-07T08:01:57.838Z",
-      "likeCount": 3674,
+      "videoId": "3xfatberxdp4zcu",
+      "title": "用苏尔南怒嚎，解锁超低成本刷刀技巧！ #和平精英地铁逃生 #快手游戏给我流量 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xfatberxdp4zcu",
+      "authorName": "老橙子（地铁收刀）",
+      "authorUrl": "https://www.kuaishou.com/profile/3xdiiak5wv3kase",
+      "authorId": "3xdiiak5wv3kase",
+      "publishTime": "2026-03-11T09:53:59.502Z",
+      "likeCount": 13066,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 129448,
-      "collectedAt": "2026-05-25T17:10:11.813Z",
+      "viewCount": 487332,
+      "collectedAt": "2026-05-25T17:20:11.987Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -110,22 +65,20 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 65,
         "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用“数字+反常识事件+情感标签”结构。‘90岁老人’引发关注与同情，‘被女店主骗了5年’制造强烈悬念与冲突（‘骗’字为负面词，但结合标签暗示反转），‘#感动 #感恩 #正能量’明确情感导向，引导观众预期为暖心故事。",
+        "hookType": "爽点",
+        "titleAnalysis": "标题采用“工具/方法+效果承诺”结构，直接点明核心价值（低成本刷刀），并关联热门游戏IP（和平精英）和平台流量话题（快手游戏给我流量），精准吸引目标玩家。",
         "hotFactors": [
-          "年龄反差（90岁老人）",
-          "悬念与反转（‘骗’字的负面预期与正能量结局）",
-          "强情感共鸣（孝道、善良、社会温暖）",
-          "正能量标签符合平台推荐机制"
+          "实用技巧（低成本刷刀）",
+          "热门游戏IP（和平精英地铁逃生）",
+          "平台流量扶持标签"
         ],
         "category": [
-          "社会正能量",
-          "情感故事",
-          "暖心纪实"
+          "游戏攻略",
+          "手游技巧"
         ],
-        "reason": "标题悬念感强，情感标签明确，符合快手正能量内容生态。‘骗’字制造冲突但指向暖心反转，易引发好奇与共情，具备爆款潜力。但评论和分享量为0，可能处于流量测试初期或数据未更新，趋势待观察。"
+        "reason": "内容实用性强，切中玩家痛点（低成本），结合热门游戏和平台流量标签，易吸引精准用户。但评论和分享数据为0，可能处于流量测试初期或互动引导不足，潜力中等偏上。"
       }
     }
   ]
