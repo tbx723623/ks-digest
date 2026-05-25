@@ -1,311 +1,225 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T10:12:43.334Z",
+  "generatedAt": "2026-05-25T10:23:01.212Z",
   "date": "2026-05-25",
-  "count": 18,
+  "count": 13,
   "items": [
     {
-      "videoId": "3xer65fu3mcntka",
-      "title": "当科目三有百吨王护航时 #反转 #爽文 #真实事件改编 #喜爱度激励计划",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xer65fu3mcntka",
-      "authorName": "我叫达芬桐",
-      "likeCount": 1501909,
-      "commentCount": 0,
-      "explosionRate": 92,
-      "trend": "rising",
-      "hookType": "反转",
-      "category": [
-        "生活/搞笑",
-        "剧情/反转",
-        "正能量/励志"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3x5ffn9khewepu2",
-      "title": "老吃家这波没有技巧全是经验！！！ #搞笑 #老吃家 #美食 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x5ffn9khewepu2",
-      "authorName": "青岛大姨张大霞",
-      "likeCount": 294994,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "反转",
-      "category": [
-        "美食",
-        "搞笑",
-        "生活技巧"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3x8pcjtknqdrnru",
-      "title": "教室有个小卖部。#搞笑 #fyp #来福来福 #马上开演",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x8pcjtknqdrnru",
-      "authorName": "来福来福",
-      "likeCount": 743221,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "反转",
-      "category": [
-        "校园搞笑",
-        "生活娱乐"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xfnf6crhn73456",
-      "title": "饭店的寒假工，打包盒收费",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xfnf6crhn73456",
-      "authorName": "周小闹",
-      "likeCount": 1888700,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "生活记录",
-        "社会热点",
-        "职场/兼职"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3x4qw8e5i2b5dqi",
-      "title": "教练的阴谋#体育生 #体考铁定行 #特步两千公里5代 #两千公里5代情人节限定配色",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4qw8e5i2b5dqi",
-      "authorName": "一百天一级教练",
-      "likeCount": 293320,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "悬念",
-      "category": [
-        "体育",
-        "校园",
-        "运动装备",
-        "剧情/段子"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xgs7sw5rr69z82",
-      "title": "十瓶饮料喝完这下变成小糖人了#孙子逊 #搞笑 #喜爱度激励计划",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xgs7sw5rr69z82",
-      "authorName": "就想挨打",
-      "likeCount": 211507,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "反转",
-      "category": [
-        "搞笑",
-        "生活",
-        "挑战"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xwkimsh39q2s8w",
-      "title": "这待遇差距太大了！",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwkimsh39q2s8w",
-      "authorName": "疯狂峻熙哥",
-      "likeCount": 57020,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "社会观察",
-        "情感共鸣",
-        "生活对比"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3x586h6hq2isrd2",
-      "title": "选是你选的，你还不乐意了#兽装 #快手二次元春日派对 #快手漫展大舞台 #看漫展上快手",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x586h6hq2isrd2",
-      "authorName": "次元羊崽",
-      "likeCount": 143134,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "二次元",
-        "兽装",
-        "漫展"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xnudiqptdf3um6",
-      "title": "#生存",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xnudiqptdf3um6",
-      "authorName": "小希的日常",
-      "likeCount": 44371,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "共情",
-      "category": [
-        "生活记录",
-        "情感共鸣",
-        "励志"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xr59nuz2sg7hp4",
-      "title": "美女竟然利用废弃掩体打造临时居所，成品简直太惊艳了！ #荒野建造  #创意手工 #手工diy  #老铁知识百科",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xr59nuz2sg7hp4",
-      "authorName": "小莉创意发明",
-      "likeCount": 27886,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "反转",
-      "category": [
-        "户外生存",
-        "手工改造",
-        "生活技巧"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xiwmvz4am3i9gm",
-      "title": "央视兄弟带着二人一起传菜了#餐饮  #内容过于真实  #平衡车 #短视频创业 @快手星火计划(O3xr2fsn23y9qtkw) @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xiwmvz4am3i9gm",
-      "authorName": "特味村瑞园部长",
-      "likeCount": 41706,
+      "videoId": "3x6r3ry5wz3ggy6",
+      "title": "全国妈妈的统一夜晚…………到底为什么小孩睡觉会到处滚 #人类幼崽的迷惑行为 #宝宝睡觉 #带娃日常 #人类幼崽",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6r3ry5wz3ggy6",
+      "authorName": "小树树",
+      "likeCount": 5258,
       "commentCount": 0,
       "explosionRate": 75,
       "trend": "rising",
-      "hookType": "反转",
+      "hookType": "共情",
       "category": [
-        "餐饮行业",
-        "职业反差",
-        "趣味短剧"
+        "母婴育儿",
+        "生活日常",
+        "搞笑萌娃"
       ],
       "estimatedTime": "1-2小时"
     },
     {
-      "videoId": "3x7hq537c3uwgys",
-      "title": "家里真换沙发了，三只戏精鹦鹉继续配合的日常！尤其最后一只！😂😂😂#搞笑萌宠 #萌宠 #家有萌宠 #鹦鹉",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x7hq537c3uwgys",
-      "authorName": "招财旺财来财日常",
-      "likeCount": 60603,
+      "videoId": "3xies8kxwbkjj64",
+      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
+      "authorName": "甜吖",
+      "likeCount": 124479,
       "commentCount": 0,
-      "explosionRate": 72,
+      "explosionRate": 65,
       "trend": "rising",
-      "hookType": "反转",
+      "hookType": "共情",
       "category": [
-        "搞笑",
-        "萌宠",
-        "宠物日常"
+        "乡村生活",
+        "节日热点",
+        "情感共鸣"
       ],
-      "estimatedTime": "1-2小时"
+      "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x72jkgswnmhtcq",
-      "title": "原来是卡丁车啊 #孙小伟 #家庭",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x72jkgswnmhtcq",
-      "authorName": "孙小伟",
-      "likeCount": 44618,
+      "videoId": "3xhqjyj5spjf5ci",
+      "title": "存款40万能在大街上横着走吗？ #老铁知识百科 #知识播种计划 #老铁爱搜计划 #快手老铁帮帮团",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xhqjyj5spjf5ci",
+      "authorName": "敬博老师",
+      "likeCount": 5919,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
-      "hookType": "反转",
-      "category": [
-        "家庭生活",
-        "搞笑剧情"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xgz47ha532d2h2",
-      "title": "二愣子吃猪舌头，嘉豪要求他回学校 #喜爱度激励计划 #搞笑剧情 #校园短剧",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xgz47ha532d2h2",
-      "authorName": "老蔫的一天",
-      "likeCount": 46392,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "搞笑",
-        "校园",
-        "剧情短剧"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xws3ek752nisw2",
-      "title": "天赋哥能跑赢王鹏吗？ #苏炳减 #威量 #体育生",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xws3ek752nisw2",
-      "authorName": "苏饼减（自强不息）",
-      "likeCount": 8822,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "rising",
       "hookType": "悬念",
       "category": [
-        "体育",
-        "田径",
-        "校园"
+        "财经知识",
+        "生活百科",
+        "社会话题"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x4sh34qqtj5fn4",
-      "title": "不到黄河心不死，我非和你上去过！#美女#河南话#搞笑视频",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4sh34qqtj5fn4",
-      "authorName": "老普追爱记",
-      "likeCount": 18006,
+      "videoId": "3xyjdwehqgj78fg",
+      "title": "湖南妈妈的超能力 #湖南 #真实",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xyjdwehqgj78fg",
+      "authorName": "邬天宇",
+      "likeCount": 13679,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "rising",
+      "hookType": "共情",
+      "category": [
+        "家庭生活",
+        "情感共鸣",
+        "地域文化"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xyqjhvtzweik84",
+      "title": "是谁和我说零号大坝会出手机的！！！ #幸福乡村春耕季 #花式过五一 #三角洲 #三角洲行动  @马大哈奇遇记(O3xryu36qu4xjmvw) ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xyqjhvtzweik84",
+      "authorName": "黑大帅历险记",
+      "likeCount": 11056,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "冲突",
       "category": [
-        "搞笑",
-        "方言剧情",
-        "情感冲突"
+        "游戏",
+        "生活",
+        "节日"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x87rr3y7x2mry2",
-      "title": "夫妻没有隔夜仇出现问题我们要勇敢承认错误，这样日子才会越过越好 …… #记录我的农村生活 #内容过于真实 #夫妻日常 #喜爱度激励计划 @快手热点(O3xddgkd5fav5if9)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x87rr3y7x2mry2",
-      "authorName": "忆乡人小伟",
-      "likeCount": 16712,
+      "videoId": "3xwziwgmrimtgbw",
+      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
+      "authorName": "远嫁燕子的一家",
+      "likeCount": 9403,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "美食",
+        "家庭生活",
+        "地域文化"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xsdvktawhfnia2",
+      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
+      "authorName": "周沫讲理财",
+      "likeCount": 29578,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "rising",
+      "hookType": "冲突",
+      "category": [
+        "社会热点",
+        "生活技巧",
+        "法律维权"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xw28tkw5gvfwh6",
+      "title": "#快手优创计划 老爷子跳舞闺女助阵 #爷俩组合 #江湖夜雨十年灯",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xw28tkw5gvfwh6",
+      "authorName": "曳舞布大叔",
+      "likeCount": 3627,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "情感生活",
-        "农村日常",
-        "正能量"
+        "生活",
+        "亲情",
+        "舞蹈"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xs946hfqznjyug",
-      "title": "爱出者爱返，福往者福来，善良需要被传递，也需要得到回报 #正能量 #短剧 #喜爱度激励计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xs946hfqznjyug",
-      "authorName": "大朋",
-      "likeCount": 12031,
+      "videoId": "3x7kvwxf3imie62",
+      "title": "经典老歌童声版，一开口就被惊艳到了～ #少年壮志不言愁 #童声翻唱 #小小少年大志向 #面妹孔佳奇",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x7kvwxf3imie62",
+      "authorName": "面妹《孔佳奇》",
+      "likeCount": 2973,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "正能量",
-        "情感短剧",
-        "社会话题"
+        "音乐翻唱",
+        "亲子/童趣"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xw3wf9zzfe5gue",
+      "title": "我真的是多嘴呀～  #喜爱度激励计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xw3wf9zzfe5gue",
+      "authorName": "颜辉来了‼️",
+      "likeCount": 12192,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "生活日常",
+        "情感共鸣"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xvm6ddq83bcbpi",
+      "title": "苦笋上市春天的味道来了，阿米做苦笋烧黄鳝，脱骨软烂巴适的板 #美食分享 #美食教程",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xvm6ddq83bcbpi",
+      "authorName": "美食米阿米",
+      "likeCount": 5711,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "美食教程",
+        "地方特色美食",
+        "时令美食"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3x5tqzyxxmh5h6y",
+      "title": "今天捡了个乡音，买了三条大鲢鱼，拿一条整个青花椒味的！麻麻辣辣，鱼肉嫩滑，一口下去太过瘾了！",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x5tqzyxxmh5h6y",
+      "authorName": "乡村美食炊二锅",
+      "likeCount": 6620,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "爽点",
+      "category": [
+        "乡村美食",
+        "美食制作",
+        "吃播"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xv55dfrvwcv38c",
+      "title": "儿子主动买鱼学做菜，手把手教他永定椒麻鱼，这是独属于母子的厨房时光~ #喜爱度激励计划 #幸福乡村春耕季 #美味家常菜记录我的生活 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xv55dfrvwcv38c",
+      "authorName": "伍大姐",
+      "likeCount": 1998,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "美食制作",
+        "家庭生活",
+        "乡村纪实"
       ],
       "estimatedTime": "2-4小时"
     }
