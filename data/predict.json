@@ -1,211 +1,91 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T08:33:27.831Z",
+  "generatedAt": "2026-05-25T08:43:34.457Z",
   "date": "2026-05-25",
-  "count": 12,
+  "count": 5,
   "items": [
     {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "likeCount": 21755,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "时政",
-        "军事",
-        "爱国"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xe8dsk3pwdzkue",
-      "title": "婚前隐瞒的秘密（1）\r\n为了嫁给爱情 女子辞去北京工作\r\n婚后生下龙凤胎 男方却不管不问\r\n女子：我放弃一切 他竟提出离婚！\r\n母亲：我女儿哭到崩溃 跟疯了一样！ #情感 #夫妻",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xe8dsk3pwdzkue",
-      "authorName": "百姓调解",
-      "likeCount": 1793,
-      "commentCount": 0,
-      "explosionRate": 75,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "情感",
-        "家庭伦理",
-        "社会纪实"
-      ],
-      "estimatedTime": "1-2小时"
-    },
-    {
-      "videoId": "3xwziwgmrimtgbw",
-      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
-      "authorName": "远嫁燕子的一家",
-      "likeCount": 9381,
-      "commentCount": 0,
-      "explosionRate": 72,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "美食",
-        "家庭生活",
-        "情感",
-        "地域文化"
-      ],
-      "estimatedTime": "1-2小时"
-    },
-    {
-      "videoId": "3xfzgd692x6seam",
-      "title": "#湖人再胜火箭  还没老！詹姆斯本场28分8篮板7助攻，还贡献了折叠背扣的表演，最后同样以一记暴扣终结比赛悬念🫡 #詹姆斯折叠背扣  ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xfzgd692x6seam",
-      "authorName": "洛杉矶湖人",
-      "likeCount": 2765,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "爽点",
-      "category": [
-        "体育",
-        "篮球",
-        "NBA"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xfgi7w35dwdb8g",
-      "title": "为什么你拼命运动还是瘦不下来？90%的人忽略了这条“胆经”！ #科普一下",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xfgi7w35dwdb8g",
-      "authorName": "北京卫视养生堂",
-      "likeCount": 3505,
+      "videoId": "3xfs7fursn7i3a2",
+      "title": "七十八十俩五十是什么意思？ #母女段子 #我的乡村生活",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xfs7fursn7i3a2",
+      "authorName": "十三🧜🏻♀️",
+      "likeCount": 3642,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "悬念",
       "category": [
-        "健康养生",
-        "减肥瘦身",
-        "中医科普"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xvkrjekjy5yrfa",
-      "title": "#电风扇 #电风扇维修 #家电维修",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xvkrjekjy5yrfa",
-      "authorName": "一招哥",
-      "likeCount": 9251,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "爽点",
-      "category": [
-        "生活技巧",
-        "家电维修",
-        "实用教程"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xth33y475bs5a2",
-      "title": " @漫剧大全(O3xmsyspndc9t5pm) 的精彩视频",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xth33y475bs5a2",
-      "authorName": "漫剧大全",
-      "likeCount": 53830,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "爽点",
-      "category": [
-        "动漫",
-        "二次元",
-        "短视频剧集"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xxkz9nenzbvk9k",
-      "title": "昨天发的库存 今天发个新鲜出炉的 #母女段子 #我的乡村生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xxkz9nenzbvk9k",
-      "authorName": "十三🧜🏻♀️",
-      "likeCount": 5424,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "家庭情感",
         "乡村生活",
+        "家庭情感",
         "搞笑段子"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xmcpkxkjdbv6dw",
-      "title": "自己动手做一根蜂蜡蜡烛!  #科普百科  #涨知识  #奇怪的知识增加了",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xmcpkxkjdbv6dw",
-      "authorName": "晓文科学世界",
+      "videoId": "3x94nuc5tepjtbq",
+      "title": "带着程程仔陪岳父大人过生日啦，祝岳父 生日快乐，岁岁常安康，福寿绵长～",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x94nuc5tepjtbq",
+      "authorName": "湖南张焱",
+      "likeCount": 10349,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "家庭生活",
+        "亲子日常",
+        "节日祝福"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xxqccka6gz36dg",
+      "title": "家常卤味火锅安排上，卤味吸满麻辣汤汁，越煮越香，约上三五好友吃一顿巴适得板",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xxqccka6gz36dg",
+      "authorName": "乡村美食炊二锅",
+      "likeCount": 5469,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "爽点",
+      "category": [
+        "美食",
+        "家常菜",
+        "火锅",
+        "社交聚餐"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xuth9q9pbiqs4k",
+      "title": "来怪蚌河捡河蚌，没想到彩色和紫色的宝珠这么大",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xuth9q9pbiqs4k",
+      "authorName": "捡蚌人",
       "likeCount": 1902,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "rising",
+      "hookType": "悬念",
+      "category": [
+        "户外探索",
+        "猎奇发现",
+        "解压内容"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xbd5jsqdtf46mu",
+      "title": " @指间播客(O3xj945sdc2sgid4) 的精彩视频",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xbd5jsqdtf46mu",
+      "authorName": "指间播客",
+      "likeCount": 46556,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "悬念",
       "category": [
-        "生活科普",
-        "手工DIY",
-        "知识分享"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xgciaghrfubyv4",
-      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
-      "authorName": "潘晓红律师",
-      "likeCount": 1529,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "法律科普",
-        "社会热点",
-        "婚恋情感"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xegeyir3e3cbsy",
-      "title": "女子称和丈夫结婚后，丈夫的亲戚频繁来借钱，丈夫总是爽快答应借出 #天津卫视  #爱情保卫战  #情感  #情侣",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xegeyir3e3cbsy",
-      "authorName": "天津卫视",
-      "likeCount": 1370,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "家庭伦理",
-        "情感关系",
-        "社会热点"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xsv9us5ervsrsu",
-      "title": "妻子委屈丈夫不体谅自己，丈夫回家就躺平不帮忙，还嫌弃家里不够整洁 #爱情保卫战 #情感 #情侣",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xsv9us5ervsrsu",
-      "authorName": "爱情保卫战",
-      "likeCount": 2438,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "情感",
-        "家庭关系",
-        "两性话题"
+        "播客/访谈",
+        "泛娱乐"
       ],
       "estimatedTime": "2-4小时"
     }

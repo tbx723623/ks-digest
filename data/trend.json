@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T08:33:27.830Z",
+  "fetchedAt": "2026-05-25T08:43:34.456Z",
   "date": "2026-05-25",
-  "count": 3,
+  "count": 1,
   "items": [
     {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
-      "authorId": "3xa85jgbhtm6hic",
-      "publishTime": "2026-05-09T07:36:21.512Z",
-      "likeCount": 21755,
+      "videoId": "3xuth9q9pbiqs4k",
+      "title": "来怪蚌河捡河蚌，没想到彩色和紫色的宝珠这么大",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xuth9q9pbiqs4k",
+      "authorName": "捡蚌人",
+      "authorUrl": "https://www.kuaishou.com/profile/3xktr2634u7m7my",
+      "authorId": "3xktr2634u7m7my",
+      "publishTime": "2026-05-14T09:23:11.423Z",
+      "likeCount": 1902,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 485763,
-      "collectedAt": "2026-05-25T08:30:12.587Z",
+      "viewCount": 146512,
+      "collectedAt": "2026-05-25T08:40:12.851Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,102 +26,21 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 85,
+        "explosionRate": 65,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用‘定性+归因’结构，直接点明核心矛盾（‘台独’）并将其定性为破坏和平的‘罪魁祸首’，立场鲜明，情绪强烈，具有明确的指向性和对抗性。",
+        "hookType": "悬念",
+        "titleAnalysis": "采用“地点+行动+意外发现”结构，前半句“来怪蚌河捡河蚌”交代背景和行动，后半句“没想到彩色和紫色的宝珠这么大”制造悬念和视觉冲击，符合短视频“先抑后扬”的叙事逻辑。",
         "hotFactors": [
-          "官方权威信源（国防部发布）",
-          "涉及国家主权与领土完整的核心议题",
-          "强烈的民族情感与爱国情绪共鸣",
-          "议题本身具有极高的社会关注度和争议性"
+          "视觉奇观（彩色/紫色宝珠）",
+          "意外收获的惊喜感",
+          "小众猎奇题材（捡河蚌）"
         ],
         "category": [
-          "时政",
-          "军事",
-          "爱国"
+          "户外探索",
+          "猎奇发现",
+          "解压内容"
         ],
-        "reason": "由最高军事权威机构发布，议题敏感且重大，极易引发广泛共鸣与讨论，符合平台正能量传播导向，具备极高的传播势能。"
-      }
-    },
-    {
-      "videoId": "3xe8dsk3pwdzkue",
-      "title": "婚前隐瞒的秘密（1）\r\n为了嫁给爱情 女子辞去北京工作\r\n婚后生下龙凤胎 男方却不管不问\r\n女子：我放弃一切 他竟提出离婚！\r\n母亲：我女儿哭到崩溃 跟疯了一样！ #情感 #夫妻",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xe8dsk3pwdzkue",
-      "authorName": "百姓调解",
-      "authorUrl": "https://www.kuaishou.com/profile/3xn4jg2tup8svwk",
-      "authorId": "3xn4jg2tup8svwk",
-      "publishTime": "2026-05-06T09:00:00.001Z",
-      "likeCount": 1793,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 337568,
-      "collectedAt": "2026-05-25T08:30:12.588Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 75,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“悬念+冲突+共情”三段式结构。第一句“婚前隐瞒的秘密（1）”制造悬念，吸引点击；中间部分用“辞职远嫁”与“丈夫不管”形成强烈冲突；结尾用母亲视角的哭诉强化情感共鸣，并使用标签引导流量。",
-        "hotFactors": [
-          "强冲突剧情（为爱牺牲 vs 惨遭抛弃）",
-          "情感共鸣（女性困境、母爱担忧）",
-          "悬念钩子（秘密是什么？后续如何？）",
-          "社会议题（婚姻责任、女性付出）"
-        ],
-        "category": [
-          "情感",
-          "家庭伦理",
-          "社会纪实"
-        ],
-        "reason": "内容精准击中快手核心用户的情感痛点，冲突强烈、代入感强，且系列标题（1）暗示后续，易引发追更。但评论和分享数据异常低，可能因发布时间短或数据未更新，若内容质量过关，爆发潜力较高。"
-      }
-    },
-    {
-      "videoId": "3xwziwgmrimtgbw",
-      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
-      "authorName": "远嫁燕子的一家",
-      "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
-      "authorId": "3xihaq7trzkx8v4",
-      "publishTime": "2026-05-18T05:51:48.643Z",
-      "likeCount": 9381,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 545330,
-      "collectedAt": "2026-05-25T08:30:12.587Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 72,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“地域+身份+反差行为”结构。核心是“云南老婆”与“猪头扣肉”的组合，前者暗示地域文化差异，后者是具体且略带猎奇感的烹饪行为，形成强烈的视觉和认知冲突点。标签#远嫁 #南北饮食大不同 #夫妻相处之道精准覆盖了情感、文化、生活三大流量赛道，能有效吸引特定兴趣人群。",
-        "hotFactors": [
-          "地域文化冲突（南北饮食差异）",
-          "家庭生活与夫妻关系的共情点",
-          "具体且略带猎奇感的烹饪内容（猪头扣肉）"
-        ],
-        "category": [
-          "美食",
-          "家庭生活",
-          "情感",
-          "地域文化"
-        ],
-        "reason": "标题精准切入“南北差异”和“远嫁”两大高流量情感与文化议题，通过具体食物（猪头扣肉）制造冲突感和好奇心。点赞量近万，但评论和分享为零，可能处于流量推荐初期或数据抓取异常，但其内容结构具备爆款潜力，易引发讨论和共鸣。"
+        "reason": "标题通过“没想到”制造强烈悬念，彩色宝珠的视觉元素易引发好奇和分享欲，但评论和分享数据为零可能表明内容或互动引导不足，存在爆发潜力但需观察后续数据。"
       }
     }
   ]

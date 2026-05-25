@@ -1,181 +1,22 @@
 {
   "source": "高爆率真实视频",
-  "fetchedAt": "2026-05-25T08:33:27.829Z",
+  "fetchedAt": "2026-05-25T08:43:34.455Z",
   "date": "2026-05-25",
-  "count": 12,
+  "count": 5,
   "items": [
     {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
-      "authorId": "3xa85jgbhtm6hic",
-      "publishTime": "2026-05-09T07:36:21.512Z",
-      "likeCount": 21755,
+      "videoId": "3xfs7fursn7i3a2",
+      "title": "七十八十俩五十是什么意思？ #母女段子 #我的乡村生活",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xfs7fursn7i3a2",
+      "authorName": "十三🧜🏻♀️",
+      "authorUrl": "https://www.kuaishou.com/profile/3xkagpbqtr8u924",
+      "authorId": "3xkagpbqtr8u924",
+      "publishTime": "2026-05-03T09:27:35.154Z",
+      "likeCount": 3642,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 485763,
-      "collectedAt": "2026-05-25T08:30:12.587Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用‘定性+归因’结构，直接点明核心矛盾（‘台独’）并将其定性为破坏和平的‘罪魁祸首’，立场鲜明，情绪强烈，具有明确的指向性和对抗性。",
-        "hotFactors": [
-          "官方权威信源（国防部发布）",
-          "涉及国家主权与领土完整的核心议题",
-          "强烈的民族情感与爱国情绪共鸣",
-          "议题本身具有极高的社会关注度和争议性"
-        ],
-        "category": [
-          "时政",
-          "军事",
-          "爱国"
-        ],
-        "reason": "由最高军事权威机构发布，议题敏感且重大，极易引发广泛共鸣与讨论，符合平台正能量传播导向，具备极高的传播势能。"
-      }
-    },
-    {
-      "videoId": "3xe8dsk3pwdzkue",
-      "title": "婚前隐瞒的秘密（1）\r\n为了嫁给爱情 女子辞去北京工作\r\n婚后生下龙凤胎 男方却不管不问\r\n女子：我放弃一切 他竟提出离婚！\r\n母亲：我女儿哭到崩溃 跟疯了一样！ #情感 #夫妻",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xe8dsk3pwdzkue",
-      "authorName": "百姓调解",
-      "authorUrl": "https://www.kuaishou.com/profile/3xn4jg2tup8svwk",
-      "authorId": "3xn4jg2tup8svwk",
-      "publishTime": "2026-05-06T09:00:00.001Z",
-      "likeCount": 1793,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 337568,
-      "collectedAt": "2026-05-25T08:30:12.588Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 75,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“悬念+冲突+共情”三段式结构。第一句“婚前隐瞒的秘密（1）”制造悬念，吸引点击；中间部分用“辞职远嫁”与“丈夫不管”形成强烈冲突；结尾用母亲视角的哭诉强化情感共鸣，并使用标签引导流量。",
-        "hotFactors": [
-          "强冲突剧情（为爱牺牲 vs 惨遭抛弃）",
-          "情感共鸣（女性困境、母爱担忧）",
-          "悬念钩子（秘密是什么？后续如何？）",
-          "社会议题（婚姻责任、女性付出）"
-        ],
-        "category": [
-          "情感",
-          "家庭伦理",
-          "社会纪实"
-        ],
-        "reason": "内容精准击中快手核心用户的情感痛点，冲突强烈、代入感强，且系列标题（1）暗示后续，易引发追更。但评论和分享数据异常低，可能因发布时间短或数据未更新，若内容质量过关，爆发潜力较高。"
-      }
-    },
-    {
-      "videoId": "3xwziwgmrimtgbw",
-      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
-      "authorName": "远嫁燕子的一家",
-      "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
-      "authorId": "3xihaq7trzkx8v4",
-      "publishTime": "2026-05-18T05:51:48.643Z",
-      "likeCount": 9381,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 545330,
-      "collectedAt": "2026-05-25T08:30:12.587Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 72,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“地域+身份+反差行为”结构。核心是“云南老婆”与“猪头扣肉”的组合，前者暗示地域文化差异，后者是具体且略带猎奇感的烹饪行为，形成强烈的视觉和认知冲突点。标签#远嫁 #南北饮食大不同 #夫妻相处之道精准覆盖了情感、文化、生活三大流量赛道，能有效吸引特定兴趣人群。",
-        "hotFactors": [
-          "地域文化冲突（南北饮食差异）",
-          "家庭生活与夫妻关系的共情点",
-          "具体且略带猎奇感的烹饪内容（猪头扣肉）"
-        ],
-        "category": [
-          "美食",
-          "家庭生活",
-          "情感",
-          "地域文化"
-        ],
-        "reason": "标题精准切入“南北差异”和“远嫁”两大高流量情感与文化议题，通过具体食物（猪头扣肉）制造冲突感和好奇心。点赞量近万，但评论和分享为零，可能处于流量推荐初期或数据抓取异常，但其内容结构具备爆款潜力，易引发讨论和共鸣。"
-      }
-    },
-    {
-      "videoId": "3xfzgd692x6seam",
-      "title": "#湖人再胜火箭  还没老！詹姆斯本场28分8篮板7助攻，还贡献了折叠背扣的表演，最后同样以一记暴扣终结比赛悬念🫡 #詹姆斯折叠背扣  ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xfzgd692x6seam",
-      "authorName": "洛杉矶湖人",
-      "authorUrl": "https://www.kuaishou.com/profile/3xeviqe83safufm",
-      "authorId": "3xeviqe83safufm",
-      "publishTime": "2026-04-22T06:16:35.316Z",
-      "likeCount": 2765,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 111689,
-      "collectedAt": "2026-05-25T08:30:12.587Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "stable",
-        "hookType": "爽点",
-        "titleAnalysis": "标题采用“赛事结果+核心球员数据+高光动作”的经典体育内容结构，信息密度高，包含具体数据（28分8篮板7助攻）和视觉冲击力强的动作描述（折叠背扣、暴扣终结），并使用表情符号增强互动感。",
-        "hotFactors": [
-          "詹姆斯个人IP与高光表现",
-          "湖人vs火箭的宿敌话题性",
-          "具体数据与精彩动作的结合"
-        ],
-        "category": [
-          "体育",
-          "篮球",
-          "NBA"
-        ],
-        "reason": "内容具备体育领域爆款基础要素：顶级球星、具体数据、高光瞬间和宿敌对决。但发布者为官方账号，互动数据（评论、分享）为0，可能因发布时间或平台算法导致初期传播受限，限制了爆发潜力。"
-      }
-    },
-    {
-      "videoId": "3xfgi7w35dwdb8g",
-      "title": "为什么你拼命运动还是瘦不下来？90%的人忽略了这条“胆经”！ #科普一下",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xfgi7w35dwdb8g",
-      "authorName": "北京卫视养生堂",
-      "authorUrl": "https://www.kuaishou.com/profile/3x4t5vabybqs5y6",
-      "authorId": "3x4t5vabybqs5y6",
-      "publishTime": "2026-05-05T10:56:18.277Z",
-      "likeCount": 3505,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 164672,
-      "collectedAt": "2026-05-25T08:30:12.587Z",
+      "viewCount": 215579,
+      "collectedAt": "2026-05-25T08:40:12.851Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -188,111 +29,33 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "悬念",
-        "titleAnalysis": "标题采用“痛点提问+权威背书+数据冲击”结构。前半句“为什么你拼命运动还是瘦不下来？”直击用户减肥无效的核心痛点，引发共鸣和好奇。后半句“90%的人忽略了这条‘胆经’！”用具体数据（90%）和中医概念（胆经）制造信息差和悬念，暗示存在被大众忽略的关键知识，吸引点击。",
+        "titleAnalysis": "标题采用数字谜语形式制造悬念，结合#母女段子和#我的乡村生活标签，精准定位下沉市场家庭情感内容。",
         "hotFactors": [
-          "精准切入减肥这一全民痛点",
-          "利用“90%”数据制造认知冲突和紧迫感",
-          "结合中医养生概念，提供差异化知识角度",
-          "发布者“北京卫视养生堂”具备权威媒体背书，增强可信度"
+          "数字谜语引发好奇",
+          "乡村家庭生活共鸣",
+          "母女关系天然话题性"
         ],
         "category": [
-          "健康养生",
-          "减肥瘦身",
-          "中医科普"
+          "乡村生活",
+          "家庭情感",
+          "搞笑段子"
         ],
-        "reason": "标题精准戳中减肥人群的普遍困惑，结合权威媒体背书和中医特色知识，具备较强的吸引力和可信度基础。但评论和分享量为0，表明视频可能处于发布初期，互动尚未充分发酵，或内容未能有效激发用户讨论和分享欲望，因此爆率预测为中等偏上。"
+        "reason": "悬念式标题能有效提升完播率，乡村家庭题材在快手有稳定受众，但缺乏强冲突或反转元素限制爆发上限。"
       }
     },
     {
-      "videoId": "3xvkrjekjy5yrfa",
-      "title": "#电风扇 #电风扇维修 #家电维修",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xvkrjekjy5yrfa",
-      "authorName": "一招哥",
-      "authorUrl": "https://www.kuaishou.com/profile/3xb7rs64c7s7puq",
-      "authorId": "3xb7rs64c7s7puq",
-      "publishTime": "2026-04-27T09:46:11.341Z",
-      "likeCount": 9251,
+      "videoId": "3x94nuc5tepjtbq",
+      "title": "带着程程仔陪岳父大人过生日啦，祝岳父 生日快乐，岁岁常安康，福寿绵长～",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x94nuc5tepjtbq",
+      "authorName": "湖南张焱",
+      "authorUrl": "https://www.kuaishou.com/profile/3xwvkn4wj3si8tu",
+      "authorId": "3xwvkn4wj3si8tu",
+      "publishTime": "2026-03-23T04:01:34.495Z",
+      "likeCount": 10349,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 742362,
-      "collectedAt": "2026-05-25T08:30:12.588Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "stable",
-        "hookType": "爽点",
-        "titleAnalysis": "标题采用‘#’标签堆叠形式，直接点明核心关键词‘电风扇’、‘电风扇维修’、‘家电维修’，精准覆盖搜索流量，但缺乏悬念或情绪引导，属于典型的工具型/教程型标题。",
-        "hotFactors": [
-          "实用性强，解决用户家电维修的刚需",
-          "标签精准，易于被相关兴趣用户搜索和推荐",
-          "‘一招哥’的账号名暗示方法简单高效，降低用户学习门槛"
-        ],
-        "category": [
-          "生活技巧",
-          "家电维修",
-          "实用教程"
-        ],
-        "reason": "视频内容具备高实用价值，能精准吸引有维修需求的用户，点赞数据（9251）表明内容质量或实用性获得了用户认可。但评论和分享为0，可能说明内容偏工具化，缺乏互动和传播引爆点，因此爆率中等偏上，趋势稳定。"
-      }
-    },
-    {
-      "videoId": "3xth33y475bs5a2",
-      "title": " @漫剧大全(O3xmsyspndc9t5pm) 的精彩视频",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xth33y475bs5a2",
-      "authorName": "漫剧大全",
-      "authorUrl": "https://www.kuaishou.com/profile/3xmsyspndc9t5pm",
-      "authorId": "3xmsyspndc9t5pm",
-      "publishTime": "2026-04-10T10:01:13.800Z",
-      "likeCount": 53830,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 9204801,
-      "collectedAt": "2026-05-25T08:30:12.588Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "stable",
-        "hookType": "爽点",
-        "titleAnalysis": "标题采用账号名+内容类型（漫剧）的简洁结构，直接点明内容属性，但缺乏具体悬念或冲突点，吸引力中等。",
-        "hotFactors": [
-          "动漫/漫画题材受众稳定",
-          "账号定位垂直清晰"
-        ],
-        "category": [
-          "动漫",
-          "二次元",
-          "短视频剧集"
-        ],
-        "reason": "点赞量尚可但评论和分享为零，表明内容可能有一定吸引力但互动性弱，缺乏引爆社交传播的强钩子，属于垂直领域内的稳定型内容。"
-      }
-    },
-    {
-      "videoId": "3xxkz9nenzbvk9k",
-      "title": "昨天发的库存 今天发个新鲜出炉的 #母女段子 #我的乡村生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xxkz9nenzbvk9k",
-      "authorName": "十三🧜🏻♀️",
-      "authorUrl": "https://www.kuaishou.com/profile/3xkagpbqtr8u924",
-      "authorId": "3xkagpbqtr8u924",
-      "publishTime": "2026-05-10T11:15:44.909Z",
-      "likeCount": 5424,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 370745,
-      "collectedAt": "2026-05-25T08:30:12.588Z",
+      "viewCount": 431057,
+      "collectedAt": "2026-05-25T08:40:12.851Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -305,33 +68,112 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“时间对比+内容预告+标签引流”结构。‘昨天库存 vs 今天新鲜’制造了内容连续性和期待感，#母女段子 和 #我的乡村生活 标签精准定位了情感共鸣和生活化内容受众。",
+        "titleAnalysis": "标题采用“人物关系+场景+祝福语”结构，核心是“带孩子（程程仔）陪岳父过生日”，情感温馨，祝福语（岁岁常安康，福寿绵长）符合传统家庭价值观，易于引发共鸣。",
         "hotFactors": [
-          "母女亲情题材易引发广泛共鸣",
-          "乡村生活场景真实接地气，有亲切感",
-          "‘库存vs新鲜’的对比暗示内容有延续性和幕后感"
+          "家庭亲情主题（翁婿/祖孙关系）",
+          "节日/生日场景的天然流量",
+          "温馨祝福语引发情感共鸣"
         ],
         "category": [
-          "家庭情感",
-          "乡村生活",
-          "搞笑段子"
+          "家庭生活",
+          "亲子日常",
+          "节日祝福"
         ],
-        "reason": "母女亲情和乡村生活是快手平台的高共鸣题材，标题结构清晰且标签精准，能有效吸引目标受众。点赞量尚可，但评论和分享为0，说明内容可能缺乏强互动点或争议性，爆发力有限，但具备稳定的中等热度潜力。"
+        "reason": "家庭亲情类内容在快手等平台受众基础广，生日场景易引发互动（点赞/祝福）。标题情感正向，符合平台主流价值观。但缺乏强冲突或悬念，且评论/分享数据缺失，显示传播深度有限，故爆率中等偏上。"
       }
     },
     {
-      "videoId": "3xmcpkxkjdbv6dw",
-      "title": "自己动手做一根蜂蜡蜡烛!  #科普百科  #涨知识  #奇怪的知识增加了",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xmcpkxkjdbv6dw",
-      "authorName": "晓文科学世界",
-      "authorUrl": "https://www.kuaishou.com/profile/3xy7fm7eqtn6z59",
-      "authorId": "3xy7fm7eqtn6z59",
-      "publishTime": "2026-04-11T10:14:21.941Z",
+      "videoId": "3xxqccka6gz36dg",
+      "title": "家常卤味火锅安排上，卤味吸满麻辣汤汁，越煮越香，约上三五好友吃一顿巴适得板",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xxqccka6gz36dg",
+      "authorName": "乡村美食炊二锅",
+      "authorUrl": "https://www.kuaishou.com/profile/3x6dtn46khvwhcc",
+      "authorId": "3x6dtn46khvwhcc",
+      "publishTime": "2026-04-07T09:32:03.716Z",
+      "likeCount": 5469,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 323669,
+      "collectedAt": "2026-05-25T08:40:12.851Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "stable",
+        "hookType": "爽点",
+        "titleAnalysis": "标题采用“场景+感官刺激+社交邀约”结构。前半句“家常卤味火锅安排上”点明主题和行动号召；中间“卤味吸满麻辣汤汁，越煮越香”通过具体细节（吸满汤汁）和动态描述（越煮越香）强化食欲和期待感；结尾“约上三五好友吃一顿巴适得板”融入社交场景和方言（巴适得板），增强亲切感和地域共鸣。",
+        "hotFactors": [
+          "强感官刺激（麻辣、吸满汤汁、越煮越香）",
+          "社交场景邀约（约好友）",
+          "家常美食的亲切感与地域特色（巴适得板）"
+        ],
+        "category": [
+          "美食",
+          "家常菜",
+          "火锅",
+          "社交聚餐"
+        ],
+        "reason": "标题精准结合食欲刺激与社交场景，易引发共鸣和模仿。点赞数据尚可，但评论和分享为零，可能因内容同质化或发布时间较短，限制了互动传播，故爆率中等偏上但趋势平稳。"
+      }
+    },
+    {
+      "videoId": "3xuth9q9pbiqs4k",
+      "title": "来怪蚌河捡河蚌，没想到彩色和紫色的宝珠这么大",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xuth9q9pbiqs4k",
+      "authorName": "捡蚌人",
+      "authorUrl": "https://www.kuaishou.com/profile/3xktr2634u7m7my",
+      "authorId": "3xktr2634u7m7my",
+      "publishTime": "2026-05-14T09:23:11.423Z",
       "likeCount": 1902,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 253712,
-      "collectedAt": "2026-05-25T08:30:12.588Z",
+      "viewCount": 146512,
+      "collectedAt": "2026-05-25T08:40:12.851Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "采用“地点+行动+意外发现”结构，前半句“来怪蚌河捡河蚌”交代背景和行动，后半句“没想到彩色和紫色的宝珠这么大”制造悬念和视觉冲击，符合短视频“先抑后扬”的叙事逻辑。",
+        "hotFactors": [
+          "视觉奇观（彩色/紫色宝珠）",
+          "意外收获的惊喜感",
+          "小众猎奇题材（捡河蚌）"
+        ],
+        "category": [
+          "户外探索",
+          "猎奇发现",
+          "解压内容"
+        ],
+        "reason": "标题通过“没想到”制造强烈悬念，彩色宝珠的视觉元素易引发好奇和分享欲，但评论和分享数据为零可能表明内容或互动引导不足，存在爆发潜力但需观察后续数据。"
+      }
+    },
+    {
+      "videoId": "3xbd5jsqdtf46mu",
+      "title": " @指间播客(O3xj945sdc2sgid4) 的精彩视频",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xbd5jsqdtf46mu",
+      "authorName": "指间播客",
+      "authorUrl": "https://www.kuaishou.com/profile/3xj945sdc2sgid4",
+      "authorId": "3xj945sdc2sgid4",
+      "publishTime": "2026-03-08T13:16:58.763Z",
+      "likeCount": 46556,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 11020186,
+      "collectedAt": "2026-05-25T08:40:12.851Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -344,136 +186,16 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "悬念",
-        "titleAnalysis": "标题采用“自己动手做”的行动号召句式，结合“蜂蜡蜡烛”这一相对小众但具有美感和实用性的物品，激发观众好奇心和动手欲。标签#科普百科 #涨知识 #奇怪的知识增加了精准定位知识科普类内容，吸引特定兴趣人群。",
+        "titleAnalysis": "标题仅为发布者名称和通用描述，缺乏具体信息点，无法直接判断内容。但高点赞量（4.7万）表明内容本身可能具有较强吸引力，标题的模糊性可能引发了用户的好奇心。",
         "hotFactors": [
-          "手工制作过程的解压与治愈感",
-          "小众知识带来的新奇感（蜂蜡特性）",
-          "实用技能展示（可自制家居用品）"
+          "高点赞量（4.7万）表明内容已获得初步认可",
+          "标题的模糊性可能形成悬念，吸引点击"
         ],
         "category": [
-          "生活科普",
-          "手工DIY",
-          "知识分享"
+          "播客/访谈",
+          "泛娱乐"
         ],
-        "reason": "内容兼具知识性、实用性和视觉美感，符合快手平台对生活技能、科普类内容的推荐倾向。点赞量尚可，但互动数据（评论、分享）为零，表明内容可能缺乏强互动引导或话题性，限制了进一步爆发。"
-      }
-    },
-    {
-      "videoId": "3xgciaghrfubyv4",
-      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
-      "authorName": "潘晓红律师",
-      "authorUrl": "https://www.kuaishou.com/profile/3x2medae3wtb55k",
-      "authorId": "3x2medae3wtb55k",
-      "publishTime": "2026-05-04T03:44:03.113Z",
-      "likeCount": 1529,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 86406,
-      "collectedAt": "2026-05-25T08:30:12.588Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "stable",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“以后...不能...”的未来警示句式，结合“结婚”、“彩礼”等高敏感社会议题，直接冲击传统观念，制造认知冲突。感叹号强化情绪，引导用户点击寻求解释。",
-        "hotFactors": [
-          "社会热点议题（彩礼）",
-          "权威身份背书（律师）",
-          "颠覆性观点（不能随便要）",
-          "知识科普属性"
-        ],
-        "category": [
-          "法律科普",
-          "社会热点",
-          "婚恋情感"
-        ],
-        "reason": "彩礼话题自带流量与争议，律师身份增加可信度，标题观点鲜明易引发讨论。但评论和分享为零，可能因内容或发布时间导致互动未起量，潜力中等偏上。"
-      }
-    },
-    {
-      "videoId": "3xegeyir3e3cbsy",
-      "title": "女子称和丈夫结婚后，丈夫的亲戚频繁来借钱，丈夫总是爽快答应借出 #天津卫视  #爱情保卫战  #情感  #情侣",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xegeyir3e3cbsy",
-      "authorName": "天津卫视",
-      "authorUrl": "https://www.kuaishou.com/profile/3xvgjr2na6shecm",
-      "authorId": "3xvgjr2na6shecm",
-      "publishTime": "2026-04-21T07:30:05.648Z",
-      "likeCount": 1370,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 272875,
-      "collectedAt": "2026-05-25T08:30:12.588Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "stable",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“事件+身份+冲突”结构。前半句“女子称和丈夫结婚后”建立身份和背景，后半句“丈夫的亲戚频繁来借钱，丈夫总是爽快答应借出”直接抛出核心矛盾，制造了强烈的家庭伦理冲突和代入感。标签#天津卫视 #爱情保卫战增加了权威性和话题性。",
-        "hotFactors": [
-          "家庭财务矛盾（高频社会痛点）",
-          "夫妻关系与原生家庭边界（永恒话题）",
-          "电视节目片段（自带流量和信任背书）"
-        ],
-        "category": [
-          "家庭伦理",
-          "情感关系",
-          "社会热点"
-        ],
-        "reason": "话题直击婚姻中常见的财务与家庭边界矛盾，极易引发观众共鸣和站队讨论。作为电视节目片段，内容经过剪辑，冲突集中，适合短视频传播。但点赞量尚可，互动数据（评论、分享）为0，表明内容可能引发观看但未激发深度互动，或数据存在延迟/异常，限制了其成为现象级爆款的潜力。"
-      }
-    },
-    {
-      "videoId": "3xsv9us5ervsrsu",
-      "title": "妻子委屈丈夫不体谅自己，丈夫回家就躺平不帮忙，还嫌弃家里不够整洁 #爱情保卫战 #情感 #情侣",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xsv9us5ervsrsu",
-      "authorName": "爱情保卫战",
-      "authorUrl": "https://www.kuaishou.com/profile/3xs5tvywasb2szu",
-      "authorId": "3xs5tvywasb2szu",
-      "publishTime": "2026-03-09T12:20:13.742Z",
-      "likeCount": 2438,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 598828,
-      "collectedAt": "2026-05-25T08:30:12.588Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "stable",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“委屈+不体谅+躺平+嫌弃”的强冲突组合，精准戳中家庭分工矛盾这一普遍痛点，通过具体场景（丈夫回家躺平、嫌弃家里不整洁）引发代入感，结尾标签#爱情保卫战 #情感 #情侣强化了情感话题属性，易于引发讨论。",
-        "hotFactors": [
-          "家庭分工矛盾（普遍痛点）",
-          "情感共鸣（妻子委屈视角）",
-          "具体生活场景（躺平、嫌弃）引发代入感"
-        ],
-        "category": [
-          "情感",
-          "家庭关系",
-          "两性话题"
-        ],
-        "reason": "标题冲突性强，切中社会普遍痛点，易引发女性用户共鸣和讨论，但数据（评论/分享为0）显示当前互动不足，可能因内容深度或发布时间等因素未完全引爆，潜力中等偏上。"
+        "reason": "点赞量高，但评论和分享为零，数据异常。可能内容本身有吸引力（如名人、强观点），但缺乏互动引导或话题性，导致传播受限。爆率中等，趋势稳定。"
       }
     }
   ]
