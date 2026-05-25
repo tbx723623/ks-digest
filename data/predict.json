@@ -1,108 +1,294 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T13:52:47.856Z",
+  "generatedAt": "2026-05-25T14:02:58.132Z",
   "date": "2026-05-25",
-  "count": 6,
+  "count": 17,
   "items": [
     {
-      "videoId": "3x67tgisbhp2guy",
-      "title": "当快破产的你得到了真正的非洲之心… #三角洲行动 #猫meme #死对头 #三角洲行动欢乐剧场 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x67tgisbhp2guy",
-      "authorName": "小普（三角洲重生版）",
-      "likeCount": 37944,
+      "videoId": "3xgym46h73niwp2",
+      "title": "当假期父母不在家。#搞笑 #fyp #来福来福 #马上开演",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgym46h73niwp2",
+      "authorName": "来福来福",
+      "likeCount": 847081,
       "commentCount": 0,
-      "explosionRate": 75,
+      "explosionRate": 92,
       "trend": "rising",
-      "hookType": "反转",
+      "hookType": "共情",
       "category": [
-        "游戏",
-        "搞笑",
-        "剧情"
+        "生活搞笑",
+        "情景短剧"
       ],
-      "estimatedTime": "1-2小时"
+      "estimatedTime": "正在爆发"
     },
     {
-      "videoId": "3xatb9cc9aspae2",
-      "title": "通宵打麻将死亡，同桌牌友要赔偿吗？ #老铁帮帮团 #老铁知识百科 #知识播种计划",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xatb9cc9aspae2",
-      "authorName": "智库律师",
-      "likeCount": 3686,
+      "videoId": "3xczwsihux2b8iy",
+      "title": "绿茶也说不过我！ #年上男 #老板和她的女员工 #东北男人",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xczwsihux2b8iy",
+      "authorName": "沐北.",
+      "likeCount": 141156,
       "commentCount": 0,
-      "explosionRate": 75,
+      "explosionRate": 85,
       "trend": "rising",
       "hookType": "冲突",
       "category": [
-        "法律科普",
-        "社会热点",
-        "生活案例"
+        "职场短剧",
+        "情感冲突",
+        "地域文化"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3x5q6xyzntfnnfe",
+      "title": "这点要求我必须满足你！哪里有槟榔哪里就有我《戒槟榔侠》 @＠_十三香(O3xci3nkcquh22w4) #搞笑 #槟榔的危害",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x5q6xyzntfnnfe",
+      "authorName": "鸿小胖",
+      "likeCount": 418086,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "反转",
+      "category": [
+        "社会议题",
+        "搞笑",
+        "正能量"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xjcrmtffhdp8aw",
+      "title": "# #宿舍搞笑  #安排起来",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xjcrmtffhdp8aw",
+      "authorName": "敏姐说事",
+      "likeCount": 66563,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "共情",
+      "category": [
+        "搞笑",
+        "校园生活",
+        "情景短剧"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xyjnhbgf28jaj2",
+      "title": "饭店的寒假工，推销茶叶！",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xyjnhbgf28jaj2",
+      "authorName": "周小闹",
+      "likeCount": 1540114,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "stable",
+      "hookType": "反转",
+      "category": [
+        "生活",
+        "搞笑",
+        "社会纪实"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xh369tianf897g",
+      "title": "现在的投铅球 #体考 #抽象 #喜爱度激励计划 #体考铁定行",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xh369tianf897g",
+      "authorName": "小小学弟（曾枭瀛）",
+      "likeCount": 834133,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "反转",
+      "category": [
+        "体育搞笑",
+        "校园生活",
+        "抽象文化"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xkehe6e65sxz2c",
+      "title": "三亚你有这项目！怎么不早说？！",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xkehe6e65sxz2c",
+      "authorName": "-小胡.",
+      "likeCount": 979986,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "stable",
+      "hookType": "悬念",
+      "category": [
+        "旅游",
+        "探店/体验",
+        "生活记录"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3x586h6hq2isrd2",
+      "title": "选是你选的，你还不乐意了#兽装 #快手二次元春日派对 #快手漫展大舞台 #看漫展上快手",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x586h6hq2isrd2",
+      "authorName": "次元羊崽",
+      "likeCount": 143492,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "冲突",
+      "category": [
+        "二次元",
+        "兽装",
+        "漫展",
+        "搞笑/冲突"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3x5rhwu5viafke9",
+      "title": "广西农村女孩又来湖南画40平浮雕长城了 #壁画师阿娇",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x5rhwu5viafke9",
+      "authorName": "壁画师阿娇（全国出差）",
+      "likeCount": 318607,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "共情",
+      "category": [
+        "技能展示",
+        "乡村生活",
+        "正能量"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xakra4s8udkx3w",
+      "title": "路遇小土豆准备上山玩泥巴#机车小姐姐 #摩托车 #女骑",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xakra4s8udkx3w",
+      "authorName": "北北机车头",
+      "likeCount": 112021,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "共情",
+      "category": [
+        "生活记录",
+        "机车文化",
+        "亲子互动"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3x7fsv7v9krwete",
+      "title": "警界师徒默契配合,车厢智擒卖烧鸡的土匪 #神仙剪刀手  #影视推荐",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x7fsv7v9krwete",
+      "authorName": "不哈影视",
+      "likeCount": 59528,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "冲突",
+      "category": [
+        "影视解说",
+        "警匪题材",
+        "剪辑向"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3x7hq537c3uwgys",
+      "title": "家里真换沙发了，三只戏精鹦鹉继续配合的日常！尤其最后一只！😂😂😂#搞笑萌宠 #萌宠 #家有萌宠 #鹦鹉",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x7hq537c3uwgys",
+      "authorName": "招财旺财来财日常",
+      "likeCount": 72941,
+      "commentCount": 0,
+      "explosionRate": 75,
+      "trend": "rising",
+      "hookType": "反转",
+      "category": [
+        "搞笑萌宠",
+        "宠物日常",
+        "动物行为"
       ],
       "estimatedTime": "1-2小时"
     },
     {
-      "videoId": "3xathfn4sp4cyde",
-      "title": "假如打手认错了老板 #暗区突围可颂作者团 #暗区突围 #暗区诡雾山谷规则怪谈 #暗区S17诡雾山谷共享宝藏",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xathfn4sp4cyde",
-      "authorName": "银儿（暗区突围）",
-      "likeCount": 4623,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "反转",
-      "category": [
-        "游戏",
-        "剧情演绎",
-        "短视频"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x4ei4qffmvegxs",
-      "title": "今天可能位置没选对没钓到龙虾，今天买了点做了个麻辣龙虾看着还不错吧，你们老家河里能掉龙虾了没？#农村守护人 #三农 #记录真实生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4ei4qffmvegxs",
-      "authorName": "李会儿、、",
-      "likeCount": 7413,
+      "videoId": "3xfwns4mizdp8r6",
+      "title": "#东北甜妹",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xfwns4mizdp8r6",
+      "authorName": "沈佳怡",
+      "likeCount": 24322,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "三农",
-        "美食",
-        "乡村生活"
+        "颜值/人设展示",
+        "地域文化",
+        "生活/娱乐"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xme7ph9ixuuc5w",
-      "title": "#搞笑可爱的小萌娃 #人类幼崽有多可爱 #这小表情太可爱了",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xme7ph9ixuuc5w",
-      "authorName": "小金果宝贝",
-      "likeCount": 7862,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "母婴亲子",
-        "搞笑萌宠",
-        "生活记录"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xwazeqb2ec2s8c",
-      "title": "为什么人老了以后，男人容易走在女人前面 #情感 #家庭 #人生百态 #知识播种计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwazeqb2ec2s8c",
-      "authorName": "董超",
-      "likeCount": 2829,
+      "videoId": "3x87rr3y7x2mry2",
+      "title": "夫妻没有隔夜仇出现问题我们要勇敢承认错误，这样日子才会越过越好 …… #记录我的农村生活 #内容过于真实 #夫妻日常 #喜爱度激励计划 @快手热点(O3xddgkd5fav5if9)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x87rr3y7x2mry2",
+      "authorName": "忆乡人小伟",
+      "likeCount": 16867,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
         "情感",
-        "家庭",
-        "健康知识"
+        "家庭生活",
+        "农村记录"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xjiveziijuev22",
+      "title": "#生活日常拍个小视频 #双胞胎兄弟",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xjiveziijuev22",
+      "authorName": "两小胖的快乐日常",
+      "likeCount": 25244,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "亲子日常",
+        "萌娃搞笑"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xnjqsd6gyeujum",
+      "title": "女人退休后买下一个废弃小院 #小院改造  #老房改造  #旧房改造",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xnjqsd6gyeujum",
+      "authorName": "百丈山居",
+      "likeCount": 18831,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "rising",
+      "hookType": "共情",
+      "category": [
+        "生活记录",
+        "家居改造",
+        "田园生活"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3x8xnamurth8huq",
+      "title": "大海那么深，桥墩是怎么立在海里的？看完大开眼界",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x8xnamurth8huq",
+      "authorName": "娟姐配音",
+      "likeCount": 45202,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "悬念",
+      "category": [
+        "知识科普",
+        "工程科技",
+        "生活常识"
       ],
       "estimatedTime": "2-4小时"
     }
