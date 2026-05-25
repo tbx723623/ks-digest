@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T15:33:16.849Z",
+  "fetchedAt": "2026-05-25T15:43:20.351Z",
   "date": "2026-05-25",
-  "count": 2,
+  "count": 3,
   "items": [
     {
-      "videoId": "3x4wzxqfu9b68pk",
-      "title": "【“他们要打多久就打多久 一直打到完全胜利！”】1953年2月7日，针对美国在朝鲜战场上时而借谈判施压、时而军事挑衅的谈判态势，毛主席表明了中国人民和军队抗争到底的决心！",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4wzxqfu9b68pk",
-      "authorName": "央视网",
-      "authorUrl": "https://www.kuaishou.com/profile/3xyudn6sz9nwksq",
-      "authorId": "3xyudn6sz9nwksq",
-      "publishTime": "2026-03-27T01:08:35.076Z",
-      "likeCount": 209949,
+      "videoId": "3x9xnjeq8z79da4",
+      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
+      "authorName": "央视频",
+      "authorUrl": "https://www.kuaishou.com/profile/3xqbri2seru7w4e",
+      "authorId": "3xqbri2seru7w4e",
+      "publishTime": "2026-04-29T13:29:39.972Z",
+      "likeCount": 53441,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 3398066,
-      "collectedAt": "2026-05-25T15:30:12.582Z",
+      "viewCount": 1636723,
+      "collectedAt": "2026-05-25T15:40:11.842Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,36 +28,34 @@
       "aiAnalysis": {
         "explosionRate": 85,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用【金句+历史背景】结构，直接引用毛主席的霸气宣言作为核心钩子，括号内金句极具冲击力和传播性，后半部分补充历史背景（1953年、朝鲜战场、美国挑衅）增强真实感和权威性，整体简洁有力，情绪饱满。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用双重否定强调（“绝不...再当”、“绝不能当”）和口语化标签（“冤大头”、“工具人”），立场鲜明，情绪强烈，直击消费者痛点与主播责任争议，具有极强的代入感和话题性。",
         "hotFactors": [
-          "权威信源（央视网）背书",
-          "历史经典金句的现代表达",
-          "强烈的民族情感与爱国共鸣",
-          "契合当下国际形势的隐喻联想"
+          "央视频权威背书，自带流量与公信力",
+          "直击直播带货乱象，切中消费者普遍不满情绪",
+          "观点鲜明，立场强硬，易引发共鸣与站队讨论"
         ],
         "category": [
-          "历史",
-          "爱国",
-          "正能量",
-          "时事隐喻"
+          "社会热点",
+          "消费维权",
+          "直播电商"
         ],
-        "reason": "权威媒体发布的历史金句视频，极易引发爱国情感共鸣和二次传播，点赞数据已验证其爆发力，评论/分享数据缺失可能因平台显示或统计问题，但高点赞量已表明其成为爆款的潜力。"
+        "reason": "权威媒体针对高热度社会议题发声，标题情绪饱满、立场鲜明，极易引发广泛共鸣和二次传播，虽评论分享数据暂未显示，但点赞量已显爆发潜力。"
       }
     },
     {
-      "videoId": "3xbkrubrwc956bc",
-      "title": "湖南人小时候的超能力 #湖南 #超能力",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrubrwc956bc",
-      "authorName": "邬天宇",
-      "authorUrl": "https://www.kuaishou.com/profile/3xq8qh4c5huhtrs",
-      "authorId": "3xq8qh4c5huhtrs",
-      "publishTime": "2026-03-06T09:57:17.751Z",
-      "likeCount": 29566,
+      "videoId": "3x6yy3d6gpuvgym",
+      "title": "父亲去世12年，银行突然来催债2万3千多，本金才7千，女儿发出三连问：12年为何从不通知？如何证明是父亲生前消费？有没有义务还债？@快手热点(O3xddgkd5fav5if9) #父亲去世12年银行突然来催债 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6yy3d6gpuvgym",
+      "authorName": "小强说",
+      "authorUrl": "https://www.kuaishou.com/profile/3xq56h4zipv2f9y",
+      "authorId": "3xq56h4zipv2f9y",
+      "publishTime": "2026-04-28T08:07:19.488Z",
+      "likeCount": 5011,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 642482,
-      "collectedAt": "2026-05-25T15:30:12.581Z",
+      "viewCount": 218767,
+      "collectedAt": "2026-05-25T15:40:11.842Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -67,21 +65,61 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 65,
+        "explosionRate": 78,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "采用“地域+童年回忆+超能力”的经典怀旧共情结构。'湖南人'精准锁定地域受众，'小时候'唤起集体记忆，'超能力'制造悬念和趣味性，引导用户好奇点开。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“时间跨度+意外事件+核心冲突+三连问”的强冲突结构。12年的时间跨度制造了强烈的戏剧性和不合理感，“银行催债”与“父亲去世”形成天然对立，“三连问”将个人遭遇上升为公共法律与道德议题，极易引发共鸣和讨论。",
         "hotFactors": [
-          "强烈的地域认同感和集体怀旧情绪",
-          "童年回忆题材具有广泛共鸣基础",
-          "“超能力”一词制造了悬念和趣味反差"
+          "涉及银行与普通人的债务纠纷，天然具有话题性和对立感",
+          "时间跨度长（12年）且金额翻倍（7千变2万3），细节具体，冲击力强",
+          "女儿提出的“三连问”直击法律与道德痛点，为观众提供了明确的讨论和站队方向",
+          "关联社会热点（金融债务、遗产继承、银行服务），易引发广泛共情"
         ],
         "category": [
-          "生活/搞笑",
-          "地域文化",
-          "怀旧"
+          "社会民生",
+          "法律维权",
+          "家庭情感"
         ],
-        "reason": "标题精准切入湖南地域文化，利用童年怀旧和“超能力”的趣味悬念，极易引发本地用户共鸣和互动。点赞数据良好，但评论和分享数据缺失，可能处于流量测试初期，具备上升潜力。"
+        "reason": "视频精准切中公众对银行服务、债务纠纷的普遍焦虑与不满，冲突强烈、细节具体、议题明确，具备极高的讨论和传播潜力。点赞量已初显热度，评论和分享量为零可能因发布较早或平台数据延迟，但其内容结构符合爆款逻辑。"
+      }
+    },
+    {
+      "videoId": "3xv7ukwfpyaf7xa",
+      "title": "没事少和别人搅和在一起 #忠告  #情感共鸣  #人生智慧  #知识播种计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xv7ukwfpyaf7xa",
+      "authorName": "董超",
+      "authorUrl": "https://www.kuaishou.com/profile/3xba59cndhgm629",
+      "authorId": "3xba59cndhgm629",
+      "publishTime": "2026-04-11T07:25:00.089Z",
+      "likeCount": 7686,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 419899,
+      "collectedAt": "2026-05-25T15:40:11.842Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用‘忠告’式口吻，以‘没事少和别人搅和在一起’为核心观点，直接点明主题，具有强烈的个人生活指导色彩。后接多个情感和知识类标签，精准定位目标受众。",
+        "hotFactors": [
+          "情感共鸣与人生智慧话题",
+          "简洁有力的忠告式观点",
+          "精准的标签组合（#情感共鸣 #人生智慧）"
+        ],
+        "category": [
+          "情感",
+          "生活感悟",
+          "个人成长"
+        ],
+        "reason": "内容切中大众对人际关系与个人边界的普遍困惑，观点鲜明易引发共鸣和讨论。点赞量高但互动（评论/分享）为零，可能处于流量上升初期或数据存在异常，但话题本身具备持续发酵潜力。"
       }
     }
   ]

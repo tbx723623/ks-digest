@@ -1,74 +1,90 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T15:33:16.850Z",
+  "generatedAt": "2026-05-25T15:43:20.355Z",
   "date": "2026-05-25",
-  "count": 11,
+  "count": 12,
   "items": [
     {
-      "videoId": "3x4wzxqfu9b68pk",
-      "title": "【“他们要打多久就打多久 一直打到完全胜利！”】1953年2月7日，针对美国在朝鲜战场上时而借谈判施压、时而军事挑衅的谈判态势，毛主席表明了中国人民和军队抗争到底的决心！",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4wzxqfu9b68pk",
-      "authorName": "央视网",
-      "likeCount": 209949,
+      "videoId": "3x9xnjeq8z79da4",
+      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
+      "authorName": "央视频",
+      "likeCount": 53441,
       "commentCount": 0,
       "explosionRate": 85,
       "trend": "rising",
-      "hookType": "共情",
+      "hookType": "冲突",
       "category": [
-        "历史",
-        "爱国",
-        "正能量",
-        "时事隐喻"
+        "社会热点",
+        "消费维权",
+        "直播电商"
       ],
       "estimatedTime": "正在爆发"
     },
     {
-      "videoId": "3xbkrubrwc956bc",
-      "title": "湖南人小时候的超能力 #湖南 #超能力",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrubrwc956bc",
-      "authorName": "邬天宇",
-      "likeCount": 29566,
+      "videoId": "3x6yy3d6gpuvgym",
+      "title": "父亲去世12年，银行突然来催债2万3千多，本金才7千，女儿发出三连问：12年为何从不通知？如何证明是父亲生前消费？有没有义务还债？@快手热点(O3xddgkd5fav5if9) #父亲去世12年银行突然来催债 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6yy3d6gpuvgym",
+      "authorName": "小强说",
+      "likeCount": 5011,
       "commentCount": 0,
-      "explosionRate": 65,
+      "explosionRate": 78,
+      "trend": "rising",
+      "hookType": "冲突",
+      "category": [
+        "社会民生",
+        "法律维权",
+        "家庭情感"
+      ],
+      "estimatedTime": "1-2小时"
+    },
+    {
+      "videoId": "3xv7ukwfpyaf7xa",
+      "title": "没事少和别人搅和在一起 #忠告  #情感共鸣  #人生智慧  #知识播种计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xv7ukwfpyaf7xa",
+      "authorName": "董超",
+      "likeCount": 7686,
+      "commentCount": 0,
+      "explosionRate": 75,
       "trend": "rising",
       "hookType": "共情",
       "category": [
-        "生活/搞笑",
-        "地域文化",
-        "怀旧"
+        "情感",
+        "生活感悟",
+        "个人成长"
+      ],
+      "estimatedTime": "1-2小时"
+    },
+    {
+      "videoId": "3x74b7mq4uw655w",
+      "title": "国防部评台军“汉光42号”兵棋推演：每年都要上演这套“折子戏” #融视频",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x74b7mq4uw655w",
+      "authorName": "中国台湾网",
+      "likeCount": 47608,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "时政",
+        "军事",
+        "两岸关系"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xa3imqgefvv7m9",
-      "title": "《地铁大实话》，我说的都是实话！#和平精英地铁逃生 #和平精英共闯火山 #地铁逃生不听后悔一辈子",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xa3imqgefvv7m9",
-      "authorName": "子木仙（地铁逃生）",
-      "likeCount": 60990,
+      "videoId": "3xyqjhvtzweik84",
+      "title": "是谁和我说零号大坝会出手机的！！！ #幸福乡村春耕季 #花式过五一 #三角洲 #三角洲行动  @马大哈奇遇记(O3xryu36qu4xjmvw) ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xyqjhvtzweik84",
+      "authorName": "黑大帅历险记",
+      "likeCount": 11066,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
-      "hookType": "悬念",
+      "hookType": "冲突",
       "category": [
-        "游戏攻略/解说",
-        "短视频娱乐"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xs3qw8upw5vhxa",
-      "title": "赛季末卧底得吃有点难~#和平精英地铁逃生 #韦长官 #G3传媒",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xs3qw8upw5vhxa",
-      "authorName": "农村人枷韦（长官护电竞）",
-      "likeCount": 7615,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "悬念",
-      "category": [
-        "游戏",
-        "手游",
-        "和平精英"
+        "游戏内容",
+        "生活吐槽"
       ],
       "estimatedTime": "2-4小时"
     },
@@ -90,104 +106,104 @@
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x7x3duw8avf8ui",
-      "title": "#快成长计划 #潮流生活成长之星 #骗你生女儿",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x7x3duw8avf8ui",
+      "videoId": "3xa4rsy5ek4cpzg",
+      "title": "痛的受不了😂  #西游记 #孙悟空 #猴哥",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xa4rsy5ek4cpzg",
+      "authorName": "猴哥阿旺104",
+      "likeCount": 5863,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "搞笑",
+        "影视剪辑",
+        "情怀向"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xue2ni65mxbjhg",
+      "title": "一口气带你认识9种牢底坐穿花，在野外遇到千万不要采\r\n#牢底坐穿花  #植物科普  #奇花异草  #保护野生植物",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xue2ni65mxbjhg",
+      "authorName": "科普万物",
+      "likeCount": 2778,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "悬念",
+      "category": [
+        "科普",
+        "自然",
+        "法律常识"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3x7tf58ri3zyf7i",
+      "title": "#百善孝为先不忘养育之恩 #亲子 #最美童声",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x7tf58ri3zyf7i",
       "authorName": "小金果宝贝",
-      "likeCount": 12386,
+      "likeCount": 9040,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
-      "category": [
-        "亲子萌娃",
-        "生活记录"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xuexdama9x6xau",
-      "title": "摆摊是不需要营业执照的 #喜爱度激励计划 #老铁看热点 #内容启发分享计划 #灼见计划 @快手创作者中心(O3xrgtux2ehryffe) @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手主持人(O3xnewxpguishmsc)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xuexdama9x6xau",
-      "authorName": "我是大梅",
-      "likeCount": 1427,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "社会热点",
-        "生活技巧",
-        "观点输出"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xq89uuc5acb2sq",
-      "title": "亲戚家不管谁家有事啊，只要没通知你，你一律装作不知道 #忠告  #人性  #情感 #喜爱度激励计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xq89uuc5acb2sq",
-      "authorName": "董超",
-      "likeCount": 4962,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "情感",
-        "人性",
-        "社会关系"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xeknn45cugya4k",
-      "title": "放下手机的孩子……#蛇小男全国巡演  #喜爱度激励计划 #春日舞蹈计划 #霹雳舞",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xeknn45cugya4k",
-      "authorName": "蛇小男",
-      "likeCount": 23441,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "反转",
       "category": [
         "亲子",
-        "舞蹈",
-        "生活记录"
+        "正能量",
+        "才艺展示"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xrtzun7evajht6",
-      "title": "#和平精英绿洲启元 #白亿爱玩狙 #整治 对面真成神了",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xrtzun7evajht6",
-      "authorName": "白亿爱玩狙",
-      "likeCount": 24021,
+      "videoId": "3xqus9msr4p9bcy",
+      "title": " @阿余爱营养学（看主页）(O3xhbydzxaw3p3c6) 的精彩视频",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xqus9msr4p9bcy",
+      "authorName": "阿余爱营养学（看主页）",
+      "likeCount": 18919,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
-      "hookType": "冲突",
+      "hookType": "悬念",
       "category": [
-        "游戏",
-        "射击",
-        "手游"
+        "健康",
+        "知识科普",
+        "生活"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xdk6df5c4vrfeg",
-      "title": "终于等到今天 #吴勇豪 #校园运动季偶遇王者英雄  #吴勇豪cos国服黄忠校园行 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xdk6df5c4vrfeg",
-      "authorName": "吴勇豪",
-      "likeCount": 22418,
+      "videoId": "3xyzja4tda28ya9",
+      "title": "半路电瓶车没电，一直解决 #电瓶车",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xyzja4tda28ya9",
+      "authorName": "壹哥说车",
+      "likeCount": 3674,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "游戏联动",
-        "校园生活",
-        "角色扮演（Cosplay）",
-        "个人Vlog"
+        "生活记录",
+        "出行",
+        "实用技巧"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xwziwgmrimtgbw",
+      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
+      "authorName": "远嫁燕子的一家",
+      "likeCount": 9452,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "家庭生活",
+        "美食制作",
+        "地域文化"
       ],
       "estimatedTime": "2-4小时"
     }
