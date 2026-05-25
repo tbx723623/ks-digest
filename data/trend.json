@@ -1,63 +1,63 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T13:43:32.547Z",
+  "fetchedAt": "2026-05-25T13:52:47.855Z",
   "date": "2026-05-25",
   "count": 2,
   "items": [
     {
-      "videoId": "3xwziwgmrimtgbw",
-      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
-      "authorName": "远嫁燕子的一家",
-      "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
-      "authorId": "3xihaq7trzkx8v4",
-      "publishTime": "2026-05-18T05:51:48.643Z",
-      "likeCount": 9433,
+      "videoId": "3x67tgisbhp2guy",
+      "title": "当快破产的你得到了真正的非洲之心… #三角洲行动 #猫meme #死对头 #三角洲行动欢乐剧场 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x67tgisbhp2guy",
+      "authorName": "小普（三角洲重生版）",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8626ecdzserki",
+      "authorId": "3x8626ecdzserki",
+      "publishTime": "2026-03-23T09:14:45.929Z",
+      "likeCount": 37944,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 549043,
-      "collectedAt": "2026-05-25T13:40:12.528Z",
+      "viewCount": 313564,
+      "collectedAt": "2026-05-25T13:50:12.574Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
-        "score": 100,
+        "score": 80,
         "level": "excellent",
         "isHealthy": true,
-        "warnings": []
+        "warnings": [
+          "点赞率异常偏高"
+        ]
       },
       "aiAnalysis": {
-        "explosionRate": 72,
+        "explosionRate": 75,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“地域差异+家庭生活”结构，通过“云南老婆”、“猪头扣肉”、“南北饮食大不同”等关键词制造地域文化冲突和饮食猎奇感，同时以“夫妻相处之道”引发情感共鸣，符合快手平台对家庭生活、地域文化类内容的偏好。",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用‘困境+意外收获’的强反转结构，前半句‘当快破产的你’制造共情与焦虑，后半句‘得到了真正的非洲之心’形成巨大反差和悬念，吸引点击。标签组合精准，覆盖游戏、热门梗和剧场形式。",
         "hotFactors": [
-          "地域文化冲突（南北饮食差异）",
-          "家庭生活与夫妻关系话题",
-          "猎奇性食材（猪头扣肉）",
-          "真实生活记录风格"
+          "强反转剧情钩子",
+          "精准结合游戏热点与猫meme流行梗",
+          "‘非洲之心’作为高价值游戏道具的稀缺性与爽点"
         ],
         "category": [
-          "家庭生活",
-          "美食制作",
-          "地域文化",
-          "情感关系"
+          "游戏",
+          "搞笑",
+          "剧情"
         ],
-        "reason": "标题精准结合地域冲突、家庭情感与美食猎奇，符合快手下沉市场用户对真实生活、家庭话题的高关注度。点赞量近万但互动数据（评论/分享）为零，可能因视频发布初期或数据未完全同步，但核心话题具备持续发酵潜力。"
+        "reason": "标题反转强烈，结合游戏热点与流行梗，能有效激发玩家共鸣与好奇心，具备爆款潜力。"
       }
     },
     {
-      "videoId": "3xsdvktawhfnia2",
-      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
-      "authorName": "周沫讲理财",
-      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
-      "authorId": "3xhinyavn5y69uc",
-      "publishTime": "2026-04-22T11:27:31.413Z",
-      "likeCount": 29697,
+      "videoId": "3xatb9cc9aspae2",
+      "title": "通宵打麻将死亡，同桌牌友要赔偿吗？ #老铁帮帮团 #老铁知识百科 #知识播种计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xatb9cc9aspae2",
+      "authorName": "智库律师",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8795dkregjfki",
+      "authorId": "3x8795dkregjfki",
+      "publishTime": "2026-03-16T13:38:37.658Z",
+      "likeCount": 3686,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1461269,
-      "collectedAt": "2026-05-25T13:40:12.528Z",
+      "viewCount": 394079,
+      "collectedAt": "2026-05-25T13:50:12.574Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -67,21 +67,22 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 65,
+        "explosionRate": 75,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用“场景+痛点+解决方案”结构。前半句“去派出所报警被大声嚷嚷”构建了一个极具冲突感和代入感的场景，后半句“怎么办”直接点明用户需求，并关联热门话题标签，引导用户寻求答案。",
+        "titleAnalysis": "标题采用“极端事件（通宵打麻将死亡）+ 法律责任问题（要赔偿吗？）”的冲突结构，直接抛出具有现实争议性和法律探讨空间的场景，引发用户好奇和讨论欲。标签#老铁帮帮团等增强了社区互动和知识科普属性。",
         "hotFactors": [
-          "强冲突场景（派出所、被嚷嚷）引发共情与好奇",
-          "精准切入“维权”这一大众痛点，提供“财富密码”式解决方案的预期",
-          "发布者“周沫讲理财”的财经属性与维权话题结合，形成跨界反差"
+          "涉及生死与法律责任的强冲突话题",
+          "贴近大众生活（麻将娱乐）的极端案例",
+          "具有法律科普和实用价值",
+          "标签引导社区互动和知识传播"
         ],
         "category": [
+          "法律科普",
           "社会热点",
-          "生活技巧",
-          "法律维权"
+          "生活案例"
         ],
-        "reason": "标题精准戳中“维权难”的普遍社会情绪，冲突场景极具代入感，能快速激发用户点击寻求解决方案的欲望。结合发布者财经属性，可能提供独特视角，具备爆款潜力。"
+        "reason": "话题兼具冲突性、实用性和法律探讨空间，易引发用户共鸣、好奇及讨论，符合快手知识类内容爆款特征。"
       }
     }
   ]

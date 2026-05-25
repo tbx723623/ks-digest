@@ -1,60 +1,42 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T13:43:32.548Z",
+  "generatedAt": "2026-05-25T13:52:47.856Z",
   "date": "2026-05-25",
-  "count": 13,
+  "count": 6,
   "items": [
     {
-      "videoId": "3xwziwgmrimtgbw",
-      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
-      "authorName": "远嫁燕子的一家",
-      "likeCount": 9433,
+      "videoId": "3x67tgisbhp2guy",
+      "title": "当快破产的你得到了真正的非洲之心… #三角洲行动 #猫meme #死对头 #三角洲行动欢乐剧场 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x67tgisbhp2guy",
+      "authorName": "小普（三角洲重生版）",
+      "likeCount": 37944,
       "commentCount": 0,
-      "explosionRate": 72,
+      "explosionRate": 75,
       "trend": "rising",
-      "hookType": "冲突",
+      "hookType": "反转",
       "category": [
-        "家庭生活",
-        "美食制作",
-        "地域文化",
-        "情感关系"
+        "游戏",
+        "搞笑",
+        "剧情"
       ],
       "estimatedTime": "1-2小时"
     },
     {
-      "videoId": "3xe7d3sjgs7b4ts",
-      "title": "计划有变，统一战线 #无畏契约 #喜爱度激励计划",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xe7d3sjgs7b4ts",
-      "authorName": "煎饼郭子（无畏契约）",
-      "likeCount": 118606,
+      "videoId": "3xatb9cc9aspae2",
+      "title": "通宵打麻将死亡，同桌牌友要赔偿吗？ #老铁帮帮团 #老铁知识百科 #知识播种计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xatb9cc9aspae2",
+      "authorName": "智库律师",
+      "likeCount": 3686,
       "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "反转",
+      "explosionRate": 75,
+      "trend": "rising",
+      "hookType": "冲突",
       "category": [
-        "游戏",
-        "战术策略",
-        "团队合作"
+        "法律科普",
+        "社会热点",
+        "生活案例"
       ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xwakwg4bwzrqjc",
-      "title": "教练课后展示武术，气场全开，飒爆全场 #武术 #武术教学 #发扬传承精武精神 #功夫",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwakwg4bwzrqjc",
-      "authorName": "武术阿杰~单招李教练",
-      "likeCount": 5976,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "爽点",
-      "category": [
-        "武术",
-        "才艺展示",
-        "正能量"
-      ],
-      "estimatedTime": "2-4小时"
+      "estimatedTime": "1-2小时"
     },
     {
       "videoId": "3xathfn4sp4cyde",
@@ -68,144 +50,8 @@
       "hookType": "反转",
       "category": [
         "游戏",
-        "剧情/情景剧",
-        "搞笑"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x6ypmb4p53fqfe",
-      "title": "带着小孙孙一起跳中国娃 #正能量 #中国娃 #爷孙组合",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6ypmb4p53fqfe",
-      "authorName": "曳舞布大叔",
-      "likeCount": 3154,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "家庭生活",
-        "才艺展示",
-        "正能量"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xmyvzd22yftks6",
-      "title": "无敌的存在～ @郭冬临·暖男先生(O3xpmagmf9982kne) #暖男先生 #郭冬临",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xmyvzd22yftks6",
-      "authorName": "郭冬临",
-      "likeCount": 11507,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "娱乐",
-        "明星",
-        "搞笑/生活"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x94nuc5tepjtbq",
-      "title": "带着程程仔陪岳父大人过生日啦，祝岳父 生日快乐，岁岁常安康，福寿绵长～",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x94nuc5tepjtbq",
-      "authorName": "湖南张焱",
-      "likeCount": 10355,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "家庭生活",
-        "情感记录",
-        "萌宠/萌娃"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x6b8mqf5wbei4s",
-      "title": "最美孝心少年，用三餐温暖疲惫父母 #厨房小能手 #小厨神 #懂事的孩子",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6b8mqf5wbei4s",
-      "authorName": "阿嗨看世界",
-      "likeCount": 2451,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "亲子家庭",
-        "正能量",
-        "生活记录"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xsdvktawhfnia2",
-      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
-      "authorName": "周沫讲理财",
-      "likeCount": 29697,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "社会热点",
-        "生活技巧",
-        "法律维权"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xpqty4z9yacbqm",
-      "title": "飞蓬草与橘子皮 #涨知识 #植物科普",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpqty4z9yacbqm",
-      "authorName": "小華佗",
-      "likeCount": 1627,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "悬念",
-      "category": [
-        "生活科普",
-        "植物知识",
-        "实用技巧"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xzpivj7fm53hra",
-      "title": "偶遇大爷跳“科目三”，好心过去教他，结果…… #大爷 #路人 #跳舞",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xzpivj7fm53hra",
-      "authorName": "HJG1",
-      "likeCount": 1768,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "反转",
-      "category": [
-        "生活记录",
-        "搞笑",
-        "街头互动"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xyzja4tda28ya9",
-      "title": "半路电瓶车没电，一直解决 #电瓶车",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xyzja4tda28ya9",
-      "authorName": "壹哥说车",
-      "likeCount": 3631,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "生活记录",
-        "出行问题",
-        "实用技巧"
+        "剧情演绎",
+        "短视频"
       ],
       "estimatedTime": "2-4小时"
     },
@@ -222,7 +68,41 @@
       "category": [
         "三农",
         "美食",
+        "乡村生活"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xme7ph9ixuuc5w",
+      "title": "#搞笑可爱的小萌娃 #人类幼崽有多可爱 #这小表情太可爱了",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xme7ph9ixuuc5w",
+      "authorName": "小金果宝贝",
+      "likeCount": 7862,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "母婴亲子",
+        "搞笑萌宠",
         "生活记录"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xwazeqb2ec2s8c",
+      "title": "为什么人老了以后，男人容易走在女人前面 #情感 #家庭 #人生百态 #知识播种计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwazeqb2ec2s8c",
+      "authorName": "董超",
+      "likeCount": 2829,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "情感",
+        "家庭",
+        "健康知识"
       ],
       "estimatedTime": "2-4小时"
     }
