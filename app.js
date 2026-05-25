@@ -2876,11 +2876,17 @@ function injectRealDataToItems() {
         category: ["解压推文", ...categories.slice(0, 2)],
         title: item.title || '未知标题',
         play: viewCount > 10000 ? `${(viewCount / 10000).toFixed(1)} 万次` : `${viewCount} 次`,
+        playCount: viewCount,
+        likeCount: likeCount,
+        shareCount: item.shareCount || 0,
+        likeText: likeCount > 10000 ? `${(likeCount/10000).toFixed(1)}万` : `${likeCount}`,
         angle: item.aiAnalysis?.titleAnalysis || `爆率${explosionRate}%，${trend === 'rising' ? '上升趋势' : '稳定'}。`,
         format: hookType ? `${hookType}型 / 真实数据` : '真实推荐流数据',
         tags: categories,
         note: `❤️${likeCount > 10000 ? (likeCount/10000).toFixed(1)+'万' : likeCount} | 爆率${explosionRate}%${item.aiAnalysis?.reason ? ' | ' + item.aiAnalysis.reason.substring(0, 50) : ''}`,
         workUrl: item.sourceUrl || '',
+        date: item.collectedAt?.slice(0, 10) || new Date().toISOString().slice(0, 10),
+        authorName: item.authorName || '',
         isReal: true,
         _source: 'explosive'
       };
