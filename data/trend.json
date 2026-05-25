@@ -1,22 +1,103 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T11:22:44.762Z",
+  "fetchedAt": "2026-05-25T11:32:33.139Z",
   "date": "2026-05-25",
-  "count": 1,
+  "count": 3,
   "items": [
     {
-      "videoId": "3x548jew68ciwky",
-      "title": "怎么办，两个都要外婆 #宝妈 #二胎家庭 #搞笑 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x548jew68ciwky",
-      "authorName": "小老师呀",
-      "authorUrl": "https://www.kuaishou.com/profile/3x7fpth3u58rk79",
-      "authorId": "3x7fpth3u58rk79",
-      "publishTime": "2026-04-22T09:03:54.343Z",
-      "likeCount": 7382,
+      "videoId": "3xies8kxwbkjj64",
+      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
+      "authorName": "甜吖",
+      "authorUrl": "https://www.kuaishou.com/profile/3xbdz5fic8euk4y",
+      "authorId": "3xbdz5fic8euk4y",
+      "publishTime": "2026-05-08T21:43:26.019Z",
+      "likeCount": 124670,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 502306,
-      "collectedAt": "2026-05-25T11:20:11.999Z",
+      "viewCount": 1290251,
+      "collectedAt": "2026-05-25T11:30:11.943Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“节日热点+平台活动+情感共鸣”三重结构。#五月嗨翻天 #五一气氛组已就位 紧扣五一假期热点，营造轻松欢乐氛围；#快手乡村超级碗 借力平台官方活动，增加曝光权重；#思白发望断崖 使用具有画面感和情感张力的歌词或短句，引发对时光、乡愁的普遍共情。整体标题信息密度高，标签精准，覆盖了热点、平台、情感三个流量入口。",
+        "hotFactors": [
+          "精准的节日热点（五一）借势",
+          "参与平台官方活动（快手乡村超级碗）获得流量扶持",
+          "标题情感共鸣强烈，易引发用户互动和分享",
+          "发布者“甜吖”可能具备一定的粉丝基础或人设吸引力"
+        ],
+        "category": [
+          "生活记录",
+          "乡村生活",
+          "节日热点",
+          "情感共鸣"
+        ],
+        "reason": "视频数据表现异常（高赞零评零转），通常意味着内容可能通过平台活动或热点获得了大量初始曝光和点赞，但互动深度不足。高点赞量表明内容本身或发布者具备吸引力，结合精准的热点和活动标签，具备持续爆发的潜力。零评论和零分享可能是数据延迟或内容偏向于“观看型”而非“讨论型”。"
+      }
+    },
+    {
+      "videoId": "3xmk7budsxwhuxg",
+      "title": "小伙带女友见家长，母亲一句话拆散 #民生 #婚姻 #内容启发分享计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xmk7budsxwhuxg",
+      "authorName": "董超育儿现场",
+      "authorUrl": "https://www.kuaishou.com/profile/3xdtvatrmw4fnfm",
+      "authorId": "3xdtvatrmw4fnfm",
+      "publishTime": "2026-02-25T08:05:00.041Z",
+      "likeCount": 4920,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 592817,
+      "collectedAt": "2026-05-25T11:30:11.943Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“事件+结果”的强冲突结构。“小伙带女友见家长”是常见生活场景，引发代入感；“母亲一句话拆散”是核心冲突点，制造强烈悬念和情绪张力，引导用户点击探寻“哪句话”以及“为何拆散”。",
+        "hotFactors": [
+          "家庭伦理冲突（婆媳/母子关系）",
+          "情感话题（婚姻、恋爱）",
+          "悬念驱动（“一句话”引发好奇）",
+          "生活化场景（见家长）易引发共鸣"
+        ],
+        "category": [
+          "情感",
+          "家庭伦理",
+          "生活剧情"
+        ],
+        "reason": "标题精准切入高热度家庭情感冲突，悬念感强，易引发用户好奇、共鸣或争议，符合快手平台情感类内容的爆款逻辑。点赞数据已显潜力，但评论和分享为零可能因视频刚发布或数据未同步，需观察后续互动增长。"
+      }
+    },
+    {
+      "videoId": "3x8w4kgmz6wk8dy",
+      "title": "#和平精英绿洲启元 #白亿爱玩狙 #整治 讲规则是讲给谁听啊",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x8w4kgmz6wk8dy",
+      "authorName": "白亿爱玩狙",
+      "authorUrl": "https://www.kuaishou.com/profile/3xtrbt8yfdqw63e",
+      "authorId": "3xtrbt8yfdqw63e",
+      "publishTime": "2026-03-12T14:55:29.075Z",
+      "likeCount": 33943,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 864950,
+      "collectedAt": "2026-05-25T11:30:11.943Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,19 +109,20 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用口语化、生活化的疑问句式（'怎么办'），直接抛出核心矛盾（'两个都要外婆'），并精准使用#宝妈、#二胎家庭、#搞笑三个高流量标签，覆盖目标人群和内容属性，易于引发共鸣和点击。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用‘游戏话题+玩家昵称+争议性事件+反问句式’结构，通过‘整治’和‘讲规则是讲给谁听啊’制造冲突感和悬念，吸引对游戏规则、玩家行为有看法的用户点击。",
         "hotFactors": [
-          "精准的母婴/家庭垂直领域定位",
-          "二胎家庭普遍存在的'争宠'矛盾引发强烈共鸣",
-          "搞笑属性降低传播门槛，易于引发分享"
+          "游戏热点话题（和平精英绿洲启元）",
+          "玩家身份标签（白亿爱玩狙）",
+          "争议性内容（整治、规则讨论）",
+          "反问句式引发互动欲望"
         ],
         "category": [
-          "母婴育儿",
-          "家庭搞笑",
-          "日常生活"
+          "游戏",
+          "游戏攻略/吐槽",
+          "玩家社区"
         ],
-        "reason": "标题精准切中二胎家庭的核心痛点与笑点，情感共鸣强，标签覆盖精准，具备在垂直领域内快速传播的潜力。点赞数据尚可，但评论和分享为零，表明内容可能缺乏足够的互动引导或深度讨论点，限制了其成为全网爆款的上限。"
+        "reason": "标题精准切入游戏社区常见争议点，利用玩家身份和反问句式制造冲突与共鸣，容易引发评论区讨论。点赞量已初步验证内容吸引力，但评论和分享数据缺失，表明互动深度或传播性有待观察，爆率中等偏上。"
       }
     }
   ]
