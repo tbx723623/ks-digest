@@ -2750,6 +2750,9 @@ function wireActions() {
       els.refreshHotBtn.textContent = "刷新中...";
       try {
         await refreshHotData({ silent: false });
+        // 同时刷新真实爆款数据
+        await loadExplosiveData();
+        safeRender("explosive", () => renderExplosivePanel());
       } finally {
         els.refreshHotBtn.disabled = false;
         els.refreshHotBtn.textContent = originalText;
@@ -2853,11 +2856,12 @@ function render() {
 
 // 加载真实爆款数据（Playwright抓取 + AI分析）
 async function loadExplosiveData() {
+  const ts = Date.now(); // 缓存破坏
   const endpoints = [
-    { url: "./data/explosive.json", key: "explosive" },
-    { url: "./data/hot.json", key: "hot" },
-    { url: "./data/predict.json", key: "predict" },
-    { url: "./data/trend.json", key: "trend" }
+    { url: `./data/explosive.json?t=${ts}`, key: "explosive" },
+    { url: `./data/hot.json?t=${ts}`, key: "hot" },
+    { url: `./data/predict.json?t=${ts}`, key: "predict" },
+    { url: `./data/trend.json?t=${ts}`, key: "trend" }
   ];
   
   const allItems = [];
