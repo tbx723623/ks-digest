@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T15:52:54.902Z",
+  "fetchedAt": "2026-05-25T16:02:50.499Z",
   "date": "2026-05-25",
-  "count": 2,
+  "count": 3,
   "items": [
     {
-      "videoId": "3xvirfkjfiwvv4a",
-      "title": "美伊停战以来，阿联酋首次遭遇大规模袭击，为何每次都是它遭殃？ #老铁看热点 #老铁知识百科 #知识播种计划 #光合计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xvirfkjfiwvv4a",
-      "authorName": "第一军情",
-      "authorUrl": "https://www.kuaishou.com/profile/3x8epkgu35by2wg",
-      "authorId": "3x8epkgu35by2wg",
-      "publishTime": "2026-05-06T08:35:02.683Z",
-      "likeCount": 6217,
+      "videoId": "3x9xnjeq8z79da4",
+      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
+      "authorName": "央视频",
+      "authorUrl": "https://www.kuaishou.com/profile/3xqbri2seru7w4e",
+      "authorId": "3xqbri2seru7w4e",
+      "publishTime": "2026-04-29T13:29:39.972Z",
+      "likeCount": 53441,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 278792,
-      "collectedAt": "2026-05-25T15:50:12.061Z",
+      "viewCount": 1636749,
+      "collectedAt": "2026-05-25T16:00:11.979Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,37 +26,77 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 78,
+        "explosionRate": 85,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“事件+疑问”结构，前半句陈述“阿联酋首次遭遇大规模袭击”这一突发新闻事实，后半句以“为何每次都是它遭殃？”的设问制造悬念，引导用户点击寻找答案。标签#老铁看热点等强化了内容的时效性和知识属性。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用‘绝不让消费者再当冤大头’的强烈否定句式，直接点明消费者痛点，引发共鸣。‘主播必须对自己带的货负责任’提出明确主张，‘绝不能当工具人’进一步强化冲突，形成对主播行为的批判性立场。整体结构为‘痛点+主张+警告’，情绪强烈，立场鲜明。",
         "hotFactors": [
-          "国际地缘政治热点（美伊关系、中东局势）",
-          "突发性冲突事件（“首次”、“大规模袭击”）",
-          "强烈的疑问钩子（“为何每次都是它？”）",
-          "发布者“第一军情”具有垂直领域权威性"
+          "央视频官方背书，权威性强",
+          "直击直播带货乱象，切中消费者核心痛点",
+          "情绪化表达，易引发共鸣和讨论",
+          "话题具有广泛社会关注度"
         ],
         "category": [
-          "国际时事",
-          "军事",
-          "地缘政治"
+          "社会热点",
+          "消费维权",
+          "直播电商"
         ],
-        "reason": "内容紧扣国际热点，标题悬念感强，能有效激发用户好奇心和讨论欲。发布者账号定位精准，有助于在目标受众中快速传播。"
+        "reason": "央视频权威发布，话题直击直播带货乱象，易引发消费者共鸣与讨论，具备高传播潜力。"
       }
     },
     {
-      "videoId": "3xv7ukwfpyaf7xa",
-      "title": "没事少和别人搅和在一起 #忠告  #情感共鸣  #人生智慧  #知识播种计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xv7ukwfpyaf7xa",
-      "authorName": "董超",
-      "authorUrl": "https://www.kuaishou.com/profile/3xba59cndhgm629",
-      "authorId": "3xba59cndhgm629",
-      "publishTime": "2026-04-11T07:25:00.089Z",
-      "likeCount": 7686,
+      "videoId": "3x45bqjr92pq936",
+      "title": "今天跟何思成真正意义上的分开了，这一次分开不知道什么时候才能相聚，没想到的是一直嬉皮笑脸的老何居然哭成这个样子 #父子 #亲子 #异地恋 #萌娃大哭",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x45bqjr92pq936",
+      "authorName": "小树树",
+      "authorUrl": "https://www.kuaishou.com/profile/3xwvj3yzskww7hw",
+      "authorId": "3xwvj3yzskww7hw",
+      "publishTime": "2026-03-23T09:04:49.835Z",
+      "likeCount": 7294,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 419904,
-      "collectedAt": "2026-05-25T15:50:12.061Z",
+      "viewCount": 449560,
+      "collectedAt": "2026-05-25T16:00:11.978Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“事件+情感反差+标签”的结构。先陈述“分开”这一核心事件，再通过“嬉皮笑脸的老何居然哭成这个样子”制造强烈的情感反差，最后用#父子 #亲子 #异地恋 #萌娃大哭等标签精准定位受众和情绪，引发共鸣。",
+        "hotFactors": [
+          "父子离别的情感冲击",
+          "“反差萌”（父亲外表与内心情感的强烈对比）",
+          "“萌娃大哭”的天然感染力",
+          "“异地”话题引发广泛共鸣"
+        ],
+        "category": [
+          "亲子",
+          "情感",
+          "生活记录"
+        ],
+        "reason": "内容聚焦普世亲情，情感真实强烈，反差设定极具戏剧性，能快速引发观众共情与讨论，具备爆款潜质。"
+      }
+    },
+    {
+      "videoId": "3x5wpqmcfbw72bs",
+      "title": "“或许这就是家 有温暖的地方 有盼头的地方 有想念的人” #修车小杨",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x5wpqmcfbw72bs",
+      "authorName": "修车小杨",
+      "authorUrl": "https://www.kuaishou.com/profile/3xthujq8xh9jdva",
+      "authorId": "3xthujq8xh9jdva",
+      "publishTime": "2026-04-20T10:29:30.660Z",
+      "likeCount": 31106,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1332570,
+      "collectedAt": "2026-05-25T16:00:11.978Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -69,18 +109,18 @@
         "explosionRate": 65,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用‘忠告’式口语化表达，以‘没事少和别人搅和在一起’为核心观点，直接点明社交边界与自我保护的主题，具有强烈的个人经验分享感和普适性，容易引发用户对自身社交经历的反思与共鸣。",
+        "titleAnalysis": "标题采用抒情散文式结构，通过排比句式（有温暖的地方、有盼头的地方、有想念的人）层层递进，营造情感共鸣。结尾点明创作者身份“修车小杨”，形成反差感（蓝领职业与细腻情感）。",
         "hotFactors": [
-          "情感共鸣与人生智慧类内容在快手有广泛受众基础",
-          "标题观点鲜明，具有争议性和讨论空间，易引发评论互动",
-          "标签精准，覆盖#忠告、#情感共鸣、#人生智慧、#知识播种计划等高流量垂类"
+          "情感共鸣（家庭、温暖、思念等普世主题）",
+          "人设反差（修车工人的文艺表达）",
+          "短视频平台对生活化、正能量内容的流量扶持"
         ],
         "category": [
-          "情感",
-          "人生感悟",
-          "社交关系"
+          "生活记录",
+          "情感共鸣",
+          "正能量"
         ],
-        "reason": "内容切中大众对社交疲惫、边界感的普遍情绪，观点明确易传播，但评论和分享数据暂未体现爆发迹象，需观察后续互动增长。"
+        "reason": "标题情感真挚易引发共鸣，蓝领人设与文艺表达的反差具有记忆点，符合平台内容趋势。但评论和分享数据缺失可能反映互动引导不足或数据未更新，影响爆发上限。"
       }
     }
   ]
