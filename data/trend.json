@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T11:13:46.235Z",
+  "fetchedAt": "2026-05-25T11:22:44.762Z",
   "date": "2026-05-25",
   "count": 1,
   "items": [
     {
-      "videoId": "3xsdvktawhfnia2",
-      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
-      "authorName": "周沫讲理财",
-      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
-      "authorId": "3xhinyavn5y69uc",
-      "publishTime": "2026-04-22T11:27:31.413Z",
-      "likeCount": 29601,
+      "videoId": "3x548jew68ciwky",
+      "title": "怎么办，两个都要外婆 #宝妈 #二胎家庭 #搞笑 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x548jew68ciwky",
+      "authorName": "小老师呀",
+      "authorUrl": "https://www.kuaishou.com/profile/3x7fpth3u58rk79",
+      "authorId": "3x7fpth3u58rk79",
+      "publishTime": "2026-04-22T09:03:54.343Z",
+      "likeCount": 7382,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1457110,
-      "collectedAt": "2026-05-25T11:10:12.153Z",
+      "viewCount": 502306,
+      "collectedAt": "2026-05-25T11:20:11.999Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,19 +28,19 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“问题+场景”结构，前半句“去派出所报警被大声嚷嚷”描述了一个具体、反常且带有冲突性的场景，后半句“怎么办”直接点明用户痛点，引发好奇和共鸣。标签#维权、#老铁财富密码、#老铁看热点精准定位了目标受众（关注维权、热点和实用信息的用户），并利用了平台热门标签增加曝光。",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用口语化、生活化的疑问句式（'怎么办'），直接抛出核心矛盾（'两个都要外婆'），并精准使用#宝妈、#二胎家庭、#搞笑三个高流量标签，覆盖目标人群和内容属性，易于引发共鸣和点击。",
         "hotFactors": [
-          "强烈的现实冲突与共情点（公权力与普通人的摩擦）",
-          "精准的痛点切入（维权难、遭遇不公）",
-          "利用平台热门标签（#老铁看热点）蹭流量"
+          "精准的母婴/家庭垂直领域定位",
+          "二胎家庭普遍存在的'争宠'矛盾引发强烈共鸣",
+          "搞笑属性降低传播门槛，易于引发分享"
         ],
         "category": [
-          "社会热点",
-          "法律维权",
-          "生活技巧"
+          "母婴育儿",
+          "家庭搞笑",
+          "日常生活"
         ],
-        "reason": "视频内容切中社会普遍关注的“维权难”痛点，场景具体、冲突性强，极易引发用户共鸣和讨论。标题结构清晰，标签精准，具备在快手平台引发广泛传播的潜力。但评论和分享数据缺失，可能影响最终爆发力。"
+        "reason": "标题精准切中二胎家庭的核心痛点与笑点，情感共鸣强，标签覆盖精准，具备在垂直领域内快速传播的潜力。点赞数据尚可，但评论和分享为零，表明内容可能缺乏足够的互动引导或深度讨论点，限制了其成为全网爆款的上限。"
       }
     }
   ]
