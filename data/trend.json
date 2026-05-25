@@ -1,22 +1,260 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T09:13:49.553Z",
+  "fetchedAt": "2026-05-25T09:23:24.207Z",
   "date": "2026-05-25",
-  "count": 1,
+  "count": 9,
   "items": [
     {
-      "videoId": "3x92m6snhrrqczm",
-      "title": "即使关系再好也别对别人说这7句话，否则会吃大亏！ #智慧人生 #实话实说 #快聊新闻 #人性 @快手创作者中心(O3xrgtux2ehryffe) @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手主持人(O3xnewxpguishmsc)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x92m6snhrrqczm",
-      "authorName": "百灵新闻",
-      "authorUrl": "https://www.kuaishou.com/profile/3xpvy73digzwd59",
-      "authorId": "3xpvy73digzwd59",
-      "publishTime": "2026-05-19T08:28:53.139Z",
-      "likeCount": 2716,
+      "videoId": "3xjk2kb2igpczwq",
+      "title": " @喜欢吃牛又饼(O3xnnpv3xbjfk8tw) 的精彩视频",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xjk2kb2igpczwq",
+      "authorName": "喜欢吃牛又饼",
+      "authorUrl": "https://www.kuaishou.com/profile/3xnnpv3xbjfk8tw",
+      "authorId": "3xnnpv3xbjfk8tw",
+      "publishTime": "2026-05-04T07:30:30.026Z",
+      "likeCount": 203196,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 159970,
-      "collectedAt": "2026-05-25T09:10:11.893Z",
+      "viewCount": 1527291,
+      "collectedAt": "2026-05-25T09:20:12.675Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 80,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": [
+          "点赞率异常偏高"
+        ]
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题为用户昵称+“的精彩视频”，属于典型的个人生活记录或才艺展示类标题，缺乏具体信息点，但用户昵称“喜欢吃牛又饼”具有生活化、接地气的特点，容易引发特定兴趣群体的共鸣。",
+        "hotFactors": [
+          "高点赞量（20.3万）表明内容已获得初步认可，具备传播基础",
+          "用户昵称具有生活化、趣味性，可能吸引美食或生活记录爱好者"
+        ],
+        "category": [
+          "生活记录",
+          "美食"
+        ],
+        "reason": "尽管评论和分享数据缺失，但20.3万的点赞量远超普通视频，表明内容本身具有较强吸引力或情感共鸣点，可能通过算法推荐或私域流量（如粉丝群）获得了初始爆发。标题虽简单，但结合用户昵称，可能指向一个垂直领域（如美食制作或吃播）的优质内容。"
+      }
+    },
+    {
+      "videoId": "3xcm3uanuh6ggza",
+      "title": "eat不到",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xcm3uanuh6ggza",
+      "authorName": "乖乖妹",
+      "authorUrl": "https://www.kuaishou.com/profile/3x4vv6vcpnd3xvc",
+      "authorId": "3x4vv6vcpnd3xvc",
+      "publishTime": "2026-05-12T15:10:20.641Z",
+      "likeCount": 52984,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 485400,
+      "collectedAt": "2026-05-25T09:20:12.675Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 80,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": [
+          "点赞率异常偏高"
+        ]
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题使用网络流行语'eat不到'（谐音'得不到'），结合数字'5.3万'形成强烈反差，暗示内容可能涉及情感、美食或挑战类话题，具有极强的悬念感和话题性。",
+        "hotFactors": [
+          "网络流行语引发共鸣",
+          "数据反差制造悬念",
+          "情感/挑战类内容易传播"
+        ],
+        "category": [
+          "情感",
+          "生活",
+          "挑战"
+        ],
+        "reason": "标题利用网络热梗和数据反差制造悬念，符合快手用户偏好，点赞量高但互动数据异常可能暗示内容有争议性或平台推荐机制介入，具备爆款潜力。"
+      }
+    },
+    {
+      "videoId": "3xv59nj8uuru3bi",
+      "title": "原以为员工话痨锤锤换座后会安静，岂料他手语和自言自语更是顶尖 #喜爱度激励计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xv59nj8uuru3bi",
+      "authorName": "开心锤锤",
+      "authorUrl": "https://www.kuaishou.com/profile/3xjqwcb3stdnz9k",
+      "authorId": "3xjqwcb3stdnz9k",
+      "publishTime": "2026-05-22T09:31:46.340Z",
+      "likeCount": 77126,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1132088,
+      "collectedAt": "2026-05-25T09:20:12.675Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "反转",
+        "titleAnalysis": "采用“预期违背”结构：前半句“原以为...会安静”建立观众预期，后半句“岂料...更是顶尖”形成强烈反转，制造悬念和喜剧效果。标签#喜爱度激励计划暗示平台活动，可能获得流量扶持。",
+        "hotFactors": [
+          "反差喜剧效果",
+          "职场/办公室日常共鸣",
+          "平台活动标签加持"
+        ],
+        "category": [
+          "搞笑",
+          "职场",
+          "生活"
+        ],
+        "reason": "标题反转强烈，符合短视频“意外感”爆款逻辑；职场话题易引发共鸣；点赞量高但互动数据异常（评论/分享为0），可能处于流量爬升期或数据未完全更新，结合平台活动标签，爆率较高。"
+      }
+    },
+    {
+      "videoId": "3xn4daamdu78qb4",
+      "title": "明知道她会拿去卖钱 可你还是签了#王安宇 #温柔 #真诚 #签名",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xn4daamdu78qb4",
+      "authorName": "土豆爱吃娱",
+      "authorUrl": "https://www.kuaishou.com/profile/3xndpiu98272mp9",
+      "authorId": "3xndpiu98272mp9",
+      "publishTime": "2026-03-09T10:42:20.946Z",
+      "likeCount": 469897,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 11601327,
+      "collectedAt": "2026-05-25T09:20:12.675Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“明知道...可你还是...”的转折句式，前半句点明现实（被卖钱），后半句强调明星的“温柔”与“真诚”，形成强烈的情感反差，直接击中粉丝心理。",
+        "hotFactors": [
+          "明星效应（王安宇）",
+          "情感共鸣（温柔、真诚的偶像行为）",
+          "反差叙事（明知被利用仍选择善意）",
+          "粉丝经济与情感投射"
+        ],
+        "category": [
+          "娱乐明星",
+          "粉丝文化",
+          "情感向"
+        ],
+        "reason": "标题精准捕捉了粉丝对偶像“温柔人设”的情感需求，通过反差叙事引发强烈共鸣，明星话题自带流量，易引发点赞和情感互动。"
+      }
+    },
+    {
+      "videoId": "3x8qnfr3872i36i",
+      "title": "接下来你将看到独一无二的“原始部落奇观” #李忆探险家 #部落 #探险 #记录 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x8qnfr3872i36i",
+      "authorName": "李忆在途中",
+      "authorUrl": "https://www.kuaishou.com/profile/3xu3en74x6gktn6",
+      "authorId": "3xu3en74x6gktn6",
+      "publishTime": "2026-04-24T03:58:01.248Z",
+      "likeCount": 265924,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 13680259,
+      "collectedAt": "2026-05-25T09:20:12.678Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用‘预告式’结构，‘接下来你将看到’直接制造悬念和期待感，‘独一无二的原始部落奇观’点明核心看点，强调稀缺性和视觉冲击力。标签#李忆探险家 #部落 #探险 #记录 精准定位内容领域和创作者IP，便于算法推荐和粉丝识别。",
+        "hotFactors": [
+          "稀缺性内容（原始部落）",
+          "强视觉冲击力（奇观）",
+          "知名探险家IP（李忆）",
+          "悬念式标题引导完播"
+        ],
+        "category": [
+          "探险纪实",
+          "人文奇观",
+          "旅行Vlog"
+        ],
+        "reason": "标题悬念感强，精准切入稀缺性探险题材，结合知名IP‘李忆探险家’的粉丝基础，高点赞量（26.6万）表明内容已获初步验证，具备持续发酵潜力。评论和分享数据为0可能是数据抓取延迟或平台显示问题，不影响整体爆率判断。"
+      }
+    },
+    {
+      "videoId": "3xgg4dkgvbarkfe",
+      "title": "春天了，天气舒服",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgg4dkgvbarkfe",
+      "authorName": "玲玲子",
+      "authorUrl": "https://www.kuaishou.com/profile/3xurqspm2vuynaw",
+      "authorId": "3xurqspm2vuynaw",
+      "publishTime": "2026-04-03T07:33:30.099Z",
+      "likeCount": 183775,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 12379103,
+      "collectedAt": "2026-05-25T09:20:12.678Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用口语化、生活化的表达，以季节和天气为切入点，营造出轻松、舒适、向往美好生活的氛围，极易引发用户共鸣和互动欲望。",
+        "hotFactors": [
+          "强烈的季节共情与生活共鸣",
+          "简洁明了、易于传播的口语化表达",
+          "符合快手平台记录美好生活、分享日常的社区氛围"
+        ],
+        "category": [
+          "生活记录",
+          "情感共鸣",
+          "季节话题"
+        ],
+        "reason": "标题精准捕捉春季天气转暖带来的普遍愉悦感，具有极强的共情属性和传播潜力，高点赞量（18.4万）已证明其内容或情绪引发了广泛共鸣，符合短视频平台爆款内容的典型特征。"
+      }
+    },
+    {
+      "videoId": "3xdk7pmdy83c66w",
+      "title": "老外第一次体验高铁商务座，居然连吃带拿！\n#TC在中国 #复兴号智能动车组 #chinatravel",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xdk7pmdy83c66w",
+      "authorName": "老外在中国",
+      "authorUrl": "https://www.kuaishou.com/profile/3xvi38mwv33w2s6",
+      "authorId": "3xvi38mwv33w2s6",
+      "publishTime": "2026-05-18T06:24:01.813Z",
+      "likeCount": 3056,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 407380,
+      "collectedAt": "2026-05-25T09:20:12.675Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,20 +266,97 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“数字+警告+后果”的经典结构，通过“7句话”、“别对别人说”、“会吃大亏”等关键词制造信息缺口和紧迫感，直接瞄准用户对人际关系和自我保护的焦虑点。",
+        "hookType": "反转",
+        "titleAnalysis": "采用“外国人+意外行为”结构，通过“居然连吃带拿”制造反差和悬念，符合猎奇心理。",
         "hotFactors": [
-          "实用社交禁忌清单",
-          "直击人性弱点与社交痛点",
-          "强警示性标题引发好奇",
-          "关联多个官方热点话题标签"
+          "外国人视角（文化差异）",
+          "高铁商务座（高端体验）",
+          "连吃带拿（行为反转）"
         ],
         "category": [
-          "社会情感",
-          "人性洞察",
-          "生活技巧"
+          "旅行见闻",
+          "文化体验",
+          "高铁"
         ],
-        "reason": "标题精准切中大众对人际交往的普遍焦虑，采用“数字清单+警告”形式易于传播，且关联平台热点标签，具备较强的点击和分享潜力。但评论和分享数据为零，可能处于流量测试初期或内容互动性不足。"
+        "reason": "标题利用文化反差和意外行为制造强钩子，题材符合平台热门标签，数据初期表现良好，有破圈潜力。"
+      }
+    },
+    {
+      "videoId": "3xry8n3jp4farm9",
+      "title": "妈妈的暖心小棉袄 #可爱萌娃 #萌娃搞笑 #家庭搞笑 #萌娃日常 @快手平台帐号(O3xa3cpv8sghbu8m) @快手粉条(O3xhcy6vhfzcu3qe)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xry8n3jp4farm9",
+      "authorName": "小四妹爱搞笑",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8n2ynk2c8x5nq",
+      "authorId": "3x8n2ynk2c8x5nq",
+      "publishTime": "2026-05-18T09:36:19.599Z",
+      "likeCount": 14629,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1428327,
+      "collectedAt": "2026-05-25T09:20:12.678Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“情感标签+内容标签”结构，前半句“妈妈的暖心小棉袄”直接点明核心情感（亲子温情），后半句通过多个热门标签（#可爱萌娃 #萌娃搞笑等）覆盖搜索流量，@快手平台帐号和@快手粉条可能用于增加曝光或参与活动。",
+        "hotFactors": [
+          "萌娃内容自带流量基础",
+          "家庭温情主题易引发共鸣",
+          "标签覆盖多个热门分类"
+        ],
+        "category": [
+          "亲子萌娃",
+          "家庭搞笑",
+          "日常生活"
+        ],
+        "reason": "萌娃+家庭温情是快手高流量题材，标题情感明确且标签丰富，点赞量已破万显示初期数据良好，但评论和分享为零可能反映互动引导不足或数据未更新，整体具备爆款潜力。"
+      }
+    },
+    {
+      "videoId": "3xphcvci8jzubr4",
+      "title": "主播能打人吗\n #美食#芝士#芝士就是力量#芝士控#阿朴社长芝士排骨",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xphcvci8jzubr4",
+      "authorName": "Ss.🌺",
+      "authorUrl": "https://www.kuaishou.com/profile/3x35xzfkgrhbk56",
+      "authorId": "3x35xzfkgrhbk56",
+      "publishTime": "2026-05-24T10:24:53.225Z",
+      "likeCount": 10234,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1662846,
+      "collectedAt": "2026-05-25T09:20:12.675Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用疑问句式制造悬念，结合暴力词汇‘打人’与美食场景形成强烈反差，引发用户好奇点击。",
+        "hotFactors": [
+          "冲突性标题引发好奇",
+          "美食垂类精准流量",
+          "芝士类内容自带传播属性"
+        ],
+        "category": [
+          "美食",
+          "剧情反转",
+          "猎奇"
+        ],
+        "reason": "标题冲突感强，易引发互动讨论；美食标签精准，但评论分享数据缺失可能限制传播深度。"
       }
     }
   ]
