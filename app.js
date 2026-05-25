@@ -2754,7 +2754,8 @@ function wireActions() {
         await loadExplosiveData();
         // 将真实数据注入到今日案例
         injectRealDataToItems();
-        safeRender("explosive", () => renderExplosivePanel());
+        // 重新渲染整个页面（包括今日案例卡片）
+        render();
       } finally {
         els.refreshHotBtn.disabled = false;
         els.refreshHotBtn.textContent = originalText;
