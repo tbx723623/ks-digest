@@ -1,7 +1,126 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T18:13:02.178Z",
+  "fetchedAt": "2026-05-25T18:23:10.468Z",
   "date": "2026-05-25",
-  "count": 0,
-  "items": []
+  "count": 3,
+  "items": [
+    {
+      "videoId": "3x45cv2wp8h4m26",
+      "title": "当你不小心进入了黑屋局...",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x45cv2wp8h4m26",
+      "authorName": "小博博（三角洲行动）",
+      "authorUrl": "https://www.kuaishou.com/profile/3xp32848ru2cqhc",
+      "authorId": "3xp32848ru2cqhc",
+      "publishTime": "2026-03-17T03:13:44.652Z",
+      "likeCount": 42576,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1051758,
+      "collectedAt": "2026-05-25T18:20:11.990Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用‘当你...’的第二人称视角，直接将观众代入情境。‘不小心’暗示意外和未知，‘黑屋局’是游戏《三角洲行动》中的高风险高回报玩法，自带紧张感和话题性。标题结构简洁，悬念感强，能有效激发好奇心和点击欲。",
+        "hotFactors": [
+          "游戏热门玩法（黑屋局）自带流量",
+          "悬念式标题引发好奇",
+          "第一人称代入感强"
+        ],
+        "category": [
+          "游戏",
+          "三角洲行动",
+          "游戏实况/高光时刻"
+        ],
+        "reason": "标题精准切入游戏核心高热度玩法，悬念钩子强，能有效吸引目标玩家群体点击。点赞量高而评论/分享为0，可能是数据延迟或初期爆发阶段，符合潜力爆款特征。"
+      }
+    },
+    {
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
+      "authorId": "3xa85jgbhtm6hic",
+      "publishTime": "2026-05-09T07:36:21.512Z",
+      "likeCount": 21989,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 495798,
+      "collectedAt": "2026-05-25T18:20:11.990Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用‘定性+归因’结构，直接点明核心矛盾（‘台独’与‘台海和平’），并使用‘罪魁祸首’这一强烈定性词汇，立场鲜明，情绪冲击力强，符合时政类内容的传播特点。",
+        "hotFactors": [
+          "官方权威信源（国防部发布）",
+          "涉及国家主权与领土完整的核心议题",
+          "标题立场鲜明、情绪煽动性强",
+          "符合平台主流价值观与流量扶持方向"
+        ],
+        "category": [
+          "时政",
+          "军事",
+          "爱国主义"
+        ],
+        "reason": "由官方权威账号发布，议题高度敏感且符合主流叙事，标题冲突性强，极易引发爱国情绪共鸣与广泛传播，具备高爆款潜力。"
+      }
+    },
+    {
+      "videoId": "3xeifpswxw2gzmc",
+      "title": "开河蚌的一天，开出许多淡紫色的珍珠",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xeifpswxw2gzmc",
+      "authorName": "捡蚌人",
+      "authorUrl": "https://www.kuaishou.com/profile/3xktr2634u7m7my",
+      "authorId": "3xktr2634u7m7my",
+      "publishTime": "2026-05-09T09:54:51.253Z",
+      "likeCount": 9533,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1337200,
+      "collectedAt": "2026-05-25T18:20:11.990Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "爽点",
+        "titleAnalysis": "标题采用“过程+结果”的叙事结构，前半句“开河蚌的一天”交代了日常化、连续性的动作场景，后半句“开出许多淡紫色的珍珠”直接呈现了高价值、稀有且视觉吸引力强的结果，形成强烈的期待感和满足感。",
+        "hotFactors": [
+          "稀缺性（淡紫色珍珠）",
+          "过程解压与收获满足感",
+          "自然/户外题材的普适吸引力"
+        ],
+        "category": [
+          "户外探索",
+          "手工艺/开蚌",
+          "生活记录"
+        ],
+        "reason": "视频结合了“过程解压”和“稀有收获”两大核心爽点，淡紫色珍珠的稀缺性提供了强烈的视觉冲击和话题性，容易引发用户的好奇、羡慕和分享欲。点赞量高但互动（评论/分享）为零，可能处于流量爬升初期，后续有爆发潜力。"
+      }
+    }
+  ]
 }

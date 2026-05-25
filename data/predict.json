@@ -1,40 +1,139 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T18:13:02.179Z",
+  "generatedAt": "2026-05-25T18:23:10.471Z",
   "date": "2026-05-25",
-  "count": 7,
+  "count": 9,
   "items": [
     {
-      "videoId": "3x4ei4qffmvegxs",
-      "title": "今天可能位置没选对没钓到龙虾，今天买了点做了个麻辣龙虾看着还不错吧，你们老家河里能掉龙虾了没？#农村守护人 #三农 #记录真实生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4ei4qffmvegxs",
-      "authorName": "李会儿、、",
-      "likeCount": 7418,
+      "videoId": "3x45cv2wp8h4m26",
+      "title": "当你不小心进入了黑屋局...",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x45cv2wp8h4m26",
+      "authorName": "小博博（三角洲行动）",
+      "likeCount": 42576,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "悬念",
+      "category": [
+        "游戏",
+        "三角洲行动",
+        "游戏实况/高光时刻"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "likeCount": 21989,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "冲突",
+      "category": [
+        "时政",
+        "军事",
+        "爱国主义"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xqa4gf8uqwhpni",
+      "title": "……",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xqa4gf8uqwhpni",
+      "authorName": "国防时报",
+      "likeCount": 9731,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
-      "hookType": "共情",
+      "hookType": "悬念",
       "category": [
-        "三农",
-        "美食",
-        "生活记录"
+        "军事国防",
+        "时事资讯"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xt764v8v8wn869",
-      "title": "狗子：老登你要辣亖我吗？！ #萌宠春日大赏 #喜爱度激励计划  #快成长计划  #快手宠物天团",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xt764v8v8wn869",
-      "authorName": "辛巴和汤圆",
-      "likeCount": 1243,
+      "videoId": "3xdx6n8n9ce6vsc",
+      "title": "#龙虾烧烤店下酒菜 #白灼鱿鱼 #白灼鱿鱼做法 #白灼鱿鱼做法流程",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xdx6n8n9ce6vsc",
+      "authorName": "虾先生",
+      "likeCount": 27497,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "爽点",
+      "category": [
+        "美食教程",
+        "家常菜",
+        "海鲜烹饪"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xz93mpinnecfqa",
+      "title": "六省铁血军，日军最不愿重提的事 #老铁知识百科 #春节新知锦囊 #我在快手涨知识  @快手热点(O3xddgkd5fav5if9)  @快手粉条(O3xhcy6vhfzcu3qe) ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xz93mpinnecfqa",
+      "authorName": "三藏好物真选",
+      "likeCount": 2107,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "冲突",
       "category": [
-        "宠物",
-        "搞笑",
-        "生活"
+        "历史军事",
+        "爱国教育"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xsdvktawhfnia2",
+      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
+      "authorName": "周沫讲理财",
+      "likeCount": 29885,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "社会民生",
+        "法律维权",
+        "生活技巧"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xfv3snjgtqh6u6",
+      "title": " @穗岁剧场(O3xc6eti7hmk2qzm) 的精彩视频",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xfv3snjgtqh6u6",
+      "authorName": "穗岁剧场",
+      "likeCount": 13448,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "悬念",
+      "category": [
+        "短剧",
+        "剧情"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xeifpswxw2gzmc",
+      "title": "开河蚌的一天，开出许多淡紫色的珍珠",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xeifpswxw2gzmc",
+      "authorName": "捡蚌人",
+      "likeCount": 9533,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "rising",
+      "hookType": "爽点",
+      "category": [
+        "户外探索",
+        "手工艺/开蚌",
+        "生活记录"
       ],
       "estimatedTime": "2-4小时"
     },
@@ -43,82 +142,15 @@
       "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
       "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
       "authorName": "远嫁燕子的一家",
-      "likeCount": 9464,
+      "likeCount": 9465,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "冲突",
       "category": [
-        "美食",
-        "家庭生活",
-        "地域文化"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xprptagbjhj442",
-      "title": "地道宜宾风味牛腩烧萝卜，牛腩软烂萝卜清甜，暖乎乎超治愈 #爱生活爱美食做菜我是认真的加油  #简单的饭菜都是家的味道 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xprptagbjhj442",
-      "authorName": "美食米阿米",
-      "likeCount": 3435,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
+        "生活记录",
         "美食制作",
-        "家常菜",
-        "地方风味"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x5gfv6yeg9ygfs",
-      "title": "东子教做家常菜，家常炒面 #吃好喝好过春天 #老铁教你做好菜 #云南泼水节 #炒面做法 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x5gfv6yeg9ygfs",
-      "authorName": "厨匠东哥",
-      "likeCount": 15380,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "爽点",
-      "category": [
-        "美食",
-        "生活技巧",
-        "家常菜"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xberfhwd2jmjui",
-      "title": "套马杆童声版，经典永不过时，前奏一响DNA就动了 #套马杆 #经典老歌 #前奏一响拾起多少人的回忆 #面妹孔佳奇",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xberfhwd2jmjui",
-      "authorName": "面妹《孔佳奇》",
-      "likeCount": 2806,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "音乐",
-        "怀旧",
-        "翻唱"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x99hjbcb24f3i9",
-      "title": "#伤感音乐",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x99hjbcb24f3i9",
-      "authorName": "初心车载音乐库",
-      "likeCount": 50853,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "情感",
-        "音乐"
+        "家庭情感"
       ],
       "estimatedTime": "2-4小时"
     }
