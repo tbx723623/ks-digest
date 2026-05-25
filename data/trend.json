@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T16:52:50.279Z",
+  "fetchedAt": "2026-05-25T17:03:00.104Z",
   "date": "2026-05-25",
   "count": 3,
   "items": [
     {
-      "videoId": "3xcrrsi42pxecfu",
-      "title": "豫剧《清风亭》感染力有多顶？唱哭一片男观众，剧团琴师后台怀念父亲泣不成声！李树建：豫剧有着很大教育意义。 #豫剧  #感动瞬间  #李树建  #戏曲",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xcrrsi42pxecfu",
-      "authorName": "山东卫视",
-      "authorUrl": "https://www.kuaishou.com/profile/3xtqwqv33gfjh8c",
-      "authorId": "3xtqwqv33gfjh8c",
-      "publishTime": "2026-04-13T09:15:46.026Z",
-      "likeCount": 5788,
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
+      "authorId": "3xa85jgbhtm6hic",
+      "publishTime": "2026-05-09T07:36:21.512Z",
+      "likeCount": 21988,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 196892,
-      "collectedAt": "2026-05-25T16:50:11.928Z",
+      "viewCount": 495538,
+      "collectedAt": "2026-05-25T17:00:11.916Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,36 +28,34 @@
       "aiAnalysis": {
         "explosionRate": 85,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“疑问+场景+权威背书”结构。先以“感染力有多顶？”制造悬念和期待，再用“唱哭一片男观众”和“琴师后台泣不成声”两个具体、强烈的情感场景进行冲击，最后引用名家李树建的话点明“教育意义”，提升了内容的深度和权威性。标签精准，覆盖了戏曲、情感和名人。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“定性指控+后果归因”结构，直接点名“台独”并将其定性为“罪魁祸首”，立场鲜明、情绪强烈，符合平台对重大时政议题的传播逻辑。",
         "hotFactors": [
-          "强烈的情感共鸣（亲情、孝道）",
-          "真实、意外的幕后花絮（琴师崩溃）",
-          "名家（李树建）的权威背书与升华",
-          "“男观众”这一特定群体的反差感，增强了话题性"
+          "官方权威信源（国防部发布）",
+          "涉及国家主权与领土完整的核心议题",
+          "标题情绪强烈，易引发爱国共鸣与讨论"
         ],
         "category": [
-          "戏曲",
-          "情感",
-          "传统文化",
-          "社会正能量"
+          "时政",
+          "军事",
+          "爱国"
         ],
-        "reason": "内容精准击中了“亲情”这一普世情感痛点，通过台上台下双重真实的情感爆发（观众与琴师）形成强烈共情。结合名家解读，既有情感冲击力又有文化深度，极易引发广泛共鸣和转发。"
+        "reason": "由权威部门发布，议题重大且立场鲜明，极易在特定用户群体中引发强烈共鸣与传播，但评论/分享数据缺失可能反映平台限流或用户互动谨慎。"
       }
     },
     {
-      "videoId": "3x8vae2k43x9ckg",
-      "title": "镇上医院的医生水泵坏了，大家都是熟人，我拿回来修旧如新，本来打算把草莓淋一下农家肥，没想到力量太大，把草莓地都冲坏了。",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x8vae2k43x9ckg",
-      "authorName": "林果儿 🦋",
-      "authorUrl": "https://www.kuaishou.com/profile/3xirv2h4pgvkbye",
-      "authorId": "3xirv2h4pgvkbye",
-      "publishTime": "2026-03-17T09:20:38.877Z",
-      "likeCount": 14390,
+      "videoId": "3xssy7sp6svnzqi",
+      "title": "我才不要温柔清冷 我要当紫荆城最娇贵明艳俏皮的刁蛮格格 #重生之我在故宫当格格",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xssy7sp6svnzqi",
+      "authorName": "羽儿‼️",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8cvucb9tsieay",
+      "authorId": "3x8cvucb9tsieay",
+      "publishTime": "2026-05-08T13:40:28.811Z",
+      "likeCount": 10192,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 630477,
-      "collectedAt": "2026-05-25T16:50:11.928Z",
+      "viewCount": 486968,
+      "collectedAt": "2026-05-25T17:00:11.916Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -69,35 +67,34 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用‘事件铺垫+意外反转’结构。前半段‘医生水泵坏了，熟人帮忙修好’建立正面、互助的叙事，后半段‘力量太大冲坏草莓地’形成强烈反差和意外结局，制造了戏剧性和幽默感。",
+        "hookType": "爽点",
+        "titleAnalysis": "标题采用第一人称宣言式结构，前半句否定常规（温柔清冷），后半句用强烈对比（娇贵明艳俏皮刁蛮）塑造鲜明人设，并结合热门IP（故宫/格格）和网络热梗（重生），形成记忆点。",
         "hotFactors": [
-          "意外反转的戏剧性结局",
-          "乡村熟人社会的互助温情",
-          "接地气的农家生活场景",
-          "‘修旧如新’与‘冲坏草莓地’的强烈对比"
+          "人设反差与爽感（刁蛮格格）",
+          "结合热门文化IP（故宫）与网文梗（重生）",
+          "强视觉与情绪关键词（明艳俏皮）"
         ],
         "category": [
-          "三农生活",
-          "乡村纪实",
-          "幽默搞笑"
+          "古风/宫廷",
+          "人设演绎",
+          "网文改编"
         ],
-        "reason": "标题通过‘好心办坏事’的意外反转制造了强烈的喜剧效果和话题性，符合快手用户对真实、有趣、接地气内容的偏好，容易引发共鸣和讨论。"
+        "reason": "标题精准切中“反套路”与“人设爽感”两大流量密码，结合故宫IP与重生梗，易引发好奇与代入感。点赞数据初显潜力，但互动数据缺失，需观察后续评论与分享趋势。"
       }
     },
     {
-      "videoId": "3xx2bsk87xcwrhu",
-      "title": "中国一旦启动一级战备！我们普通人该怎么办？   #未来战争",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xx2bsk87xcwrhu",
-      "authorName": "哇趣",
-      "authorUrl": "https://www.kuaishou.com/profile/3xu2wtxwp8gmqy6",
-      "authorId": "3xu2wtxwp8gmqy6",
-      "publishTime": "2026-04-27T04:35:54.252Z",
-      "likeCount": 5169,
+      "videoId": "3xxq7bspdzc24ag",
+      "title": "安宰贤你小子也是有点不安分呐 #王楚钦 #安宰贤 #采访",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xxq7bspdzc24ag",
+      "authorName": "酷的公告牌",
+      "authorUrl": "https://www.kuaishou.com/profile/3xuch7zqytwzjuq",
+      "authorId": "3xuch7zqytwzjuq",
+      "publishTime": "2026-05-11T05:39:55.627Z",
+      "likeCount": 7979,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 247890,
-      "collectedAt": "2026-05-25T16:50:11.928Z",
+      "viewCount": 224173,
+      "collectedAt": "2026-05-25T17:00:11.916Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -109,18 +106,20 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“假设+疑问”结构，通过“一旦启动一级战备”这一高度敏感且具有想象空间的假设场景，直接抛出与普通人切身相关的生存问题，制造强烈的悬念和代入感，符合短视频平台对“信息差”和“危机感”内容的偏好。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用‘人设反差+悬念提问’结构。前半句‘安宰贤你小子也是有点不安分呐’通过口语化、略带调侃的语气，暗示人物行为与公众预期（如乖巧、稳重）存在反差，制造冲突感。后半句通过话题标签#王楚钦 #安宰贤 #采访，精准关联体育明星（王楚钦）和娱乐/体育人物（安宰贤），利用明星效应和跨界话题吸引流量。",
         "hotFactors": [
-          "国家安全与军事话题自带流量和讨论度",
-          "将宏大叙事与个人生存焦虑结合，引发广泛共情"
+          "明星效应（王楚钦、安宰贤）",
+          "人设反差与冲突感",
+          "口语化、网感强的标题",
+          "体育+娱乐跨界话题"
         ],
         "category": [
-          "军事",
-          "社会",
-          "科普"
+          "体育",
+          "娱乐",
+          "明星八卦"
         ],
-        "reason": "标题精准切中公众对国家安全、战争风险的潜在关注与焦虑，悬念钩子强，易引发好奇点击和评论区讨论。点赞量尚可，但评论和分享为0，可能因内容敏感或平台限流，若后续互动数据起来，仍有爆款潜力。"
+        "reason": "标题利用明星关联和人设反差制造冲突与悬念，符合短视频爆款逻辑。点赞量较高但互动（评论、分享）为零，可能处于流量爬升初期或数据异常，若内容本身有爆点，仍有上升潜力。"
       }
     }
   ]
