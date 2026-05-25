@@ -1,22 +1,61 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T07:53:30.942Z",
+  "fetchedAt": "2026-05-25T08:02:23.820Z",
   "date": "2026-05-25",
-  "count": 2,
+  "count": 3,
   "items": [
     {
-      "videoId": "3xz89tbafdw9mmc",
-      "title": "这些毒食品千万别吃了 #知识播种计划 #喜爱度激励计划 #老铁看热点 #快聊新闻 @快手热点(O3xddgkd5fav5if9) @快手主持人(O3xnewxpguishmsc) @快手创作者中心(O3xrgtux2ehryffe) @快手粉条(O3xhcy6vhfzcu3qe)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz89tbafdw9mmc",
-      "authorName": "我是大梅",
-      "authorUrl": "https://www.kuaishou.com/profile/3xzykq475a5qzxq",
-      "authorId": "3xzykq475a5qzxq",
-      "publishTime": "2026-04-23T15:11:21.316Z",
-      "likeCount": 3676,
+      "videoId": "3x6bvq9nhkgutum",
+      "title": "硬核老爸在线开方，一招治好不想上班......\r\n#陈佩斯  #陈大愚 #工作压力大  #调休 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6bvq9nhkgutum",
+      "authorName": "陈佩斯父与子",
+      "authorUrl": "https://www.kuaishou.com/profile/3x64kzif8d4dy39",
+      "authorId": "3x64kzif8d4dy39",
+      "publishTime": "2026-05-08T04:23:53.078Z",
+      "likeCount": 7893,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 113875,
-      "collectedAt": "2026-05-25T07:50:12.406Z",
+      "viewCount": 280698,
+      "collectedAt": "2026-05-25T08:00:12.002Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用'身份标签（硬核老爸）+ 场景（在线开方）+ 痛点共鸣（不想上班）'结构，将传统医学概念与现代职场压力结合，形成认知反差。",
+        "hotFactors": [
+          "名人效应（陈佩斯父子）",
+          "职场压力与调休热点话题",
+          "父子互动带来的真实感与趣味性"
+        ],
+        "category": [
+          "家庭喜剧",
+          "职场生活",
+          "名人日常"
+        ],
+        "reason": "结合顶流喜剧IP、社会热点（调休/工作压力）和强反差创意，易引发广泛共鸣与传播。"
+      }
+    },
+    {
+      "videoId": "3x9xnjeq8z79da4",
+      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
+      "authorName": "央视频",
+      "authorUrl": "https://www.kuaishou.com/profile/3xqbri2seru7w4e",
+      "authorId": "3xqbri2seru7w4e",
+      "publishTime": "2026-04-29T13:29:39.972Z",
+      "likeCount": 53429,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1636081,
+      "collectedAt": "2026-05-25T08:00:12.002Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -29,34 +68,34 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用‘警告+热点标签+官方账号矩阵’结构。‘毒食品’制造强烈冲突和恐惧感，‘千万别吃了’是直接行动指令，多个热门标签和官方账号@增加了内容的权威性和曝光潜力。",
+        "titleAnalysis": "标题采用双重否定强调句式（“绝不...再...”、“绝不能...”），结合感叹号强化情绪。核心观点明确，直击消费者痛点（“冤大头”）和行业乱象（主播责任），并引用权威信源（央视频号）增强可信度。",
         "hotFactors": [
-          "健康安全类内容天然高关注",
-          "标题使用‘毒’等强冲突词汇",
-          "密集使用平台热门标签和官方账号引流",
-          "发布者‘我是大梅’可能为知识类或民生类账号，受众基础广"
+          "权威媒体背书（央视频）",
+          "直击消费者权益与直播带货乱象的普遍痛点",
+          "观点鲜明，情绪强烈，易引发共鸣与讨论",
+          "符合当前社会对直播电商规范化的关注趋势"
         ],
         "category": [
-          "健康科普",
           "社会热点",
-          "食品安全"
+          "消费者权益",
+          "直播电商"
         ],
-        "reason": "内容切中食品安全这一全民痛点，标题冲突性强，易引发恐惧和分享。借助平台热点标签和官方账号矩阵，初始曝光和算法推荐潜力大，符合快手用户对实用、警示类内容的偏好。"
+        "reason": "权威媒体发声直击行业痛点，观点鲜明易引发广泛共鸣，符合当前监管与舆论趋势，具备高传播潜力。"
       }
     },
     {
-      "videoId": "3x9xf2utat8sasq",
-      "title": "山西村头藏着一座神秘的忤逆坟，背后竟有一段荒唐的故事",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xf2utat8sasq",
-      "authorName": "玲玲ALin",
-      "authorUrl": "https://www.kuaishou.com/profile/3xyymzffc46za3w",
-      "authorId": "3xyymzffc46za3w",
-      "publishTime": "2026-04-14T09:42:37.003Z",
-      "likeCount": 6717,
+      "videoId": "3xgciaghrfubyv4",
+      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
+      "authorName": "潘晓红律师",
+      "authorUrl": "https://www.kuaishou.com/profile/3x2medae3wtb55k",
+      "authorId": "3x2medae3wtb55k",
+      "publishTime": "2026-05-04T03:44:03.113Z",
+      "likeCount": 1528,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 942054,
-      "collectedAt": "2026-05-25T07:50:12.406Z",
+      "viewCount": 86331,
+      "collectedAt": "2026-05-25T08:00:12.002Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -66,21 +105,22 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 72,
+        "explosionRate": 65,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“地点+神秘事物+荒唐故事”的经典悬念结构。“藏着”、“神秘”、“忤逆坟”、“荒唐”等词汇层层递进，强烈激发用户好奇心，符合快手用户对猎奇、民间传说类内容的偏好。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用‘以后...不能...’的未来警示句式，结合‘彩礼’这一高敏感社会议题，直接冲击传统婚俗观念，制造认知冲突。感叹号强化情绪，暗示有重大变化或新规，激发用户好奇心和讨论欲。",
         "hotFactors": [
-          "猎奇题材（神秘坟墓）",
-          "地域文化（山西）",
-          "悬念叙事（荒唐故事）"
+          "社会热点议题（彩礼争议）",
+          "权威身份背书（律师解读）",
+          "颠覆性观点（‘不能随便要’）",
+          "强情绪触发（涉及婚姻、金钱、传统）"
         ],
         "category": [
-          "民间传说",
-          "猎奇",
-          "地域文化"
+          "社会热点",
+          "法律科普",
+          "婚恋情感"
         ],
-        "reason": "标题悬念感强，题材猎奇且具地域特色，符合下沉市场用户兴趣。点赞量尚可但互动数据缺失，可能处于流量爬升初期，若内容质量过关，有爆款潜力。"
+        "reason": "彩礼话题自带流量与争议性，律师身份增加可信度与权威性，标题制造强烈冲突感，易引发站队讨论。虽当前互动数据低，但题材和钩子具备爆款基因，若内容有干货或反转，有较大上升潜力。"
       }
     }
   ]

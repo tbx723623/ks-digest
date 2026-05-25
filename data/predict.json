@@ -1,66 +1,49 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T07:53:30.943Z",
+  "generatedAt": "2026-05-25T08:02:23.821Z",
   "date": "2026-05-25",
-  "count": 10,
+  "count": 9,
   "items": [
     {
-      "videoId": "3xz89tbafdw9mmc",
-      "title": "这些毒食品千万别吃了 #知识播种计划 #喜爱度激励计划 #老铁看热点 #快聊新闻 @快手热点(O3xddgkd5fav5if9) @快手主持人(O3xnewxpguishmsc) @快手创作者中心(O3xrgtux2ehryffe) @快手粉条(O3xhcy6vhfzcu3qe)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz89tbafdw9mmc",
-      "authorName": "我是大梅",
-      "likeCount": 3676,
+      "videoId": "3x6bvq9nhkgutum",
+      "title": "硬核老爸在线开方，一招治好不想上班......\r\n#陈佩斯  #陈大愚 #工作压力大  #调休 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6bvq9nhkgutum",
+      "authorName": "陈佩斯父与子",
+      "likeCount": 7893,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "反转",
+      "category": [
+        "家庭喜剧",
+        "职场生活",
+        "名人日常"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3x9xnjeq8z79da4",
+      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
+      "authorName": "央视频",
+      "likeCount": 53429,
       "commentCount": 0,
       "explosionRate": 85,
       "trend": "rising",
       "hookType": "冲突",
       "category": [
-        "健康科普",
         "社会热点",
-        "食品安全"
+        "消费者权益",
+        "直播电商"
       ],
       "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3x9xf2utat8sasq",
-      "title": "山西村头藏着一座神秘的忤逆坟，背后竟有一段荒唐的故事",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xf2utat8sasq",
-      "authorName": "玲玲ALin",
-      "likeCount": 6717,
-      "commentCount": 0,
-      "explosionRate": 72,
-      "trend": "rising",
-      "hookType": "悬念",
-      "category": [
-        "民间传说",
-        "猎奇",
-        "地域文化"
-      ],
-      "estimatedTime": "1-2小时"
-    },
-    {
-      "videoId": "3xkcjuiwti5xw3g",
-      "title": "世界最高佛像中原大佛 #春天的气息 #一起拍播吧 #遇见春天 #快手带你去旅行 旅行",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xkcjuiwti5xw3g",
-      "authorName": "潇潇国内游",
-      "likeCount": 9930,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "旅行",
-        "风景",
-        "地标打卡"
-      ],
-      "estimatedTime": "2-4小时"
     },
     {
       "videoId": "3x4ei4qffmvegxs",
       "title": "今天可能位置没选对没钓到龙虾，今天买了点做了个麻辣龙虾看着还不错吧，你们老家河里能掉龙虾了没？#农村守护人 #三农 #记录真实生活",
       "sourceUrl": "https://www.kuaishou.com/short-video/3x4ei4qffmvegxs",
       "authorName": "李会儿、、",
-      "likeCount": 7396,
+      "likeCount": 7397,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
@@ -68,92 +51,75 @@
       "category": [
         "三农",
         "美食",
-        "生活记录"
+        "乡村生活"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xarfnrjbqrku4i",
-      "title": "经典永不过时 #洗衣歌 #洗衣歌踩点舞",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xarfnrjbqrku4i",
-      "authorName": "春雨Rain_",
-      "likeCount": 2836,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "舞蹈",
-        "怀旧",
-        "音乐"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x7x3duw8avf8ui",
-      "title": "#快成长计划 #潮流生活成长之星 #骗你生女儿",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x7x3duw8avf8ui",
-      "authorName": "小金果宝贝",
-      "likeCount": 12351,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "亲子",
-        "萌娃",
-        "生活记录"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x6b8mqf5wbei4s",
-      "title": "最美孝心少年，用三餐温暖疲惫父母 #厨房小能手 #小厨神 #懂事的孩子",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6b8mqf5wbei4s",
-      "authorName": "阿嗨看世界",
-      "likeCount": 2447,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "亲子教育",
-        "家庭生活",
-        "正能量"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xsdvktawhfnia2",
-      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
-      "authorName": "周沫讲理财",
-      "likeCount": 29498,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "社会热点",
-        "法律维权",
-        "生活技巧"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xxpqhn5thwf2f4",
-      "title": "#幸福乡村春耕季 万万没想到，蒲公英煮鹅蛋好处那么多 ，省钱又实用，我都才知道 #潮流生活成长之星 #快成长计划 #我的乡村生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xxpqhn5thwf2f4",
-      "authorName": "彬秀姐",
-      "likeCount": 3351,
+      "videoId": "3x9i6w4zyy6wdnk",
+      "title": "#一人分饰多角 #搞笑视频 #意想不到的结局",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x9i6w4zyy6wdnk",
+      "authorName": "胖僧",
+      "likeCount": 5892,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "反转",
       "category": [
-        "生活技巧",
-        "乡村生活",
-        "健康养生"
+        "搞笑",
+        "剧情",
+        "一人多角"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xmyvzd22yftks6",
+      "title": "无敌的存在～ @郭冬临·暖男先生(O3xpmagmf9982kne) #暖男先生 #郭冬临",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xmyvzd22yftks6",
+      "authorName": "郭冬临",
+      "likeCount": 11504,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "爽点",
+      "category": [
+        "喜剧",
+        "明星日常",
+        "正能量"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xa4rsy5ek4cpzg",
+      "title": "痛的受不了😂  #西游记 #孙悟空 #猴哥",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xa4rsy5ek4cpzg",
+      "authorName": "猴哥阿旺104",
+      "likeCount": 5843,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "影视剪辑",
+        "搞笑",
+        "怀旧"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xgciaghrfubyv4",
+      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
+      "authorName": "潘晓红律师",
+      "likeCount": 1528,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "rising",
+      "hookType": "冲突",
+      "category": [
+        "社会热点",
+        "法律科普",
+        "婚恋情感"
       ],
       "estimatedTime": "2-4小时"
     },
@@ -162,15 +128,32 @@
       "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
       "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
       "authorName": "远嫁燕子的一家",
-      "likeCount": 9376,
+      "likeCount": 9377,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "冲突",
       "category": [
-        "美食",
-        "家庭生活",
-        "地域文化"
+        "生活记录",
+        "美食制作",
+        "家庭情感"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xkiabqcizpqj8m",
+      "title": "先有好丈夫，才有好妻子 #重庆主持人李佳岷 #中式婚礼 #夫妻 @快手创作者中心(O3xrgtux2ehryffe)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xkiabqcizpqj8m",
+      "authorName": "重庆主持人李佳岷全国约档",
+      "likeCount": 4126,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "婚礼纪实",
+        "情感关系",
+        "传统文化"
       ],
       "estimatedTime": "2-4小时"
     }
