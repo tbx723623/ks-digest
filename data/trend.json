@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T06:48:03.516Z",
+  "fetchedAt": "2026-05-25T06:52:30.436Z",
   "date": "2026-05-25",
   "count": 3,
   "items": [
     {
-      "videoId": "3xxx2exhhgcvj6y",
-      "title": "一个15岁的农村少年，却比很多大人都清醒",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xxx2exhhgcvj6y",
-      "authorName": "赵普",
-      "authorUrl": "https://www.kuaishou.com/profile/3xxrffpa8rxg87a",
-      "authorId": "3xxrffpa8rxg87a",
-      "publishTime": "2026-05-15T22:30:50.460Z",
-      "likeCount": 20756,
+      "videoId": "3xr2tc28fdu9c4u",
+      "title": "21岁边防战士过生日，用雪水煮了碗方便面，加上一个速食鸡腿。 #科普  #涨知识",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xr2tc28fdu9c4u",
+      "authorName": "梦涵说",
+      "authorUrl": "https://www.kuaishou.com/profile/3x5kfnsqm8d8wk6",
+      "authorId": "3x5kfnsqm8d8wk6",
+      "publishTime": "2026-02-25T06:00:00.248Z",
+      "likeCount": 8172,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 299892,
-      "collectedAt": "2026-05-25T06:45:34.556Z",
+      "viewCount": 110829,
+      "collectedAt": "2026-05-25T06:50:14.797Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,72 +28,34 @@
       "aiAnalysis": {
         "explosionRate": 85,
         "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用“年龄+身份+反差认知”的经典结构，通过“15岁”与“比很多大人都清醒”形成强烈对比，制造认知冲突，激发用户好奇心。",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“年龄+身份+艰苦场景+简单庆祝”的强对比结构，通过“21岁”、“边防战士”、“雪水煮面”、“速食鸡腿”等具体细节，瞬间构建出年轻奉献与艰苦环境的强烈反差，极易引发情感共鸣。",
         "hotFactors": [
-          "年龄与认知的强烈反差",
-          "农村少年身份引发共情与关注",
-          "“清醒”一词切中社会情绪与价值观讨论"
+          "家国情怀与奉献精神",
+          "年轻战士的艰苦生活细节",
+          "生日庆祝的朴素与感人反差"
         ],
         "category": [
-          "社会纪实",
-          "人物故事",
-          "正能量"
+          "正能量",
+          "军旅生活",
+          "情感共鸣"
         ],
-        "reason": "标题精准制造认知反差，契合平台对“正能量”与“真实故事”的推荐倾向，易引发广泛共鸣与讨论，具备高传播潜力。"
+        "reason": "内容精准击中家国情怀与个人奉献的共情点，细节真实感人，符合平台正能量传播导向，极易引发大规模点赞和情感互动。"
       }
     },
     {
-      "videoId": "3x7b3asenyvz59u",
-      "title": "@快手热点(O3xddgkd5fav5if9) @快手光合计划助手(O3xxpf2m4brbf3pe) @快手涨粉助手(O3xzyh4epbkwm6i6)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x7b3asenyvz59u",
-      "authorName": "婳🍀",
-      "authorUrl": "https://www.kuaishou.com/profile/3xrbywy67qz46ta",
-      "authorId": "3xrbywy67qz46ta",
-      "publishTime": "2026-03-02T02:13:57.651Z",
-      "likeCount": 33626,
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
+      "authorId": "3xa85jgbhtm6hic",
+      "publishTime": "2026-05-09T07:36:21.512Z",
+      "likeCount": 21706,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 571430,
-      "collectedAt": "2026-05-25T06:45:34.556Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题通过@快手热点、@快手光合计划助手、@快手涨粉助手等官方账号，暗示内容可能与平台热点、流量扶持或涨粉技巧相关，利用用户对平台规则和流量密码的好奇心制造悬念。标题本身未透露具体内容，但通过关联官方账号提升可信度和吸引力。",
-        "hotFactors": [
-          "平台热点关联",
-          "官方账号背书",
-          "涨粉技巧暗示"
-        ],
-        "category": [
-          "短视频运营",
-          "平台技巧"
-        ],
-        "reason": "标题巧妙利用官方账号和热点话题制造悬念，吸引对快手运营感兴趣的用户，点赞量高但评论和分享为零，可能处于流量爆发初期，后续互动可能快速上升。"
-      }
-    },
-    {
-      "videoId": "3xsdvktawhfnia2",
-      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
-      "authorName": "周沫讲理财",
-      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
-      "authorId": "3xhinyavn5y69uc",
-      "publishTime": "2026-04-22T11:27:31.413Z",
-      "likeCount": 29480,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 1452106,
-      "collectedAt": "2026-05-25T06:45:34.556Z",
+      "viewCount": 484757,
+      "collectedAt": "2026-05-25T06:50:14.797Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -106,19 +68,58 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用“场景+冲突+解决方案”的强冲突结构。前半句“去派出所报警被大声嚷嚷”构建了一个极具反差和不公的场景，直接触发用户对权威机构不当行为的愤怒和好奇。后半句“怎么办”则提供了明确的行动指引和价值承诺，将情绪转化为寻求解决方案的动力。标签#维权、#老铁看热点精准定位了社会热点和大众情绪共鸣点。",
+        "titleAnalysis": "标题采用‘定性+定罪’结构，直接点明核心矛盾（‘台独’）并将其定性为‘罪魁祸首’，立场鲜明，观点尖锐，具有强烈的冲突性和情绪煽动力，能迅速吸引关注并引发讨论。",
         "hotFactors": [
-          "强冲突场景（公民vs.公权力）",
-          "高共鸣社会议题（维权难、执法态度）",
-          "明确的解决方案承诺",
-          "精准的流量标签"
+          "官方权威发布（国防部）",
+          "涉及国家主权与领土完整的核心议题",
+          "观点鲜明，立场坚定，易引发民族情感共鸣"
+        ],
+        "category": [
+          "时政",
+          "军事",
+          "爱国"
+        ],
+        "reason": "由国防部官方账号发布，议题重大且立场鲜明，极易在爱国情感和时政讨论中引爆传播。点赞量高而评论/分享为零，可能表明平台进行了评论管控或数据延迟，但不影响其作为爆款内容的潜力。"
+      }
+    },
+    {
+      "videoId": "3x6yy3d6gpuvgym",
+      "title": "父亲去世12年，银行突然来催债2万3千多，本金才7千，女儿发出三连问：12年为何从不通知？如何证明是父亲生前消费？有没有义务还债？@快手热点(O3xddgkd5fav5if9) #父亲去世12年银行突然来催债 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6yy3d6gpuvgym",
+      "authorName": "小强说",
+      "authorUrl": "https://www.kuaishou.com/profile/3xq56h4zipv2f9y",
+      "authorId": "3xq56h4zipv2f9y",
+      "publishTime": "2026-04-28T08:07:19.488Z",
+      "likeCount": 5002,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 218192,
+      "collectedAt": "2026-05-25T06:50:14.797Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“时间冲突+数字冲击+悬念三连问”结构。‘父亲去世12年’与‘银行突然催债’形成强烈时间冲突；‘本金7千，债务2万3’的数字对比制造经济冲突；‘三连问’以疑问句式设置悬念，引导观众代入女儿视角寻求答案。",
+        "hotFactors": [
+          "涉及银行债务与家庭伦理的普遍社会痛点",
+          "‘父债子偿’传统观念与法律现实的冲突",
+          "数字对比（7千本金vs2.3万债务）引发不公感",
+          "三连问结构激发观众讨论欲和正义感"
         ],
         "category": [
           "社会热点",
-          "民生维权",
-          "生活技巧"
+          "法律科普",
+          "家庭伦理"
         ],
-        "reason": "视频精准切中“维权难”这一社会痛点，利用派出所这一权威场景制造强烈冲突和情绪张力，极易引发广泛共鸣和讨论。点赞量高而评论/分享为零，可能处于流量爆发初期或数据存在异常，但其题材和钩子设计具备极高的爆款潜力。"
+        "reason": "题材触及银行债务、家庭责任、法律权益等多重社会敏感点，冲突性强，易引发共情与讨论。标题悬念设置精准，数据对比冲击力强，具备破圈潜力。"
       }
     }
   ]
