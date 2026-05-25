@@ -1,0 +1,125 @@
+{
+  "source": "上升趋势真实视频",
+  "fetchedAt": "2026-05-25T06:48:03.516Z",
+  "date": "2026-05-25",
+  "count": 3,
+  "items": [
+    {
+      "videoId": "3xxx2exhhgcvj6y",
+      "title": "一个15岁的农村少年，却比很多大人都清醒",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xxx2exhhgcvj6y",
+      "authorName": "赵普",
+      "authorUrl": "https://www.kuaishou.com/profile/3xxrffpa8rxg87a",
+      "authorId": "3xxrffpa8rxg87a",
+      "publishTime": "2026-05-15T22:30:50.460Z",
+      "likeCount": 20756,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 299892,
+      "collectedAt": "2026-05-25T06:45:34.556Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用“年龄+身份+反差认知”的经典结构，通过“15岁”与“比很多大人都清醒”形成强烈对比，制造认知冲突，激发用户好奇心。",
+        "hotFactors": [
+          "年龄与认知的强烈反差",
+          "农村少年身份引发共情与关注",
+          "“清醒”一词切中社会情绪与价值观讨论"
+        ],
+        "category": [
+          "社会纪实",
+          "人物故事",
+          "正能量"
+        ],
+        "reason": "标题精准制造认知反差，契合平台对“正能量”与“真实故事”的推荐倾向，易引发广泛共鸣与讨论，具备高传播潜力。"
+      }
+    },
+    {
+      "videoId": "3x7b3asenyvz59u",
+      "title": "@快手热点(O3xddgkd5fav5if9) @快手光合计划助手(O3xxpf2m4brbf3pe) @快手涨粉助手(O3xzyh4epbkwm6i6)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x7b3asenyvz59u",
+      "authorName": "婳🍀",
+      "authorUrl": "https://www.kuaishou.com/profile/3xrbywy67qz46ta",
+      "authorId": "3xrbywy67qz46ta",
+      "publishTime": "2026-03-02T02:13:57.651Z",
+      "likeCount": 33626,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 571430,
+      "collectedAt": "2026-05-25T06:45:34.556Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题通过@快手热点、@快手光合计划助手、@快手涨粉助手等官方账号，暗示内容可能与平台热点、流量扶持或涨粉技巧相关，利用用户对平台规则和流量密码的好奇心制造悬念。标题本身未透露具体内容，但通过关联官方账号提升可信度和吸引力。",
+        "hotFactors": [
+          "平台热点关联",
+          "官方账号背书",
+          "涨粉技巧暗示"
+        ],
+        "category": [
+          "短视频运营",
+          "平台技巧"
+        ],
+        "reason": "标题巧妙利用官方账号和热点话题制造悬念，吸引对快手运营感兴趣的用户，点赞量高但评论和分享为零，可能处于流量爆发初期，后续互动可能快速上升。"
+      }
+    },
+    {
+      "videoId": "3xsdvktawhfnia2",
+      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
+      "authorName": "周沫讲理财",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
+      "authorId": "3xhinyavn5y69uc",
+      "publishTime": "2026-04-22T11:27:31.413Z",
+      "likeCount": 29480,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1452106,
+      "collectedAt": "2026-05-25T06:45:34.556Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“场景+冲突+解决方案”的强冲突结构。前半句“去派出所报警被大声嚷嚷”构建了一个极具反差和不公的场景，直接触发用户对权威机构不当行为的愤怒和好奇。后半句“怎么办”则提供了明确的行动指引和价值承诺，将情绪转化为寻求解决方案的动力。标签#维权、#老铁看热点精准定位了社会热点和大众情绪共鸣点。",
+        "hotFactors": [
+          "强冲突场景（公民vs.公权力）",
+          "高共鸣社会议题（维权难、执法态度）",
+          "明确的解决方案承诺",
+          "精准的流量标签"
+        ],
+        "category": [
+          "社会热点",
+          "民生维权",
+          "生活技巧"
+        ],
+        "reason": "视频精准切中“维权难”这一社会痛点，利用派出所这一权威场景制造强烈冲突和情绪张力，极易引发广泛共鸣和讨论。点赞量高而评论/分享为零，可能处于流量爆发初期或数据存在异常，但其题材和钩子设计具备极高的爆款潜力。"
+      }
+    }
+  ]
+}
