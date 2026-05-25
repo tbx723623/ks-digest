@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T14:23:13.811Z",
+  "fetchedAt": "2026-05-25T14:33:13.355Z",
   "date": "2026-05-25",
-  "count": 1,
+  "count": 5,
   "items": [
     {
-      "videoId": "3xgciaghrfubyv4",
-      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
-      "authorName": "潘晓红律师",
-      "authorUrl": "https://www.kuaishou.com/profile/3x2medae3wtb55k",
-      "authorId": "3x2medae3wtb55k",
-      "publishTime": "2026-05-04T03:44:03.113Z",
-      "likeCount": 1537,
+      "videoId": "3x6qpgike3shmtw",
+      "title": "姥爷给我新赛季至臻皮肤？ #蛋仔派对 #蛋仔派对创计划 #休闲游戏小剧场 #蛋仔揪出哈基咪",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6qpgike3shmtw",
+      "authorName": "王爱莎！可爱",
+      "authorUrl": "https://www.kuaishou.com/profile/3x794qp3ufyagq6",
+      "authorId": "3x794qp3ufyagq6",
+      "publishTime": "2026-04-17T23:53:45.830Z",
+      "likeCount": 23247,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 87123,
-      "collectedAt": "2026-05-25T14:20:11.913Z",
+      "viewCount": 489800,
+      "collectedAt": "2026-05-25T14:30:11.753Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,19 +28,174 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“以后...不能...”的警示性句式，结合“彩礼”这一高社会关注度话题，直接点明法律变化，制造紧迫感和信息差，吸引用户点击了解新规。",
+        "hookType": "爽点",
+        "titleAnalysis": "标题采用“人物关系（姥爷）+意外馈赠（至臻皮肤）+游戏IP（蛋仔派对）”结构，结合“？”制造悬念，同时通过“创计划”、“小剧场”等标签暗示内容形式，精准吸引游戏核心玩家及泛娱乐用户。",
         "hotFactors": [
-          "彩礼是社会热点与家庭矛盾焦点",
-          "律师身份提供权威背书，信息可信度高",
-          "标题暗示规则变化，引发用户对自身利益的关注和讨论"
+          "蛋仔派对热门IP加持",
+          "亲情互动+游戏福利的双重情感满足",
+          "悬念式标题引发好奇",
+          "精准使用多个垂直领域标签"
+        ],
+        "category": [
+          "游戏",
+          "休闲娱乐",
+          "家庭生活"
+        ],
+        "reason": "标题结合了高热度游戏IP、亲情元素和意外惊喜的“爽点”，符合快手用户对轻松、有趣、有情感共鸣内容的偏好。点赞量（2.3万）已初步验证内容吸引力，但评论和分享数据缺失可能影响后续爆发力。"
+      }
+    },
+    {
+      "videoId": "3xvgbhykyrdd3us",
+      "title": "配电柜线号这么多该怎么识别？一个小技巧就能搞定\n\n\n\n#电工  #电工知识",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xvgbhykyrdd3us",
+      "authorName": "景一",
+      "authorUrl": "https://www.kuaishou.com/profile/3xj2i4djbd724vs",
+      "authorId": "3xj2i4djbd724vs",
+      "publishTime": "2026-04-04T17:34:50.639Z",
+      "likeCount": 4878,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 311615,
+      "collectedAt": "2026-05-25T14:30:11.753Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“痛点场景+解决方案”结构。前半句“配电柜线号这么多该怎么识别？”精准戳中电工从业者在实际工作中遇到的普遍难题，引发共鸣和好奇。后半句“一个小技巧就能搞定”则给出了明确的、低成本的解决方案承诺，降低了用户的行动门槛，形成了强烈的“问题-答案”钩子。",
+        "hotFactors": [
+          "精准的垂直领域痛点",
+          "明确的实用价值承诺",
+          "“小技巧”带来的低门槛和高性价比感"
+        ],
+        "category": [
+          "职业技能",
+          "电工技术",
+          "实用技巧"
+        ],
+        "reason": "视频内容高度垂直且实用，精准解决了电工群体的具体工作难题。标题结构清晰，痛点明确，解决方案具体，极易吸引目标用户点击学习。点赞量（4878）远高于评论和分享，表明内容获得了广泛认可，但互动和传播尚未完全爆发，具备持续上升的潜力。"
+      }
+    },
+    {
+      "videoId": "3xxn8hptxxkhcdu",
+      "title": "完蛋了，等我消息 #荒岛求生 #只玩喷子的小夜 #离谱",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xxn8hptxxkhcdu",
+      "authorName": "小夜【地铁逃生】",
+      "authorUrl": "https://www.kuaishou.com/profile/3xx7iju43tze98i",
+      "authorId": "3xx7iju43tze98i",
+      "publishTime": "2026-03-17T09:50:00.000Z",
+      "likeCount": 5180,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 151535,
+      "collectedAt": "2026-05-25T14:30:11.753Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用‘危机宣告+悬念引导’结构。‘完蛋了’制造紧张感和冲突，‘等我消息’留下强烈悬念，引导用户点击或评论区互动。标签#荒岛求生、#只玩喷子的小夜、#离谱精准定位游戏（如《地铁逃生》）和搞笑/高光内容，吸引垂直受众。",
+        "hotFactors": [
+          "悬念钩子强，引发好奇",
+          "游戏垂直领域（地铁逃生）受众精准",
+          "‘离谱’标签暗示内容有反常或搞笑高光时刻"
+        ],
+        "category": [
+          "游戏",
+          "搞笑",
+          "生存挑战"
+        ],
+        "reason": "标题悬念感强，能有效吸引点击；游戏垂直内容在快手有稳定受众；但评论和分享为0，可能处于发布初期或互动引导不足，需观察后续数据。"
+      }
+    },
+    {
+      "videoId": "3xfv3snjgtqh6u6",
+      "title": " @穗岁剧场(O3xc6eti7hmk2qzm) 的精彩视频",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xfv3snjgtqh6u6",
+      "authorName": "穗岁剧场",
+      "authorUrl": "https://www.kuaishou.com/profile/3xc6eti7hmk2qzm",
+      "authorId": "3xc6eti7hmk2qzm",
+      "publishTime": "2026-04-15T03:40:19.931Z",
+      "likeCount": 13443,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1481509,
+      "collectedAt": "2026-05-25T14:30:11.753Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“@账号名+的精彩视频”的通用格式，缺乏具体信息，但“剧场”二字暗示了剧情类内容，可能通过账号名本身吸引特定粉丝群体。",
+        "hotFactors": [
+          "账号名“穗岁剧场”具有IP化潜力，易形成粉丝粘性",
+          "点赞量（1.3万）与互动量（评论/分享为0）严重不匹配，可能存在数据异常或内容引发强烈情绪共鸣但未引导互动"
+        ],
+        "category": [
+          "剧情短剧",
+          "情感/生活"
+        ],
+        "reason": "点赞量显著高于常规互动比例，可能内容本身有较强吸引力或存在数据波动。标题虽模糊，但“剧场”定位清晰，若内容质量稳定，有破圈潜力。需关注评论/分享为0的异常情况。"
+      }
+    },
+    {
+      "videoId": "3xgciaghrfubyv4",
+      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
+      "authorName": "潘晓红律师",
+      "authorUrl": "https://www.kuaishou.com/profile/3x2medae3wtb55k",
+      "authorId": "3x2medae3wtb55k",
+      "publishTime": "2026-05-04T03:44:03.113Z",
+      "likeCount": 1537,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 87140,
+      "collectedAt": "2026-05-25T14:30:11.753Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“以后...不能...”的未来警示句式，结合社会热点话题“彩礼”，直接点明法律或政策变化，具有强烈的现实指向性和话题性，能迅速吸引目标受众（适婚年龄人群、关注婚恋话题者）的注意力。",
+        "hotFactors": [
+          "社会热点话题（彩礼争议）",
+          "专业身份背书（律师）",
+          "政策/法律解读的实用性"
         ],
         "category": [
           "法律科普",
           "社会热点",
-          "婚恋家庭"
+          "婚恋情感"
         ],
-        "reason": "彩礼话题自带流量与争议，律师身份结合警示性标题，精准切中用户对政策变化的信息需求，易引发共鸣与传播。"
+        "reason": "彩礼是长期社会热点，易引发广泛讨论和共鸣。律师身份提供权威性，标题暗示规则变化，制造信息差和紧迫感，吸引用户点击了解详情。但评论和分享数据缺失，可能影响后续传播爆发力。"
       }
     }
   ]
