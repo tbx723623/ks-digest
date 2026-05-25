@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T12:03:45.519Z",
+  "fetchedAt": "2026-05-25T12:13:50.153Z",
   "date": "2026-05-25",
   "count": 2,
   "items": [
     {
-      "videoId": "3xz8zx7s8qam3us",
-      "title": "【野心膨胀！揭秘日本射程1000公里25式远程导弹】日本部署25式系列导弹，射程可抵达中国沿海。",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz8zx7s8qam3us",
-      "authorName": "央视网",
-      "authorUrl": "https://www.kuaishou.com/profile/3xyudn6sz9nwksq",
-      "authorId": "3xyudn6sz9nwksq",
-      "publishTime": "2026-04-08T14:24:29.176Z",
-      "likeCount": 16692,
+      "videoId": "3xies8kxwbkjj64",
+      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
+      "authorName": "甜吖",
+      "authorUrl": "https://www.kuaishou.com/profile/3xbdz5fic8euk4y",
+      "authorId": "3xbdz5fic8euk4y",
+      "publishTime": "2026-05-08T21:43:26.019Z",
+      "likeCount": 124777,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 695894,
-      "collectedAt": "2026-05-25T12:00:12.691Z",
+      "viewCount": 1291753,
+      "collectedAt": "2026-05-25T12:10:12.689Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,34 +26,37 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 85,
+        "explosionRate": 75,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用【】符号突出核心信息，包含“野心膨胀”、“揭秘”等情绪化词汇，直接点明“日本”、“射程1000公里”、“可抵达中国沿海”等关键冲突点，制造紧张感和话题性。",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用多标签组合形式，包含节日热点（#五月嗨翻天 #五一气氛组已就位）、平台活动（#快手乡村超级碗）、情感共鸣点（#思白发望断崖）及官方流量入口（@快手粉条 @快手热点 @快手音乐），结构完整，覆盖了热点、活动、情感和流量引导。",
         "hotFactors": [
-          "涉及中日地缘政治敏感话题，易引发民族情绪和讨论",
-          "发布者为央视网，具有权威性和公信力，增强内容可信度和传播力"
+          "节日热点（五一）精准借势",
+          "平台官方活动（乡村超级碗）流量扶持",
+          "情感共鸣标签（思白发望断崖）引发怀旧或乡土情怀",
+          "官方账号引流增加曝光"
         ],
         "category": [
-          "军事",
-          "国际时政"
+          "乡村生活",
+          "节日热点",
+          "情感共鸣"
         ],
-        "reason": "内容涉及国家安全和地缘政治敏感议题，由权威媒体发布，极易引发公众关注、讨论和情绪共鸣，具备高传播潜力。"
+        "reason": "视频结合了五一节日热点与平台官方活动，情感标签易引发共鸣，且通过@官方账号获得流量加持，点赞数据已显示初步爆发潜力，但评论和分享数据缺失可能影响长期传播。"
       }
     },
     {
-      "videoId": "3xbkrubrwc956bc",
-      "title": "湖南人小时候的超能力 #湖南 #超能力",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrubrwc956bc",
-      "authorName": "邬天宇",
-      "authorUrl": "https://www.kuaishou.com/profile/3xq8qh4c5huhtrs",
-      "authorId": "3xq8qh4c5huhtrs",
-      "publishTime": "2026-03-06T09:57:17.751Z",
-      "likeCount": 29546,
+      "videoId": "3xiwuh233nimviq",
+      "title": "就这么个亲姐姐稀罕#老百姓的平凡生活 #讲述老百姓自己的故事 #演员李嘉明 #生活不会辜负每一个努力的人",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xiwuh233nimviq",
+      "authorName": "演员李嘉明 乡村故事之碰瓷疑云即将上线",
+      "authorUrl": "https://www.kuaishou.com/profile/3xf3wwv4w8xdst2",
+      "authorId": "3xf3wwv4w8xdst2",
+      "publishTime": "2026-03-07T04:11:10.967Z",
+      "likeCount": 47246,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 641621,
-      "collectedAt": "2026-05-25T12:00:12.691Z",
+      "viewCount": 1651191,
+      "collectedAt": "2026-05-25T12:10:12.689Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -66,18 +69,21 @@
         "explosionRate": 65,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“地域标签+童年回忆+悬念词”的经典结构。“湖南人”精准定位地域受众，“小时候的超能力”制造悬念和共情点，引发好奇和回忆。",
+        "titleAnalysis": "标题采用情感共鸣+身份标签结构。'就这么个亲姐姐稀罕'以口语化、生活化的表达直接引发观众对亲情、手足之情的共鸣。后接多个热门话题标签（#老百姓的平凡生活 #讲述老百姓自己的故事），精准定位下沉市场与普通大众的情感需求。'演员李嘉明'和'生活不会辜负每一个努力的人'则结合了名人效应与正能量价值观，易于传播。",
         "hotFactors": [
-          "强地域共鸣（湖南本地用户）",
-          "童年怀旧情感共鸣",
-          "悬念式标题引发好奇"
+          "亲情共情（姐弟情）",
+          "下沉市场生活化内容",
+          "正能量价值观（努力生活）",
+          "名人（演员）身份加持",
+          "精准的热门话题标签"
         ],
         "category": [
-          "生活/搞笑",
-          "地域文化",
-          "怀旧"
+          "生活",
+          "情感",
+          "正能量",
+          "乡村"
         ],
-        "reason": "标题精准切入地域和怀旧两大流量密码，能有效激发特定人群的互动和分享欲望。点赞数据良好，但评论和分享数据缺失，可能因内容偏向个人回忆，互动引导不足，或数据未完全显示。"
+        "reason": "视频内容紧扣'亲情'与'平凡生活'两大快手核心情感赛道，极易引发普通用户共鸣。标题结构清晰，标签精准，能有效触达目标受众。点赞量已初步验证内容吸引力，但评论和分享数据缺失，表明互动深度和传播广度尚未完全爆发，后续需观察。"
       }
     }
   ]
