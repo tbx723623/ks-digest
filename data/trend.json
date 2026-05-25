@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T08:43:34.456Z",
+  "fetchedAt": "2026-05-25T08:52:22.333Z",
   "date": "2026-05-25",
-  "count": 1,
+  "count": 5,
   "items": [
     {
-      "videoId": "3xuth9q9pbiqs4k",
-      "title": "来怪蚌河捡河蚌，没想到彩色和紫色的宝珠这么大",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xuth9q9pbiqs4k",
-      "authorName": "捡蚌人",
-      "authorUrl": "https://www.kuaishou.com/profile/3xktr2634u7m7my",
-      "authorId": "3xktr2634u7m7my",
-      "publishTime": "2026-05-14T09:23:11.423Z",
-      "likeCount": 1902,
+      "videoId": "3xz8zx7s8qam3us",
+      "title": "【野心膨胀！揭秘日本射程1000公里25式远程导弹】日本部署25式系列导弹，射程可抵达中国沿海。",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xz8zx7s8qam3us",
+      "authorName": "央视网",
+      "authorUrl": "https://www.kuaishou.com/profile/3xyudn6sz9nwksq",
+      "authorId": "3xyudn6sz9nwksq",
+      "publishTime": "2026-04-08T14:24:29.176Z",
+      "likeCount": 16692,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 146512,
-      "collectedAt": "2026-05-25T08:40:12.851Z",
+      "viewCount": 695848,
+      "collectedAt": "2026-05-25T08:50:12.319Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,21 +26,177 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 65,
+        "explosionRate": 85,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "采用“地点+行动+意外发现”结构，前半句“来怪蚌河捡河蚌”交代背景和行动，后半句“没想到彩色和紫色的宝珠这么大”制造悬念和视觉冲击，符合短视频“先抑后扬”的叙事逻辑。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用【】符号突出核心信息，包含“野心膨胀”、“揭秘”等强情绪词，直接点明“日本”、“射程1000公里”、“可抵达中国沿海”等关键冲突点，信息密度高，煽动性强。",
         "hotFactors": [
-          "视觉奇观（彩色/紫色宝珠）",
-          "意外收获的惊喜感",
-          "小众猎奇题材（捡河蚌）"
+          "涉及中日地缘政治敏感话题，易引发民族情绪",
+          "央视网作为权威信源，增强了内容的可信度和传播力",
+          "标题使用具体数据（1000公里）和型号（25式），显得专业且有“内幕”感"
         ],
         "category": [
-          "户外探索",
-          "猎奇发现",
-          "解压内容"
+          "军事",
+          "国际时政"
         ],
-        "reason": "标题通过“没想到”制造强烈悬念，彩色宝珠的视觉元素易引发好奇和分享欲，但评论和分享数据为零可能表明内容或互动引导不足，存在爆发潜力但需观察后续数据。"
+        "reason": "权威媒体发布，标题精准踩中中日关系、国家安全等高热度敏感议题，冲突性和悬念感极强，极易引发讨论和分享，具备爆款潜力。"
+      }
+    },
+    {
+      "videoId": "3xvgbhykyrdd3us",
+      "title": "配电柜线号这么多该怎么识别？一个小技巧就能搞定\n\n\n\n#电工  #电工知识",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xvgbhykyrdd3us",
+      "authorName": "景一",
+      "authorUrl": "https://www.kuaishou.com/profile/3xj2i4djbd724vs",
+      "authorId": "3xj2i4djbd724vs",
+      "publishTime": "2026-04-04T17:34:50.639Z",
+      "likeCount": 4875,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 311208,
+      "collectedAt": "2026-05-25T08:50:12.319Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“痛点场景+解决方案”结构。前半句“配电柜线号这么多该怎么识别？”精准描述了电工在实际工作中遇到的普遍难题，引发共鸣和好奇。后半句“一个小技巧就能搞定”给出了明确的、低成本的解决方案承诺，降低了用户的行动门槛，激发了观看欲望。",
+        "hotFactors": [
+          "精准的垂直领域痛点",
+          "明确的解决方案承诺",
+          "实用性强，可立即应用",
+          "标题简洁，信息密度高"
+        ],
+        "category": [
+          "职业技能",
+          "生活技巧",
+          "电工"
+        ],
+        "reason": "视频精准切入电工群体的高频、刚需痛点，标题结构清晰，承诺明确，实用价值极高。虽然评论和分享数据暂未显示，但高点赞量表明内容已获得初步认可，具备在垂直领域内持续发酵和破圈的潜力。"
+      }
+    },
+    {
+      "videoId": "3xz8bznb8mbkga6",
+      "title": "银行最怕你知道这三个号码 #老铁财富密码 #老铁看热点 #文娱百科明日之星 #快成长计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xz8bznb8mbkga6",
+      "authorName": "周沫讲理财",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
+      "authorId": "3xhinyavn5y69uc",
+      "publishTime": "2026-05-10T05:38:26.280Z",
+      "likeCount": 19046,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 800935,
+      "collectedAt": "2026-05-25T08:50:12.320Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“银行最怕你知道”制造信息差悬念，结合“三个号码”提供具体数字钩子，后缀标签#老铁财富密码等精准定位财经、热点、成长类受众，符合快手用户对实用、揭秘类内容的偏好。",
+        "hotFactors": [
+          "信息差与揭秘感（银行最怕你知道）",
+          "具体数字钩子（三个号码）",
+          "精准标签覆盖财经、热点、成长多类流量池"
+        ],
+        "category": [
+          "财经理财",
+          "生活技巧",
+          "知识科普"
+        ],
+        "reason": "标题悬念感强，数字具体易引发好奇，标签精准触达目标人群，点赞量已显爆发趋势，符合快手用户对“实用干货+揭秘”内容的高互动偏好。"
+      }
+    },
+    {
+      "videoId": "3x9xnjeq8z79da4",
+      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
+      "authorName": "央视频",
+      "authorUrl": "https://www.kuaishou.com/profile/3xqbri2seru7w4e",
+      "authorId": "3xqbri2seru7w4e",
+      "publishTime": "2026-04-29T13:29:39.972Z",
+      "likeCount": 53430,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1636171,
+      "collectedAt": "2026-05-25T08:50:12.320Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“绝不...必须...绝不能...”的排比句式，语气强烈，立场鲜明。核心是“消费者权益”与“主播责任”的对立冲突，并引用“央视频号”权威信源，增强了观点的公信力和话题的严肃性。",
+        "hotFactors": [
+          "切中消费者对直播带货乱象的普遍痛点与不满情绪",
+          "权威媒体（央视频）发声，自带流量与公信力，易引发广泛讨论",
+          "话题具有强社会共鸣和争议性，易形成观点对立与传播"
+        ],
+        "category": [
+          "社会热点",
+          "消费维权",
+          "媒体评论"
+        ],
+        "reason": "权威媒体针对直播带货乱象发声，精准戳中公众痛点，情绪共鸣强烈，易引发广泛转发和讨论，具备高爆发潜力。"
+      }
+    },
+    {
+      "videoId": "3xwziwgmrimtgbw",
+      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
+      "authorName": "远嫁燕子的一家",
+      "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
+      "authorId": "3xihaq7trzkx8v4",
+      "publishTime": "2026-05-18T05:51:48.643Z",
+      "likeCount": 9385,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 545608,
+      "collectedAt": "2026-05-25T08:50:12.320Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“地域标签+人物关系+具体事件”的结构，通过“云南老婆”、“南北饮食大不同”等关键词，精准定位了跨地域婚姻、饮食文化差异等具有广泛共鸣的社会话题，同时“猪头扣肉”这一具体、有画面感的菜品名称能有效吸引美食爱好者。",
+        "hotFactors": [
+          "跨地域婚姻与家庭生活（远嫁）",
+          "南北饮食文化差异与冲突",
+          "夫妻日常相处与美食制作"
+        ],
+        "category": [
+          "生活记录",
+          "美食制作",
+          "家庭情感"
+        ],
+        "reason": "内容切中“远嫁”、“南北差异”等高共鸣社会话题，结合具体美食制作，易引发地域讨论和情感共鸣。点赞数据良好，但评论和分享为零可能因发布时间尚早或数据抓取问题，若互动数据后续增长，则爆发潜力较大。"
       }
     }
   ]
