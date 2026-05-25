@@ -1,7 +1,206 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T15:02:19.792Z",
+  "fetchedAt": "2026-05-25T15:13:05.179Z",
   "date": "2026-05-25",
-  "count": 0,
-  "items": []
+  "count": 5,
+  "items": [
+    {
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
+      "authorId": "3xa85jgbhtm6hic",
+      "publishTime": "2026-05-09T07:36:21.512Z",
+      "likeCount": 21982,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 494657,
+      "collectedAt": "2026-05-25T15:10:11.734Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“定性指控+后果归因”结构，直接点明核心矛盾（台独）并将其与重大负面后果（破坏和平）强关联，立场鲜明，情绪强烈，符合平台对重大时政议题的传播逻辑。",
+        "hotFactors": [
+          "官方权威信源（国防部发布）",
+          "涉及国家主权与领土完整的核心议题",
+          "标题立场鲜明、情绪强烈，易引发共鸣与讨论"
+        ],
+        "category": [
+          "时政",
+          "军事",
+          "爱国主义"
+        ],
+        "reason": "由最高军事权威机构发布，议题重大且立场鲜明，符合平台主流价值观与流量推荐机制，极易引发广泛共鸣与传播。"
+      }
+    },
+    {
+      "videoId": "3xjryn4pkynnb3u",
+      "title": "小勒布伦领先后半场开香槟，大头顶住压力成功反超太燃了#王楚钦",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xjryn4pkynnb3u",
+      "authorName": "多一度体育",
+      "authorUrl": "https://www.kuaishou.com/profile/3x384de62musppk",
+      "authorId": "3x384de62musppk",
+      "publishTime": "2026-04-03T12:21:21.157Z",
+      "likeCount": 7245,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 244829,
+      "collectedAt": "2026-05-25T15:10:11.734Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用“事件+情绪+结果”结构：前半句描述对手（小勒布伦）的轻敌行为（领先后开香槟），后半句突出主角（王楚钦，昵称大头）的逆袭（顶住压力反超），并以“太燃了”强化情绪，最后用#王楚钦标签精准引流。整体制造了强烈的戏剧冲突和情绪反转。",
+        "hotFactors": [
+          "体育竞技的逆袭剧情（符合大众爽点）",
+          "王楚钦作为国乒顶流自带话题和粉丝基础",
+          "“开香槟”与“反超”的强烈对比制造悬念和情绪张力"
+        ],
+        "category": [
+          "体育",
+          "乒乓球",
+          "赛事热点"
+        ],
+        "reason": "标题结构精巧，利用“轻敌-逆袭”的经典叙事，结合王楚钦的高人气，极易引发共鸣和传播。点赞量已初显爆发力，但评论和分享数据缺失或为零，可能因视频刚发布或平台数据延迟，需观察后续互动增长。"
+      }
+    },
+    {
+      "videoId": "3x5iqhvdy5ti24m",
+      "title": "以前的老木匠是有真本事的，他给别人打棺材，能根据推出来的第一片木花判断这个人的寿源！我们这一老木匠去帮一老人打棺材，一推推下去一看木花形状，就对这老人讲，这幅棺材你用不上！结果下半年这个老人的生产队死了一个人，这个人一米八的大个子，生前没打棺材，到处去卖都合不上，最后打听到这个老人有幅棺材打得大，上门去一比尺寸刚好用得上，花高价就买走了！#木匠#手艺人 #高手在民间 #木匠手艺人 #高手在民间",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x5iqhvdy5ti24m",
+      "authorName": "顽石",
+      "authorUrl": "https://www.kuaishou.com/profile/3xbizhp8k96yimi",
+      "authorId": "3xbizhp8k96yimi",
+      "publishTime": "2026-03-21T01:47:45.927Z",
+      "likeCount": 9537,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 472190,
+      "collectedAt": "2026-05-25T15:10:11.734Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "悬念/反转",
+        "titleAnalysis": "采用“故事+揭秘”结构。前半段设置悬念（老木匠通过木花判断寿源），后半段用具体案例（棺材尺寸巧合）进行反转验证，形成强烈的戏剧性和传奇色彩。标题较长，但信息密度高，符合快手用户对民间奇闻的偏好。",
+        "hotFactors": [
+          "民间奇闻/神秘技艺",
+          "强烈的反转和巧合",
+          "对传统手艺人“神乎其技”的崇拜",
+          "涉及生死话题，引发好奇与讨论"
+        ],
+        "category": [
+          "民间故事",
+          "传统手艺人",
+          "奇闻异事"
+        ],
+        "reason": "内容具备强故事性和传奇色彩，符合快手平台对民间高手、神秘技艺的流量偏好。点赞量近万，但评论和分享为0，可能因数据未更新或内容引发“不敢评论”的敬畏感，但高点赞已证明其吸引力，具备持续发酵潜力。"
+      }
+    },
+    {
+      "videoId": "3xwziwgmrimtgbw",
+      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
+      "authorName": "远嫁燕子的一家",
+      "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
+      "authorId": "3xihaq7trzkx8v4",
+      "publishTime": "2026-05-18T05:51:48.643Z",
+      "likeCount": 9446,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 550065,
+      "collectedAt": "2026-05-25T15:10:11.734Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“地域+身份+行为”结构，包含“云南老婆”、“猪头扣肉”、“远嫁”、“南北饮食大不同”等高流量关键词，精准切入地域文化差异、家庭生活、美食制作等大众兴趣点，具有强烈的代入感和话题性。",
+        "hotFactors": [
+          "地域文化冲突与融合（南北差异）",
+          "家庭生活与夫妻关系（远嫁话题）",
+          "特色美食制作（猪头扣肉）",
+          "真实生活记录（人设真实）"
+        ],
+        "category": [
+          "生活记录",
+          "美食",
+          "家庭情感",
+          "地域文化"
+        ],
+        "reason": "标题精准覆盖多个高热度标签，内容结合美食与家庭情感，易引发地域讨论和情感共鸣，具备较强的传播潜力。"
+      }
+    },
+    {
+      "videoId": "3xfs7fursn7i3a2",
+      "title": "七十八十俩五十是什么意思？ #母女段子 #我的乡村生活",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xfs7fursn7i3a2",
+      "authorName": "十三🧜🏻♀️",
+      "authorUrl": "https://www.kuaishou.com/profile/3xkagpbqtr8u924",
+      "authorId": "3xkagpbqtr8u924",
+      "publishTime": "2026-05-03T09:27:35.154Z",
+      "likeCount": 3651,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 216095,
+      "collectedAt": "2026-05-25T15:10:11.734Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用疑问句式制造悬念，结合数字谜语（七十八十俩五十）引发好奇，同时通过#母女段子和#我的乡村生活标签精准定位受众，形成内容预期。",
+        "hotFactors": [
+          "悬念式标题引发点击欲",
+          "乡村生活题材贴近下沉市场",
+          "母女关系易引发情感共鸣"
+        ],
+        "category": [
+          "乡村生活",
+          "家庭情感",
+          "幽默段子"
+        ],
+        "reason": "标题悬念感强，乡村家庭题材受众基础广，但评论和分享数据缺失可能影响算法推荐，爆率中等偏上。"
+      }
+    }
+  ]
 }
