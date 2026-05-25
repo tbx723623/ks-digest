@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T14:43:17.381Z",
+  "fetchedAt": "2026-05-25T14:53:08.647Z",
   "date": "2026-05-25",
   "count": 3,
   "items": [
     {
-      "videoId": "3xvgbhykyrdd3us",
-      "title": "配电柜线号这么多该怎么识别？一个小技巧就能搞定\n\n\n\n#电工  #电工知识",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xvgbhykyrdd3us",
-      "authorName": "景一",
-      "authorUrl": "https://www.kuaishou.com/profile/3xj2i4djbd724vs",
-      "authorId": "3xj2i4djbd724vs",
-      "publishTime": "2026-04-04T17:34:50.639Z",
-      "likeCount": 4879,
+      "videoId": "3x8dv2bvubcigt9",
+      "title": "张本智和最绝望的一场比赛，3比1就提前庆祝，马龙：我给你脸了？ #体育精神  #乒乓球 #为国争光 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x8dv2bvubcigt9",
+      "authorName": "田径女神🇨🇳",
+      "authorUrl": "https://www.kuaishou.com/profile/3xewpun55krvnuc",
+      "authorId": "3xewpun55krvnuc",
+      "publishTime": "2026-04-26T05:39:27.021Z",
+      "likeCount": 1194,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 311642,
-      "collectedAt": "2026-05-25T14:40:12.069Z",
+      "viewCount": 59137,
+      "collectedAt": "2026-05-25T14:50:12.198Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,37 +26,76 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 85,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“痛点场景+解决方案”的经典结构。前半句“配电柜线号这么多该怎么识别？”精准描述了电工在工作中遇到的普遍、具体且令人头疼的难题，引发目标受众强烈共鸣和好奇。后半句“一个小技巧就能搞定”则给出了明确的、低成本的承诺，降低了用户的预期门槛，提高了点击欲望。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“对比+冲突+悬念”结构。前半句“张本智和最绝望的一场比赛，3比1就提前庆祝”制造了强烈的戏剧性反差（领先却绝望），后半句“马龙：我给你脸了？”以国乒核心人物的霸气反问，将冲突推向高潮，并巧妙植入民族情绪和体育精神标签。",
         "hotFactors": [
-          "精准的垂直领域痛点",
-          "实用性强，提供即时解决方案",
-          "“小技巧”暗示内容简单易学，降低学习成本",
-          "目标受众（电工）明确且活跃"
+          "中日乒乓对抗的天然流量与民族情绪",
+          "马龙作为传奇人物的个人魅力与霸气语录",
+          "“领先被逆转”的经典体育戏剧性情节",
+          "“为国争光”等正能量标签符合平台推荐机制"
         ],
         "category": [
-          "职业技能",
-          "生活技巧",
-          "电工知识"
+          "体育",
+          "乒乓球",
+          "竞技对抗"
         ],
-        "reason": "视频精准切入电工群体的高频、刚需痛点，标题结构清晰，承诺明确，极易吸引目标用户点击学习。虽然目前互动数据（评论、分享）为零，但高点赞量表明内容获得了初步认可，具备在垂直领域内持续发酵和破圈的潜力。"
+        "reason": "标题精准结合了体育竞技的戏剧性、中日对抗的民族情绪以及马龙的个人IP，冲突感强，极易引发共鸣和讨论，具备爆款潜质。"
       }
     },
     {
-      "videoId": "3x3cps8dvjfadm6",
-      "title": "为什么大货车司机不走湖南高速？ #汽车知识 #湖南高速 #大货车司机",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x3cps8dvjfadm6",
-      "authorName": "壹哥说车",
-      "authorUrl": "https://www.kuaishou.com/profile/3xegjkfuhzj5wfe",
-      "authorId": "3xegjkfuhzj5wfe",
-      "publishTime": "2026-04-30T09:12:40.629Z",
-      "likeCount": 1412,
+      "videoId": "3xgciaghrfubyv4",
+      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
+      "authorName": "潘晓红律师",
+      "authorUrl": "https://www.kuaishou.com/profile/3x2medae3wtb55k",
+      "authorId": "3x2medae3wtb55k",
+      "publishTime": "2026-05-04T03:44:03.113Z",
+      "likeCount": 1537,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 62549,
-      "collectedAt": "2026-05-25T14:40:12.069Z",
+      "viewCount": 87171,
+      "collectedAt": "2026-05-25T14:50:12.198Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用‘以后...不能...了！’的句式，结合感叹号，制造了强烈的规则变化感和紧迫感。核心词‘结婚’、‘彩礼’是社会热点和情感痛点，直接戳中大众关注点。",
+        "hotFactors": [
+          "社会热点议题（彩礼争议）",
+          "权威身份背书（律师）",
+          "规则变化暗示（引发好奇与讨论）"
+        ],
+        "category": [
+          "法律科普",
+          "社会热点",
+          "婚恋情感"
+        ],
+        "reason": "标题精准切入‘彩礼’这一高争议性社会话题，结合律师专业身份，极易引发用户共鸣、好奇与争论，具备强互动潜力。点赞量已初显热度，但评论/分享为0可能因数据延迟或平台限制，不影响其爆款基因。"
+      }
+    },
+    {
+      "videoId": "3xeifpswxw2gzmc",
+      "title": "开河蚌的一天，开出许多淡紫色的珍珠",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xeifpswxw2gzmc",
+      "authorName": "捡蚌人",
+      "authorUrl": "https://www.kuaishou.com/profile/3xktr2634u7m7my",
+      "authorId": "3xktr2634u7m7my",
+      "publishTime": "2026-05-09T09:54:51.253Z",
+      "likeCount": 9498,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1332947,
+      "collectedAt": "2026-05-25T14:50:12.198Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -69,57 +108,17 @@
         "explosionRate": 65,
         "trend": "rising",
         "hookType": "悬念",
-        "titleAnalysis": "标题采用‘为什么+特定群体+不+特定行为’的疑问句式，直接抛出反常识或行业内部现象，引发用户好奇心和求知欲。‘湖南高速’作为具体地点，增加了地域相关性和话题性。",
+        "titleAnalysis": "标题采用“动作+结果”结构，前半句“开河蚌的一天”设定场景和过程，后半句“开出许多淡紫色的珍珠”给出具体、意外且具有视觉吸引力的结果（淡紫色珍珠），形成信息差和期待感。",
         "hotFactors": [
-          "行业揭秘与信息差",
-          "地域性话题引发本地用户共鸣与讨论",
-          "涉及交通安全与司机群体的实用知识"
+          "过程解压与未知惊喜（开蚌的随机性）",
+          "视觉奇观（淡紫色珍珠的稀缺性与美感）"
         ],
         "category": [
-          "汽车知识",
-          "行业揭秘",
-          "地域话题"
+          "生活记录",
+          "解压/ASMR",
+          "手工艺/开蚌"
         ],
-        "reason": "标题精准切入货车司机群体的特定行为，利用信息差和地域话题制造悬念，容易引发相关从业者、司机及对交通话题感兴趣的用户点击和讨论。点赞量尚可，但评论和分享为零，表明内容可能尚未破圈或引发深度互动，存在上升潜力但爆发力待观察。"
-      }
-    },
-    {
-      "videoId": "3x6b8mqf5wbei4s",
-      "title": "最美孝心少年，用三餐温暖疲惫父母 #厨房小能手 #小厨神 #懂事的孩子",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6b8mqf5wbei4s",
-      "authorName": "阿嗨看世界",
-      "authorUrl": "https://www.kuaishou.com/profile/3xaenjkkfyxqe9w",
-      "authorId": "3xaenjkkfyxqe9w",
-      "publishTime": "2026-04-26T10:10:11.114Z",
-      "likeCount": 2451,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 113420,
-      "collectedAt": "2026-05-25T14:40:12.069Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "采用“人物标签+行为描述+情感升华”结构。前半句“最美孝心少年”是身份标签，吸引关注；中间“用三餐温暖疲惫父母”是具体行为，画面感强；后半句通过#标签强化“懂事”“小厨神”等正面关键词，符合平台正能量内容推荐逻辑。",
-        "hotFactors": [
-          "孝心与亲情主题，易引发情感共鸣",
-          "儿童反哺父母的反差感，突出懂事与成长",
-          "“厨房小能手”标签贴近生活，展示技能与独立"
-        ],
-        "category": [
-          "家庭情感",
-          "亲子教育",
-          "正能量"
-        ],
-        "reason": "内容契合快手平台对家庭温情、孝道文化的推荐倾向，儿童形象易获得广泛好感，但评论与分享数据为零，显示初期传播力不足，需依赖算法推荐突破圈层。"
+        "reason": "开蚌类视频本身具备解压和未知惊喜的天然吸引力，淡紫色珍珠作为具体、罕见的视觉结果，能有效激发用户的好奇心和观看欲。点赞数据尚可，但评论和分享为零，表明视频可能处于初期推荐阶段，内容本身有爆款潜力，但互动数据尚未完全爆发，需观察后续增长。"
       }
     }
   ]
