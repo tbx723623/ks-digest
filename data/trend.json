@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T10:52:40.643Z",
+  "fetchedAt": "2026-05-25T11:02:46.232Z",
   "date": "2026-05-25",
-  "count": 5,
+  "count": 4,
   "items": [
     {
-      "videoId": "3x6h9rxw2eu3puu",
-      "title": "人去世了，欠贷款还要还吗？ #老铁知识百科 #知识播种计划 #未来预备班",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6h9rxw2eu3puu",
-      "authorName": "敬博老师",
-      "authorUrl": "https://www.kuaishou.com/profile/3xc7eweyt22j2gg",
-      "authorId": "3xc7eweyt22j2gg",
-      "publishTime": "2026-03-01T01:53:41.689Z",
-      "likeCount": 5547,
+      "videoId": "3xt2sexz74har6y",
+      "title": "  #0 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xt2sexz74har6y",
+      "authorName": "妙姐生活小妙招",
+      "authorUrl": "https://www.kuaishou.com/profile/3xpx7x68c8bvws2",
+      "authorId": "3xpx7x68c8bvws2",
+      "publishTime": "2026-03-08T03:03:17.986Z",
+      "likeCount": 47044,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 765269,
-      "collectedAt": "2026-05-25T10:50:12.057Z",
+      "viewCount": 1450313,
+      "collectedAt": "2026-05-25T11:00:12.460Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -29,73 +29,33 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "悬念",
-        "titleAnalysis": "标题采用“疑问句+痛点场景”结构，直接切入一个普遍但敏感、且大多数人不明确答案的法律/生活常识问题，具有极强的代入感和好奇心驱动力。",
+        "titleAnalysis": "标题为‘#0’，极度简洁且带有编号暗示，制造了强烈的好奇心和悬念，让用户想知道‘0’代表什么，以及是否有后续系列。这种标题在快手上容易引发点击和完播。",
         "hotFactors": [
-          "切中大众对法律/债务的普遍焦虑与知识盲区",
-          "话题具有普适性和争议性，易引发讨论和分享",
-          "“老铁知识百科”等标签定位清晰，吸引特定知识科普受众"
+          "悬念式标题引发好奇",
+          "生活小妙招类实用内容",
+          "系列化内容潜力（#0暗示）",
+          "发布者‘妙姐’人设清晰"
         ],
         "category": [
-          "法律科普",
-          "生活常识",
-          "知识分享"
+          "生活技巧",
+          "实用干货"
         ],
-        "reason": "话题直击社会普遍痛点（债务与死亡），悬念感强，易引发好奇、焦虑和求知欲，符合快手知识类内容爆款逻辑。点赞量高但互动（评论/分享）为零，可能处于流量爬升初期或数据异常，但话题本身潜力巨大。"
+        "reason": "标题‘#0’是典型的悬念钩子，结合生活小妙招的实用属性，容易引发用户点击和互动。点赞量4.7万且无评论/分享数据，可能处于流量上升初期，后续爆发潜力大。"
       }
     },
     {
-      "videoId": "3x4wzxqfu9b68pk",
-      "title": "【“他们要打多久就打多久 一直打到完全胜利！”】1953年2月7日，针对美国在朝鲜战场上时而借谈判施压、时而军事挑衅的谈判态势，毛主席表明了中国人民和军队抗争到底的决心！",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4wzxqfu9b68pk",
-      "authorName": "央视网",
-      "authorUrl": "https://www.kuaishou.com/profile/3xyudn6sz9nwksq",
-      "authorId": "3xyudn6sz9nwksq",
-      "publishTime": "2026-03-27T01:08:35.076Z",
-      "likeCount": 209945,
+      "videoId": "3xsdvktawhfnia2",
+      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
+      "authorName": "周沫讲理财",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
+      "authorId": "3xhinyavn5y69uc",
+      "publishTime": "2026-04-22T11:27:31.413Z",
+      "likeCount": 29595,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 3397989,
-      "collectedAt": "2026-05-25T10:50:12.057Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用【】符号突出核心金句，直接引用毛主席原话，具有强烈的历史感和权威性。前半部分点明时间、事件背景（朝鲜战场谈判），后半部分升华到“抗争到底的决心”，结构清晰，情感递进。",
-        "hotFactors": [
-          "权威信源（央视网）",
-          "历史事件与领袖金句结合",
-          "强烈的爱国主义与民族精神共鸣",
-          "契合当前国际形势下的民众情绪"
-        ],
-        "category": [
-          "历史",
-          "时政",
-          "爱国主义"
-        ],
-        "reason": "内容具有极高的情感共鸣和时代价值，权威发布增强了可信度，金句本身极具传播力，容易引发集体记忆和民族自豪感，符合平台正能量内容推荐机制。"
-      }
-    },
-    {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
-      "authorId": "3xa85jgbhtm6hic",
-      "publishTime": "2026-05-09T07:36:21.512Z",
-      "likeCount": 21826,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 487781,
-      "collectedAt": "2026-05-25T10:50:12.057Z",
+      "viewCount": 1456875,
+      "collectedAt": "2026-05-25T11:00:12.460Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -108,33 +68,34 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用‘定性指控+后果归因’结构，直接点名‘台独’为‘罪魁祸首’，立场鲜明、定性严厉，具有强烈的冲突性和话题性，能迅速抓住用户注意力并引发立场共鸣或讨论。",
+        "titleAnalysis": "标题采用“问题+场景+解决方案”的冲突结构。前半句“去派出所报警被大声嚷嚷”构建了一个极具张力的现实冲突场景，后半句“怎么办”直接点明用户痛点并暗示解决方案，同时通过#维权、#老铁财富密码、#老铁看热点等标签精准定位目标受众和流量池。",
         "hotFactors": [
-          "官方权威信源（国防部发布）",
-          "涉及国家主权与领土完整的核心议题",
-          "标题措辞强硬，立场鲜明，易引发强烈情绪共鸣"
+          "强冲突场景（公权力与个体体验的碰撞）",
+          "高共鸣痛点（普通人面对权威机构的无助感）",
+          "实用价值（提供具体维权方法）",
+          "精准的标签策略（覆盖维权、热点、财富密码等高流量领域）"
         ],
         "category": [
-          "时政",
-          "军事",
-          "爱国主义"
+          "社会民生",
+          "法律维权",
+          "生活技巧"
         ],
-        "reason": "由国防部官方账号发布，议题敏感且重要，标题直接、有力，符合平台主流价值观，极易引发广泛共鸣、讨论和传播，具备高爆发潜力。"
+        "reason": "视频内容切中社会普遍关注的“维权难”痛点，冲突性强，极易引发用户共鸣和讨论。标题结构清晰，标签精准，能有效触发平台推荐机制。尽管当前互动数据（评论、分享）为0，但高点赞量表明内容已获得初步认可，具备快速起量的潜力。"
       }
     },
     {
-      "videoId": "3xth33y475bs5a2",
-      "title": " @漫剧大全(O3xmsyspndc9t5pm) 的精彩视频",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xth33y475bs5a2",
-      "authorName": "漫剧大全",
-      "authorUrl": "https://www.kuaishou.com/profile/3xmsyspndc9t5pm",
-      "authorId": "3xmsyspndc9t5pm",
-      "publishTime": "2026-04-10T10:01:13.800Z",
-      "likeCount": 53839,
+      "videoId": "3xies8kxwbkjj64",
+      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
+      "authorName": "甜吖",
+      "authorUrl": "https://www.kuaishou.com/profile/3xbdz5fic8euk4y",
+      "authorId": "3xbdz5fic8euk4y",
+      "publishTime": "2026-05-08T21:43:26.019Z",
+      "likeCount": 124578,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 9205190,
-      "collectedAt": "2026-05-25T10:50:12.057Z",
+      "viewCount": 1289187,
+      "collectedAt": "2026-05-25T11:00:12.460Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -144,61 +105,60 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用@账号+“的精彩视频”的通用模板，缺乏具体信息，但“漫剧大全”账号名暗示内容为动漫/漫画合集，可能吸引特定受众。",
-        "hotFactors": [
-          "动漫/漫画题材受众广泛",
-          "合集类内容满足用户“一站式”观看需求",
-          "账号名“漫剧大全”具有垂直领域辨识度"
-        ],
-        "category": [
-          "动漫",
-          "二次元",
-          "影视剪辑"
-        ],
-        "reason": "点赞量5.4万远高于评论和分享（可能为0或未显示），表明内容本身吸引力强，但互动性不足。动漫合集类内容在快手有稳定受众，若内容质量高或涉及热门IP，易引发传播。"
-      }
-    },
-    {
-      "videoId": "3xbkrubrwc956bc",
-      "title": "湖南人小时候的超能力 #湖南 #超能力",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrubrwc956bc",
-      "authorName": "邬天宇",
-      "authorUrl": "https://www.kuaishou.com/profile/3xq8qh4c5huhtrs",
-      "authorId": "3xq8qh4c5huhtrs",
-      "publishTime": "2026-03-06T09:57:17.751Z",
-      "likeCount": 29537,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 641188,
-      "collectedAt": "2026-05-25T10:50:12.057Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
+        "explosionRate": 75,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“地域+童年记忆+超能力”的悬念式结构，通过“超能力”一词制造反差和好奇，精准定位湖南本地用户及对童年话题感兴趣的泛人群，易于引发共鸣和互动。",
+        "titleAnalysis": "标题采用“节日热点+平台活动+情感共鸣”的复合结构。前三个标签（#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗）精准绑定五一节日热点和平台官方活动，获取流量扶持。第四个标签（#思白发望断崖）引入具体、有画面感的情感意象，引发用户好奇与共情。最后@多个官方账号，意图获得推荐和曝光。",
         "hotFactors": [
-          "地域精准共鸣（湖南）",
-          "童年怀旧情感",
-          "悬念式标题（超能力）",
-          "强互动引导（评论区分享童年故事）"
+          "精准绑定五一节日热点与平台官方活动（快手乡村超级碗）",
+          "情感化、具象化的标签（思白发望断崖）引发共情与好奇",
+          "高点赞量（12.5万）表明内容已获得初步流量验证和用户认可"
         ],
         "category": [
-          "生活记录",
-          "地域文化",
-          "怀旧情感"
+          "节日热点",
+          "乡村生活",
+          "情感共鸣"
         ],
-        "reason": "标题精准触发地域和童年双重情感共鸣，具备强互动潜力，但数据中评论和分享为0，可能处于流量测试初期或数据未更新，若内容质量高，有较大上升空间。"
+        "reason": "视频成功结合了节日热点、平台活动与情感钩子，点赞数据表现强劲，具备爆款基础。但评论和分享数据为零，可能表明内容互动性或传播性有待观察，或数据存在延迟/异常。"
+      }
+    },
+    {
+      "videoId": "3xgicqr3xsnyr36",
+      "title": "县城月薪两三千，麻将馆却天天爆满 #经济 #文娱百科明日之星 #老铁知识百科  #知识播种计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgicqr3xsnyr36",
+      "authorName": "臧其超商业心经",
+      "authorUrl": "https://www.kuaishou.com/profile/3xku5x3tmdmxkt4",
+      "authorId": "3xku5x3tmdmxkt4",
+      "publishTime": "2026-04-25T11:00:21.478Z",
+      "likeCount": 7920,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 618941,
+      "collectedAt": "2026-05-25T11:00:12.460Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“反差对比”结构，前半句“县城月薪两三千”描绘低收入现实，后半句“麻将馆却天天爆满”呈现看似矛盾的消费现象，形成强烈认知冲突。标签#经济 #文娱百科明日之星 #老铁知识百科 #知识播种计划，精准定位知识科普与社会观察类内容，吸引特定兴趣人群。",
+        "hotFactors": [
+          "社会现象反差引发好奇与讨论",
+          "贴近下沉市场生活，易引发共鸣与争议",
+          "知识科普类标签吸引垂直领域流量"
+        ],
+        "category": [
+          "社会观察",
+          "知识科普",
+          "经济民生"
+        ],
+        "reason": "标题直击“低收入与高消费”的社会矛盾点，极易引发用户好奇、共鸣或争论，具备强互动潜力。虽当前互动数据不完整（评论/分享为0），但高点赞量表明内容已获初步认可，若评论区出现观点交锋，易推动二次传播。"
       }
     }
   ]
