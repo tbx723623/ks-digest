@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T17:22:50.365Z",
+  "fetchedAt": "2026-05-25T17:33:04.125Z",
   "date": "2026-05-25",
-  "count": 2,
+  "count": 3,
   "items": [
     {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
-      "authorId": "3xa85jgbhtm6hic",
-      "publishTime": "2026-05-09T07:36:21.512Z",
-      "likeCount": 21989,
+      "videoId": "3xc63jwxz56smv4",
+      "title": "关系再好，也不要跟别人说的八句话 #忠告  #人际关系 #喜爱度激励计划 #知识播种计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xc63jwxz56smv4",
+      "authorName": "董超",
+      "authorUrl": "https://www.kuaishou.com/profile/3xba59cndhgm629",
+      "authorId": "3xba59cndhgm629",
+      "publishTime": "2026-03-04T07:25:00.519Z",
+      "likeCount": 8985,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 495618,
-      "collectedAt": "2026-05-25T17:20:11.988Z",
+      "viewCount": 372295,
+      "collectedAt": "2026-05-25T17:30:12.092Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,36 +26,75 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 85,
+        "explosionRate": 75,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“定性指控+后果归因”结构，直接点明“台独”为破坏和平的“罪魁祸首”，立场鲜明、结论强烈，具有高度的冲突性和话题性。",
+        "hookType": "共情",
+        "titleAnalysis": "采用“数字+警告/忠告”结构，直接点明核心价值（避免社交风险），并利用“关系再好”这一常见社交场景引发共鸣。标签#忠告 #人际关系精准定位目标受众，#喜爱度激励计划 #知识播种计划为平台活动标签，有助于获得流量扶持。",
         "hotFactors": [
-          "官方权威信源（国防部发布）",
-          "涉及国家主权与领土完整的核心议题",
-          "立场鲜明，易引发强烈情感共鸣与讨论"
+          "强社交共鸣（人际关系痛点）",
+          "实用干货（具体可操作的建议）",
+          "数字清单体（降低认知门槛）",
+          "平台活动标签加持"
         ],
         "category": [
-          "时政",
-          "军事",
-          "爱国主义"
+          "社交技巧",
+          "人际关系",
+          "生活智慧"
         ],
-        "reason": "议题重大、立场鲜明、信源权威，极易在特定受众中引发广泛共鸣与传播，符合平台正能量内容推荐逻辑。"
+        "reason": "内容切中普遍社交焦虑，实用性强，易引发“怕说错话”的共情与收藏分享。点赞量高但互动（评论/分享）数据缺失，可能处于流量爬升初期或数据未完全同步，爆率中高。"
       }
     },
     {
-      "videoId": "3xfatberxdp4zcu",
-      "title": "用苏尔南怒嚎，解锁超低成本刷刀技巧！ #和平精英地铁逃生 #快手游戏给我流量 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xfatberxdp4zcu",
-      "authorName": "老橙子（地铁收刀）",
-      "authorUrl": "https://www.kuaishou.com/profile/3xdiiak5wv3kase",
-      "authorId": "3xdiiak5wv3kase",
-      "publishTime": "2026-03-11T09:53:59.502Z",
-      "likeCount": 13066,
+      "videoId": "3x45cv2wp8h4m26",
+      "title": "当你不小心进入了黑屋局...",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x45cv2wp8h4m26",
+      "authorName": "小博博（三角洲行动）",
+      "authorUrl": "https://www.kuaishou.com/profile/3xp32848ru2cqhc",
+      "authorId": "3xp32848ru2cqhc",
+      "publishTime": "2026-03-17T03:13:44.652Z",
+      "likeCount": 42572,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 487332,
-      "collectedAt": "2026-05-25T17:20:11.987Z",
+      "viewCount": 1051646,
+      "collectedAt": "2026-05-25T17:30:12.092Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用‘当你...’的第二人称叙事视角，直接将观众代入情境。‘不小心’暗示意外和不可控，‘黑屋局’是游戏/网络文化中的特定术语，指代高风险、高强度的对局，能精准吸引核心玩家群体，营造紧张感和好奇心。",
+        "hotFactors": [
+          "精准的垂直领域（游戏/射击类）术语吸引核心用户",
+          "悬念式标题引发‘接下来会发生什么’的点击欲望"
+        ],
+        "category": [
+          "游戏",
+          "射击游戏",
+          "三角洲行动"
+        ],
+        "reason": "标题精准狙击游戏垂类用户，悬念钩子强，点赞数据已显爆款潜质。虽评论分享数据暂无，但可能因视频内容本身（如精彩操作、搞笑翻车）引发互动，趋势看涨。"
+      }
+    },
+    {
+      "videoId": "3xgdkp9evxandhg",
+      "title": "这波啊 这波确实有点急了！ #三角洲行动 #感人一幕 #英雄主义 #阅读障碍 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgdkp9evxandhg",
+      "authorName": "小普（三角洲重生版）",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8626ecdzserki",
+      "authorId": "3x8626ecdzserki",
+      "publishTime": "2026-03-18T09:24:58.084Z",
+      "likeCount": 58271,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 900242,
+      "collectedAt": "2026-05-25T17:30:12.092Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -67,18 +106,21 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "rising",
-        "hookType": "爽点",
-        "titleAnalysis": "标题采用“工具/方法+效果承诺”结构，直接点明核心价值（低成本刷刀），并关联热门游戏IP（和平精英）和平台流量话题（快手游戏给我流量），精准吸引目标玩家。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用口语化感叹句式（'这波啊 这波确实有点急了！'），制造悬念和冲突感。标签组合（#三角洲行动 #感人一幕 #英雄主义 #阅读障碍）覆盖了游戏、情感、正能量和特殊群体等多个潜在流量池，意图广泛吸引不同兴趣圈层的用户。",
         "hotFactors": [
-          "实用技巧（低成本刷刀）",
-          "热门游戏IP（和平精英地铁逃生）",
-          "平台流量扶持标签"
+          "游戏热点（三角洲行动）",
+          "情感共鸣（感人/英雄主义）",
+          "特殊群体关注（阅读障碍）",
+          "悬念式口语化标题"
         ],
         "category": [
-          "游戏攻略",
-          "手游技巧"
+          "游戏",
+          "情感",
+          "正能量",
+          "社会关怀"
         ],
-        "reason": "内容实用性强，切中玩家痛点（低成本），结合热门游戏和平台流量标签，易吸引精准用户。但评论和分享数据为0，可能处于流量测试初期或互动引导不足，潜力中等偏上。"
+        "reason": "标题和标签组合精准，能同时吸引游戏玩家、情感向用户及关注特殊群体的观众，具备跨圈层传播潜力。点赞数据已初步验证内容吸引力，但评论和分享数据缺失可能影响算法推荐，需观察后续互动数据。"
       }
     }
   ]
