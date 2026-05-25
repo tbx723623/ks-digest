@@ -1,101 +1,22 @@
 {
   "source": "高爆率真实视频",
-  "fetchedAt": "2026-05-25T11:43:49.546Z",
+  "fetchedAt": "2026-05-25T11:52:56.843Z",
   "date": "2026-05-25",
-  "count": 12,
+  "count": 13,
   "items": [
     {
-      "videoId": "3xzesfp8pvjpqjw",
-      "title": "这次真没欺负他，全部都是他自愿的！",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xzesfp8pvjpqjw",
-      "authorName": "小瑶u",
-      "authorUrl": "https://www.kuaishou.com/profile/3xtz2zyzggmxbk6",
-      "authorId": "3xtz2zyzggmxbk6",
-      "publishTime": "2026-04-23T10:41:51.033Z",
-      "likeCount": 61155,
+      "videoId": "3xjehpebz2pkh82",
+      "title": "日本公开宣布，5年内在与那国岛部署导弹 #军事 #春节新知锦囊 #老铁知识百科 #手席军事观察 @快手军事(O3x8dc8gvc7vgtim)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xjehpebz2pkh82",
+      "authorName": "杜文龙",
+      "authorUrl": "https://www.kuaishou.com/profile/3xif6y4sr54jdrk",
+      "authorId": "3xif6y4sr54jdrk",
+      "publishTime": "2026-02-26T08:09:18.449Z",
+      "likeCount": 20688,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1261714,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用‘先否定后肯定’的反转结构，前半句‘真没欺负他’暗示可能存在争议或误解，后半句‘全部都是他自愿的’形成强烈反转，制造悬念和冲突感，激发用户好奇心。",
-        "hotFactors": [
-          "强烈反转引发好奇",
-          "涉及‘自愿’与‘欺负’的道德争议点",
-          "口语化表达增强真实感和代入感"
-        ],
-        "category": [
-          "情感剧情",
-          "反转短剧",
-          "生活记录"
-        ],
-        "reason": "标题反转结构极具吸引力，能快速抓住用户注意力并引发互动猜测，符合快手用户偏好强冲突、快节奏内容的特点，具备高传播潜力。"
-      }
-    },
-    {
-      "videoId": "3x4wzxqfu9b68pk",
-      "title": "【“他们要打多久就打多久 一直打到完全胜利！”】1953年2月7日，针对美国在朝鲜战场上时而借谈判施压、时而军事挑衅的谈判态势，毛主席表明了中国人民和军队抗争到底的决心！",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4wzxqfu9b68pk",
-      "authorName": "央视网",
-      "authorUrl": "https://www.kuaishou.com/profile/3xyudn6sz9nwksq",
-      "authorId": "3xyudn6sz9nwksq",
-      "publishTime": "2026-03-27T01:08:35.076Z",
-      "likeCount": 209945,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 3398006,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "stable",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用【】符号突出核心金句，结合具体历史日期（1953年2月7日）和权威信源（毛主席、央视网），结构为“金句+历史背景+权威解读”，兼具冲击力与可信度。",
-        "hotFactors": [
-          "家国情怀与民族精神共鸣",
-          "权威媒体（央视网）背书",
-          "历史关键节点与领袖金句结合",
-          "契合当前国际形势下的爱国情绪"
-        ],
-        "category": [
-          "历史",
-          "正能量",
-          "时政"
-        ],
-        "reason": "内容紧扣爱国主义与历史记忆，权威信源增强可信度，金句具有强传播性，易引发用户情感共鸣与互动。"
-      }
-    },
-    {
-      "videoId": "3x9xnjeq8z79da4",
-      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
-      "authorName": "央视频",
-      "authorUrl": "https://www.kuaishou.com/profile/3xqbri2seru7w4e",
-      "authorId": "3xqbri2seru7w4e",
-      "publishTime": "2026-04-29T13:29:39.972Z",
-      "likeCount": 53435,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 1636414,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
+      "viewCount": 679289,
+      "collectedAt": "2026-05-25T11:50:12.500Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -108,74 +29,115 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用双重否定强化语气（“绝不...再当”、“绝不能当”），直击消费者痛点（“冤大头”），并明确责任主体（主播），同时引用权威信源（央视频号）增强可信度，情绪强烈，立场鲜明。",
+        "titleAnalysis": "标题采用“国家行为+具体时间+敏感地点+军事动作”的强冲突结构，信息密度高，直接点明地缘政治热点，具有强烈的紧迫感和话题性。",
         "hotFactors": [
-          "权威媒体背书（央视频）",
-          "直击消费者权益痛点",
-          "对主播带货责任的强烈呼吁",
-          "情绪化表达易引发共鸣"
+          "地缘政治敏感话题（日本军事动向）",
+          "知名军事专家（杜文龙）背书",
+          "春节流量窗口期（#春节新知锦囊）",
+          "平台热点标签（#手席军事观察）"
         ],
         "category": [
-          "社会热点",
-          "消费维权",
-          "媒体评论"
-        ],
-        "reason": "内容切中当前直播带货乱象的社会痛点，由权威媒体发布，立场鲜明且情绪强烈，极易引发消费者共鸣和广泛讨论，具备高传播潜力。"
-      }
-    },
-    {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
-      "authorId": "3xa85jgbhtm6hic",
-      "publishTime": "2026-05-09T07:36:21.512Z",
-      "likeCount": 21847,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 488850,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“定性+归因”结构，直接点明核心矛盾（台独）并将其定性为破坏和平的“罪魁祸首”，立场鲜明，情绪强烈，具有高度的冲突性和话题性。",
-        "hotFactors": [
-          "官方权威发布（国防部）",
-          "涉及国家主权与领土完整的核心议题",
-          "强烈的民族情感与爱国共鸣",
-          "时事热点与政策宣示"
-        ],
-        "category": [
-          "时政",
           "军事",
-          "爱国主义"
+          "国际时事",
+          "地缘政治"
         ],
-        "reason": "内容由国防部官方发布，权威性极高；议题涉及国家核心利益，极易引发广泛共鸣与讨论；标题立场鲜明、情绪强烈，符合平台对正能量和主旋律内容的推荐倾向。尽管当前互动数据（评论、分享）为零，但基于发布主体和内容性质，其潜在传播力和引爆力极强，数据可能处于爆发前夜或受平台审核/发布机制影响。"
+        "reason": "内容涉及东亚安全热点，由权威专家发布，标题冲突性强，易引发民族情绪和讨论，且在春节流量期借助平台标签推荐，具备高传播潜力。"
       }
     },
     {
-      "videoId": "3xjhfu8688tnqs6",
-      "title": "这五种号码千万不要接听，避免财产损失 #防诈骗 #老百姓关心的话题 #老铁财富密码 #老铁看热点",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xjhfu8688tnqs6",
+      "videoId": "3xhmz5h7qf9zjjs",
+      "title": "三分天注定，七分靠打拼！泉州！我们今晚再見！ #齐迹2026 #任贤齐演唱会 #快手星朋友 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xhmz5h7qf9zjjs",
+      "authorName": "任賢齊",
+      "authorUrl": "https://www.kuaishou.com/profile/3xiebwe3mcz3f72",
+      "authorId": "3xiebwe3mcz3f72",
+      "publishTime": "2026-04-25T09:23:11.943Z",
+      "likeCount": 23880,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1591086,
+      "collectedAt": "2026-05-25T11:50:12.501Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用经典励志金句+地域+互动号召结构。前半句“三分天注定，七分靠打拼”是广为流传的闽南语励志歌词，能瞬间唤起集体记忆和情感共鸣；后半句“泉州！我们今晚再見！”直接点明地点和事件，营造出强烈的现场感和期待感，并带有明确的互动邀请。",
+        "hotFactors": [
+          "明星IP效应（任贤齐本人发布）",
+          "经典金句引发集体怀旧与情感共鸣",
+          "演唱会事件具有强时效性和地域话题性",
+          "标题结构清晰，情绪饱满，易于传播"
+        ],
+        "category": [
+          "娱乐",
+          "明星",
+          "演唱会",
+          "怀旧"
+        ],
+        "reason": "任贤齐作为国民级歌手，其演唱会本身就是热点事件。标题巧妙运用其经典歌曲元素，精准触发80、90后群体的怀旧情绪和共情，配合明星亲自发布的稀缺性，极易引发粉丝互动和二次传播。"
+      }
+    },
+    {
+      "videoId": "3xrh2wp5jtpsf5a",
+      "title": "我自己家人没能给到欣欣的爱，我希望屏幕前的家人，可以帮我….4.18号让我们所有人，一起接欣欣回家….​ #vlog日常  ​ #记录真实生活  ​",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xrh2wp5jtpsf5a",
+      "authorName": "小清 记录美好生活",
+      "authorUrl": "https://www.kuaishou.com/profile/3xpc5u94hb3xnpc",
+      "authorId": "3xpc5u94hb3xnpc",
+      "publishTime": "2026-04-12T09:29:52.669Z",
+      "likeCount": 9900,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 401223,
+      "collectedAt": "2026-05-25T11:50:12.501Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用第一人称叙事，通过‘我自己家人没能给到欣欣的爱’制造情感缺口，利用‘我希望屏幕前的家人’拉近与观众的距离，最后以‘4.18号让我们所有人，一起接欣欣回家’形成明确的行动号召和情感共鸣点，结构完整，情感递进强烈。",
+        "hotFactors": [
+          "强烈的情感共鸣（家庭、爱、缺失）",
+          "明确的集体行动号召（接欣欣回家）",
+          "真实生活记录标签增强可信度",
+          "悬念式人物关系（欣欣是谁？为何需要帮助？）"
+        ],
+        "category": [
+          "情感故事",
+          "生活记录",
+          "公益倡导"
+        ],
+        "reason": "标题情感真挚，直击家庭与爱的普世主题，易引发广泛共情；‘接欣欣回家’的号召具有仪式感和参与感，能激发用户互动意愿；结合真实生活标签，增强了内容的可信度和传播潜力。点赞量已近万，且评论/分享数据可能因平台显示延迟或用户行为模式而暂未体现，但高点赞已表明内容获得了初步认可，具备进一步爆发的基础。"
+      }
+    },
+    {
+      "videoId": "3xsdvktawhfnia2",
+      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
       "authorName": "周沫讲理财",
       "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
       "authorId": "3xhinyavn5y69uc",
-      "publishTime": "2026-04-22T07:13:54.198Z",
-      "likeCount": 12396,
+      "publishTime": "2026-04-22T11:27:31.413Z",
+      "likeCount": 29636,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 893426,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
+      "viewCount": 1458132,
+      "collectedAt": "2026-05-25T11:50:12.501Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -185,22 +147,214 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 85,
+        "explosionRate": 75,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“数字+警告+后果”的强警示结构，直接点明“五种号码”和“财产损失”，并使用“千万不要”等绝对化用语，制造紧迫感和悬念。标签精准覆盖了防诈骗、民生热点和财富话题，易于引发广泛共鸣和传播。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“场景+痛点+解决方案”的经典结构。前半句“去派出所报警被大声嚷嚷”构建了一个极具冲突感和代入感的现实场景，后半句“怎么办”直接点明用户寻求解决方案的刚需。标签#维权、#老铁财富密码、#老铁看热点精准覆盖了法律、财经和热点三大流量池，能有效吸引目标人群。",
         "hotFactors": [
-          "强警示性内容（防诈骗）",
-          "与大众财产安全直接相关",
-          "数字清单体易于理解和传播",
-          "标签精准，覆盖多个高流量话题"
+          "强冲突场景（公权力与个人）",
+          "普适性痛点（维权难）",
+          "精准的流量标签",
+          "财经博主跨界普法带来的新鲜感"
         ],
         "category": [
-          "社会安全",
-          "生活技巧",
-          "财经知识"
+          "社会热点",
+          "法律科普",
+          "财经生活"
         ],
-        "reason": "内容切中社会普遍关注的防诈骗痛点，实用性强，标题结构具有高点击吸引力，且标签能有效触达目标人群，具备快速传播和引发讨论的潜力。"
+        "reason": "视频切中了公众对“维权难”的普遍焦虑和共鸣，冲突场景极具张力。财经博主跨界讨论法律维权，提供了差异化视角。标题和标签设计精准，能有效撬动平台推荐流量。点赞数据（3万）已显示出良好的初始爆发力，但评论和分享数据缺失，可能影响后续传播深度。"
+      }
+    },
+    {
+      "videoId": "3xbkrubrwc956bc",
+      "title": "湖南人小时候的超能力 #湖南 #超能力",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrubrwc956bc",
+      "authorName": "邬天宇",
+      "authorUrl": "https://www.kuaishou.com/profile/3xq8qh4c5huhtrs",
+      "authorId": "3xq8qh4c5huhtrs",
+      "publishTime": "2026-03-06T09:57:17.751Z",
+      "likeCount": 29545,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 641569,
+      "collectedAt": "2026-05-25T11:50:12.500Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 72,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "采用“地域+童年+超能力”的组合结构，通过“湖南人”精准定位地域受众，“小时候”唤起集体记忆，“超能力”制造悬念与趣味反差，形成强吸引力。",
+        "hotFactors": [
+          "地域文化共鸣（湖南本地流量）",
+          "童年怀旧情绪（跨地域共鸣）",
+          "悬念式标题（“超能力”引发好奇）"
+        ],
+        "category": [
+          "生活/搞笑",
+          "地域文化",
+          "怀旧"
+        ],
+        "reason": "标题精准触发地域认同与童年怀旧双重情绪，数据呈现“高赞低互动”特征，符合爆款初期扩散模式，但评论/分享数据缺失可能限制长期热度。"
+      }
+    },
+    {
+      "videoId": "3x5wpqmcfbw72bs",
+      "title": "“或许这就是家 有温暖的地方 有盼头的地方 有想念的人” #修车小杨",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x5wpqmcfbw72bs",
+      "authorName": "修车小杨",
+      "authorUrl": "https://www.kuaishou.com/profile/3xthujq8xh9jdva",
+      "authorId": "3xthujq8xh9jdva",
+      "publishTime": "2026-04-20T10:29:30.660Z",
+      "likeCount": 31103,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1331927,
+      "collectedAt": "2026-05-25T11:50:12.500Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "stable",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用抒情散文式结构，通过排比句式（有温暖的地方、有盼头的地方、有想念的人）营造情感共鸣，以“或许这就是家”点明主题，引发观众对“家”的情感联想。标签#修车小杨表明创作者身份，增强真实感和人设关联。",
+        "hotFactors": [
+          "情感共鸣（家、温暖、思念）",
+          "真实人设（修车工人的生活视角）"
+        ],
+        "category": [
+          "生活记录",
+          "情感共鸣",
+          "正能量"
+        ],
+        "reason": "标题情感真挚易引发共鸣，但评论和分享数据缺失可能限制传播；内容若真实感人，有稳定传播潜力，但爆发力受制于互动数据不足。"
+      }
+    },
+    {
+      "videoId": "3xgtbxtctzg4x7a",
+      "title": "@🍊冰冰🍊（大晨辰）(O3xc2jcavfirjbjc) #年味音你燃 #春节气氛组已就位 #喜爱度激励计划 #我的春节主题曲",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgtbxtctzg4x7a",
+      "authorName": "鞍山-大晨辰",
+      "authorUrl": "https://www.kuaishou.com/profile/3xkxhwv8rykvkwg",
+      "authorId": "3xkxhwv8rykvkwg",
+      "publishTime": "2026-02-28T15:24:57.431Z",
+      "likeCount": 10182,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 558509,
+      "collectedAt": "2026-05-25T11:50:12.500Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "stable",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用@用户名+话题标签组合，包含#年味音你燃、#春节气氛组已就位等春节相关热门话题，结合#喜爱度激励计划平台活动标签，结构符合快手内容推荐逻辑。",
+        "hotFactors": [
+          "春节时间节点精准",
+          "平台活动标签加持",
+          "情感共鸣（年味主题）"
+        ],
+        "category": [
+          "生活记录",
+          "节日氛围",
+          "音乐"
+        ],
+        "reason": "春节相关内容在节日期间有天然流量优势，结合平台活动标签可获得额外曝光，但评论和分享数据缺失表明互动深度不足，爆款潜力中等偏上。"
+      }
+    },
+    {
+      "videoId": "3xxcw79tvnjx85u",
+      "title": "人到中年，最该看清的真相",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xxcw79tvnjx85u",
+      "authorName": "赵普",
+      "authorUrl": "https://www.kuaishou.com/profile/3xxrffpa8rxg87a",
+      "authorId": "3xxrffpa8rxg87a",
+      "publishTime": "2026-05-06T22:30:03.811Z",
+      "likeCount": 6967,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 147401,
+      "collectedAt": "2026-05-25T11:50:12.500Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "stable",
+        "hookType": "共情",
+        "titleAnalysis": "采用'人群定位+痛点揭示'结构，'人到中年'精准锁定目标受众，'最该看清的真相'制造认知缺口，暗示内容具有颠覆性或深刻性，引发好奇与共鸣。",
+        "hotFactors": [
+          "精准的年龄圈层共鸣（中年危机/感悟）",
+          "高信息密度暗示（'真相'一词提升内容价值预期）",
+          "发布者'赵普'作为知名前央视主持人，自带权威性与信任背书"
+        ],
+        "category": [
+          "情感/人生感悟",
+          "社会观察"
+        ],
+        "reason": "标题直击中年群体普遍焦虑与反思需求，具备强共情基础。发布者身份为内容可信度加分。但评论与分享数据为0，表明互动引导不足或内容未能激发强烈讨论欲，限制了爆发上限。"
+      }
+    },
+    {
+      "videoId": "3x4tpyud2882tdg",
+      "title": "#母女日常 #戏精上线",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x4tpyud2882tdg",
+      "authorName": "雨佳妈妈",
+      "authorUrl": "https://www.kuaishou.com/profile/3xj2abbshbqt3tm",
+      "authorId": "3xj2abbshbqt3tm",
+      "publishTime": "2026-05-22T06:52:56.992Z",
+      "likeCount": 41694,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1469955,
+      "collectedAt": "2026-05-25T11:50:12.500Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "stable",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用双标签结构，#母女日常 定位家庭生活场景，#戏精上线 暗示内容具有表演性和趣味性，形成日常与戏剧性的反差，吸引用户点击。",
+        "hotFactors": [
+          "家庭亲子关系共鸣",
+          "轻松幽默的表演风格"
+        ],
+        "category": [
+          "家庭生活",
+          "亲子互动",
+          "搞笑日常"
+        ],
+        "reason": "母女日常题材受众广泛，易引发共鸣；'戏精'标签暗示内容有趣，但评论和分享数据缺失，可能传播力有限，需观察后续互动增长。"
       }
     },
     {
@@ -214,8 +368,8 @@
       "likeCount": 7405,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 207368,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
+      "viewCount": 207377,
+      "collectedAt": "2026-05-25T11:50:12.500Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -228,34 +382,33 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "采用‘问题+解决方案+互动提问’结构。前半部分‘没钓到龙虾’制造小挫折和真实感，中间‘买了点做了个麻辣龙虾’展示生活智慧和成果，结尾‘你们老家河里能掉龙虾了没？’以地域共情和互动提问收尾，引导评论。",
+        "titleAnalysis": "采用“失败+成功”的叙事结构，先以“没钓到龙虾”制造小挫折和悬念，再以“买了点做了个麻辣龙虾”展示成果和生活智慧，最后以“你们老家河里能掉龙虾了没？”的开放式提问引导互动，结构完整，代入感强。",
         "hotFactors": [
-          "三农/乡村生活题材自带流量基础",
-          "美食制作（麻辣龙虾）具有强视觉吸引力和食欲刺激",
-          "‘没钓到’到‘买了做’的转折体现生活真实感与乐观态度",
-          "结尾互动提问精准触发地域认同和分享欲"
+          "真实农村生活场景",
+          "美食制作过程与成果展示",
+          "引发地域共鸣的互动提问"
         ],
         "category": [
           "三农",
           "美食",
-          "乡村生活"
+          "生活记录"
         ],
-        "reason": "题材符合快手主流受众兴趣，内容真实有烟火气，美食展示有看点，互动设计能有效提升评论和分享。但评论和分享数据为0，可能因发布时间、初始流量或账号权重导致数据未充分释放，爆发潜力中等偏上但需观察后续互动增长。"
+        "reason": "内容贴近真实农村生活，结合“钓鱼/捞虾”的户外元素与“麻辣龙虾”的美食诱惑，具有广泛的受众基础。标题通过提问引发评论区互动，是快手三农领域的常见爆款模式。但评论和分享数据缺失，可能影响其爆发潜力。"
       }
     },
     {
-      "videoId": "3xkkxjtuazi6j6s",
-      "title": "挑战拿黑市刷的，单四苏尔南赚千万（十）！ #和平精英地铁逃生  #地铁逃生炽焰灼心 #大老虎和平精英 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xkkxjtuazi6j6s",
-      "authorName": "TJ（和平精英）",
-      "authorUrl": "https://www.kuaishou.com/profile/3xpsbxu3wru4r4s",
-      "authorId": "3xpsbxu3wru4r4s",
-      "publishTime": "2026-03-07T09:12:23.483Z",
-      "likeCount": 23420,
+      "videoId": "3xpz8hv54qwpima",
+      "title": "疯抢中国米、抵制中国造，日本制造神话破灭后的心理扭曲\n#老铁知识百科 #新知问答夜 #老铁看热点 #光合计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpz8hv54qwpima",
+      "authorName": "第一军情",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8epkgu35by2wg",
+      "authorId": "3x8epkgu35by2wg",
+      "publishTime": "2026-05-13T07:50:33.063Z",
+      "likeCount": 6072,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1111967,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
+      "viewCount": 303157,
+      "collectedAt": "2026-05-25T11:50:12.500Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -267,74 +420,35 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "stable",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“挑战+结果+系列化”结构。核心是“挑战拿黑市刷的”制造悬念和冲突（黑市 vs. 游戏内正常玩法），“单四苏尔南赚千万”展示高收益结果作为爽点，“（十）”表明是系列内容，吸引老粉追更。标签精准覆盖游戏、玩法和主播IP。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“现象描述+观点定性”结构。前半句“疯抢中国米、抵制中国造”用具体行为制造冲突和反差，后半句“日本制造神话破灭后的心理扭曲”直接给出带有情绪色彩的结论，形成强烈的观点输出和话题性。",
         "hotFactors": [
-          "“黑市”关键词引发好奇与争议",
-          "“单四赚千万”的高收益结果展示",
-          "系列化内容（第十期）培养用户粘性",
-          "精准的垂直游戏标签"
+          "中日对比与民族情绪话题",
+          "对“日本制造”神话的解构",
+          "“疯抢”与“抵制”的行为反差",
+          "发布者“第一军情”的权威/专业背书"
         ],
         "category": [
-          "游戏",
-          "和平精英",
-          "挑战/攻略"
+          "国际时事",
+          "社会观察",
+          "民族情绪"
         ],
-        "reason": "标题悬念和结果导向明确，能吸引核心玩家点击。但评论和分享为0，可能因内容垂直、受众窄或互动引导不足，限制了破圈潜力。爆率中等偏上，依赖于游戏圈层内的传播。"
+        "reason": "标题精准切入中日对比这一高流量、高情绪价值话题，观点鲜明且具有争议性，易引发讨论和站队。但评论和分享数据缺失，可能限制了其爆发潜力。"
       }
     },
     {
-      "videoId": "3xwp83zracsy4gc",
-      "title": "继续挑战用一件衣服制作出所有的奥特曼！ #喜爱度激励计划 #奥特曼 #手工 #童年回忆",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwp83zracsy4gc",
-      "authorName": "牛战士历险记",
-      "authorUrl": "https://www.kuaishou.com/profile/3xstg85gxfxyqku",
-      "authorId": "3xstg85gxfxyqku",
-      "publishTime": "2026-03-23T07:10:45.959Z",
-      "likeCount": 5637,
+      "videoId": "3xhdfqqik3zsmb9",
+      "title": "家里有个小棉袄#农村生活",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xhdfqqik3zsmb9",
+      "authorName": "月亮一家人",
+      "authorUrl": "https://www.kuaishou.com/profile/3x3iv9ve5k4d6mk",
+      "authorId": "3x3iv9ve5k4d6mk",
+      "publishTime": "2026-04-01T09:46:14.857Z",
+      "likeCount": 6202,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 432378,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "stable",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“继续挑战”开头，暗示系列内容，制造连续性期待；“用一件衣服制作出所有的奥特曼”是核心创意点，突出反常规、高难度的手工挑战，吸引好奇；标签#喜爱度激励计划#奥特曼#手工#童年回忆精准覆盖平台活动、IP热度、技能展示和情感共鸣，多维度引流。",
-        "hotFactors": [
-          "奥特曼IP的广泛童年情怀基础",
-          "“一件衣服”与“所有奥特曼”的极端反差制造悬念",
-          "手工挑战类内容易引发围观和模仿"
-        ],
-        "category": [
-          "手工DIY",
-          "动漫IP衍生",
-          "挑战类内容"
-        ],
-        "reason": "标题创意独特，结合热门IP与手工挑战，具备话题性和情感共鸣潜力，但评论和分享数据为零可能反映互动不足或数据异常，需观察后续增长。"
-      }
-    },
-    {
-      "videoId": "3xhbp6ur46wurpi",
-      "title": "#知识播种计划 #老铁知识百科 #法律科普 #律师咨询 @快手热点(O3xddgkd5fav5if9) @快手普法(O3xf8akief9qng7w) @快手科普(O3xhse825dkj3ss9)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xhbp6ur46wurpi",
-      "authorName": "志伟律师（贵州厘鼎律师事务所）",
-      "authorUrl": "https://www.kuaishou.com/profile/3xmhkyvwbwwawmm",
-      "authorId": "3xmhkyvwbwwawmm",
-      "publishTime": "2026-03-10T23:36:16.177Z",
-      "likeCount": 6499,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 320048,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
+      "viewCount": 596416,
+      "collectedAt": "2026-05-25T11:50:12.501Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -347,71 +461,33 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "标题采用多标签组合形式，包含#知识播种计划、#老铁知识百科、#法律科普、#律师咨询四个核心话题标签，并@了快手热点、快手普法、快手科普三个官方账号，旨在借助平台流量和官方背书，精准触达对法律知识感兴趣的用户群体。",
+        "titleAnalysis": "标题采用“家庭昵称+生活场景”结构，使用“小棉袄”这一充满温情的昵称，结合“农村生活”标签，精准定位家庭亲情与田园生活题材，易引发特定人群共鸣。",
         "hotFactors": [
-          "法律科普内容具有实用性和刚需属性",
-          "律师专业身份增加内容可信度",
-          "多标签和@官方账号的流量获取策略"
+          "家庭亲情（父女/母女关系）",
+          "农村生活场景（真实、接地气）",
+          "昵称“小棉袄”自带情感共鸣属性"
         ],
         "category": [
-          "法律科普",
-          "知识分享"
+          "家庭生活",
+          "农村日常",
+          "亲子关系"
         ],
-        "reason": "内容具备实用价值，且通过标签和@官方账号积极寻求曝光，但评论和分享数据为零，表明用户互动意愿不强，内容可能缺乏足够的冲突性或情感共鸣点来引爆传播，因此爆率中等偏上，趋势稳定。"
+        "reason": "点赞量尚可但互动数据（评论、分享）为零，表明内容可能引发基础共鸣但缺乏强互动驱动力或传播点。标题情感指向明确，但需更多数据（如完播率、粉丝基数）判断是否具备破圈潜力。"
       }
     },
     {
-      "videoId": "3xeifpswxw2gzmc",
-      "title": "开河蚌的一天，开出许多淡紫色的珍珠",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xeifpswxw2gzmc",
-      "authorName": "捡蚌人",
-      "authorUrl": "https://www.kuaishou.com/profile/3xktr2634u7m7my",
-      "authorId": "3xktr2634u7m7my",
-      "publishTime": "2026-05-09T09:54:51.253Z",
-      "likeCount": 9421,
+      "videoId": "3xwziwgmrimtgbw",
+      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
+      "authorName": "远嫁燕子的一家",
+      "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
+      "authorId": "3xihaq7trzkx8v4",
+      "publishTime": "2026-05-18T05:51:48.643Z",
+      "likeCount": 9418,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1320349,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "爽点",
-        "titleAnalysis": "采用“动作+结果”的直白叙事结构，前半句“开河蚌的一天”交代日常行为，后半句“开出许多淡紫色的珍珠”突出意外收获与视觉亮点，形成“付出-回报”的爽感闭环。",
-        "hotFactors": [
-          "稀缺性（淡紫色珍珠）",
-          "过程解压（开蚌的未知感）",
-          "收获满足感"
-        ],
-        "category": [
-          "生活记录",
-          "解压内容",
-          "手工艺/开蚌"
-        ],
-        "reason": "内容具备强解压属性与未知惊喜感，淡紫色珍珠的稀缺性易引发好奇与讨论，符合快手用户对“真实生活+意外收获”类内容的偏好。点赞数据良好，但评论与分享为零可能因发布时间较短或互动引导不足，后续若评论区出现“求同款”“怎么养”等讨论，仍有破圈潜力。"
-      }
-    },
-    {
-      "videoId": "3xzu3rtxdiieqyg",
-      "title": "假如引路人的回归是臆想症 #暗区突围可颂作者团 #暗区突围 #暗区S17诡雾山谷共享宝藏 #暗区诡雾山谷规则怪谈",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xzu3rtxdiieqyg",
-      "authorName": "银儿（暗区突围）",
-      "authorUrl": "https://www.kuaishou.com/profile/3x6s9ppkdvav6y6",
-      "authorId": "3x6s9ppkdvav6y6",
-      "publishTime": "2026-04-24T02:21:39.684Z",
-      "likeCount": 27713,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 909863,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
+      "viewCount": 547822,
+      "collectedAt": "2026-05-25T11:50:12.501Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -423,58 +499,21 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "stable",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用假设性疑问句式（'假如...是...'），结合游戏内热门玩法（'规则怪谈'）和赛季活动（'S17诡雾山谷'），通过'臆想症'这一带有心理悬疑色彩的词汇制造认知冲突，吸引玩家点击验证。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“地域+身份+行为+反差”的复合结构。'云南老婆'点明地域和身份，'猪头扣肉'是具体且有视觉冲击力的行为，'远嫁'、'南北饮食大不同'、'夫妻相处之道'三个标签精准覆盖了情感、地域差异和家庭生活三大流量池，信息密度高，易于引发好奇和共鸣。",
         "hotFactors": [
-          "游戏热门赛季活动（S17诡雾山谷）",
-          "规则怪谈类内容自带悬疑吸引力",
-          "作者团标签带来社群流量"
+          "地域文化冲突（南北饮食差异）",
+          "家庭生活与夫妻关系话题",
+          "猎奇性食物（猪头扣肉）",
+          "远嫁女性的生活视角"
         ],
         "category": [
-          "游戏",
-          "暗区突围",
-          "规则怪谈"
-        ],
-        "reason": "标题精准结合游戏热点与悬疑元素，能有效吸引核心玩家；但评论和分享数据缺失，可能反映内容互动性不足或数据未完全同步，限制了爆发上限。"
-      }
-    },
-    {
-      "videoId": "3xn6s8qpw6ahm8k",
-      "title": "原来我才是小丑 #和平精英 #和平精英地铁逃生 #虎说PEL",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xn6s8qpw6ahm8k",
-      "authorName": "小小飞",
-      "authorUrl": "https://www.kuaishou.com/profile/3xq9xf65awffeee",
-      "authorId": "3xq9xf65awffeee",
-      "publishTime": "2026-04-29T12:00:00.893Z",
-      "likeCount": 22871,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 808420,
-      "collectedAt": "2026-05-25T11:40:12.040Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用第一人称视角，通过‘原来我才是小丑’制造强烈的情感反转和自嘲感，结合热门游戏标签，引发玩家共鸣和好奇。",
-        "hotFactors": [
-          "情感共鸣（自嘲/反转）",
-          "热门游戏IP（和平精英）",
-          "悬念感（小丑身份）"
-        ],
-        "category": [
-          "游戏",
+          "美食",
+          "家庭生活",
           "情感",
-          "搞笑"
+          "地域文化"
         ],
-        "reason": "标题情感冲击力强，易引发玩家共鸣和讨论，但评论和分享数据缺失可能限制传播，需观察后续互动增长。"
+        "reason": "标题精准结合了美食、地域差异、婚姻家庭三大高流量话题，具备强冲突性和共情点。点赞数据尚可，但评论和分享为零，表明内容可能未能有效激发深度互动或传播，潜力受限。"
       }
     }
   ]
