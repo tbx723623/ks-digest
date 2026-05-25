@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T15:13:05.179Z",
+  "fetchedAt": "2026-05-25T15:22:54.804Z",
   "date": "2026-05-25",
   "count": 5,
   "items": [
     {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
-      "authorId": "3xa85jgbhtm6hic",
-      "publishTime": "2026-05-09T07:36:21.512Z",
-      "likeCount": 21982,
+      "videoId": "3xr2tc28fdu9c4u",
+      "title": "21岁边防战士过生日，用雪水煮了碗方便面，加上一个速食鸡腿。 #科普  #涨知识",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xr2tc28fdu9c4u",
+      "authorName": "梦涵说",
+      "authorUrl": "https://www.kuaishou.com/profile/3x5kfnsqm8d8wk6",
+      "authorId": "3x5kfnsqm8d8wk6",
+      "publishTime": "2026-02-25T06:00:00.248Z",
+      "likeCount": 8174,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 494657,
-      "collectedAt": "2026-05-25T15:10:11.734Z",
+      "viewCount": 110861,
+      "collectedAt": "2026-05-25T15:20:12.047Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,34 +28,34 @@
       "aiAnalysis": {
         "explosionRate": 85,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“定性指控+后果归因”结构，直接点明核心矛盾（台独）并将其与重大负面后果（破坏和平）强关联，立场鲜明，情绪强烈，符合平台对重大时政议题的传播逻辑。",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“年龄+身份+特殊场景+朴素行为”的结构，通过“21岁”、“边防战士”、“生日”、“雪水煮面”等关键词，构建了一个极具反差感和情感冲击力的画面，直接触发观众的敬佩与心疼情绪。",
         "hotFactors": [
-          "官方权威信源（国防部发布）",
-          "涉及国家主权与领土完整的核心议题",
-          "标题立场鲜明、情绪强烈，易引发共鸣与讨论"
+          "家国情怀与奉献精神的强烈共鸣",
+          "艰苦环境与朴素庆祝方式形成的巨大反差",
+          "“生日”这一特殊时间节点的情感加成"
         ],
         "category": [
-          "时政",
-          "军事",
-          "爱国主义"
+          "正能量",
+          "军旅生活",
+          "情感共鸣"
         ],
-        "reason": "由最高军事权威机构发布，议题重大且立场鲜明，符合平台主流价值观与流量推荐机制，极易引发广泛共鸣与传播。"
+        "reason": "视频精准击中了大众对边防军人的敬意与共情，通过极具画面感的标题和朴素真实的场景，极易引发情感共鸣和转发，符合快手平台正能量内容的爆款逻辑。"
       }
     },
     {
-      "videoId": "3xjryn4pkynnb3u",
-      "title": "小勒布伦领先后半场开香槟，大头顶住压力成功反超太燃了#王楚钦",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xjryn4pkynnb3u",
-      "authorName": "多一度体育",
-      "authorUrl": "https://www.kuaishou.com/profile/3x384de62musppk",
-      "authorId": "3x384de62musppk",
-      "publishTime": "2026-04-03T12:21:21.157Z",
-      "likeCount": 7245,
+      "videoId": "3x67hpt8ip623ew",
+      "title": "@摇摇乐(O3xt6fscajqkevwu) 提醒新手爸妈，刚生完宝宝，最该警惕的48小时。 #迎接新生命 #全民健康素养提升 #老铁健康加油站 #新生儿",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x67hpt8ip623ew",
+      "authorName": "刘加勇医生",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8rfma7cbnrkvk",
+      "authorId": "3x8rfma7cbnrkvk",
+      "publishTime": "2026-05-14T04:04:46.173Z",
+      "likeCount": 31873,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 244829,
-      "collectedAt": "2026-05-25T15:10:11.734Z",
+      "viewCount": 1644911,
+      "collectedAt": "2026-05-25T15:20:12.047Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -65,36 +65,37 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 85,
         "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用“事件+情绪+结果”结构：前半句描述对手（小勒布伦）的轻敌行为（领先后开香槟），后半句突出主角（王楚钦，昵称大头）的逆袭（顶住压力反超），并以“太燃了”强化情绪，最后用#王楚钦标签精准引流。整体制造了强烈的戏剧冲突和情绪反转。",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“身份+提醒+关键时间点+数字”的强钩子结构。@摇摇乐（疑似账号或昵称）增加互动感，“提醒新手爸妈”精准锁定目标人群，“最该警惕的48小时”制造紧迫感和悬念，数字“48”具体且有冲击力。话题标签覆盖健康、育儿、平台活动，利于推荐。",
         "hotFactors": [
-          "体育竞技的逆袭剧情（符合大众爽点）",
-          "王楚钦作为国乒顶流自带话题和粉丝基础",
-          "“开香槟”与“反超”的强烈对比制造悬念和情绪张力"
+          "精准人群痛点（新手爸妈焦虑）",
+          "权威身份背书（医生账号）",
+          "强时效性与紧迫感（48小时）",
+          "实用健康知识（高分享价值）"
         ],
         "category": [
-          "体育",
-          "乒乓球",
-          "赛事热点"
+          "母婴育儿",
+          "健康科普",
+          "生活技巧"
         ],
-        "reason": "标题结构精巧，利用“轻敌-逆袭”的经典叙事，结合王楚钦的高人气，极易引发共鸣和传播。点赞量已初显爆发力，但评论和分享数据缺失或为零，可能因视频刚发布或平台数据延迟，需观察后续互动增长。"
+        "reason": "内容精准切中新手父母的核心焦虑与信息需求，医生身份增强可信度，标题悬念感强，具备高实用性和传播性，易引发点赞、收藏及家庭群分享。"
       }
     },
     {
-      "videoId": "3x5iqhvdy5ti24m",
-      "title": "以前的老木匠是有真本事的，他给别人打棺材，能根据推出来的第一片木花判断这个人的寿源！我们这一老木匠去帮一老人打棺材，一推推下去一看木花形状，就对这老人讲，这幅棺材你用不上！结果下半年这个老人的生产队死了一个人，这个人一米八的大个子，生前没打棺材，到处去卖都合不上，最后打听到这个老人有幅棺材打得大，上门去一比尺寸刚好用得上，花高价就买走了！#木匠#手艺人 #高手在民间 #木匠手艺人 #高手在民间",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x5iqhvdy5ti24m",
-      "authorName": "顽石",
-      "authorUrl": "https://www.kuaishou.com/profile/3xbizhp8k96yimi",
-      "authorId": "3xbizhp8k96yimi",
-      "publishTime": "2026-03-21T01:47:45.927Z",
-      "likeCount": 9537,
+      "videoId": "3xz8bznb8mbkga6",
+      "title": "银行最怕你知道这三个号码 #老铁财富密码 #老铁看热点 #文娱百科明日之星 #快成长计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xz8bznb8mbkga6",
+      "authorName": "周沫讲理财",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
+      "authorId": "3xhinyavn5y69uc",
+      "publishTime": "2026-05-10T05:38:26.280Z",
+      "likeCount": 19346,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 472190,
-      "collectedAt": "2026-05-25T15:10:11.734Z",
+      "viewCount": 811860,
+      "collectedAt": "2026-05-25T15:20:12.047Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -104,37 +105,36 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 85,
         "trend": "rising",
-        "hookType": "悬念/反转",
-        "titleAnalysis": "采用“故事+揭秘”结构。前半段设置悬念（老木匠通过木花判断寿源），后半段用具体案例（棺材尺寸巧合）进行反转验证，形成强烈的戏剧性和传奇色彩。标题较长，但信息密度高，符合快手用户对民间奇闻的偏好。",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用‘银行最怕你知道’的悬念式开头，暗示信息具有稀缺性和颠覆性，能快速激发用户好奇心。‘三个号码’具体化了内容，降低了理解门槛。标签#老铁财富密码等精准定位了财经、知识类受众，并利用平台成长计划标签获取流量扶持。",
         "hotFactors": [
-          "民间奇闻/神秘技艺",
-          "强烈的反转和巧合",
-          "对传统手艺人“神乎其技”的崇拜",
-          "涉及生死话题，引发好奇与讨论"
+          "信息差与稀缺性（银行‘最怕’你知道）",
+          "实用价值与财富相关（理财、财富密码）",
+          "悬念式标题结构，点击率高"
         ],
         "category": [
-          "民间故事",
-          "传统手艺人",
-          "奇闻异事"
+          "财经知识",
+          "生活技巧",
+          "信息差"
         ],
-        "reason": "内容具备强故事性和传奇色彩，符合快手平台对民间高手、神秘技艺的流量偏好。点赞量近万，但评论和分享为0，可能因数据未更新或内容引发“不敢评论”的敬畏感，但高点赞已证明其吸引力，具备持续发酵潜力。"
+        "reason": "标题精准利用‘信息差’和‘恐惧/好奇’心理，结合财经实用内容，在快手知识类赛道中容易引发高点击和分享。点赞量（1.9万）已显示初步热度，但评论和分享为0可能因内容刚发布或互动引导不足，后续若评论区活跃，爆率可能进一步上升。"
       }
     },
     {
-      "videoId": "3xwziwgmrimtgbw",
-      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
-      "authorName": "远嫁燕子的一家",
-      "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
-      "authorId": "3xihaq7trzkx8v4",
-      "publishTime": "2026-05-18T05:51:48.643Z",
-      "likeCount": 9446,
+      "videoId": "3xn26wj48wxb36e",
+      "title": "坐月子的第七天 #幸福乡村春耕季 #我的农村生活 @快手创作者中心(O3xrgtux2ehryffe) @快手粉条(O3xhcy6vhfzcu3qe) @快手三农(O3xhqbb3ibyungcs) @快手热点(O3xddgkd5fav5if9)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xn26wj48wxb36e",
+      "authorName": "农村王大爷（三姐）",
+      "authorUrl": "https://www.kuaishou.com/profile/3xvikdujrhqf2as",
+      "authorId": "3xvikdujrhqf2as",
+      "publishTime": "2026-05-08T09:48:29.519Z",
+      "likeCount": 14264,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 550065,
-      "collectedAt": "2026-05-25T15:10:11.734Z",
+      "viewCount": 1594100,
+      "collectedAt": "2026-05-25T15:20:12.047Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -144,38 +144,35 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 85,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“地域+身份+行为”结构，包含“云南老婆”、“猪头扣肉”、“远嫁”、“南北饮食大不同”等高流量关键词，精准切入地域文化差异、家庭生活、美食制作等大众兴趣点，具有强烈的代入感和话题性。",
+        "titleAnalysis": "标题采用“时间点+场景”的叙事结构，直接点明“坐月子的第七天”这一具体、私密且充满生活细节的瞬间，具有强烈的代入感和真实感。结合#幸福乡村春耕季、#我的农村生活等热门三农标签，精准定位了目标受众和内容赛道。",
         "hotFactors": [
-          "地域文化冲突与融合（南北差异）",
-          "家庭生活与夫妻关系（远嫁话题）",
-          "特色美食制作（猪头扣肉）",
-          "真实生活记录（人设真实）"
+          "真实生活记录（坐月子）引发女性及家庭用户强烈共情",
+          "三农题材结合家庭生活，内容垂直且接地气，符合快手主流用户偏好"
         ],
         "category": [
-          "生活记录",
-          "美食",
-          "家庭情感",
-          "地域文化"
+          "三农",
+          "家庭生活",
+          "女性成长"
         ],
-        "reason": "标题精准覆盖多个高热度标签，内容结合美食与家庭情感，易引发地域讨论和情感共鸣，具备较强的传播潜力。"
+        "reason": "视频内容真实、情感细腻，精准切入“坐月子”这一高共鸣话题，结合三农背景形成差异化。高点赞量（1.4万）与零评论/分享的数据组合，表明内容已初步获得算法推荐和用户认可，正处于流量爬升期，具备持续爆发潜力。"
       }
     },
     {
-      "videoId": "3xfs7fursn7i3a2",
-      "title": "七十八十俩五十是什么意思？ #母女段子 #我的乡村生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xfs7fursn7i3a2",
-      "authorName": "十三🧜🏻♀️",
-      "authorUrl": "https://www.kuaishou.com/profile/3xkagpbqtr8u924",
-      "authorId": "3xkagpbqtr8u924",
-      "publishTime": "2026-05-03T09:27:35.154Z",
-      "likeCount": 3651,
+      "videoId": "3xbkrubrwc956bc",
+      "title": "湖南人小时候的超能力 #湖南 #超能力",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrubrwc956bc",
+      "authorName": "邬天宇",
+      "authorUrl": "https://www.kuaishou.com/profile/3xq8qh4c5huhtrs",
+      "authorId": "3xq8qh4c5huhtrs",
+      "publishTime": "2026-03-06T09:57:17.751Z",
+      "likeCount": 29564,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 216095,
-      "collectedAt": "2026-05-25T15:10:11.734Z",
+      "viewCount": 642443,
+      "collectedAt": "2026-05-25T15:20:12.047Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -187,19 +184,19 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用疑问句式制造悬念，结合数字谜语（七十八十俩五十）引发好奇，同时通过#母女段子和#我的乡村生活标签精准定位受众，形成内容预期。",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“地域+童年+超能力”的组合，精准定位湖南用户群体，利用“超能力”一词制造悬念和好奇心，同时“小时候”一词引发集体回忆，具有强烈的地域认同感和情感共鸣潜力。",
         "hotFactors": [
-          "悬念式标题引发点击欲",
-          "乡村生活题材贴近下沉市场",
-          "母女关系易引发情感共鸣"
+          "强烈的地域标签（湖南）",
+          "童年回忆引发广泛共情",
+          "“超能力”一词制造悬念和趣味性"
         ],
         "category": [
-          "乡村生活",
-          "家庭情感",
-          "幽默段子"
+          "生活/搞笑",
+          "地域文化",
+          "怀旧"
         ],
-        "reason": "标题悬念感强，乡村家庭题材受众基础广，但评论和分享数据缺失可能影响算法推荐，爆率中等偏上。"
+        "reason": "标题精准锁定湖南用户，利用童年回忆和“超能力”的趣味反差引发共情与好奇，符合快手地域化、生活化内容的爆款逻辑。点赞数据尚可，但评论和分享为零，可能因内容尚未完全引爆或数据存在延迟，趋势为上升。"
       }
     }
   ]
