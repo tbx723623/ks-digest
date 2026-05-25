@@ -1,91 +1,125 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T13:12:49.751Z",
+  "generatedAt": "2026-05-25T13:23:05.401Z",
   "date": "2026-05-25",
-  "count": 8,
+  "count": 11,
   "items": [
     {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "likeCount": 21920,
+      "videoId": "3xz8zx7s8qam3us",
+      "title": "【野心膨胀！揭秘日本射程1000公里25式远程导弹】日本部署25式系列导弹，射程可抵达中国沿海。",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xz8zx7s8qam3us",
+      "authorName": "央视网",
+      "likeCount": 16694,
       "commentCount": 0,
       "explosionRate": 85,
       "trend": "rising",
       "hookType": "冲突",
       "category": [
-        "时政",
         "军事",
-        "爱国主义"
+        "国际时政",
+        "国家安全"
       ],
       "estimatedTime": "正在爆发"
     },
     {
-      "videoId": "3xberfhwd2jmjui",
-      "title": "套马杆童声版，经典永不过时，前奏一响DNA就动了 #套马杆 #经典老歌 #前奏一响拾起多少人的回忆 #面妹孔佳奇",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xberfhwd2jmjui",
-      "authorName": "面妹《孔佳奇》",
-      "likeCount": 2800,
+      "videoId": "3xz4ik3jq4r2f79",
+      "title": "004航母命名悬念拉满！这省凭啥拿下共和国巨舰？ #003福建舰航母  #004核动力航母",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xz4ik3jq4r2f79",
+      "authorName": "哇趣",
+      "likeCount": 9724,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "悬念",
+      "category": [
+        "军事",
+        "时事热点",
+        "地域文化"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xwziwgmrimtgbw",
+      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
+      "authorName": "远嫁燕子的一家",
+      "likeCount": 9431,
+      "commentCount": 0,
+      "explosionRate": 75,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "美食",
+        "家庭生活",
+        "情感"
+      ],
+      "estimatedTime": "1-2小时"
+    },
+    {
+      "videoId": "3xvgbhykyrdd3us",
+      "title": "配电柜线号这么多该怎么识别？一个小技巧就能搞定\n\n\n\n#电工  #电工知识",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xvgbhykyrdd3us",
+      "authorName": "景一",
+      "likeCount": 4876,
+      "commentCount": 0,
+      "explosionRate": 75,
+      "trend": "rising",
+      "hookType": "悬念",
+      "category": [
+        "职业技能",
+        "生活技巧",
+        "电工知识"
+      ],
+      "estimatedTime": "1-2小时"
+    },
+    {
+      "videoId": "3x7y4itxzdrzp2u",
+      "title": "#日常闲拍记录自己 #青春那么短胖点才性感",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x7y4itxzdrzp2u",
+      "authorName": "一笑倾城，",
+      "likeCount": 8011,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "音乐",
-        "怀旧",
-        "翻唱"
+        "生活记录",
+        "情感共鸣",
+        "身材话题"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xp632txywyecvc",
-      "title": "你知道为什么红军不下校吗？ #故事 #历史 #长征 #知识播种计划",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xp632txywyecvc",
-      "authorName": "鼎哥唠嗑儿",
-      "likeCount": 16325,
+      "videoId": "3xz93mpinnecfqa",
+      "title": "六省铁血军，日军最不愿重提的事 #老铁知识百科 #春节新知锦囊 #我在快手涨知识  @快手热点(O3xddgkd5fav5if9)  @快手粉条(O3xhcy6vhfzcu3qe) ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xz93mpinnecfqa",
+      "authorName": "三藏好物真选",
+      "likeCount": 2105,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "历史军事",
+        "知识科普",
+        "爱国主义"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xz3ewmmnwpc4jq",
+      "title": "见过会飞的大爷么 #开心跳舞快乐健身 #舞出快乐健康美丽 #正能量 #黑山姑娘唱山歌",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xz3ewmmnwpc4jq",
+      "authorName": "曳舞布大叔",
+      "likeCount": 8224,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "悬念",
       "category": [
-        "历史",
-        "军事",
-        "知识科普"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xrnyhzcxi5keug",
-      "title": "#一人分饰多角 #意想不到的结局 #搞笑视频 #原创",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xrnyhzcxi5keug",
-      "authorName": "胖僧",
-      "likeCount": 4999,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "反转",
-      "category": [
-        "搞笑",
-        "剧情",
-        "创意短剧"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x4ei4qffmvegxs",
-      "title": "今天可能位置没选对没钓到龙虾，今天买了点做了个麻辣龙虾看着还不错吧，你们老家河里能掉龙虾了没？#农村守护人 #三农 #记录真实生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4ei4qffmvegxs",
-      "authorName": "李会儿、、",
-      "likeCount": 7413,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "三农",
-        "美食",
-        "生活记录"
+        "生活/健身",
+        "舞蹈",
+        "正能量"
       ],
       "estimatedTime": "2-4小时"
     },
@@ -97,46 +131,63 @@
       "likeCount": 5437,
       "commentCount": 0,
       "explosionRate": 65,
-      "trend": "rising",
+      "trend": "stable",
       "hookType": "共情",
       "category": [
         "家庭生活",
-        "乡村日常",
+        "乡村纪实",
         "搞笑段子"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xg5tw54u8ha4qi",
-      "title": "#婚礼 #婚礼现场 #前任 #有种心碎叫做绝望",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xg5tw54u8ha4qi",
-      "authorName": "音你而来",
-      "likeCount": 3463,
+      "videoId": "3xktt3wi8m92h9g",
+      "title": "#全网都在看！#热门短剧推荐 #年度爽剧 #免广告 #美女",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xktt3wi8m92h9g",
+      "authorName": "次元剧场",
+      "likeCount": 7786,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
-      "hookType": "冲突",
+      "hookType": "爽点",
       "category": [
-        "情感",
-        "婚礼",
-        "剧情/故事"
+        "短剧",
+        "都市",
+        "爽文"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xvf48j5274iife",
-      "title": "建议设置一个孩子寄存处…… @郭冬临·暖男先生(O3xpmagmf9982kne) #暖男先生 #郭冬临",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xvf48j5274iife",
-      "authorName": "郭冬临",
-      "likeCount": 6286,
+      "videoId": "3xyzja4tda28ya9",
+      "title": "半路电瓶车没电，一直解决 #电瓶车",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xyzja4tda28ya9",
+      "authorName": "壹哥说车",
+      "likeCount": 3625,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "育儿",
-        "生活",
-        "喜剧"
+        "生活技巧",
+        "出行问题",
+        "电动车"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xadgkvwcytjc7i",
+      "title": "厉老夫人突发大出血。 #小厉总你找错妹妹了 #快手星芒短剧 #上快手看短剧",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xadgkvwcytjc7i",
+      "authorName": "快手星芒-烟火剧场",
+      "likeCount": 2349,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "悬念",
+      "category": [
+        "家庭伦理",
+        "豪门恩怨",
+        "短剧"
       ],
       "estimatedTime": "2-4小时"
     }
