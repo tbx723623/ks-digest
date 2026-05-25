@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T16:42:44.189Z",
+  "fetchedAt": "2026-05-25T16:52:50.279Z",
   "date": "2026-05-25",
-  "count": 5,
+  "count": 3,
   "items": [
     {
-      "videoId": "3x45cv2wp8h4m26",
-      "title": "当你不小心进入了黑屋局...",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x45cv2wp8h4m26",
-      "authorName": "小博博（三角洲行动）",
-      "authorUrl": "https://www.kuaishou.com/profile/3xp32848ru2cqhc",
-      "authorId": "3xp32848ru2cqhc",
-      "publishTime": "2026-03-17T03:13:44.652Z",
-      "likeCount": 42559,
+      "videoId": "3xcrrsi42pxecfu",
+      "title": "豫剧《清风亭》感染力有多顶？唱哭一片男观众，剧团琴师后台怀念父亲泣不成声！李树建：豫剧有着很大教育意义。 #豫剧  #感动瞬间  #李树建  #戏曲",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xcrrsi42pxecfu",
+      "authorName": "山东卫视",
+      "authorUrl": "https://www.kuaishou.com/profile/3xtqwqv33gfjh8c",
+      "authorId": "3xtqwqv33gfjh8c",
+      "publishTime": "2026-04-13T09:15:46.026Z",
+      "likeCount": 5788,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1051507,
-      "collectedAt": "2026-05-25T16:40:12.200Z",
+      "viewCount": 196892,
+      "collectedAt": "2026-05-25T16:50:11.928Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,34 +28,36 @@
       "aiAnalysis": {
         "explosionRate": 85,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用‘当你...’的第二人称视角，直接将观众代入情境，‘不小心’暗示意外和未知，‘黑屋局’是游戏《三角洲行动》中的高风险高回报玩法，自带紧张感和话题性，整体结构简洁，悬念感强。",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“疑问+场景+权威背书”结构。先以“感染力有多顶？”制造悬念和期待，再用“唱哭一片男观众”和“琴师后台泣不成声”两个具体、强烈的情感场景进行冲击，最后引用名家李树建的话点明“教育意义”，提升了内容的深度和权威性。标签精准，覆盖了戏曲、情感和名人。",
         "hotFactors": [
-          "游戏热门玩法（黑屋局）自带流量和讨论度",
-          "悬念式标题引发好奇，点击率高",
-          "发布者为垂直领域（三角洲行动）创作者，粉丝精准"
+          "强烈的情感共鸣（亲情、孝道）",
+          "真实、意外的幕后花絮（琴师崩溃）",
+          "名家（李树建）的权威背书与升华",
+          "“男观众”这一特定群体的反差感，增强了话题性"
         ],
         "category": [
-          "游戏",
-          "射击游戏",
-          "三角洲行动"
+          "戏曲",
+          "情感",
+          "传统文化",
+          "社会正能量"
         ],
-        "reason": "标题精准切入游戏核心高热度玩法，悬念钩子强，能有效吸引目标玩家点击。虽然评论和分享数据缺失，但高点赞量表明内容已获得初步认可，在游戏垂类中具备爆发潜力。"
+        "reason": "内容精准击中了“亲情”这一普世情感痛点，通过台上台下双重真实的情感爆发（观众与琴师）形成强烈共情。结合名家解读，既有情感冲击力又有文化深度，极易引发广泛共鸣和转发。"
       }
     },
     {
-      "videoId": "3xjhfu8688tnqs6",
-      "title": "这五种号码千万不要接听，避免财产损失 #防诈骗 #老百姓关心的话题 #老铁财富密码 #老铁看热点",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xjhfu8688tnqs6",
-      "authorName": "周沫讲理财",
-      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
-      "authorId": "3xhinyavn5y69uc",
-      "publishTime": "2026-04-22T07:13:54.198Z",
-      "likeCount": 12427,
+      "videoId": "3x8vae2k43x9ckg",
+      "title": "镇上医院的医生水泵坏了，大家都是熟人，我拿回来修旧如新，本来打算把草莓淋一下农家肥，没想到力量太大，把草莓地都冲坏了。",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x8vae2k43x9ckg",
+      "authorName": "林果儿 🦋",
+      "authorUrl": "https://www.kuaishou.com/profile/3xirv2h4pgvkbye",
+      "authorId": "3xirv2h4pgvkbye",
+      "publishTime": "2026-03-17T09:20:38.877Z",
+      "likeCount": 14390,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 895275,
-      "collectedAt": "2026-05-25T16:40:12.200Z",
+      "viewCount": 630477,
+      "collectedAt": "2026-05-25T16:50:11.928Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -67,35 +69,35 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“数字+警告+后果”结构（五种号码+千万不要接听+避免财产损失），直接点明核心价值（防诈骗、保财产），并使用多个热门话题标签（#防诈骗 #老百姓关心的话题）精准触达目标受众，具有强警示性和实用性。",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用‘事件铺垫+意外反转’结构。前半段‘医生水泵坏了，熟人帮忙修好’建立正面、互助的叙事，后半段‘力量太大冲坏草莓地’形成强烈反差和意外结局，制造了戏剧性和幽默感。",
         "hotFactors": [
-          "强实用价值（防诈骗知识）",
-          "精准话题标签（#老百姓关心的话题）",
-          "数字清单形式（五种号码）易传播",
-          "发布者身份（讲理财）增加可信度"
+          "意外反转的戏剧性结局",
+          "乡村熟人社会的互助温情",
+          "接地气的农家生活场景",
+          "‘修旧如新’与‘冲坏草莓地’的强烈对比"
         ],
         "category": [
-          "生活安全",
-          "社会热点",
-          "财经知识"
+          "三农生活",
+          "乡村纪实",
+          "幽默搞笑"
         ],
-        "reason": "内容紧扣社会痛点（诈骗），标题结构清晰、警示性强，标签精准覆盖广泛受众，实用性强易引发分享，具备快速传播潜力。"
+        "reason": "标题通过‘好心办坏事’的意外反转制造了强烈的喜剧效果和话题性，符合快手用户对真实、有趣、接地气内容的偏好，容易引发共鸣和讨论。"
       }
     },
     {
-      "videoId": "3xvirfkjfiwvv4a",
-      "title": "美伊停战以来，阿联酋首次遭遇大规模袭击，为何每次都是它遭殃？ #老铁看热点 #老铁知识百科 #知识播种计划 #光合计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xvirfkjfiwvv4a",
-      "authorName": "第一军情",
-      "authorUrl": "https://www.kuaishou.com/profile/3x8epkgu35by2wg",
-      "authorId": "3x8epkgu35by2wg",
-      "publishTime": "2026-05-06T08:35:02.683Z",
-      "likeCount": 6217,
+      "videoId": "3xx2bsk87xcwrhu",
+      "title": "中国一旦启动一级战备！我们普通人该怎么办？   #未来战争",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xx2bsk87xcwrhu",
+      "authorName": "哇趣",
+      "authorUrl": "https://www.kuaishou.com/profile/3xu2wtxwp8gmqy6",
+      "authorId": "3xu2wtxwp8gmqy6",
+      "publishTime": "2026-04-27T04:35:54.252Z",
+      "likeCount": 5169,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 278819,
-      "collectedAt": "2026-05-25T16:40:12.199Z",
+      "viewCount": 247890,
+      "collectedAt": "2026-05-25T16:50:11.928Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -108,95 +110,17 @@
         "explosionRate": 65,
         "trend": "rising",
         "hookType": "悬念",
-        "titleAnalysis": "标题采用“事件+疑问”结构，前半句陈述“美伊停战以来，阿联酋首次遭遇大规模袭击”这一突发新闻事实，制造紧迫感和信息差；后半句以“为何每次都是它遭殃？”的疑问句收尾，设置悬念，引导用户点击寻求答案。标签#老铁看热点等精准定位知识科普和热点追踪类受众。",
+        "titleAnalysis": "标题采用“假设+疑问”结构，通过“一旦启动一级战备”这一高度敏感且具有想象空间的假设场景，直接抛出与普通人切身相关的生存问题，制造强烈的悬念和代入感，符合短视频平台对“信息差”和“危机感”内容的偏好。",
         "hotFactors": [
-          "地缘政治热点（中东局势）",
-          "突发性事件（首次袭击）",
-          "悬念式提问引发好奇"
+          "国家安全与军事话题自带流量和讨论度",
+          "将宏大叙事与个人生存焦虑结合，引发广泛共情"
         ],
         "category": [
-          "国际时事",
-          "军事热点",
-          "知识科普"
+          "军事",
+          "社会",
+          "科普"
         ],
-        "reason": "内容紧扣国际热点，标题信息密度高且设问巧妙，能有效吸引关注时事的用户。但评论和分享数据为0，可能因发布较新或互动引导不足，影响了爆发上限。"
-      }
-    },
-    {
-      "videoId": "3x548jew68ciwky",
-      "title": "怎么办，两个都要外婆 #宝妈 #二胎家庭 #搞笑 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x548jew68ciwky",
-      "authorName": "小老师呀",
-      "authorUrl": "https://www.kuaishou.com/profile/3x7fpth3u58rk79",
-      "authorId": "3x7fpth3u58rk79",
-      "publishTime": "2026-04-22T09:03:54.343Z",
-      "likeCount": 7388,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 503076,
-      "collectedAt": "2026-05-25T16:40:12.199Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用口语化、场景化的表达方式，通过“怎么办”制造轻微悬念，核心内容“两个都要外婆”精准描绘了二胎家庭中常见的、令人哭笑不得的日常场景，极易引发目标群体（宝妈、二胎家庭）的共鸣和会心一笑。标签#宝妈 #二胎家庭 #搞笑 进一步精准圈定了受众和内容属性。",
-        "hotFactors": [
-          "精准捕捉二胎家庭的普遍痛点与笑点",
-          "内容具有强烈的场景感和代入感，易引发共情与分享"
-        ],
-        "category": [
-          "家庭生活",
-          "搞笑",
-          "育儿"
-        ],
-        "reason": "内容高度垂直且精准，切中二胎家庭群体的共同经历和情感共鸣点，具备成为圈层爆款的潜力。标题和标签的组合能有效吸引目标用户。但评论和分享数据为零，可能表明视频处于发布初期，或内容互动引导不足，影响了其破圈传播的爆发力。"
-      }
-    },
-    {
-      "videoId": "3xeifpswxw2gzmc",
-      "title": "开河蚌的一天，开出许多淡紫色的珍珠",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xeifpswxw2gzmc",
-      "authorName": "捡蚌人",
-      "authorUrl": "https://www.kuaishou.com/profile/3xktr2634u7m7my",
-      "authorId": "3xktr2634u7m7my",
-      "publishTime": "2026-05-09T09:54:51.253Z",
-      "likeCount": 9519,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 1335918,
-      "collectedAt": "2026-05-25T16:40:12.200Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "爽点",
-        "titleAnalysis": "采用“动作+结果”的叙事结构，前半句“开河蚌的一天”交代日常行为，后半句“开出许多淡紫色的珍珠”直接呈现意外收获，形成“平凡劳动→惊喜回报”的爽点闭环。",
-        "hotFactors": [
-          "解压/治愈的开蚌过程",
-          "稀有颜色（淡紫色）珍珠的视觉冲击",
-          "满足观众对“寻宝”和“意外收获”的期待"
-        ],
-        "category": [
-          "生活记录",
-          "解压/治愈",
-          "手工艺/开蚌"
-        ],
-        "reason": "内容兼具过程解压与结果惊喜，淡紫色珍珠的稀缺性易引发好奇和讨论，符合快手用户对“真实生活中的小确幸”内容的偏好，具备破圈潜力。"
+        "reason": "标题精准切中公众对国家安全、战争风险的潜在关注与焦虑，悬念钩子强，易引发好奇点击和评论区讨论。点赞量尚可，但评论和分享为0，可能因内容敏感或平台限流，若后续互动数据起来，仍有爆款潜力。"
       }
     }
   ]
