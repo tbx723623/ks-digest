@@ -1,22 +1,22 @@
 {
   "source": "高爆率真实视频",
-  "fetchedAt": "2026-05-25T09:02:37.311Z",
+  "fetchedAt": "2026-05-25T09:13:49.552Z",
   "date": "2026-05-25",
-  "count": 8,
+  "count": 10,
   "items": [
     {
-      "videoId": "3xietwak7j5n8dq",
-      "title": "当你自信满满过安检...（视频来源ins：@ thorupviktor）",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xietwak7j5n8dq",
-      "authorName": "奥林匹克运动会",
-      "authorUrl": "https://www.kuaishou.com/profile/3xkgutgnipnakyu",
-      "authorId": "3xkgutgnipnakyu",
-      "publishTime": "2026-03-02T10:02:00.217Z",
-      "likeCount": 2380,
+      "videoId": "3xwziwgmrimtgbw",
+      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
+      "authorName": "远嫁燕子的一家",
+      "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
+      "authorId": "3xihaq7trzkx8v4",
+      "publishTime": "2026-05-18T05:51:48.643Z",
+      "likeCount": 9392,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 501836,
-      "collectedAt": "2026-05-25T09:00:12.521Z",
+      "viewCount": 545899,
+      "collectedAt": "2026-05-25T09:10:11.892Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,37 +26,36 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用“当你...”的共情句式，结合“自信满满”与“过安检”的日常场景，暗示后续有意外反转，制造悬念和期待感。",
+        "explosionRate": 75,
+        "trend": "stable",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“地域+身份+行为+反差”结构。'云南老婆'点明地域与亲密关系，'猪头扣肉'是具体、有视觉冲击力的北方传统菜肴，与'云南'形成南北饮食文化反差。'远嫁'、'南北饮食大不同'、'夫妻相处之道'三个标签精准覆盖了情感、文化冲突和家庭生活三大流量密码，能有效吸引对跨地域婚姻、家庭生活感兴趣的用户。",
         "hotFactors": [
-          "强反转预期",
-          "日常场景共鸣",
-          "官方账号背书",
-          "短视频平台热门题材"
+          "南北地域文化差异与冲突",
+          "远嫁女性的婚姻生活与情感共鸣",
+          "具体家常菜制作过程的实用与猎奇性"
         ],
         "category": [
-          "生活搞笑",
-          "意外反转",
-          "安检趣事"
+          "家庭生活",
+          "美食制作",
+          "情感故事"
         ],
-        "reason": "标题悬念感强，易引发好奇；官方账号发布增加可信度；安检场景贴近生活，反转内容易引发传播。"
+        "reason": "标题精准切中'南北差异'、'远嫁'、'夫妻关系'三大高共鸣话题，具备强烈的情感与文化冲突属性，易引发讨论与分享。点赞数据良好，但评论和分享数据缺失，可能因视频内容偏向展示而非强互动，或数据未完全抓取。整体具备中等偏上的爆款潜力。"
       }
     },
     {
-      "videoId": "3xxx2exhhgcvj6y",
-      "title": "一个15岁的农村少年，却比很多大人都清醒",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xxx2exhhgcvj6y",
-      "authorName": "赵普",
-      "authorUrl": "https://www.kuaishou.com/profile/3xxrffpa8rxg87a",
-      "authorId": "3xxrffpa8rxg87a",
-      "publishTime": "2026-05-15T22:30:50.460Z",
-      "likeCount": 20802,
+      "videoId": "3x92m6snhrrqczm",
+      "title": "即使关系再好也别对别人说这7句话，否则会吃大亏！ #智慧人生 #实话实说 #快聊新闻 #人性 @快手创作者中心(O3xrgtux2ehryffe) @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手主持人(O3xnewxpguishmsc)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x92m6snhrrqczm",
+      "authorName": "百灵新闻",
+      "authorUrl": "https://www.kuaishou.com/profile/3xpvy73digzwd59",
+      "authorId": "3xpvy73digzwd59",
+      "publishTime": "2026-05-19T08:28:53.139Z",
+      "likeCount": 2716,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 300582,
-      "collectedAt": "2026-05-25T09:00:12.521Z",
+      "viewCount": 159970,
+      "collectedAt": "2026-05-25T09:10:11.893Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -68,34 +67,35 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用“年龄+身份”与“认知反差”的经典结构。前半句“15岁的农村少年”建立基础认知（年轻、农村、可能认知有限），后半句“比很多大人都清醒”形成强烈反转，制造认知冲突和悬念，激发用户好奇心。",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“数字+警告+后果”的经典结构，通过“7句话”、“别对别人说”、“会吃大亏”等关键词制造信息缺口和紧迫感，直接瞄准用户对人际关系和自我保护的焦虑点。",
         "hotFactors": [
-          "年龄与认知的强烈反差",
-          "“农村少年”身份引发共情与好奇",
-          "“清醒”一词暗示深刻见解，吸引用户验证"
+          "实用社交禁忌清单",
+          "直击人性弱点与社交痛点",
+          "强警示性标题引发好奇",
+          "关联多个官方热点话题标签"
         ],
         "category": [
-          "社会纪实",
-          "人物故事",
-          "正能量"
+          "社会情感",
+          "人性洞察",
+          "生活技巧"
         ],
-        "reason": "标题反转强烈，精准击中“少年智慧”与“城乡认知”等社会情绪点，易引发共鸣和讨论。点赞量高但评论/分享为0，可能处于流量初期或数据未完全更新，具备爆款潜力。"
+        "reason": "标题精准切中大众对人际交往的普遍焦虑，采用“数字清单+警告”形式易于传播，且关联平台热点标签，具备较强的点击和分享潜力。但评论和分享数据为零，可能处于流量测试初期或内容互动性不足。"
       }
     },
     {
-      "videoId": "3xwziwgmrimtgbw",
-      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
-      "authorName": "远嫁燕子的一家",
-      "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
-      "authorId": "3xihaq7trzkx8v4",
-      "publishTime": "2026-05-18T05:51:48.643Z",
-      "likeCount": 9388,
+      "videoId": "3x6bddu6mfdxpq2",
+      "title": "磁力万合 #光合计划 #喜爱度激励计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6bddu6mfdxpq2",
+      "authorName": "唐山小玉儿（821）",
+      "authorUrl": "https://www.kuaishou.com/profile/3xf8cdrjvscdifg",
+      "authorId": "3xf8cdrjvscdifg",
+      "publishTime": "2026-04-19T04:31:27.015Z",
+      "likeCount": 15232,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 545745,
-      "collectedAt": "2026-05-25T09:00:12.522Z",
+      "viewCount": 244979,
+      "collectedAt": "2026-05-25T09:10:11.892Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -105,37 +105,34 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 72,
+        "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "标题结构清晰，包含地域标签（云南）、人物关系（老婆）、具体行为（做猪头扣肉）和多个热门话题标签（#远嫁 #南北饮食大不同 #夫妻相处之道），信息量丰富且具有话题性。",
+        "titleAnalysis": "标题由平台活动标签（#磁力万合 #光合计划 #喜爱度激励计划）和创作者信息构成，缺乏具体、吸引人的内容描述，主要依赖平台流量扶持和标签曝光。",
         "hotFactors": [
-          "地域文化差异（南北饮食）",
-          "家庭生活与夫妻关系",
-          "特色美食制作过程",
-          "远嫁话题引发共鸣"
+          "平台活动流量扶持",
+          "创作者本地化标签（唐山）"
         ],
         "category": [
           "生活记录",
-          "美食制作",
-          "家庭情感"
+          "本地生活"
         ],
-        "reason": "视频结合了美食、地域文化差异和家庭情感三大热门元素，容易引发观众共鸣和讨论。点赞量较高但评论和分享为零，可能处于流量初期或数据异常，但题材本身具备爆款潜力。"
+        "reason": "视频数据呈现高点赞、零互动的异常特征，表明其流量主要来源于平台算法推荐或活动扶持，而非内容本身引发的自然传播。标题缺乏明确内容指向，难以吸引目标用户主动搜索或互动，后续增长潜力有限。"
       }
     },
     {
-      "videoId": "3xberfhwd2jmjui",
-      "title": "套马杆童声版，经典永不过时，前奏一响DNA就动了 #套马杆 #经典老歌 #前奏一响拾起多少人的回忆 #面妹孔佳奇",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xberfhwd2jmjui",
-      "authorName": "面妹《孔佳奇》",
-      "authorUrl": "https://www.kuaishou.com/profile/3xv4ysk3yrc6a2m",
-      "authorId": "3xv4ysk3yrc6a2m",
-      "publishTime": "2026-05-08T11:36:00.922Z",
-      "likeCount": 2786,
+      "videoId": "3xzcn6c7c4z3ig2",
+      "title": "#喜爱度激励计划 #全国人大代表马金莲建议",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xzcn6c7c4z3ig2",
+      "authorName": "＠美玲",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhig8da6xir8ju",
+      "authorId": "3xhig8da6xir8ju",
+      "publishTime": "2026-05-22T23:05:13.666Z",
+      "likeCount": 3285,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 107876,
-      "collectedAt": "2026-05-25T09:00:12.521Z",
+      "viewCount": 73189,
+      "collectedAt": "2026-05-25T09:10:11.892Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -148,33 +145,32 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“经典IP+创新形式（童声版）+情感共鸣（DNA动了）+热门话题标签”的结构，精准定位怀旧与反差感。",
+        "titleAnalysis": "标题采用双标签结构，前半部分#喜爱度激励计划是平台活动标签，后半部分#全国人大代表马金莲建议是核心内容标签，结合了平台流量扶持与社会热点人物议题。",
         "hotFactors": [
-          "经典老歌《套马杆》的国民度与怀旧情怀",
-          "童声演绎带来的反差萌与新鲜感",
-          "精准的热门话题标签（#前奏一响拾起多少人的回忆）引发集体共鸣"
+          "人大代表建议（社会热点）",
+          "平台激励计划（流量扶持）",
+          "女性代表人物（身份标签）"
         ],
         "category": [
-          "音乐",
-          "怀旧",
-          "萌娃"
+          "社会民生",
+          "时政热点"
         ],
-        "reason": "经典歌曲本身具有广泛受众基础，童声版形成内容反差，能有效触发用户怀旧与分享欲。但评论和分享数据为0，可能因发布时间尚短或互动引导不足，限制了爆发上限。"
+        "reason": "内容结合平台流量活动与社会热点议题，具备基础传播潜力，但缺乏强冲突或反转元素，且评论分享数据缺失，显示用户互动意愿不强，爆发力有限。"
       }
     },
     {
-      "videoId": "3x7ar6fvx9pa2gc",
-      "title": "【人民画报现场直击｜出征！赴九天，问苍穹】\n出发！朱杨柱、张志远、黎家盈3名航天员领命出征，祝顺利！我们等你们凯旋。\n#神舟二十三号 #中国航天 #航天员 #中国载人航天工程",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x7ar6fvx9pa2gc",
-      "authorName": "人民画报",
-      "authorUrl": "https://www.kuaishou.com/profile/3xpm7igxpgcgiig",
-      "authorId": "3xpm7igxpgcgiig",
-      "publishTime": "2026-05-24T12:54:50.721Z",
-      "likeCount": 9293,
+      "videoId": "3xqt2ginuck6vpc",
+      "title": "斑鸠在阳台躲雨却不肯进屋，女人用爱和关怀消除隔阂！ #斑鸠 #万物皆有灵性 #喜爱度激励计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xqt2ginuck6vpc",
+      "authorName": "主持人嘉文",
+      "authorUrl": "https://www.kuaishou.com/profile/3xj72yai5mqsgc2",
+      "authorId": "3xj72yai5mqsgc2",
+      "publishTime": "2026-05-01T14:44:39.215Z",
+      "likeCount": 8424,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 506882,
-      "collectedAt": "2026-05-25T09:00:12.521Z",
+      "viewCount": 236759,
+      "collectedAt": "2026-05-25T09:10:11.892Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -185,21 +181,20 @@
       },
       "aiAnalysis": {
         "explosionRate": 65,
-        "trend": "rising",
+        "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "标题采用‘媒体现场直击+事件核心+情感升华’结构。‘人民画报’作为权威媒体背书，‘出征！赴九天，问苍穹’用短句和古典意象营造史诗感与使命感，直接点明航天员出征这一高光时刻，情感饱满，易于引发民族自豪感。",
+        "titleAnalysis": "标题采用“事件+情感升华”结构。前半句“斑鸠在阳台躲雨却不肯进屋”构建了一个具体、有画面感的场景和悬念（为什么不肯进？），后半句“女人用爱和关怀消除隔阂”给出了温暖、正能量的解决方案和情感落点。标签#万物皆有灵性进一步强化了主题的普适性和情感共鸣。",
         "hotFactors": [
-          "国家级重大事件（神舟发射）",
-          "权威媒体（人民画报）现场报道",
-          "航天员个人故事与集体荣誉感",
-          "强烈的家国情怀与共情点"
+          "人与动物的温情互动",
+          "正能量与治愈感",
+          "“万物有灵”的普世价值观共鸣"
         ],
         "category": [
-          "时事热点",
-          "科技航天",
-          "正能量"
+          "萌宠/动物",
+          "生活/正能量",
+          "情感"
         ],
-        "reason": "内容紧扣国家级航天盛事，具备天然流量基础。权威信源和富有感染力的标题能有效激发爱国情绪与分享欲。虽点赞可观，但评论和分享数据缺失，可能因内容偏向官方通报，互动性稍弱，限制了其成为现象级爆款的潜力。"
+        "reason": "内容具备强共情属性和治愈感，符合快手平台对正能量、生活化内容的推荐倾向。标题结构清晰，有悬念有解法。但评论和分享数据为0，表明当前互动深度不足，可能限制了其爆发上限，预测为中等偏上潜力。"
       }
     },
     {
@@ -213,8 +208,8 @@
       "likeCount": 12356,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 350491,
-      "collectedAt": "2026-05-25T09:00:12.521Z",
+      "viewCount": 350518,
+      "collectedAt": "2026-05-25T09:10:11.892Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -227,73 +222,33 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "标题采用三段式结构：1. 平台活动标签（#快成长计划）增加曝光；2. 内容定位标签（#潮流生活成长之星）明确受众；3. 核心情感钩子（#骗你生女儿）直接触发目标用户（父母、准父母）的情感共鸣与好奇。",
+        "titleAnalysis": "标题采用“#”标签堆叠，精准覆盖平台流量池（#快成长计划、#潮流生活成长之星），并利用“#骗你生女儿”这一高共鸣、高传播性的网络热梗作为核心钩子，直接触发目标用户（尤其是年轻父母、准父母）的情感共鸣和分享欲。",
         "hotFactors": [
-          "精准的情感共鸣点（亲子/萌娃）",
-          "平台活动流量扶持",
-          "简洁且具传播性的标签组合"
+          "精准的平台流量标签",
+          "高共鸣情感热梗（骗你生女儿）",
+          "萌娃/亲子题材的天然吸引力"
         ],
         "category": [
           "亲子",
           "萌娃",
           "生活记录"
         ],
-        "reason": "标题精准切入亲子情感赛道，利用平台活动标签获取初始流量，核心钩子“骗你生女儿”能有效激发目标用户的情感互动意愿。点赞数据尚可，但评论和分享为零，表明内容可能缺乏深度互动点或引发争议，限制了其爆发潜力。"
+        "reason": "标题精准利用平台标签和情感热梗，具备强共情和传播属性。但评论和分享数据为0，表明视频内容可能未能有效承接标题引发的期待，或互动引导不足，导致流量转化和二次传播受限，故爆率中等偏上但趋势平稳。"
       }
     },
     {
-      "videoId": "3xsdvktawhfnia2",
-      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
-      "authorName": "周沫讲理财",
-      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
-      "authorId": "3xhinyavn5y69uc",
-      "publishTime": "2026-04-22T11:27:31.413Z",
-      "likeCount": 29537,
+      "videoId": "3xgzzthapedkk5i",
+      "title": "这个游戏把狗子都整蒙圈了 #快手优创计划 #萌宠五一放风计划 #萌宠五一宅家记录",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgzzthapedkk5i",
+      "authorName": "肉肉说了算🐶",
+      "authorUrl": "https://www.kuaishou.com/profile/3x98ypk3kz8yrqg",
+      "authorId": "3x98ypk3kz8yrqg",
+      "publishTime": "2026-05-02T04:24:08.852Z",
+      "likeCount": 1340,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1454272,
-      "collectedAt": "2026-05-25T09:00:12.521Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "stable",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“场景+冲突+解决方案”的经典结构。前半句“去派出所报警被大声嚷嚷”描绘了一个极具反差感和冲突性的具体场景，后半句“怎么办”直接点明用户痛点并暗示提供解决方案，同时通过标签#维权 #老铁财富密码 #老铁看热点精准定位了目标受众（关注维权、热点和实用信息的用户）。",
-        "hotFactors": [
-          "强冲突场景（执法者与报警者的对立）",
-          "精准的痛点切入（普通人在维权时的无助感）",
-          "实用价值（提供“怎么办”的解决方案）",
-          "标签精准，覆盖多个高流量话题池"
-        ],
-        "category": [
-          "社会热点",
-          "法律维权",
-          "生活技巧"
-        ],
-        "reason": "标题冲突性强，切中大众在遭遇不公时的普遍焦虑和寻求解决方案的刚需，具备成为爆款的潜力。但评论和分享数据缺失，可能表明视频内容未能充分承接标题带来的高期待，或存在争议导致互动受限，因此爆率预测为中等偏上。"
-      }
-    },
-    {
-      "videoId": "3xyzja4tda28ya9",
-      "title": "半路电瓶车没电，一直解决 #电瓶车",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xyzja4tda28ya9",
-      "authorName": "壹哥说车",
-      "authorUrl": "https://www.kuaishou.com/profile/3xegjkfuhzj5wfe",
-      "authorId": "3xegjkfuhzj5wfe",
-      "publishTime": "2026-05-10T05:52:13.577Z",
-      "likeCount": 3532,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 299905,
-      "collectedAt": "2026-05-25T09:00:12.522Z",
+      "viewCount": 96618,
+      "collectedAt": "2026-05-25T09:10:11.892Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -306,18 +261,133 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "标题采用‘问题+解决’的叙事结构，前半句‘半路电瓶车没电’制造了普遍的生活困境和焦虑感，后半句‘一直解决’暗示了持续的努力和可能的反转，符合短视频‘提出问题-展示过程’的经典框架。",
+        "titleAnalysis": "标题采用“游戏+宠物反应”的经典组合，通过“整蒙圈了”制造轻松幽默的悬念感，并关联了#萌宠五一放风计划等节日热点话题，符合平台流量扶持方向。",
         "hotFactors": [
-          "强共情场景（电瓶车没电是高频痛点）",
-          "悬念感（‘一直解决’暗示过程曲折或结果意外）",
-          "实用属性（可能包含解决方法）"
+          "萌宠内容天然吸引流量",
+          "节日热点话题加持",
+          "轻松幽默的宠物反应"
         ],
         "category": [
-          "生活技巧",
-          "出行问题",
-          "车辆维修"
+          "萌宠",
+          "搞笑",
+          "游戏互动"
         ],
-        "reason": "题材贴近大众生活痛点，易引发共鸣和好奇；‘一直解决’的表述暗示内容有过程或反转，具备一定的完播率潜力。但评论和分享数据为0，表明当前互动和传播力较弱，可能内容深度或情绪价值不足，限制了其成为大爆款。"
+        "reason": "萌宠题材在快手有稳定受众，结合节日热点和幽默表达，具备一定传播潜力，但评论和分享数据为零，表明互动深度不足，限制了爆发上限。"
+      }
+    },
+    {
+      "videoId": "3xp93bcvh5x5qfa",
+      "title": " @指间播客(O3xj945sdc2sgid4) 的精彩视频",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xp93bcvh5x5qfa",
+      "authorName": "指间播客",
+      "authorUrl": "https://www.kuaishou.com/profile/3xj945sdc2sgid4",
+      "authorId": "3xj945sdc2sgid4",
+      "publishTime": "2026-03-24T18:05:16.096Z",
+      "likeCount": 31234,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 6872579,
+      "collectedAt": "2026-05-25T09:10:11.893Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "stable",
+        "hookType": "悬念",
+        "titleAnalysis": "标题为默认格式，未提供具体内容信息，缺乏明确的钩子和关键词，主要依赖账号名称和平台推荐机制。",
+        "hotFactors": [
+          "账号名称“指间播客”暗示内容可能为音频/知识类，吸引特定受众",
+          "点赞量3.1万表明内容已获得初步认可，具备一定传播基础"
+        ],
+        "category": [
+          "知识分享",
+          "播客"
+        ],
+        "reason": "视频已积累一定点赞量，说明内容质量或话题性得到部分用户认可，但标题信息不足、互动数据（评论/分享）为零，限制了进一步破圈传播的潜力。爆率中等，趋势稳定。"
+      }
+    },
+    {
+      "videoId": "3xberfhwd2jmjui",
+      "title": "套马杆童声版，经典永不过时，前奏一响DNA就动了 #套马杆 #经典老歌 #前奏一响拾起多少人的回忆 #面妹孔佳奇",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xberfhwd2jmjui",
+      "authorName": "面妹《孔佳奇》",
+      "authorUrl": "https://www.kuaishou.com/profile/3xv4ysk3yrc6a2m",
+      "authorId": "3xv4ysk3yrc6a2m",
+      "publishTime": "2026-05-08T11:36:00.922Z",
+      "likeCount": 2788,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 107884,
+      "collectedAt": "2026-05-25T09:10:11.893Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "stable",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“经典IP+创新形式”结构，通过“童声版”制造反差感，并使用“DNA就动了”等网络热词引发共鸣，同时利用多个热门标签进行流量聚合。",
+        "hotFactors": [
+          "经典歌曲《套马杆》的国民度与情怀加成",
+          "“童声版”带来的反差萌与新鲜感",
+          "精准的怀旧情绪标签（#前奏一响拾起多少人的回忆）"
+        ],
+        "category": [
+          "音乐",
+          "怀旧",
+          "萌娃"
+        ],
+        "reason": "经典老歌改编+童声演绎具备天然传播基因，能同时触达怀旧人群和喜爱萌娃的用户，但评论和分享数据缺失可能反映互动引导不足或内容深度有限，限制了爆发上限。"
+      }
+    },
+    {
+      "videoId": "3xwazeqb2ec2s8c",
+      "title": "为什么人老了以后，男人容易走在女人前面 #情感 #家庭 #人生百态 #知识播种计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwazeqb2ec2s8c",
+      "authorName": "董超",
+      "authorUrl": "https://www.kuaishou.com/profile/3xba59cndhgm629",
+      "authorId": "3xba59cndhgm629",
+      "publishTime": "2026-05-02T07:25:00.122Z",
+      "likeCount": 2822,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 150355,
+      "collectedAt": "2026-05-25T09:10:11.893Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "stable",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用疑问句式，直接抛出社会普遍关注的健康与情感话题，引发用户好奇心和共鸣。标签#情感 #家庭 #人生百态精准覆盖目标受众，#知识播种计划暗示内容具有知识性，提升可信度。",
+        "hotFactors": [
+          "健康与情感双重话题，受众广泛",
+          "疑问句式引发互动与讨论",
+          "标签精准，覆盖中老年及家庭用户"
+        ],
+        "category": [
+          "情感",
+          "健康知识",
+          "家庭生活"
+        ],
+        "reason": "话题具有普适性和情感共鸣，但评论和分享数据为零，可能因内容深度不足或发布初期未引爆互动，爆率中等偏上。"
       }
     }
   ]

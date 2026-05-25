@@ -1,62 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T09:02:37.312Z",
+  "fetchedAt": "2026-05-25T09:13:49.553Z",
   "date": "2026-05-25",
-  "count": 3,
+  "count": 1,
   "items": [
     {
-      "videoId": "3xietwak7j5n8dq",
-      "title": "当你自信满满过安检...（视频来源ins：@ thorupviktor）",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xietwak7j5n8dq",
-      "authorName": "奥林匹克运动会",
-      "authorUrl": "https://www.kuaishou.com/profile/3xkgutgnipnakyu",
-      "authorId": "3xkgutgnipnakyu",
-      "publishTime": "2026-03-02T10:02:00.217Z",
-      "likeCount": 2380,
+      "videoId": "3x92m6snhrrqczm",
+      "title": "即使关系再好也别对别人说这7句话，否则会吃大亏！ #智慧人生 #实话实说 #快聊新闻 #人性 @快手创作者中心(O3xrgtux2ehryffe) @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手主持人(O3xnewxpguishmsc)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x92m6snhrrqczm",
+      "authorName": "百灵新闻",
+      "authorUrl": "https://www.kuaishou.com/profile/3xpvy73digzwd59",
+      "authorId": "3xpvy73digzwd59",
+      "publishTime": "2026-05-19T08:28:53.139Z",
+      "likeCount": 2716,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 501836,
-      "collectedAt": "2026-05-25T09:00:12.521Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用“当你...”的共情句式，结合“自信满满”与“过安检”的日常场景，暗示后续有意外反转，制造悬念和期待感。",
-        "hotFactors": [
-          "强反转预期",
-          "日常场景共鸣",
-          "官方账号背书",
-          "短视频平台热门题材"
-        ],
-        "category": [
-          "生活搞笑",
-          "意外反转",
-          "安检趣事"
-        ],
-        "reason": "标题悬念感强，易引发好奇；官方账号发布增加可信度；安检场景贴近生活，反转内容易引发传播。"
-      }
-    },
-    {
-      "videoId": "3xxx2exhhgcvj6y",
-      "title": "一个15岁的农村少年，却比很多大人都清醒",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xxx2exhhgcvj6y",
-      "authorName": "赵普",
-      "authorUrl": "https://www.kuaishou.com/profile/3xxrffpa8rxg87a",
-      "authorId": "3xxrffpa8rxg87a",
-      "publishTime": "2026-05-15T22:30:50.460Z",
-      "likeCount": 20802,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 300582,
-      "collectedAt": "2026-05-25T09:00:12.521Z",
+      "viewCount": 159970,
+      "collectedAt": "2026-05-25T09:10:11.893Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -68,59 +28,20 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用“年龄+身份”与“认知反差”的经典结构。前半句“15岁的农村少年”建立基础认知（年轻、农村、可能认知有限），后半句“比很多大人都清醒”形成强烈反转，制造认知冲突和悬念，激发用户好奇心。",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“数字+警告+后果”的经典结构，通过“7句话”、“别对别人说”、“会吃大亏”等关键词制造信息缺口和紧迫感，直接瞄准用户对人际关系和自我保护的焦虑点。",
         "hotFactors": [
-          "年龄与认知的强烈反差",
-          "“农村少年”身份引发共情与好奇",
-          "“清醒”一词暗示深刻见解，吸引用户验证"
+          "实用社交禁忌清单",
+          "直击人性弱点与社交痛点",
+          "强警示性标题引发好奇",
+          "关联多个官方热点话题标签"
         ],
         "category": [
-          "社会纪实",
-          "人物故事",
-          "正能量"
+          "社会情感",
+          "人性洞察",
+          "生活技巧"
         ],
-        "reason": "标题反转强烈，精准击中“少年智慧”与“城乡认知”等社会情绪点，易引发共鸣和讨论。点赞量高但评论/分享为0，可能处于流量初期或数据未完全更新，具备爆款潜力。"
-      }
-    },
-    {
-      "videoId": "3x7ar6fvx9pa2gc",
-      "title": "【人民画报现场直击｜出征！赴九天，问苍穹】\n出发！朱杨柱、张志远、黎家盈3名航天员领命出征，祝顺利！我们等你们凯旋。\n#神舟二十三号 #中国航天 #航天员 #中国载人航天工程",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x7ar6fvx9pa2gc",
-      "authorName": "人民画报",
-      "authorUrl": "https://www.kuaishou.com/profile/3xpm7igxpgcgiig",
-      "authorId": "3xpm7igxpgcgiig",
-      "publishTime": "2026-05-24T12:54:50.721Z",
-      "likeCount": 9293,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 506882,
-      "collectedAt": "2026-05-25T09:00:12.521Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用‘媒体现场直击+事件核心+情感升华’结构。‘人民画报’作为权威媒体背书，‘出征！赴九天，问苍穹’用短句和古典意象营造史诗感与使命感，直接点明航天员出征这一高光时刻，情感饱满，易于引发民族自豪感。",
-        "hotFactors": [
-          "国家级重大事件（神舟发射）",
-          "权威媒体（人民画报）现场报道",
-          "航天员个人故事与集体荣誉感",
-          "强烈的家国情怀与共情点"
-        ],
-        "category": [
-          "时事热点",
-          "科技航天",
-          "正能量"
-        ],
-        "reason": "内容紧扣国家级航天盛事，具备天然流量基础。权威信源和富有感染力的标题能有效激发爱国情绪与分享欲。虽点赞可观，但评论和分享数据缺失，可能因内容偏向官方通报，互动性稍弱，限制了其成为现象级爆款的潜力。"
+        "reason": "标题精准切中大众对人际交往的普遍焦虑，采用“数字清单+警告”形式易于传播，且关联平台热点标签，具备较强的点击和分享潜力。但评论和分享数据为零，可能处于流量测试初期或内容互动性不足。"
       }
     }
   ]
