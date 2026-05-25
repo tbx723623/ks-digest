@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T15:22:54.804Z",
+  "fetchedAt": "2026-05-25T15:33:16.849Z",
   "date": "2026-05-25",
-  "count": 5,
+  "count": 2,
   "items": [
     {
-      "videoId": "3xr2tc28fdu9c4u",
-      "title": "21岁边防战士过生日，用雪水煮了碗方便面，加上一个速食鸡腿。 #科普  #涨知识",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xr2tc28fdu9c4u",
-      "authorName": "梦涵说",
-      "authorUrl": "https://www.kuaishou.com/profile/3x5kfnsqm8d8wk6",
-      "authorId": "3x5kfnsqm8d8wk6",
-      "publishTime": "2026-02-25T06:00:00.248Z",
-      "likeCount": 8174,
+      "videoId": "3x4wzxqfu9b68pk",
+      "title": "【“他们要打多久就打多久 一直打到完全胜利！”】1953年2月7日，针对美国在朝鲜战场上时而借谈判施压、时而军事挑衅的谈判态势，毛主席表明了中国人民和军队抗争到底的决心！",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x4wzxqfu9b68pk",
+      "authorName": "央视网",
+      "authorUrl": "https://www.kuaishou.com/profile/3xyudn6sz9nwksq",
+      "authorId": "3xyudn6sz9nwksq",
+      "publishTime": "2026-03-27T01:08:35.076Z",
+      "likeCount": 209949,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 110861,
-      "collectedAt": "2026-05-25T15:20:12.047Z",
+      "viewCount": 3398066,
+      "collectedAt": "2026-05-25T15:30:12.582Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -29,135 +29,20 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“年龄+身份+特殊场景+朴素行为”的结构，通过“21岁”、“边防战士”、“生日”、“雪水煮面”等关键词，构建了一个极具反差感和情感冲击力的画面，直接触发观众的敬佩与心疼情绪。",
+        "titleAnalysis": "标题采用【金句+历史背景】结构，直接引用毛主席的霸气宣言作为核心钩子，括号内金句极具冲击力和传播性，后半部分补充历史背景（1953年、朝鲜战场、美国挑衅）增强真实感和权威性，整体简洁有力，情绪饱满。",
         "hotFactors": [
-          "家国情怀与奉献精神的强烈共鸣",
-          "艰苦环境与朴素庆祝方式形成的巨大反差",
-          "“生日”这一特殊时间节点的情感加成"
+          "权威信源（央视网）背书",
+          "历史经典金句的现代表达",
+          "强烈的民族情感与爱国共鸣",
+          "契合当下国际形势的隐喻联想"
         ],
         "category": [
+          "历史",
+          "爱国",
           "正能量",
-          "军旅生活",
-          "情感共鸣"
+          "时事隐喻"
         ],
-        "reason": "视频精准击中了大众对边防军人的敬意与共情，通过极具画面感的标题和朴素真实的场景，极易引发情感共鸣和转发，符合快手平台正能量内容的爆款逻辑。"
-      }
-    },
-    {
-      "videoId": "3x67hpt8ip623ew",
-      "title": "@摇摇乐(O3xt6fscajqkevwu) 提醒新手爸妈，刚生完宝宝，最该警惕的48小时。 #迎接新生命 #全民健康素养提升 #老铁健康加油站 #新生儿",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x67hpt8ip623ew",
-      "authorName": "刘加勇医生",
-      "authorUrl": "https://www.kuaishou.com/profile/3x8rfma7cbnrkvk",
-      "authorId": "3x8rfma7cbnrkvk",
-      "publishTime": "2026-05-14T04:04:46.173Z",
-      "likeCount": 31873,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 1644911,
-      "collectedAt": "2026-05-25T15:20:12.047Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“身份+提醒+关键时间点+数字”的强钩子结构。@摇摇乐（疑似账号或昵称）增加互动感，“提醒新手爸妈”精准锁定目标人群，“最该警惕的48小时”制造紧迫感和悬念，数字“48”具体且有冲击力。话题标签覆盖健康、育儿、平台活动，利于推荐。",
-        "hotFactors": [
-          "精准人群痛点（新手爸妈焦虑）",
-          "权威身份背书（医生账号）",
-          "强时效性与紧迫感（48小时）",
-          "实用健康知识（高分享价值）"
-        ],
-        "category": [
-          "母婴育儿",
-          "健康科普",
-          "生活技巧"
-        ],
-        "reason": "内容精准切中新手父母的核心焦虑与信息需求，医生身份增强可信度，标题悬念感强，具备高实用性和传播性，易引发点赞、收藏及家庭群分享。"
-      }
-    },
-    {
-      "videoId": "3xz8bznb8mbkga6",
-      "title": "银行最怕你知道这三个号码 #老铁财富密码 #老铁看热点 #文娱百科明日之星 #快成长计划",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz8bznb8mbkga6",
-      "authorName": "周沫讲理财",
-      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
-      "authorId": "3xhinyavn5y69uc",
-      "publishTime": "2026-05-10T05:38:26.280Z",
-      "likeCount": 19346,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 811860,
-      "collectedAt": "2026-05-25T15:20:12.047Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用‘银行最怕你知道’的悬念式开头，暗示信息具有稀缺性和颠覆性，能快速激发用户好奇心。‘三个号码’具体化了内容，降低了理解门槛。标签#老铁财富密码等精准定位了财经、知识类受众，并利用平台成长计划标签获取流量扶持。",
-        "hotFactors": [
-          "信息差与稀缺性（银行‘最怕’你知道）",
-          "实用价值与财富相关（理财、财富密码）",
-          "悬念式标题结构，点击率高"
-        ],
-        "category": [
-          "财经知识",
-          "生活技巧",
-          "信息差"
-        ],
-        "reason": "标题精准利用‘信息差’和‘恐惧/好奇’心理，结合财经实用内容，在快手知识类赛道中容易引发高点击和分享。点赞量（1.9万）已显示初步热度，但评论和分享为0可能因内容刚发布或互动引导不足，后续若评论区活跃，爆率可能进一步上升。"
-      }
-    },
-    {
-      "videoId": "3xn26wj48wxb36e",
-      "title": "坐月子的第七天 #幸福乡村春耕季 #我的农村生活 @快手创作者中心(O3xrgtux2ehryffe) @快手粉条(O3xhcy6vhfzcu3qe) @快手三农(O3xhqbb3ibyungcs) @快手热点(O3xddgkd5fav5if9)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xn26wj48wxb36e",
-      "authorName": "农村王大爷（三姐）",
-      "authorUrl": "https://www.kuaishou.com/profile/3xvikdujrhqf2as",
-      "authorId": "3xvikdujrhqf2as",
-      "publishTime": "2026-05-08T09:48:29.519Z",
-      "likeCount": 14264,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 1594100,
-      "collectedAt": "2026-05-25T15:20:12.047Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“时间点+场景”的叙事结构，直接点明“坐月子的第七天”这一具体、私密且充满生活细节的瞬间，具有强烈的代入感和真实感。结合#幸福乡村春耕季、#我的农村生活等热门三农标签，精准定位了目标受众和内容赛道。",
-        "hotFactors": [
-          "真实生活记录（坐月子）引发女性及家庭用户强烈共情",
-          "三农题材结合家庭生活，内容垂直且接地气，符合快手主流用户偏好"
-        ],
-        "category": [
-          "三农",
-          "家庭生活",
-          "女性成长"
-        ],
-        "reason": "视频内容真实、情感细腻，精准切入“坐月子”这一高共鸣话题，结合三农背景形成差异化。高点赞量（1.4万）与零评论/分享的数据组合，表明内容已初步获得算法推荐和用户认可，正处于流量爬升期，具备持续爆发潜力。"
+        "reason": "权威媒体发布的历史金句视频，极易引发爱国情感共鸣和二次传播，点赞数据已验证其爆发力，评论/分享数据缺失可能因平台显示或统计问题，但高点赞量已表明其成为爆款的潜力。"
       }
     },
     {
@@ -168,11 +53,11 @@
       "authorUrl": "https://www.kuaishou.com/profile/3xq8qh4c5huhtrs",
       "authorId": "3xq8qh4c5huhtrs",
       "publishTime": "2026-03-06T09:57:17.751Z",
-      "likeCount": 29564,
+      "likeCount": 29566,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 642443,
-      "collectedAt": "2026-05-25T15:20:12.047Z",
+      "viewCount": 642482,
+      "collectedAt": "2026-05-25T15:30:12.581Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -185,18 +70,18 @@
         "explosionRate": 65,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“地域+童年+超能力”的组合，精准定位湖南用户群体，利用“超能力”一词制造悬念和好奇心，同时“小时候”一词引发集体回忆，具有强烈的地域认同感和情感共鸣潜力。",
+        "titleAnalysis": "采用“地域+童年回忆+超能力”的经典怀旧共情结构。'湖南人'精准锁定地域受众，'小时候'唤起集体记忆，'超能力'制造悬念和趣味性，引导用户好奇点开。",
         "hotFactors": [
-          "强烈的地域标签（湖南）",
-          "童年回忆引发广泛共情",
-          "“超能力”一词制造悬念和趣味性"
+          "强烈的地域认同感和集体怀旧情绪",
+          "童年回忆题材具有广泛共鸣基础",
+          "“超能力”一词制造了悬念和趣味反差"
         ],
         "category": [
           "生活/搞笑",
           "地域文化",
           "怀旧"
         ],
-        "reason": "标题精准锁定湖南用户，利用童年回忆和“超能力”的趣味反差引发共情与好奇，符合快手地域化、生活化内容的爆款逻辑。点赞数据尚可，但评论和分享为零，可能因内容尚未完全引爆或数据存在延迟，趋势为上升。"
+        "reason": "标题精准切入湖南地域文化，利用童年怀旧和“超能力”的趣味悬念，极易引发本地用户共鸣和互动。点赞数据良好，但评论和分享数据缺失，可能处于流量测试初期，具备上升潜力。"
       }
     }
   ]
