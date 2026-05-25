@@ -1,101 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T13:23:05.399Z",
+  "fetchedAt": "2026-05-25T13:32:37.264Z",
   "date": "2026-05-25",
-  "count": 3,
+  "count": 1,
   "items": [
     {
-      "videoId": "3xz8zx7s8qam3us",
-      "title": "【野心膨胀！揭秘日本射程1000公里25式远程导弹】日本部署25式系列导弹，射程可抵达中国沿海。",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz8zx7s8qam3us",
-      "authorName": "央视网",
-      "authorUrl": "https://www.kuaishou.com/profile/3xyudn6sz9nwksq",
-      "authorId": "3xyudn6sz9nwksq",
-      "publishTime": "2026-04-08T14:24:29.176Z",
-      "likeCount": 16694,
+      "videoId": "3xgciaghrfubyv4",
+      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
+      "authorName": "潘晓红律师",
+      "authorUrl": "https://www.kuaishou.com/profile/3x2medae3wtb55k",
+      "authorId": "3x2medae3wtb55k",
+      "publishTime": "2026-05-04T03:44:03.113Z",
+      "likeCount": 1535,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 695916,
-      "collectedAt": "2026-05-25T13:20:11.882Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用【】符号突出核心信息，包含“野心膨胀”、“揭秘”等强情绪词，直接点明“日本”、“射程1000公里”、“抵达中国沿海”等敏感地缘政治和军事要素，制造紧张感和冲突感，符合短视频平台对强刺激、高信息密度标题的偏好。",
-        "hotFactors": [
-          "地缘政治敏感话题（中日关系）",
-          "军事科技揭秘（满足猎奇与知识需求）",
-          "权威信源背书（央视网发布）",
-          "标题包含具体数据（1000公里）增强可信度与冲击力"
-        ],
-        "category": [
-          "军事",
-          "国际时政",
-          "国家安全"
-        ],
-        "reason": "内容涉及中日军事对比与国家安全，极易引发民族情绪和广泛讨论；央视网权威信源提升可信度；标题冲突性强，符合平台爆款内容特征。但评论和分享数据为0，可能因内容敏感或平台限流，但话题本身潜力巨大。"
-      }
-    },
-    {
-      "videoId": "3xz4ik3jq4r2f79",
-      "title": "004航母命名悬念拉满！这省凭啥拿下共和国巨舰？ #003福建舰航母  #004核动力航母",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz4ik3jq4r2f79",
-      "authorName": "哇趣",
-      "authorUrl": "https://www.kuaishou.com/profile/3xu2wtxwp8gmqy6",
-      "authorId": "3xu2wtxwp8gmqy6",
-      "publishTime": "2026-04-02T05:50:38.376Z",
-      "likeCount": 9724,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 710887,
-      "collectedAt": "2026-05-25T13:20:11.882Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“悬念+冲突+热点”结构。前半句“004航母命名悬念拉满！”直接抛出核心悬念，后半句“这省凭啥拿下共和国巨舰？”通过反问制造冲突感和地域归属感，同时关联了#003福建舰航母、#004核动力航母等高热度话题标签，精准吸引军事爱好者和地域关注者。",
-        "hotFactors": [
-          "国家级军事热点（航母）",
-          "地域荣誉感与竞争悬念",
-          "核动力等前沿技术话题"
-        ],
-        "category": [
-          "军事",
-          "时事热点",
-          "地域文化"
-        ],
-        "reason": "内容紧扣国民级军事热点，悬念和冲突设计能有效激发评论区互动（如猜测省份、讨论技术），点赞量已近万且仍在增长，具备爆款潜力。"
-      }
-    },
-    {
-      "videoId": "3xvgbhykyrdd3us",
-      "title": "配电柜线号这么多该怎么识别？一个小技巧就能搞定\n\n\n\n#电工  #电工知识",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xvgbhykyrdd3us",
-      "authorName": "景一",
-      "authorUrl": "https://www.kuaishou.com/profile/3xj2i4djbd724vs",
-      "authorId": "3xj2i4djbd724vs",
-      "publishTime": "2026-04-04T17:34:50.639Z",
-      "likeCount": 4876,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 311483,
-      "collectedAt": "2026-05-25T13:20:11.882Z",
+      "viewCount": 87009,
+      "collectedAt": "2026-05-25T13:30:12.438Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -107,20 +28,19 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“痛点场景+解决方案”结构。前半句“配电柜线号这么多该怎么识别？”精准描述了电工在实际工作中遇到的复杂、令人头疼的场景，引发目标受众（电工）的强烈共鸣和好奇。后半句“一个小技巧就能搞定”给出了明确的、低成本的解决方案承诺，降低了用户的行动门槛，激发了观看欲望。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“以后...不能...”的未来警示句式，结合“结婚”、“彩礼”等社会热点话题，直接冲击传统观念，制造强烈的认知冲突和讨论空间。",
         "hotFactors": [
-          "精准的垂直领域痛点",
-          "提供明确的“技巧”价值",
-          "目标受众（电工）明确且活跃",
-          "标题结构清晰，承诺明确"
+          "社会热点议题（彩礼）",
+          "专业身份背书（律师）",
+          "观点颠覆性（挑战传统）"
         ],
         "category": [
-          "职业技能",
-          "生活技巧",
-          "电工知识"
+          "法律科普",
+          "社会热点",
+          "婚恋情感"
         ],
-        "reason": "视频精准切入电工群体的专业痛点，标题承诺提供简单有效的解决方案，具有极高的实用价值和分享潜力。点赞量高而评论/分享量为零，可能表明视频处于发布初期，数据正在积累，或平台数据抓取存在延迟，但其内容属性具备在垂直领域内爆发的基础。"
+        "reason": "彩礼话题自带流量与争议，律师身份增加权威性，标题观点鲜明易引发站队讨论，符合快手用户对实用、有冲突感内容的偏好。"
       }
     }
   ]
