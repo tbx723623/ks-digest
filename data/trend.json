@@ -1,22 +1,102 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T17:52:50.135Z",
+  "fetchedAt": "2026-05-25T18:02:49.403Z",
   "date": "2026-05-25",
-  "count": 2,
+  "count": 6,
   "items": [
     {
-      "videoId": "3xies8kxwbkjj64",
-      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
-      "authorName": "甜吖",
-      "authorUrl": "https://www.kuaishou.com/profile/3xbdz5fic8euk4y",
-      "authorId": "3xbdz5fic8euk4y",
-      "publishTime": "2026-05-08T21:43:26.019Z",
-      "likeCount": 125092,
+      "videoId": "3xe6f7n4i6xcq7k",
+      "title": "这次没有去法国，没想到会有这么好的机会，外婆说马大哈给家里争光了 #外国女婿马大哈",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xe6f7n4i6xcq7k",
+      "authorName": "马大哈夫妇",
+      "authorUrl": "https://www.kuaishou.com/profile/3x2b2ijfyjekask",
+      "authorId": "3x2b2ijfyjekask",
+      "publishTime": "2026-04-22T00:00:00.074Z",
+      "likeCount": 8245,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1296100,
-      "collectedAt": "2026-05-25T17:50:12.271Z",
+      "viewCount": 109615,
+      "collectedAt": "2026-05-25T18:00:12.297Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用“预期违背+情感升华”结构。前半句“这次没有去法国”制造悬念和预期落差，后半句“没想到会有这么好的机会”和“外婆说马大哈给家里争光了”形成强烈反转，并注入家庭荣誉感和共情点，符合短视频“黄金3秒”法则。",
+        "hotFactors": [
+          "跨国婚姻/文化冲突题材自带流量",
+          "家庭温情与荣誉感引发共鸣",
+          "“马大哈”人设反差萌（笨拙但争光）",
+          "“外婆”角色强化亲情纽带"
+        ],
+        "category": [
+          "家庭生活",
+          "跨国文化",
+          "情感故事"
+        ],
+        "reason": "标题反转强烈，情感共鸣点明确（家庭荣誉），结合“外国女婿”这一高话题性标签，具备爆款潜力。点赞数据已显爆发迹象，但评论和分享为零可能因数据延迟或内容需进一步发酵。"
+      }
+    },
+    {
+      "videoId": "3xhtrcxgnp8w8q2",
+      "title": "想上班的“家庭主妇” （四）\r\n女子坚持工作 只为经济独立\r\n“向丈夫要两千块钱生活费都不给”\r\n丈夫：凭啥给她 我又不欠她\r\n调解员：你们是夫妻 收入应该透明 #情感 #家庭",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xhtrcxgnp8w8q2",
+      "authorName": "百姓调解",
+      "authorUrl": "https://www.kuaishou.com/profile/3xn4jg2tup8svwk",
+      "authorId": "3xn4jg2tup8svwk",
+      "publishTime": "2026-03-07T10:00:37.133Z",
+      "likeCount": 3945,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 608986,
+      "collectedAt": "2026-05-25T18:00:12.297Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“系列+核心冲突+金句引用”结构。系列标签（四）暗示持续性；“家庭主妇”与“想上班”形成身份与意愿的冲突；直接引用丈夫的争议性言论“凭啥给她”制造强烈对立，极具话题性。",
+        "hotFactors": [
+          "家庭经济权与性别角色冲突",
+          "丈夫言论引发强烈道德争议",
+          "调解员介入提供第三方视角与解决方案",
+          "系列内容培养用户追更习惯"
+        ],
+        "category": [
+          "情感",
+          "家庭",
+          "社会纪实"
+        ],
+        "reason": "视频精准切中家庭经济自主权、夫妻关系等社会痛点，丈夫的争议性言论极易引爆评论区讨论，调解员的介入又提供了“爽点”和解决方案，符合快手情感类内容的爆款逻辑。"
+      }
+    },
+    {
+      "videoId": "3x3ei9yazrwsdwe",
+      "title": "声音是眼睛 盲人情侣只凭声音就恋爱 #爱情 #治愈 #盲人",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x3ei9yazrwsdwe",
+      "authorName": "谢谢你来了",
+      "authorUrl": "https://www.kuaishou.com/profile/3xjteci836kjib6",
+      "authorId": "3xjteci836kjib6",
+      "publishTime": "2026-04-02T13:00:00.000Z",
+      "likeCount": 1254,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 245144,
+      "collectedAt": "2026-05-25T18:00:12.297Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -29,34 +109,72 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用多标签组合形式，包含节日热点（#五月嗨翻天 #五一气氛组已就位）、平台活动（#快手乡村超级碗）、情感共鸣点（#思白发望断崖）以及官方流量入口（@快手粉条 @快手热点 @快手音乐），结构完整，覆盖了节日、活动、情感、流量四大维度。",
+        "titleAnalysis": "标题采用“反常识概念+情感故事+标签引导”结构。“声音是眼睛”制造认知反差，引发好奇；“盲人情侣只凭声音就恋爱”点明核心故事，突出纯粹与治愈感；标签#爱情 #治愈 #盲人精准定位情感与特殊群体赛道，易引发共鸣与讨论。",
         "hotFactors": [
-          "精准踩中五一节日热点",
-          "参与平台官方活动#快手乡村超级碗获得流量扶持",
-          "标题包含情感共鸣点#思白发望断崖引发怀旧情绪",
-          "@官方账号可能获得额外推荐"
+          "特殊群体（盲人）的爱情故事，稀缺性强，易引发关注与共情",
+          "“声音是眼睛”的浪漫概念，具有传播性和话题性，符合治愈系内容趋势"
         ],
         "category": [
-          "节日热点",
-          "乡村生活",
-          "情感共鸣"
+          "情感",
+          "正能量",
+          "特殊群体"
         ],
-        "reason": "视频结合节日热点与平台活动，标题情感共鸣强，点赞数据优异，虽评论分享数据缺失，但高点赞量表明内容已获得初步认可，具备持续爆发潜力。"
+        "reason": "题材稀缺、情感纯粹、概念新颖，符合快手平台对正能量与真实故事的推荐倾向，具备破圈潜力。"
       }
     },
     {
-      "videoId": "3xz2p5zatmruke9",
-      "title": "60岁到80岁一定要避开这六件事 #关爱老人 #快聊新闻 #父母课堂 #老百姓关心的话题 @快手正能量(O3xzwm4cm5yxi55u) @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手主持人(O3xnewxpguishmsc)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz2p5zatmruke9",
-      "authorName": "百灵新闻",
-      "authorUrl": "https://www.kuaishou.com/profile/3xpvy73digzwd59",
-      "authorId": "3xpvy73digzwd59",
-      "publishTime": "2026-05-12T22:21:52.620Z",
-      "likeCount": 2441,
+      "videoId": "3x5fw2vvyab6t8e",
+      "title": "你关注过自己的指甲吗？指甲发紫大家千万别大意！别觉得这是小毛病、不值一提，就是这个被轻视的信号，差点让一位男子错失最佳处理时机，酿成无法挽回的大错 #男子指甲发紫不在意几天后被120拉走",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x5fw2vvyab6t8e",
+      "authorName": "小强说",
+      "authorUrl": "https://www.kuaishou.com/profile/3xq56h4zipv2f9y",
+      "authorId": "3xq56h4zipv2f9y",
+      "publishTime": "2026-04-14T06:56:19.605Z",
+      "likeCount": 3465,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 149792,
-      "collectedAt": "2026-05-25T17:50:12.271Z",
+      "viewCount": 151825,
+      "collectedAt": "2026-05-25T18:00:12.297Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 78,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“疑问+警示+案例+后果”的递进结构。先以“你关注过自己的指甲吗？”引发普遍共鸣和好奇，再用“千万别大意”发出强烈警告，接着用“差点让一位男子错失最佳处理时机”的具体案例制造悬念，最后用“被120拉走”的严重后果强化冲击力，并附上相关话题标签，形成完整的信息闭环。",
+        "hotFactors": [
+          "健康恐惧营销（利用身体异常信号引发焦虑）",
+          "具体案例故事（男子、120拉走，增强真实感和代入感）",
+          "强烈的警示语气（“千万别大意”、“无法挽回的大错”）",
+          "话题标签精准（#男子指甲发紫不在意几天后被120拉走，便于搜索和传播）"
+        ],
+        "category": [
+          "健康科普",
+          "社会新闻",
+          "生活警示"
+        ],
+        "reason": "内容切中大众对健康隐患的普遍焦虑，标题结构极具冲击力和悬念感，案例具体且后果严重，极易引发用户点击、评论（如分享自身经历或担忧）和分享（提醒家人朋友）。虽然当前互动数据（评论、分享）为0，但高点赞量表明内容已获得初步认可，具备在健康垂类或泛生活领域爆发的潜力。"
+      }
+    },
+    {
+      "videoId": "3xk3zm9f5337r94",
+      "title": "独生子女家庭立遗嘱，一定要加上这三句话 #遗嘱继承 #独生子女 #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xk3zm9f5337r94",
+      "authorName": "周沫讲理财",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
+      "authorId": "3xhinyavn5y69uc",
+      "publishTime": "2026-04-18T12:01:40.831Z",
+      "likeCount": 3365,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 248251,
+      "collectedAt": "2026-05-25T18:00:12.297Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -68,20 +186,58 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用数字+年龄圈层+避坑指南结构，精准定位中老年及子女群体，使用‘一定要避开’制造紧迫感和实用价值，标签组合覆盖健康、家庭、社会热点，@官方账号增加可信度。",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“痛点人群+具体数字+权威建议”结构，精准定位独生子女家庭这一庞大群体，用“一定要加上这三句话”制造信息差和紧迫感，标签#老铁财富密码和#老铁看热点符合快手平台用户习惯，易于传播。",
         "hotFactors": [
-          "精准年龄圈层定位（60-80岁）",
-          "实用避坑指南引发共情与分享",
-          "官方标签与账号背书增强信任",
-          "话题涉及家庭关怀与社会热点"
+          "精准切中独生子女家庭财产继承的普遍焦虑与知识盲区",
+          "提供具体、可操作的“三句话”干货，满足用户求知与避险需求"
         ],
         "category": [
-          "健康养生",
-          "家庭情感",
-          "社会民生"
+          "法律知识",
+          "家庭理财",
+          "社会热点"
         ],
-        "reason": "内容精准触达中老年及子女群体，实用性强易引发共鸣与分享，官方标签提升可信度，符合快手正能量流量扶持方向。"
+        "reason": "话题具有强普适性和高实用性，能引发广泛共鸣与收藏，标题结构清晰且带有悬念，符合快手知识类内容爆款逻辑。"
+      }
+    },
+    {
+      "videoId": "3xzfi98evbadsb4",
+      "title": "面对油价上涨格局，贾旭明的讽刺相声含金量还在上升 #老铁娱乐观察站 #贾旭明",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xzfi98evbadsb4",
+      "authorName": "小妖谈戏骨",
+      "authorUrl": "https://www.kuaishou.com/profile/3xkyc7dae42xxwe",
+      "authorId": "3xkyc7dae42xxwe",
+      "publishTime": "2026-03-20T15:30:56.049Z",
+      "likeCount": 7963,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 273429,
+      "collectedAt": "2026-05-25T18:00:12.297Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“社会热点（油价上涨）+ 人物（贾旭明）+ 内容形式（讽刺相声）+ 价值判断（含金量上升）”的结构，将公共议题与娱乐内容结合，并暗示内容具有时效性和深度。",
+        "hotFactors": [
+          "社会热点关联（油价上涨）",
+          "知名喜剧演员（贾旭明）",
+          "讽刺性内容易引发共鸣与讨论",
+          "“含金量上升”暗示内容质量高，吸引点击"
+        ],
+        "category": [
+          "娱乐",
+          "社会热点",
+          "相声/喜剧"
+        ],
+        "reason": "标题巧妙结合了持续的社会痛点（油价）与知名喜剧演员的讽刺表演，容易引发广泛共情和讨论，具备爆款潜力。但评论和分享数据为零，可能表明视频处于发布初期或互动数据异常，需观察后续增长。"
       }
     }
   ]

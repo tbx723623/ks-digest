@@ -1,177 +1,293 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T17:52:50.136Z",
+  "generatedAt": "2026-05-25T18:02:49.404Z",
   "date": "2026-05-25",
-  "count": 10,
+  "count": 17,
   "items": [
     {
-      "videoId": "3xies8kxwbkjj64",
-      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
-      "authorName": "甜吖",
-      "likeCount": 125092,
+      "videoId": "3xe6f7n4i6xcq7k",
+      "title": "这次没有去法国，没想到会有这么好的机会，外婆说马大哈给家里争光了 #外国女婿马大哈",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xe6f7n4i6xcq7k",
+      "authorName": "马大哈夫妇",
+      "likeCount": 8245,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "反转",
+      "category": [
+        "家庭生活",
+        "跨国文化",
+        "情感故事"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xhtrcxgnp8w8q2",
+      "title": "想上班的“家庭主妇” （四）\r\n女子坚持工作 只为经济独立\r\n“向丈夫要两千块钱生活费都不给”\r\n丈夫：凭啥给她 我又不欠她\r\n调解员：你们是夫妻 收入应该透明 #情感 #家庭",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xhtrcxgnp8w8q2",
+      "authorName": "百姓调解",
+      "likeCount": 3945,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "冲突",
+      "category": [
+        "情感",
+        "家庭",
+        "社会纪实"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3x3ei9yazrwsdwe",
+      "title": "声音是眼睛 盲人情侣只凭声音就恋爱 #爱情 #治愈 #盲人",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x3ei9yazrwsdwe",
+      "authorName": "谢谢你来了",
+      "likeCount": 1254,
       "commentCount": 0,
       "explosionRate": 85,
       "trend": "rising",
       "hookType": "共情",
       "category": [
-        "节日热点",
-        "乡村生活",
-        "情感共鸣"
+        "情感",
+        "正能量",
+        "特殊群体"
       ],
       "estimatedTime": "正在爆发"
     },
     {
-      "videoId": "3xz2p5zatmruke9",
-      "title": "60岁到80岁一定要避开这六件事 #关爱老人 #快聊新闻 #父母课堂 #老百姓关心的话题 @快手正能量(O3xzwm4cm5yxi55u) @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手主持人(O3xnewxpguishmsc)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz2p5zatmruke9",
-      "authorName": "百灵新闻",
-      "likeCount": 2441,
+      "videoId": "3x5fw2vvyab6t8e",
+      "title": "你关注过自己的指甲吗？指甲发紫大家千万别大意！别觉得这是小毛病、不值一提，就是这个被轻视的信号，差点让一位男子错失最佳处理时机，酿成无法挽回的大错 #男子指甲发紫不在意几天后被120拉走",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x5fw2vvyab6t8e",
+      "authorName": "小强说",
+      "likeCount": 3465,
       "commentCount": 0,
-      "explosionRate": 75,
+      "explosionRate": 78,
       "trend": "rising",
-      "hookType": "共情",
+      "hookType": "悬念",
       "category": [
-        "健康养生",
-        "家庭情感",
-        "社会民生"
+        "健康科普",
+        "社会新闻",
+        "生活警示"
       ],
       "estimatedTime": "1-2小时"
     },
     {
-      "videoId": "3xq86qh7jm8c8ne",
-      "title": "没事不要和任何人搅合在一起 #人生忠告 #情感共鸣 #知识播种计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xq86qh7jm8c8ne",
-      "authorName": "董超育儿现场",
-      "likeCount": 2823,
+      "videoId": "3xk3zm9f5337r94",
+      "title": "独生子女家庭立遗嘱，一定要加上这三句话 #遗嘱继承 #独生子女 #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xk3zm9f5337r94",
+      "authorName": "周沫讲理财",
+      "likeCount": 3365,
+      "commentCount": 0,
+      "explosionRate": 75,
+      "trend": "rising",
+      "hookType": "悬念",
+      "category": [
+        "法律知识",
+        "家庭理财",
+        "社会热点"
+      ],
+      "estimatedTime": "1-2小时"
+    },
+    {
+      "videoId": "3xbkrubrwc956bc",
+      "title": "湖南人小时候的超能力 #湖南 #超能力",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrubrwc956bc",
+      "authorName": "邬天宇",
+      "likeCount": 29575,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "情感",
-        "人生感悟",
-        "知识分享"
+        "生活/搞笑",
+        "地域文化",
+        "怀旧"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xtijkd5rzemfks",
-      "title": "这才是我们应该追的星 #律师帮帮团 #老铁知识百科",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xtijkd5rzemfks",
-      "authorName": "游者旅行记",
-      "likeCount": 12027,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "正能量",
-        "社会话题",
-        "知识科普"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xwziwgmrimtgbw",
-      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
-      "authorName": "远嫁燕子的一家",
-      "likeCount": 9461,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "家庭生活",
-        "美食制作",
-        "婚姻情感"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xz93mpinnecfqa",
-      "title": "六省铁血军，日军最不愿重提的事 #老铁知识百科 #春节新知锦囊 #我在快手涨知识  @快手热点(O3xddgkd5fav5if9)  @快手粉条(O3xhcy6vhfzcu3qe) ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz93mpinnecfqa",
-      "authorName": "三藏好物真选",
-      "likeCount": 2107,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "历史",
-        "军事",
-        "知识科普"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x8vae2k43x9ckg",
-      "title": "镇上医院的医生水泵坏了，大家都是熟人，我拿回来修旧如新，本来打算把草莓淋一下农家肥，没想到力量太大，把草莓地都冲坏了。",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x8vae2k43x9ckg",
-      "authorName": "林果儿 🦋",
-      "likeCount": 14390,
+      "videoId": "3xqp8rxjmbgwmiw",
+      "title": "COS弗雷德清空农场！ #暗区突围 #搞笑 #射击游戏 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xqp8rxjmbgwmiw",
+      "authorName": "君扬大鸽鸽",
+      "likeCount": 21831,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "反转",
       "category": [
-        "乡村生活",
+        "游戏",
         "搞笑",
-        "技能展示"
+        "COS"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xntv9hzmeiwqfs",
-      "title": "全程高能，舞蹈杂技融合 🤸‍♀️ 太精彩了👍完美组合 #民间艺术 #高手在民间",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xntv9hzmeiwqfs",
-      "authorName": "九十玖",
-      "likeCount": 1910,
+      "videoId": "3x9re3m2acseidy",
+      "title": "中段反导之王！红旗 - 29 #红旗29 #军事科普 #军工",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x9re3m2acseidy",
+      "authorName": "齐总商业思维",
+      "likeCount": 12146,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "军事",
+        "科技",
+        "科普"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xt6ecffybk3pg9",
+      "title": "#知识播种计划 #老铁知识百科 大学高材生美化侵略，结局大快人心",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xt6ecffybk3pg9",
+      "authorName": "小坚看世界",
+      "likeCount": 4056,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "社会热点",
+        "历史评论",
+        "正能量"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3x4ei4qffmvegxs",
+      "title": "今天可能位置没选对没钓到龙虾，今天买了点做了个麻辣龙虾看着还不错吧，你们老家河里能掉龙虾了没？#农村守护人 #三农 #记录真实生活",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x4ei4qffmvegxs",
+      "authorName": "李会儿、、",
+      "likeCount": 7417,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "三农",
+        "美食",
+        "乡村生活"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xa298ghw8qy6bc",
+      "title": "银行最怕你开窍的事儿 #喜爱度激励计划 #内容启发分享计划 #老铁看新闻 #灼见计划 @快手创作者中心(O3xrgtux2ehryffe) @快手热点(O3xddgkd5fav5if9) @快手粉条(O3xhcy6vhfzcu3qe)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xa298ghw8qy6bc",
+      "authorName": "我是大梅",
+      "likeCount": 2438,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "财经知识",
+        "生活技巧"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xzfi98evbadsb4",
+      "title": "面对油价上涨格局，贾旭明的讽刺相声含金量还在上升 #老铁娱乐观察站 #贾旭明",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xzfi98evbadsb4",
+      "authorName": "小妖谈戏骨",
+      "likeCount": 7963,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "rising",
+      "hookType": "共情",
+      "category": [
+        "娱乐",
+        "社会热点",
+        "相声/喜剧"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xhcd46hysc7aqq",
+      "title": "我憧憬的 我想要的 在等一等",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xhcd46hysc7aqq",
+      "authorName": "江畔（泡家）",
+      "likeCount": 6765,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "情感/生活/励志"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xj2te8zumq92zc",
+      "title": "这些酒店暗语您得听一听！ #科普一下 #涨知识 #知识播种计划 #万万没想到 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xj2te8zumq92zc",
+      "authorName": "驰哥故事会",
+      "likeCount": 4948,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "悬念",
+      "category": [
+        "生活技巧",
+        "知识科普",
+        "酒店旅行"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3x2vwef2y383sc6",
+      "title": "顶罪十年：归来时我已人间无敌",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x2vwef2y383sc6",
+      "authorName": "无限免费短剧",
+      "likeCount": 7228,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "爽点",
       "category": [
-        "才艺展示",
-        "民间艺术",
-        "舞蹈",
-        "杂技"
+        "逆袭",
+        "复仇",
+        "都市",
+        "短剧"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x8kurqa8ni2dmm",
-      "title": "谁能拒绝深夜失眠的时候，看一集解压助眠的荒野建造呢 #荒野建造 #野外生存 #解压助眠 #户外",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x8kurqa8ni2dmm",
-      "authorName": "小柯新视界",
-      "likeCount": 2654,
+      "videoId": "3xegeyir3e3cbsy",
+      "title": "女子称和丈夫结婚后，丈夫的亲戚频繁来借钱，丈夫总是爽快答应借出 #天津卫视  #爱情保卫战  #情感  #情侣",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xegeyir3e3cbsy",
+      "authorName": "天津卫视",
+      "likeCount": 1372,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
-      "hookType": "共情",
+      "hookType": "冲突",
       "category": [
-        "户外",
-        "解压",
-        "助眠",
-        "建造"
+        "情感",
+        "家庭",
+        "社会"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x556by2znbfsyg",
-      "title": "八句良言 #优质内容创作计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x556by2znbfsyg",
-      "authorName": "半盏清欢",
-      "likeCount": 14404,
+      "videoId": "3xdx6n8n9ce6vsc",
+      "title": "#龙虾烧烤店下酒菜 #白灼鱿鱼 #白灼鱿鱼做法 #白灼鱿鱼做法流程",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xdx6n8n9ce6vsc",
+      "authorName": "虾先生",
+      "likeCount": 27497,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
-      "hookType": "共情",
+      "hookType": "爽点",
       "category": [
-        "情感励志",
-        "人生感悟"
+        "美食教程",
+        "家常菜",
+        "海鲜烹饪"
       ],
       "estimatedTime": "2-4小时"
     }
