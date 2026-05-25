@@ -1,22 +1,22 @@
 {
   "source": "高爆率真实视频",
-  "fetchedAt": "2026-05-25T14:13:18.820Z",
+  "fetchedAt": "2026-05-25T14:23:13.810Z",
   "date": "2026-05-25",
-  "count": 9,
+  "count": 8,
   "items": [
     {
-      "videoId": "3xrmd5vwfxzp9jg",
-      "title": "狠穿居然给小侄子上课？？？",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xrmd5vwfxzp9jg",
-      "authorName": "小瑶u",
-      "authorUrl": "https://www.kuaishou.com/profile/3xtz2zyzggmxbk6",
-      "authorId": "3xtz2zyzggmxbk6",
-      "publishTime": "2026-05-05T10:34:44.945Z",
-      "likeCount": 135266,
+      "videoId": "3x74b7mq4uw655w",
+      "title": "国防部评台军“汉光42号”兵棋推演：每年都要上演这套“折子戏” #融视频",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x74b7mq4uw655w",
+      "authorName": "中国台湾网",
+      "authorUrl": "https://www.kuaishou.com/profile/3x4ciis4yn3ufb4",
+      "authorId": "3x4ciis4yn3ufb4",
+      "publishTime": "2026-05-07T06:15:29.308Z",
+      "likeCount": 47608,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 3039262,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
+      "viewCount": 996645,
+      "collectedAt": "2026-05-25T14:20:11.913Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,36 +26,75 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用疑问句式+反差人设（'狠穿'与'小侄子'的强烈对比），通过'居然'一词制造意外感，双问号强化情绪冲击，符合短视频平台的悬念设置逻辑。",
+        "explosionRate": 75,
+        "trend": "stable",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“权威信源+事件+犀利点评”结构。前半部分“国防部评台军‘汉光42号’兵棋推演”点明核心事件与权威信源，后半部分“每年都要上演这套‘折子戏’”是点睛之笔，用“折子戏”这一比喻，将严肃的军事行动解构为一场重复、形式化的表演，极具讽刺性和传播力。",
         "hotFactors": [
-          "人设反差（狠穿形象与教育场景的冲突）",
-          "家庭亲情话题易引发共鸣",
-          "疑问句式激发用户好奇心"
+          "涉台敏感议题，自带高关注度与流量",
+          "国防部权威发声，代表官方立场，信息权重高",
+          "“折子戏”的比喻犀利、形象，易于理解和二次传播，能引发民族情感共鸣"
         ],
         "category": [
-          "家庭生活",
-          "剧情演绎",
-          "情感教育"
+          "时政",
+          "军事",
+          "两岸关系"
         ],
-        "reason": "标题通过人设反差和疑问句式制造强悬念，家庭亲情题材受众广泛，高点赞量显示内容已突破初始流量池，具备持续爆发潜力。"
+        "reason": "涉台议题是平台高流量密码，结合国防部权威定性与极具传播力的比喻，能有效激发爱国情绪与讨论欲。点赞量高但评论分享为零，可能因平台审核或数据延迟，但话题本身具备强爆款基因。"
       }
     },
     {
-      "videoId": "3x8i2chsqs8jvsa",
-      "title": "长大以后才明白，叔和舅不太一样了 #家庭情感 #人生感悟 #涨知识 #知识播种计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x8i2chsqs8jvsa",
-      "authorName": "董超育儿现场",
-      "authorUrl": "https://www.kuaishou.com/profile/3xdtvatrmw4fnfm",
-      "authorId": "3xdtvatrmw4fnfm",
-      "publishTime": "2026-05-03T23:05:00.666Z",
-      "likeCount": 2051,
+      "videoId": "3xgciaghrfubyv4",
+      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
+      "authorName": "潘晓红律师",
+      "authorUrl": "https://www.kuaishou.com/profile/3x2medae3wtb55k",
+      "authorId": "3x2medae3wtb55k",
+      "publishTime": "2026-05-04T03:44:03.113Z",
+      "likeCount": 1537,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 254582,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
+      "viewCount": 87123,
+      "collectedAt": "2026-05-25T14:20:11.913Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“以后...不能...”的警示性句式，结合“彩礼”这一高社会关注度话题，直接点明法律变化，制造紧迫感和信息差，吸引用户点击了解新规。",
+        "hotFactors": [
+          "彩礼是社会热点与家庭矛盾焦点",
+          "律师身份提供权威背书，信息可信度高",
+          "标题暗示规则变化，引发用户对自身利益的关注和讨论"
+        ],
+        "category": [
+          "法律科普",
+          "社会热点",
+          "婚恋家庭"
+        ],
+        "reason": "彩礼话题自带流量与争议，律师身份结合警示性标题，精准切中用户对政策变化的信息需求，易引发共鸣与传播。"
+      }
+    },
+    {
+      "videoId": "3x56yit4rqyuauc",
+      "title": "手掌就那么大 握不住的东西太多了… #翻唱",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x56yit4rqyuauc",
+      "authorName": "吖-久冰",
+      "authorUrl": "https://www.kuaishou.com/profile/3xeeir2vy72iffs",
+      "authorId": "3xeeir2vy72iffs",
+      "publishTime": "2026-04-24T11:15:30.625Z",
+      "likeCount": 9995,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 191616,
+      "collectedAt": "2026-05-25T14:20:11.913Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -68,17 +107,17 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“长大以后才明白”的怀旧共情句式，结合“叔和舅不太一样了”这一具体、生活化的对比点，容易引发用户对家庭关系、成长变化的共鸣和好奇。标签#家庭情感 #人生感悟精准定位情感赛道，#涨知识 #知识播种计划则暗示内容有信息增量，符合快手用户对“有用”内容的偏好。",
+        "titleAnalysis": "采用‘手掌就那么大’的具象化比喻，引出‘握不住的东西太多了’的普世情感共鸣点，结尾使用#翻唱标签明确内容属性，结构简洁但情感张力强。",
         "hotFactors": [
-          "情感共鸣（家庭关系、成长感悟）",
-          "知识增量（揭示常见认知差异）"
+          "情感共鸣强烈，易引发用户代入感",
+          "翻唱内容自带流量基础与怀旧属性"
         ],
         "category": [
-          "家庭情感",
-          "生活知识",
-          "人生感悟"
+          "情感",
+          "音乐翻唱",
+          "生活感悟"
         ],
-        "reason": "标题精准切入家庭情感与生活知识交叉领域，共情力强，易引发评论区讨论和分享。但点赞量尚可而互动（评论/分享）为零，可能因内容深度或发布时间等因素导致传播未完全起势，后续有稳定增长潜力。"
+        "reason": "标题精准击中大众情感软肋，翻唱类内容在快手有稳定受众，但评论与分享数据缺失可能限制传播裂变，爆率中等偏上。"
       }
     },
     {
@@ -92,8 +131,8 @@
       "likeCount": 7414,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 207556,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
+      "viewCount": 207566,
+      "collectedAt": "2026-05-25T14:20:11.913Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -106,111 +145,33 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "采用‘问题-行动-结果-互动’四段式结构。开头‘没钓到’制造小悬念，中间‘做了个麻辣龙虾’展示生活技能和结果，结尾以提问‘你们老家河里能掉龙虾了没？’引发地域共鸣和互动，符合三农内容真实、接地气的风格。",
+        "titleAnalysis": "采用‘失败-成功’的叙事结构，先以‘没钓到龙虾’制造小挫折，再以‘买了点做了个麻辣龙虾’展示成果，最后以提问‘你们老家河里能掉龙虾了没？’引发观众互动和地域共鸣，结构完整，有生活气息。",
         "hotFactors": [
-          "三农/乡村生活题材（快手热门赛道）",
-          "美食制作（麻辣龙虾视觉吸引力强）",
-          "真实记录与互动提问（易引发评论）"
+          "三农生活题材，贴近真实农村场景",
+          "美食制作（麻辣龙虾）具有视觉吸引力和食欲感",
+          "结尾提问设计，易于引发评论区互动和地域讨论"
         ],
         "category": [
           "三农",
           "美食",
-          "乡村生活"
+          "生活记录"
         ],
-        "reason": "题材精准命中快手核心用户兴趣，内容真实有烟火气，结尾提问能有效激发评论互动。但数据中评论和分享为0，可能因发布时间尚短或互动引导不足，限制了爆发上限。"
+        "reason": "视频结合了三农纪实与美食制作，内容真实接地气，结尾提问能有效激发评论互动。点赞数据尚可，但评论和分享量为零，表明初始互动未被充分激发，或处于流量爬升初期，具备一定爆款潜力但需观察后续互动转化。"
       }
     },
     {
-      "videoId": "3x9i6w4zyy6wdnk",
-      "title": "#一人分饰多角 #搞笑视频 #意想不到的结局",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x9i6w4zyy6wdnk",
-      "authorName": "胖僧",
-      "authorUrl": "https://www.kuaishou.com/profile/3xeymttcj8hezse",
-      "authorId": "3xeymttcj8hezse",
-      "publishTime": "2026-05-01T08:53:53.111Z",
-      "likeCount": 5905,
+      "videoId": "3xme7ph9ixuuc5w",
+      "title": "#搞笑可爱的小萌娃 #人类幼崽有多可爱 #这小表情太可爱了",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xme7ph9ixuuc5w",
+      "authorName": "小金果宝贝",
+      "authorUrl": "https://www.kuaishou.com/profile/3x6x9mnvpj7qefc",
+      "authorId": "3x6x9mnvpj7qefc",
+      "publishTime": "2026-04-06T13:18:53.890Z",
+      "likeCount": 7862,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 305851,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "stable",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用‘标签+内容类型+悬念’结构。‘#一人分饰多角’点明核心看点（表演技巧），‘#搞笑视频’明确内容属性，‘#意想不到的结局’制造悬念，吸引用户点击以验证预期。结构清晰，但标签堆砌感略强，缺乏具体情境或情绪词。",
-        "hotFactors": [
-          "一人分饰多角的表演张力",
-          "搞笑与反转结局的强娱乐性",
-          "标签精准，易被算法推荐"
-        ],
-        "category": [
-          "搞笑",
-          "短剧",
-          "表演"
-        ],
-        "reason": "内容形式（一人多角+反转）符合短视频高传播特性，点赞量尚可但互动数据（评论/分享）缺失，可能处于流量爬升初期或受众互动意愿一般，爆率中等偏上。"
-      }
-    },
-    {
-      "videoId": "3xz93mpinnecfqa",
-      "title": "六省铁血军，日军最不愿重提的事 #老铁知识百科 #春节新知锦囊 #我在快手涨知识  @快手热点(O3xddgkd5fav5if9)  @快手粉条(O3xhcy6vhfzcu3qe) ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz93mpinnecfqa",
-      "authorName": "三藏好物真选",
-      "authorUrl": "https://www.kuaishou.com/profile/3x3yb28uat2etma",
-      "authorId": "3x3yb28uat2etma",
-      "publishTime": "2026-03-11T03:41:19.623Z",
-      "likeCount": 2105,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 94481,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "stable",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“地域+身份标签（六省铁血军）”与“历史冲突事件（日军最不愿重提的事）”的强对比结构，结合“#老铁知识百科”等知识类标签，塑造了“揭秘历史冷知识”的悬念感，符合快手用户对爱国、历史、猎奇内容的偏好。",
-        "hotFactors": [
-          "历史爱国题材（易引发共鸣与传播）",
-          "悬念式标题（“最不愿重提”制造信息差）",
-          "知识类标签（吸引求知欲用户）"
-        ],
-        "category": [
-          "历史军事",
-          "知识科普",
-          "爱国题材"
-        ],
-        "reason": "题材符合平台主流爱国情绪，标题冲突感强，但数据（评论/分享为0）显示互动未起量，可能因内容深度或发布时间未达爆发点，需观察后续互动趋势。"
-      }
-    },
-    {
-      "videoId": "3x6b8mqf5wbei4s",
-      "title": "最美孝心少年，用三餐温暖疲惫父母 #厨房小能手 #小厨神 #懂事的孩子",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6b8mqf5wbei4s",
-      "authorName": "阿嗨看世界",
-      "authorUrl": "https://www.kuaishou.com/profile/3xaenjkkfyxqe9w",
-      "authorId": "3xaenjkkfyxqe9w",
-      "publishTime": "2026-04-26T10:10:11.114Z",
-      "likeCount": 2451,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 113417,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
+      "viewCount": 467526,
+      "collectedAt": "2026-05-25T14:20:11.913Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -223,71 +184,33 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“人物标签+行为描述+情感价值”结构。前半句“最美孝心少年”是身份标签，具有正面引导和流量属性；后半句“用三餐温暖疲惫父母”是具体行为描述，画面感强，直接点明视频核心内容与情感内核。标签#厨房小能手等进一步强化了“懂事”、“能干”的正面形象，符合平台正能量内容推荐逻辑。",
+        "titleAnalysis": "标题采用三段式标签结构，核心关键词为'搞笑可爱的小萌娃'、'人类幼崽有多可爱'、'这小表情太可爱了'，通过重复'可爱'强化情感共鸣，精准定位母婴亲子及萌宠内容受众。",
         "hotFactors": [
-          "孝心与亲情主题，易引发广泛情感共鸣",
-          "“小神童”、“懂事孩子”等标签符合快手家庭向内容偏好"
+          "萌娃内容天然具备高传播性",
+          "情感共鸣驱动用户互动意愿",
+          "标签覆盖精准目标人群"
         ],
         "category": [
-          "家庭生活",
-          "正能量",
-          "亲子"
+          "母婴亲子",
+          "搞笑萌宠",
+          "生活记录"
         ],
-        "reason": "主题正能量，情感共鸣强，符合平台主流价值观。但评论和分享为0，表明初期互动不足，可能缺乏强冲突或悬念，爆发力受限，属于稳定型内容。"
+        "reason": "萌娃类内容在快手平台受众基础庞大，标题情感指向明确，但评论与分享数据缺失可能反映内容互动深度不足或发布时间较短，需观察后续数据增长趋势。"
       }
     },
     {
-      "videoId": "3xxkz9nenzbvk9k",
-      "title": "昨天发的库存 今天发个新鲜出炉的 #母女段子 #我的乡村生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xxkz9nenzbvk9k",
-      "authorName": "十三🧜🏻♀️",
-      "authorUrl": "https://www.kuaishou.com/profile/3xkagpbqtr8u924",
-      "authorId": "3xkagpbqtr8u924",
-      "publishTime": "2026-05-10T11:15:44.909Z",
-      "likeCount": 5439,
+      "videoId": "3xdbmy6erknhzsc",
+      "title": "我不会再打扰你，你要照顾好自己，从此各奔东西，以后我只爱自己……出发🛫三亚 #唐薇大舞台 #不再打扰不再联系 #感谢你们不离不弃",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xdbmy6erknhzsc",
+      "authorName": "唐薇歌手",
+      "authorUrl": "https://www.kuaishou.com/profile/3xnngen2npeqdti",
+      "authorId": "3xnngen2npeqdti",
+      "publishTime": "2026-04-15T03:44:57.406Z",
+      "likeCount": 22809,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 371913,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“时间对比+内容预告”结构（昨天库存 vs 今天新鲜），并使用热门标签#母女段子和#我的乡村生活，精准定位受众，营造亲切感和期待感。",
-        "hotFactors": [
-          "母女亲情题材易引发共鸣",
-          "乡村生活场景真实接地气",
-          "标签精准覆盖目标人群"
-        ],
-        "category": [
-          "家庭生活",
-          "乡村纪实",
-          "搞笑段子"
-        ],
-        "reason": "题材贴近生活，情感共鸣强，标签精准，但评论和分享数据缺失可能影响后续传播，爆率中等偏上。"
-      }
-    },
-    {
-      "videoId": "3xzq4ezytrcmzia",
-      "title": "狗子：这个家已经没有我的容身之地了！ #萌宠春日大赏 #喜爱度激励计划  #快成长计划  #快手宠物天团",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xzq4ezytrcmzia",
-      "authorName": "辛巴和汤圆",
-      "authorUrl": "https://www.kuaishou.com/profile/3x7b4jejzegkdsi",
-      "authorId": "3x7b4jejzegkdsi",
-      "publishTime": "2026-04-04T01:00:00.383Z",
-      "likeCount": 2451,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 182142,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
+      "viewCount": 591385,
+      "collectedAt": "2026-05-25T14:20:11.913Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -300,33 +223,33 @@
         "explosionRate": 65,
         "trend": "stable",
         "hookType": "共情",
-        "titleAnalysis": "采用拟人化第一人称视角（'狗子'自称），结合夸张表达（'没有容身之地'）制造反差萌，结尾使用多个热门话题标签（#萌宠春日大赏等）增加曝光机会。",
+        "titleAnalysis": "标题采用情感叙事+场景切换结构。前半部分（'我不会再打扰你...只爱自己'）是典型的情感宣泄和决绝宣言，极易引发有相似经历用户的共鸣。后半部分（'出发🛫三亚'）则提供了一个具象的、积极的行动转折，形成'告别过去，奔赴美好'的完整故事线。标签#唐薇大舞台、#不再打扰不再联系精准定位了情感赛道和主播身份。",
         "hotFactors": [
-          "萌宠拟人化叙事",
-          "家庭场景反差幽默",
-          "多热门话题标签叠加"
+          "强烈的情感共鸣点（分手/告别）",
+          "明确的行动转折（出发三亚）带来积极想象",
+          "主播人设（歌手）与情感内容结合，增强可信度"
         ],
         "category": [
-          "宠物",
-          "搞笑",
-          "生活日常"
+          "情感",
+          "生活记录",
+          "旅行"
         ],
-        "reason": "萌宠内容自带流量基础，拟人化标题易引发共鸣，但评论和分享数据缺失表明互动深度不足，可能受限于发布者粉丝基数或内容传播瓶颈。"
+        "reason": "情感类内容在快手有广泛受众基础，标题故事线完整，能快速引发共情。点赞数据（2.3万）表明内容已获得初步认可。但评论和分享数据为0，可能意味着内容互动性或话题延展性不足，限制了其爆发上限，故预测为中等偏上爆率。"
       }
     },
     {
-      "videoId": "3xvprr6iga5k29i",
-      "title": "挑战全网最块撤离 #和平精英地铁逃生 #和平精英七周年 #快手游戏给我流量 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xvprr6iga5k29i",
-      "authorName": "官梁⛈️和平精英",
-      "authorUrl": "https://www.kuaishou.com/profile/3xp78uwfpidtf7q",
-      "authorId": "3xp78uwfpidtf7q",
-      "publishTime": "2026-04-26T02:00:00.865Z",
-      "likeCount": 8389,
+      "videoId": "3xyzja4tda28ya9",
+      "title": "半路电瓶车没电，一直解决 #电瓶车",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xyzja4tda28ya9",
+      "authorName": "壹哥说车",
+      "authorUrl": "https://www.kuaishou.com/profile/3xegjkfuhzj5wfe",
+      "authorId": "3xegjkfuhzj5wfe",
+      "publishTime": "2026-05-10T05:52:13.577Z",
+      "likeCount": 3651,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 197447,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
+      "viewCount": 312883,
+      "collectedAt": "2026-05-25T14:20:11.913Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -338,19 +261,55 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "stable",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“挑战+极限描述”结构，结合热门游戏IP和周年庆热点，使用“全网最块”制造悬念和对比，结尾标签用于引流。",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“问题场景+持续解决”的叙事结构，前半句“半路电瓶车没电”直接抛出痛点场景，后半句“一直解决”暗示过程曲折或有后续，形成悬念。标签“#电瓶车”精准定位垂直领域。",
         "hotFactors": [
-          "热门游戏《和平精英》及七周年热点",
-          "“挑战全网最X”类悬念标题吸引点击",
-          "游戏垂直领域内容精准触达目标用户"
+          "强场景共鸣（电动车用户普遍痛点）",
+          "过程悬念（“一直解决”暗示有故事）",
+          "垂直领域精准（电动车/出行）"
         ],
         "category": [
-          "游戏",
-          "挑战",
-          "手游"
+          "生活/出行",
+          "实用技巧/问题解决"
         ],
-        "reason": "标题结合了热门游戏IP和挑战类悬念，能有效吸引核心玩家点击。点赞数据尚可，但评论和分享为零，表明内容互动性不足，可能缺乏深度共鸣或讨论点，限制了进一步破圈传播。"
+        "reason": "标题直击电动车用户高频痛点，易引发共情和好奇；“一直解决”暗示有实用价值或戏剧性过程，具备一定传播潜力。但评论和分享数据为0，可能因内容深度或发布时间等因素，爆发力受限。"
+      }
+    },
+    {
+      "videoId": "3x6yvxxkrwiwmtw",
+      "title": "不记仇的嘟嘟😁😁#狗狗 #狗狗是人类最忠诚的朋友 #萌宠小可爱",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6yvxxkrwiwmtw",
+      "authorName": "静姐",
+      "authorUrl": "https://www.kuaishou.com/profile/3xfb6jdcvpf6c4a",
+      "authorId": "3xfb6jdcvpf6c4a",
+      "publishTime": "2026-03-21T09:26:22.517Z",
+      "likeCount": 22190,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 2102537,
+      "collectedAt": "2026-05-25T14:20:11.913Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "stable",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“行为描述+情感标签”结构。前半句“不记仇的嘟嘟”以拟人化口吻描述宠物行为，引发好奇；后半句通过三个热门标签（#狗狗 #狗狗是人类最忠诚的朋友 #萌宠小可爱）精准定位萌宠赛道，强化情感共鸣与搜索曝光。",
+        "hotFactors": [
+          "萌宠内容天然具备高共情力与传播性",
+          "标题与标签组合精准覆盖快手核心流量池"
+        ],
+        "category": [
+          "萌宠",
+          "生活记录"
+        ],
+        "reason": "萌宠题材在快手拥有稳定受众基础，标题情感正向且标签精准，但评论与分享数据缺失可能反映内容互动性不足或数据未完全更新，限制爆发上限。"
       }
     }
   ]

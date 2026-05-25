@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T14:13:18.821Z",
+  "fetchedAt": "2026-05-25T14:23:13.811Z",
   "date": "2026-05-25",
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "videoId": "3xrmd5vwfxzp9jg",
-      "title": "狠穿居然给小侄子上课？？？",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xrmd5vwfxzp9jg",
-      "authorName": "小瑶u",
-      "authorUrl": "https://www.kuaishou.com/profile/3xtz2zyzggmxbk6",
-      "authorId": "3xtz2zyzggmxbk6",
-      "publishTime": "2026-05-05T10:34:44.945Z",
-      "likeCount": 135266,
+      "videoId": "3xgciaghrfubyv4",
+      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
+      "authorName": "潘晓红律师",
+      "authorUrl": "https://www.kuaishou.com/profile/3x2medae3wtb55k",
+      "authorId": "3x2medae3wtb55k",
+      "publishTime": "2026-05-04T03:44:03.113Z",
+      "likeCount": 1537,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 3039262,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
+      "viewCount": 87123,
+      "collectedAt": "2026-05-25T14:20:11.913Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,60 +26,21 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 85,
+        "explosionRate": 75,
         "trend": "rising",
-        "hookType": "反转",
-        "titleAnalysis": "标题采用疑问句式+反差人设（'狠穿'与'小侄子'的强烈对比），通过'居然'一词制造意外感，双问号强化情绪冲击，符合短视频平台的悬念设置逻辑。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“以后...不能...”的警示性句式，结合“彩礼”这一高社会关注度话题，直接点明法律变化，制造紧迫感和信息差，吸引用户点击了解新规。",
         "hotFactors": [
-          "人设反差（狠穿形象与教育场景的冲突）",
-          "家庭亲情话题易引发共鸣",
-          "疑问句式激发用户好奇心"
+          "彩礼是社会热点与家庭矛盾焦点",
+          "律师身份提供权威背书，信息可信度高",
+          "标题暗示规则变化，引发用户对自身利益的关注和讨论"
         ],
         "category": [
-          "家庭生活",
-          "剧情演绎",
-          "情感教育"
+          "法律科普",
+          "社会热点",
+          "婚恋家庭"
         ],
-        "reason": "标题通过人设反差和疑问句式制造强悬念，家庭亲情题材受众广泛，高点赞量显示内容已突破初始流量池，具备持续爆发潜力。"
-      }
-    },
-    {
-      "videoId": "3xxkz9nenzbvk9k",
-      "title": "昨天发的库存 今天发个新鲜出炉的 #母女段子 #我的乡村生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xxkz9nenzbvk9k",
-      "authorName": "十三🧜🏻♀️",
-      "authorUrl": "https://www.kuaishou.com/profile/3xkagpbqtr8u924",
-      "authorId": "3xkagpbqtr8u924",
-      "publishTime": "2026-05-10T11:15:44.909Z",
-      "likeCount": 5439,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 371913,
-      "collectedAt": "2026-05-25T14:10:12.342Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“时间对比+内容预告”结构（昨天库存 vs 今天新鲜），并使用热门标签#母女段子和#我的乡村生活，精准定位受众，营造亲切感和期待感。",
-        "hotFactors": [
-          "母女亲情题材易引发共鸣",
-          "乡村生活场景真实接地气",
-          "标签精准覆盖目标人群"
-        ],
-        "category": [
-          "家庭生活",
-          "乡村纪实",
-          "搞笑段子"
-        ],
-        "reason": "题材贴近生活，情感共鸣强，标签精准，但评论和分享数据缺失可能影响后续传播，爆率中等偏上。"
+        "reason": "彩礼话题自带流量与争议，律师身份结合警示性标题，精准切中用户对政策变化的信息需求，易引发共鸣与传播。"
       }
     }
   ]
