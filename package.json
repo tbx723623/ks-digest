@@ -1,0 +1,19 @@
+{
+  "name": "ks-digest",
+  "version": "2.0.0",
+  "description": "小说推文AI爆款预测平台 - 真实推荐流 + AI趋势预测",
+  "private": true,
+  "scripts": {
+    "scrape": "node scripts/kuaishou-scraper.js hot",
+    "scrape:male": "node scripts/kuaishou-scraper.js male",
+    "scrape:female": "node scripts/kuaishou-scraper.js female",
+    "scrape:new": "node scripts/kuaishou-scraper.js new_book",
+    "merge": "node scripts/merge-real-data.js",
+    "growth": "node scripts/realtime-fetch.js",
+    "rankings": "node scripts/generate-rankings.js",
+    "predictions": "node scripts/generate-predictions.js"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}

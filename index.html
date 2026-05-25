@@ -1,0 +1,312 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0a1117" />
+  <meta http-equiv="Cache-Control" content="public, max-age=300" />
+  <link rel="preconnect" href="https://token-plan-cn.xiaomimimo.com" />
+  <link rel="dns-prefetch" href="https://token-plan-cn.xiaomimimo.com" />
+  <script src="./boot.js"></script>
+  <title>每日快手解压爆款素材板</title>
+  <link rel="stylesheet" href="./styles.css?v=2026052502" />
+</head>
+<body class="is-locked">
+  <div class="bg-orb orb-a"></div>
+  <div class="bg-orb orb-b"></div>
+  <div class="bg-grid"></div>
+  <div class="bg-wallpaper" aria-hidden="true"></div>
+
+  <div class="activation-overlay" id="activationOverlay" role="dialog" aria-modal="true" aria-labelledby="activationTitle">
+    <div class="activation-card card">
+      <div class="eyebrow">
+        <span class="dot"></span>
+        <span>访问门禁</span>
+      </div>
+      <h2 id="activationTitle">请输入激活码</h2>
+      <p class="activation-text">
+        这个页面支持发给别人使用。输入激活码后即可查看每日爆款小说和解压推文看板。
+      </p>
+      <div class="activation-form">
+        <input id="activationInput" type="password" placeholder="请输入激活码" autocomplete="off" />
+        <button id="activationBtn" class="btn btn-primary" type="button">激活进入</button>
+      </div>
+      <p class="activation-hint">请联系管理员获取激活码</p>
+      <div class="activation-actions">
+        <button id="activationClearBtn" class="btn btn-secondary" type="button">清除已激活状态</button>
+      </div>
+    </div>
+  </div>
+
+  <main class="app-shell">
+    <header class="hero card">
+      <div class="hero-copy">
+        <div class="eyebrow">
+          <span class="dot"></span>
+          <span id="todayLabel">今日更新</span>
+        </div>
+        <h1>每日快手解压爆款素材板</h1>
+        <p class="hero-text">
+          主打解压推文视频、口播、分镜和剪辑，PPT/长图文只留少量参考。海量爆款素材库，涵盖打脸逆袭、重生致富、穿越、豪门、甜宠萌宝、复仇、系统流、悬疑反转、年代文、古言、都市职场、校园、娱乐圈、美食、宫斗、军婚、赘婿、商战等18大类型。支持一键复制、筛选分类、号池共建。
+        </p>
+
+        <div class="hero-actions">
+          <button id="copySummaryBtn" class="btn btn-primary">复制今日推送文案</button>
+          <a href="./predict.html" class="btn btn-secondary" style="text-decoration: none;">🔮 爆款预测平台</a>
+        </div>
+
+        <div class="hero-stats">
+          <div class="stat">
+            <span class="stat-value" id="totalCount">0</span>
+            <span class="stat-label">条内容</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="caseCount">0</span>
+            <span class="stat-label">今日案例</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="materialCount">0</span>
+            <span class="stat-label">爆款素材</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="hotCount">0</span>
+            <span class="stat-label">实时爆款</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="tagCount">0</span>
+            <span class="stat-label">标签总数</span>
+          </div>
+          <div class="stat">
+            <span class="stat-value" id="poolStatCount">0</span>
+            <span class="stat-label">号池内容</span>
+          </div>
+        </div>
+        <p class="hero-credit">网站开发者 · 阿斌</p>
+      </div>
+
+      <aside class="hero-panel">
+        <div class="panel-head">
+            <span class="panel-kicker">今天适合推什么</span>
+            <strong id="panelDate"></strong>
+          </div>
+          <div class="panel-highlight">
+            <div class="panel-title">推荐策略</div>
+            <ul class="panel-list">
+              <li>主推解压推文视频：口播、分镜、剪辑优先。</li>
+              <li>素材库和爆款链接优先看，PPT/长图文只作少量参考。</li>
+              <li>有作品链接的先看原视频，再补文案。</li>
+            </ul>
+          </div>
+      </aside>
+    </header>
+
+    <section class="toolbar card">
+      <div class="toolbar-row">
+        <div class="search-wrap">
+          <input id="searchInput" class="search" type="search" placeholder="搜索标题、题材、标签，例如：穿越 / 古风 / 解压 / 逆袭 / 虐文 / 甜宠" />
+        </div>
+        <div class="theme-rail">
+          <div class="theme-group">
+            <span class="theme-label">日夜</span>
+            <div class="segmented" id="schemeToggle">
+              <button class="segmented-btn" type="button" data-scheme="dark">夜间</button>
+              <button class="segmented-btn" type="button" data-scheme="light">日间</button>
+            </div>
+          </div>
+          <div class="theme-group">
+            <span class="theme-label">主题色</span>
+            <div class="palette-row" id="accentToggle">
+              <button class="palette-btn" type="button" data-accent="amber" aria-label="琥珀主题"></button>
+              <button class="palette-btn" type="button" data-accent="mint" aria-label="湖蓝主题"></button>
+              <button class="palette-btn" type="button" data-accent="coral" aria-label="珊瑚主题"></button>
+              <button class="palette-btn" type="button" data-accent="sky" aria-label="天空主题"></button>
+              <button class="palette-btn" type="button" data-accent="forest" aria-label="松绿主题"></button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="filters" id="filters"></div>
+    </section>
+
+    <section class="content-grid">
+      <section class="card content-card">
+          <div class="section-head">
+            <div>
+              <span class="section-kicker">素材库</span>
+            <h2>解压推文爆款素材库（主推视频）</h2>
+            </div>
+            <div class="section-head-actions">
+              <button id="refreshFeedBtn" class="btn btn-ghost" type="button">实时更新</button>
+              <div class="section-meta" id="resultMeta"></div>
+          </div>
+        </div>
+        <div class="cards" id="cards"></div>
+      </section>
+
+      <aside class="side-column">
+        <section class="card side-card">
+          <div class="section-head compact">
+            <div>
+              <span class="section-kicker">人生格言</span>
+              <h2>励志坚持 · 每日提醒</h2>
+            </div>
+          </div>
+          <textarea id="summaryBox" class="summary-box" readonly></textarea>
+          <div class="hero-actions compact-actions">
+            <button id="copyFromBoxBtn" class="btn btn-primary">复制格言</button>
+            <button id="downloadBtn" class="btn btn-secondary">下载格言</button>
+          </div>
+        </section>
+
+        <section class="card side-card music-card">
+          <div class="section-head compact">
+            <div>
+              <span class="section-kicker">免费听歌</span>
+              <h2>边做素材边放点音乐</h2>
+            </div>
+          </div>
+          <div class="music-player">
+            <div class="music-disc" id="musicDisc">
+              <img class="music-disc-image" src="./assets/music-cover.png" alt="" />
+              <div class="music-disc-center"></div>
+            </div>
+            <div class="music-info">
+              <strong>背景音乐播放器</strong>
+              <span class="music-status" id="musicStatus">点击播放</span>
+            </div>
+            <div class="music-controls">
+              <button id="musicPlayBtn" class="btn btn-primary music-play-btn" type="button">▶ 播放</button>
+              <a href="https://music.cpp-prog.com/" target="_blank" rel="noopener noreferrer" class="btn btn-ghost">更多音乐</a>
+            </div>
+          </div>
+          <p class="music-hint">点击播放按钮开始听歌，封面会跟着转哦~</p>
+        </section>
+
+        <section class="card side-card wallpaper-card">
+          <div class="section-head compact">
+            <div>
+              <span class="section-kicker">壁纸背景</span>
+              <h2>切换你喜欢的壁纸</h2>
+            </div>
+            <button id="wallpaperClearBtn" class="btn btn-ghost" type="button">恢复默认</button>
+          </div>
+          <p class="pool-hint">从哲风壁纸挑图，或者直接粘贴图片直链。只在选中时加载，不会拖慢首页。</p>
+          <div class="wallpaper-preview" id="wallpaperPreview" data-label="默认渐变背景" aria-hidden="true"></div>
+          <div class="wallpaper-grid" id="wallpaperGrid"></div>
+          <div class="wallpaper-actions">
+            <input id="wallpaperInput" class="wallpaper-input" type="url" placeholder="粘贴壁纸图片直链，例如哲风壁纸的 getCroppingImg 链接" />
+            <button id="wallpaperApplyBtn" class="btn btn-primary" type="button">应用壁纸</button>
+          </div>
+        </section>
+
+        <section class="card side-card pool-card">
+          <div class="section-head compact">
+            <div>
+              <span class="section-kicker">号池共建</span>
+              <h2>把爆款链接丢进号池</h2>
+            </div>
+            <div class="pool-count-wrap"><span id="poolCount">00</span> 条</div>
+          </div>
+          <p class="pool-hint" id="poolStatus">这里只保留提交入口，支持粘贴快手分享文案、链接或多条内容，重复链接会自动合并。</p>
+          <textarea id="poolInput" class="pool-input" placeholder="把快手爆款链接或整段分享文案粘进来，一条或多条都行。也支持直接粘贴快手分享卡片文本。"></textarea>
+          <div class="hero-actions compact-actions pool-actions">
+            <button id="poolSubmitBtn" class="btn btn-primary" type="button">加入号池</button>
+            <button id="poolClearBtn" class="btn btn-secondary" type="button">清空输入</button>
+          </div>
+        </section>
+
+        <section class="card side-card">
+          <div class="section-head compact hot-head">
+            <div>
+              <span class="section-kicker">实时监测</span>
+              <h2>实时爆款榜</h2>
+            </div>
+            <div class="hot-actions">
+              <button id="refreshHotBtn" class="btn btn-ghost" type="button">刷新今天爆款</button>
+              <button id="aiSearchBtn" class="btn btn-primary" type="button">AI搜爆款</button>
+              <button id="predictBtn" class="btn btn-predict" type="button">爆款预测</button>
+            </div>
+          </div>
+          <p class="hot-status" id="hotStatus">鬼哥哥 API 优先抓今天爆款，号池只做补充。点击"刷新今天爆款"会重新拉取今天的实时结果，账号主页会自动隐藏。</p>
+          
+          <!-- 真实爆款面板 -->
+          <div id="explosivePanel" class="explosive-panel"></div>
+          
+          <div class="fan-strip" aria-hidden="true">
+            <div class="fan-icon">
+              <div class="fan-blade-container">
+                <div class="fan-blade"></div>
+                <div class="fan-blade"></div>
+                <div class="fan-blade"></div>
+                <div class="fan-blade"></div>
+                <div class="fan-center"></div>
+              </div>
+            </div>
+            <div class="fan-copy">
+              <span class="fan-kicker">实时风扇</span>
+              <strong>爆款风向一直在转</strong>
+              <span class="fan-sub">跟着 MiMo 刷新一起动起来</span>
+            </div>
+          </div>
+          <ul id="hotList" class="hot-list"></ul>
+        </section>
+
+        <section class="card side-card">
+          <div class="section-head compact">
+            <div>
+              <span class="section-kicker">提醒说明</span>
+              <h2>当前版本能做到什么</h2>
+            </div>
+          </div>
+          <ul class="panel-list muted">
+            <li>能做：页面展示、筛选、复制、下载、页面内提醒。</li>
+            <li>不能做：页面关闭后依然后台推送到手机。</li>
+            <li>要做真推送：我建议接后端定时任务 + 企微机器人/邮箱。</li>
+          </ul>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <div class="toast" id="toast" aria-live="polite" aria-atomic="true"></div>
+
+  <!-- 鬼哥哥 推文助手 -->
+  <div class="mimo-chat" id="mimoChat">
+    <button class="mimo-fab" id="mimoFab" aria-label="打开AI助手">
+      <img class="mimo-fab-icon" src="./assets/mimo-girl.png" alt="" aria-hidden="true" />
+      <span class="mimo-fab-pulse"></span>
+    </button>
+      <div class="mimo-panel" id="mimoPanel">
+        <div class="mimo-header">
+          <div class="mimo-header-left">
+            <img class="mimo-header-avatar" src="./assets/mimo-girl.png" alt="" aria-hidden="true" />
+            <span class="mimo-dot"></span>
+            <strong>鬼哥哥 推文助手</strong>
+          </div>
+          <div class="mimo-header-actions">
+            <button class="mimo-close mimo-config" id="mimoConfig" aria-label="配置">⚙</button>
+            <button class="mimo-close mimo-test" id="mimoTest" aria-label="连接测试">测</button>
+            <button class="mimo-close" id="mimoClose" aria-label="关闭">✕</button>
+          </div>
+        </div>
+          <div class="mimo-messages" id="mimoMessages">
+          <div class="mimo-welcome">
+            <img class="mimo-welcome-icon" src="./assets/mimo-girl.png" alt="" aria-hidden="true" />
+            <p>你好呀~我是鬼哥哥，你的推文助手+撩妹达人😎</p>
+            <p class="muted">聊推文、聊选题、聊恋爱、聊人生，啥都能聊！</p>
+          </div>
+        </div>
+      <div class="mimo-input-area">
+        <textarea id="mimoInput" rows="1" placeholder="跟鬼哥哥聊天...推文、恋爱、段子都行~" autocomplete="off"></textarea>
+        <button class="mimo-send" id="mimoSend" aria-label="发送">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+        </button>
+      </div>
+      <div class="mimo-hint">Enter 发送 · Shift+Enter 换行</div>
+    </div>
+  </div>
+
+  <script src="./app.js?v=2026052501"></script>
+</body>
+</html>
+

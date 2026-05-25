@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>小说推文AI爆款预测平台</title>
+  <link rel="stylesheet" href="./styles.css">
+  <style>
+    /* 预测平台专用样式 */
+    .predict-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    .predict-header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    
+    .predict-header h1 {
+      font-size: 2rem;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+    
+    .predict-header p {
+      color: var(--muted);
+      font-size: 1rem;
+    }
+    
+    /* 统计卡片 */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 15px;
+      margin-bottom: 30px;
+    }
+    
+    .stat-card {
+      background: var(--panel);
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      border: 1px solid var(--border);
+    }
+    
+    .stat-icon {
+      font-size: 2rem;
+      margin-bottom: 10px;
+    }
+    
+    .stat-value {
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--accent);
+    }
+    
+    .stat-label {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-top: 5px;
+    }
+    
+    /* 操作栏 */
+    .action-bar {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+    
+    .btn {
+      padding: 10px 20px;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.2s;
+    }
+    
+    .btn-primary {
+      background: var(--accent);
+      color: #fff;
+    }
+    
+    .btn-primary:hover {
+      opacity: 0.9;
+    }
+    
+    .btn-secondary {
+      background: var(--panel);
+      color: var(--text);
+      border: 1px solid var(--border);
+    }
+    
+    .btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+    
+    /* 内容区域 */
+    .content-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    
+    @media (max-width: 768px) {
+      .content-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    .content-card {
+      background: var(--panel);
+      border-radius: 12px;
+      padding: 20px;
+      border: 1px solid var(--border);
+    }
+    
+    .content-card h2 {
+      font-size: 1.2rem;
+      margin-bottom: 15px;
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .content-card h2 .icon {
+      font-size: 1.5rem;
+    }
+    
+    /* 爆发视频列表 */
+    .exploding-item {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      padding: 12px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      background: var(--bg);
+      transition: all 0.2s;
+    }
+    
+    .exploding-item:hover {
+      background: var(--accent-bg);
+    }
+    
+    .exploding-item.top-3 {
+      border-left: 3px solid var(--accent);
+    }
+    
+    .exploding-rank {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 0.9rem;
+    }
+    
+    .exploding-info {
+      flex: 1;
+      min-width: 0;
+    }
+    
+    .exploding-title {
+      font-weight: 600;
+      margin-bottom: 5px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    
+    .exploding-meta {
+      display: flex;
+      gap: 10px;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    
+    .exploding-growth {
+      color: #ff6b6b;
+      font-weight: 600;
+    }
+    
+    .trend-rising {
+      color: #4caf50;
+    }
+    
+    .trend-stable {
+      color: #ff9800;
+    }
+    
+    .trend-falling {
+      color: #f44336;
+    }
+    
+    /* 高潜力视频 */
+    .potential-item {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      padding: 12px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      background: var(--bg);
+    }
+    
+    .rate-circle {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background: conic-gradient(var(--accent) calc(var(--rate) * 1%), var(--bg) 0);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+    
+    .rate-circle::before {
+      content: '';
+      position: absolute;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: var(--bg);
+    }
+    
+    .rate-circle span {
+      position: relative;
+      font-size: 0.75rem;
+      font-weight: 800;
+      color: var(--accent);
+    }
+    
+    .potential-info {
+      flex: 1;
+      min-width: 0;
+    }
+    
+    .potential-title {
+      font-weight: 600;
+      margin-bottom: 5px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    
+    .potential-meta {
+      display: flex;
+      gap: 10px;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    
+    /* 号池状态 */
+    .pool-item {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      padding: 12px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      background: var(--bg);
+    }
+    
+    .pool-item.cooling {
+      opacity: 0.6;
+    }
+    
+    .pool-item.limited {
+      border-left: 3px solid #f44336;
+    }
+    
+    .pool-icon {
+      font-size: 1.5rem;
+    }
+    
+    .pool-info {
+      flex: 1;
+    }
+    
+    .pool-name {
+      font-weight: 600;
+      margin-bottom: 5px;
+    }
+    
+    .pool-meta {
+      display: flex;
+      gap: 10px;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    
+    .status-active {
+      color: #4caf50;
+      font-weight: 600;
+    }
+    
+    .status-cooling {
+      color: #ff9800;
+      font-weight: 600;
+    }
+    
+    .status-limited {
+      color: #f44336;
+      font-weight: 600;
+    }
+    
+    /* 趋势图表 */
+    .chart-container {
+      height: 300px;
+      position: relative;
+    }
+    
+    .chart-empty {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      color: var(--muted);
+    }
+    
+    /* 时间范围切换 */
+    .range-switch {
+      display: flex;
+      gap: 5px;
+      margin-bottom: 15px;
+    }
+    
+    .range-btn {
+      padding: 5px 12px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text);
+      cursor: pointer;
+      font-size: 0.85rem;
+    }
+    
+    .range-btn.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    
+    /* 空状态 */
+    .empty-state {
+      text-align: center;
+      padding: 40px 20px;
+      color: var(--muted);
+    }
+    
+    /* 题材趋势条形图 */
+    .category-bar-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .category-name {
+      width: 60px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-align: right;
+      flex-shrink: 0;
+    }
+    
+    .category-bar-bg {
+      flex: 1;
+      height: 20px;
+      background: var(--bg);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    
+    .category-bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--accent), #ff6b6b);
+      border-radius: 10px;
+      transition: width 0.5s ease;
+    }
+    
+    .category-value {
+      width: 120px;
+      font-size: 0.8rem;
+      color: var(--muted);
+      flex-shrink: 0;
+    }
+    
+    /* 爆发视频题材标签 */
+    .exploding-cat {
+      background: rgba(var(--accent-rgb), 0.15);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+    }
+    
+    /* 生命周期阶段 */
+    .exploding-stage, .potential-stage {
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+    .stage-cold_start { background: rgba(100,100,100,0.2); color: #999; }
+    .stage-rising_early { background: rgba(255,165,0,0.2); color: #ffa500; }
+    .stage-rising { background: rgba(255,107,107,0.2); color: #ff6b6b; }
+    .stage-exploding { background: rgba(255,0,0,0.2); color: #ff4444; animation: stagePulse 1s infinite; }
+    .stage-stable { background: rgba(76,175,80,0.2); color: #4caf50; }
+    .stage-declining { background: rgba(158,158,158,0.2); color: #9e9e9e; }
+    
+    @keyframes stagePulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.6; }
+    }
+    
+    /* 加速度标签 */
+    .exploding-accel {
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      background: rgba(255,107,107,0.15);
+      color: #ff6b6b;
+    }
+    
+    /* 作者标签 */
+    .exploding-author {
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+    
+    /* 查看原视频按钮 */
+    .exploding-link, .potential-link {
+      padding: 6px 12px;
+      border-radius: 6px;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      color: #fff;
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: all 0.2s;
+      flex-shrink: 0;
+    }
+    
+    .exploding-link:hover, .potential-link:hover {
+      opacity: 0.9;
+      transform: translateY(-1px);
+    }
+    
+    /* 可信度标签 */
+    .potential-confidence {
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+    
+    /* 综合热度榜 */
+    .hot-rank-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 12px;
+      border-radius: 8px;
+      margin-bottom: 6px;
+      background: var(--bg);
+      transition: all 0.2s;
+    }
+    
+    .hot-rank-item:hover {
+      background: var(--accent-bg);
+    }
+    
+    .hot-rank-item.rank-1 { border-left: 3px solid #ff4444; }
+    .hot-rank-item.rank-2 { border-left: 3px solid #ff8800; }
+    .hot-rank-item.rank-3 { border-left: 3px solid #ffcc00; }
+    
+    .hot-rank-num {
+      width: 28px;
+      height: 28px;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 0.85rem;
+      background: var(--panel);
+      color: var(--muted);
+      flex-shrink: 0;
+    }
+    
+    .rank-1 .hot-rank-num { background: #ff4444; color: #fff; }
+    .rank-2 .hot-rank-num { background: #ff8800; color: #fff; }
+    .rank-3 .hot-rank-num { background: #ffcc00; color: #000; }
+    
+    .hot-rank-info {
+      flex: 1;
+      min-width: 0;
+    }
+    
+    .hot-rank-title {
+      font-weight: 600;
+      font-size: 0.9rem;
+      margin-bottom: 4px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    
+    .hot-rank-meta {
+      display: flex;
+      gap: 8px;
+      font-size: 0.8rem;
+      color: var(--muted);
+      flex-wrap: wrap;
+    }
+    
+    .hot-rank-score {
+      color: var(--accent);
+      font-weight: 600;
+    }
+    
+    .hot-rank-cat {
+      background: rgba(255, 255, 255, 0.08);
+      padding: 1px 5px;
+      border-radius: 3px;
+      font-size: 0.7rem;
+    }
+    
+    /* 标签页 */
+    .tab-content.hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="predict-container">
+    <div class="predict-header">
+      <h1>🔮 小说推文AI爆款预测平台</h1>
+      <p>实时监控 · 增长率分析 · 爆款预测 · 趋势洞察</p>
+    </div>
+    
+    <!-- 统计卡片 -->
+    <div class="stats-grid" id="statsContainer">
+      <!-- 动态渲染 -->
+    </div>
+    
+    <!-- 操作栏 -->
+    <div class="action-bar">
+      <button id="refreshBtn" class="btn btn-primary">刷新数据</button>
+      <button id="analyzeBtn" class="btn btn-secondary">AI分析</button>
+      <button id="predictBtn" class="btn btn-secondary">爆款预测</button>
+    </div>
+    
+    <!-- 内容区域 -->
+    <div class="content-grid">
+      <!-- 正在爆发 -->
+      <div class="content-card">
+        <h2><span class="icon">🔥</span> 正在爆发</h2>
+        <div id="explodingList">
+          <div class="empty-state">加载中...</div>
+        </div>
+      </div>
+      
+      <!-- 高潜力 -->
+      <div class="content-card">
+        <h2><span class="icon">🎯</span> 高潜力预测</h2>
+        <div id="potentialList">
+          <div class="empty-state">加载中...</div>
+        </div>
+      </div>
+      
+      <!-- 题材趋势 -->
+      <div class="content-card">
+        <h2><span class="icon">📈</span> 题材趋势</h2>
+        <div class="chart-container" id="categoryChart">
+          <div class="empty-state">加载中...</div>
+        </div>
+      </div>
+      
+      <!-- 号池状态 -->
+      <div class="content-card">
+        <h2><span class="icon">👥</span> 号池状态</h2>
+        <div id="poolList">
+          <div class="empty-state">加载中...</div>
+        </div>
+      </div>
+      
+      <!-- 热度趋势 -->
+      <div class="content-card" style="grid-column: span 2;">
+        <h2><span class="icon">📊</span> 热度趋势</h2>
+        <div class="range-switch">
+          <button class="range-btn" data-range="1h">1小时</button>
+          <button class="range-btn active" data-range="24h">24小时</button>
+          <button class="range-btn" data-range="7d">7天</button>
+        </div>
+        <div class="chart-container" id="trendChart">
+          <div class="empty-state">加载中...</div>
+        </div>
+      </div>
+      
+      <!-- 综合热度榜 -->
+      <div class="content-card" style="grid-column: span 2;">
+        <h2><span class="icon">🏆</span> 综合热度榜</h2>
+        <div id="hotRankingList">
+          <div class="empty-state">加载中...</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- 模块加载 -->
+  <script src="./modules/growth-monitor.js"></script>
+  <script src="./modules/timeseries-engine.js"></script>
+  <script src="./modules/data-health.js"></script>
+  <script src="./modules/predict-engine.js"></script>
+  <script src="./modules/pool-manager.js"></script>
+  <script src="./modules/ai-analyzer.js"></script>
+  <script src="./modules/trend-chart.js"></script>
+  <script src="./modules/task-queue.js"></script>
+  <script src="./modules/main.js"></script>
+</body>
+</html>

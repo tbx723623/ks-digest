@@ -1,0 +1,93 @@
+name: 快手真实推荐流抓取
+
+on:
+  schedule:
+    # 热门池：每10分钟
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      pool:
+        description: '号池类型'
+        required: false
+        default: 'hot'
+        type: choice
+        options:
+          - hot
+          - male
+          - female
+          - new_book
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 缓存 Playwright 浏览器
+        id: cache-playwright
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            playwright-${{ runner.os }}-
+
+      - name: 安装依赖
+        run: |
+          npm install playwright
+          npx playwright install chromium --with-deps
+
+      - name: 确定号池
+        id: pool
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "type=${{ github.event.inputs.pool }}" >> $GITHUB_OUTPUT
+          else
+            # 根据分钟数轮换号池
+            MINUTE=$(date +%M)
+            if [ $MINUTE -lt 10 ] || [ $MINUTE -ge 50 ]; then
+              echo "type=hot" >> $GITHUB_OUTPUT
+            elif [ $MINUTE -ge 10 ] && [ $MINUTE -lt 25 ]; then
+              echo "type=male" >> $GITHUB_OUTPUT
+            elif [ $MINUTE -ge 25 ] && [ $MINUTE -lt 40 ]; then
+              echo "type=female" >> $GITHUB_OUTPUT
+            else
+              echo "type=new_book" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: 抓取真实数据
+        run: |
+          echo "🔥 抓取号池: ${{ steps.pool.outputs.type }}"
+          node scripts/kuaishou-scraper.js ${{ steps.pool.outputs.type }}
+          echo "✅ 抓取完成"
+
+      - name: 合并数据 + AI分析
+        env:
+          MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
+        run: |
+          echo "🔄 合并真实数据 + AI分析..."
+          node scripts/merge-real-data.js
+          echo "✅ 合并完成"
+
+      - name: 生成榜单
+        run: |
+          echo "🏆 生成榜单..."
+          node scripts/generate-rankings.js
+          echo "✅ 榜单生成完成"
+
+      - name: 提交更新
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "🎯 真实数据更新 [${{ steps.pool.outputs.type }}] $(date +'%Y-%m-%d %H:%M')"
+          git push
