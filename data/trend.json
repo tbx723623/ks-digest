@@ -1,22 +1,66 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T17:03:00.104Z",
+  "fetchedAt": "2026-05-25T17:13:02.155Z",
   "date": "2026-05-25",
   "count": 3,
   "items": [
     {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
-      "authorId": "3xa85jgbhtm6hic",
-      "publishTime": "2026-05-09T07:36:21.512Z",
-      "likeCount": 21988,
+      "videoId": "3xwryx9iibcyx59",
+      "title": "请停留3秒，为他献花！2011年，18岁英雄姚元军抓毒贩时坠江至死未松手，遗体被发现时，他双臂仍维持着锁扣毒贩的姿势！",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwryx9iibcyx59",
+      "authorName": "大象新闻",
+      "authorUrl": "https://www.kuaishou.com/profile/3xxdnfw963m6abu",
+      "authorId": "3xxdnfw963m6abu",
+      "publishTime": "2026-04-03T12:08:17.878Z",
+      "likeCount": 33912,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 495538,
-      "collectedAt": "2026-05-25T17:00:11.916Z",
+      "viewCount": 261546,
+      "collectedAt": "2026-05-25T17:10:11.812Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 80,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": [
+          "点赞率异常偏高"
+        ]
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“祈使句+数字+英雄事迹+细节特写”结构。开头“请停留3秒”直接与用户互动，降低划走率；“2011年，18岁”用具体时间和年龄强化真实感与悲剧性；“坠江至死未松手”和“遗体双臂仍维持锁扣姿势”是极具画面感和冲击力的细节，将英雄的坚毅与牺牲精神具象化，极易引发强烈的情感共鸣。",
+        "hotFactors": [
+          "英雄事迹与牺牲精神",
+          "极具冲击力的细节描写",
+          "官媒（大象新闻发布）背书增强可信度",
+          "符合主流价值观与爱国主义情感",
+          "互动式开头提升完播率"
+        ],
+        "category": [
+          "正能量",
+          "英雄事迹",
+          "社会新闻",
+          "爱国主义"
+        ],
+        "reason": "内容为真实英雄事迹，情感冲击力极强，细节描写极具画面感，能瞬间激发用户的敬佩、感动与爱国情怀。官媒发布增强了权威性。标题结构设计精巧，互动性强，符合短视频平台的传播规律，极易引发点赞、评论和分享。"
+      }
+    },
+    {
+      "videoId": "3xa84f9u2xe529m",
+      "title": "#喜爱度激励计划 #俏黄蓉翻身 #主播评评理 @快手热点 @快手主持人 @俏黄蓉 ⚜️",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xa84f9u2xe529m",
+      "authorName": "晓晓说",
+      "authorUrl": "https://www.kuaishou.com/profile/3x28w3che86fmim",
+      "authorId": "3x28w3che86fmim",
+      "publishTime": "2026-04-30T04:48:47.874Z",
+      "likeCount": 11797,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 714261,
+      "collectedAt": "2026-05-25T17:10:11.813Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -29,33 +73,34 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用“定性指控+后果归因”结构，直接点名“台独”并将其定性为“罪魁祸首”，立场鲜明、情绪强烈，符合平台对重大时政议题的传播逻辑。",
+        "titleAnalysis": "标题采用“平台活动+热点事件+主播互动+官方引流”的复合结构。#喜爱度激励计划 和 @快手热点 @快手主持人 是平台流量入口和活动标签；#俏黄蓉翻身 是核心事件，暗示主播有逆袭或反转故事；@俏黄蓉 是事件当事人，直接关联。整体结构信息密度高，旨在同时吸引活动流量、热点关注和粉丝互动。",
         "hotFactors": [
-          "官方权威信源（国防部发布）",
-          "涉及国家主权与领土完整的核心议题",
-          "标题情绪强烈，易引发爱国共鸣与讨论"
+          "平台活动加持（喜爱度激励计划）",
+          "强冲突/反转事件（俏黄蓉翻身）",
+          "官方流量入口（@快手热点 @快手主持人）",
+          "主播与粉丝的互动诉求（评评理）"
         ],
         "category": [
-          "时政",
-          "军事",
-          "爱国"
+          "主播互动",
+          "平台热点",
+          "情感/剧情"
         ],
-        "reason": "由权威部门发布，议题重大且立场鲜明，极易在特定用户群体中引发强烈共鸣与传播，但评论/分享数据缺失可能反映平台限流或用户互动谨慎。"
+        "reason": "标题精准结合平台官方活动与热点事件，利用“翻身”制造冲突悬念，并通过@官方账号和当事人最大化引流。点赞量已破万，但评论和分享为0，表明视频可能处于流量爆发初期或数据存在异常，但其结构具备极高的爆款潜力。"
       }
     },
     {
-      "videoId": "3xssy7sp6svnzqi",
-      "title": "我才不要温柔清冷 我要当紫荆城最娇贵明艳俏皮的刁蛮格格 #重生之我在故宫当格格",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xssy7sp6svnzqi",
-      "authorName": "羽儿‼️",
-      "authorUrl": "https://www.kuaishou.com/profile/3x8cvucb9tsieay",
-      "authorId": "3x8cvucb9tsieay",
-      "publishTime": "2026-05-08T13:40:28.811Z",
-      "likeCount": 10192,
+      "videoId": "3xubhfuckjikp42",
+      "title": "90岁老人去吃午饭，被女店主骗了5年！ #感动  #感恩  #正能量 #喜爱度激励计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xubhfuckjikp42",
+      "authorName": "主持人嘉文",
+      "authorUrl": "https://www.kuaishou.com/profile/3xj72yai5mqsgc2",
+      "authorId": "3xj72yai5mqsgc2",
+      "publishTime": "2026-04-07T08:01:57.838Z",
+      "likeCount": 3674,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 486968,
-      "collectedAt": "2026-05-25T17:00:11.916Z",
+      "viewCount": 129448,
+      "collectedAt": "2026-05-25T17:10:11.813Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -67,59 +112,20 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "爽点",
-        "titleAnalysis": "标题采用第一人称宣言式结构，前半句否定常规（温柔清冷），后半句用强烈对比（娇贵明艳俏皮刁蛮）塑造鲜明人设，并结合热门IP（故宫/格格）和网络热梗（重生），形成记忆点。",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用“数字+反常识事件+情感标签”结构。‘90岁老人’引发关注与同情，‘被女店主骗了5年’制造强烈悬念与冲突（‘骗’字为负面词，但结合标签暗示反转），‘#感动 #感恩 #正能量’明确情感导向，引导观众预期为暖心故事。",
         "hotFactors": [
-          "人设反差与爽感（刁蛮格格）",
-          "结合热门文化IP（故宫）与网文梗（重生）",
-          "强视觉与情绪关键词（明艳俏皮）"
+          "年龄反差（90岁老人）",
+          "悬念与反转（‘骗’字的负面预期与正能量结局）",
+          "强情感共鸣（孝道、善良、社会温暖）",
+          "正能量标签符合平台推荐机制"
         ],
         "category": [
-          "古风/宫廷",
-          "人设演绎",
-          "网文改编"
+          "社会正能量",
+          "情感故事",
+          "暖心纪实"
         ],
-        "reason": "标题精准切中“反套路”与“人设爽感”两大流量密码，结合故宫IP与重生梗，易引发好奇与代入感。点赞数据初显潜力，但互动数据缺失，需观察后续评论与分享趋势。"
-      }
-    },
-    {
-      "videoId": "3xxq7bspdzc24ag",
-      "title": "安宰贤你小子也是有点不安分呐 #王楚钦 #安宰贤 #采访",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xxq7bspdzc24ag",
-      "authorName": "酷的公告牌",
-      "authorUrl": "https://www.kuaishou.com/profile/3xuch7zqytwzjuq",
-      "authorId": "3xuch7zqytwzjuq",
-      "publishTime": "2026-05-11T05:39:55.627Z",
-      "likeCount": 7979,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 224173,
-      "collectedAt": "2026-05-25T17:00:11.916Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用‘人设反差+悬念提问’结构。前半句‘安宰贤你小子也是有点不安分呐’通过口语化、略带调侃的语气，暗示人物行为与公众预期（如乖巧、稳重）存在反差，制造冲突感。后半句通过话题标签#王楚钦 #安宰贤 #采访，精准关联体育明星（王楚钦）和娱乐/体育人物（安宰贤），利用明星效应和跨界话题吸引流量。",
-        "hotFactors": [
-          "明星效应（王楚钦、安宰贤）",
-          "人设反差与冲突感",
-          "口语化、网感强的标题",
-          "体育+娱乐跨界话题"
-        ],
-        "category": [
-          "体育",
-          "娱乐",
-          "明星八卦"
-        ],
-        "reason": "标题利用明星关联和人设反差制造冲突与悬念，符合短视频爆款逻辑。点赞量较高但互动（评论、分享）为零，可能处于流量爬升初期或数据异常，若内容本身有爆点，仍有上升潜力。"
+        "reason": "标题悬念感强，情感标签明确，符合快手正能量内容生态。‘骗’字制造冲突但指向暖心反转，易引发好奇与共情，具备爆款潜力。但评论和分享量为0，可能处于流量测试初期或数据未更新，趋势待观察。"
       }
     }
   ]
