@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T08:22:36.878Z",
+  "fetchedAt": "2026-05-25T08:33:27.830Z",
   "date": "2026-05-25",
-  "count": 5,
+  "count": 3,
   "items": [
     {
-      "videoId": "3xq6fyhfjvv4jj6",
-      "title": "3秒一架，蜂群突袭！国产无人机连续猎杀多个目标。",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xq6fyhfjvv4jj6",
-      "authorName": "央视网",
-      "authorUrl": "https://www.kuaishou.com/profile/3xyudn6sz9nwksq",
-      "authorId": "3xyudn6sz9nwksq",
-      "publishTime": "2026-05-10T09:51:55.262Z",
-      "likeCount": 90239,
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
+      "authorId": "3xa85jgbhtm6hic",
+      "publishTime": "2026-05-09T07:36:21.512Z",
+      "likeCount": 21755,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 3675002,
-      "collectedAt": "2026-05-25T08:20:12.476Z",
+      "viewCount": 485763,
+      "collectedAt": "2026-05-25T08:30:12.587Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -29,34 +29,34 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用“数字冲击（3秒一架）+ 动作场景（蜂群突袭）+ 情感升华（国产）”的三段式结构，节奏紧凑，信息密度高，同时通过“猎杀”等强动词制造紧张感和画面感。",
+        "titleAnalysis": "标题采用‘定性+归因’结构，直接点明核心矛盾（‘台独’）并将其定性为破坏和平的‘罪魁祸首’，立场鲜明，情绪强烈，具有明确的指向性和对抗性。",
         "hotFactors": [
-          "军事科技题材自带流量与民族自豪感",
-          "央视网官方背书增强可信度与传播力",
-          "“蜂群”概念具未来感与视觉冲击力",
-          "“连续猎杀”满足观众对“爽感”与“实力展示”的期待"
+          "官方权威信源（国防部发布）",
+          "涉及国家主权与领土完整的核心议题",
+          "强烈的民族情感与爱国情绪共鸣",
+          "议题本身具有极高的社会关注度和争议性"
         ],
         "category": [
-          "军事科技",
-          "国产装备",
-          "正能量"
+          "时政",
+          "军事",
+          "爱国"
         ],
-        "reason": "题材硬核、情绪价值高（爱国情怀+科技震撼）、发布方权威，符合平台对正能量与科技内容的推荐倾向，易引发广泛共鸣与传播。"
+        "reason": "由最高军事权威机构发布，议题敏感且重大，极易引发广泛共鸣与讨论，符合平台正能量传播导向，具备极高的传播势能。"
       }
     },
     {
-      "videoId": "3xvi7ttwged2tp6",
-      "title": "王者荣耀首部VR沉浸式互动剧 《星海奇航：梦境救援》今年暑期即将启航！鲁班七号邀请你一起开展一场精彩绝伦的太空航行，但突如其来的危机打破了平静，失控的航向、破碎的梦境、封存的回忆不断袭来、你能否完成这一次星空救援？由《王者荣耀》和《上海天文馆》联合授权！这个暑假，和鲁班七号等多位英雄一起共赴星海，开始新的冒险吧！ #王者荣耀 #星海奇航 #VR",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xvi7ttwged2tp6",
-      "authorName": "王者荣耀",
-      "authorUrl": "https://www.kuaishou.com/profile/3xyz6ihssxvgany",
-      "authorId": "3xyz6ihssxvgany",
-      "publishTime": "2026-04-16T04:00:16.002Z",
-      "likeCount": 11437,
+      "videoId": "3xe8dsk3pwdzkue",
+      "title": "婚前隐瞒的秘密（1）\r\n为了嫁给爱情 女子辞去北京工作\r\n婚后生下龙凤胎 男方却不管不问\r\n女子：我放弃一切 他竟提出离婚！\r\n母亲：我女儿哭到崩溃 跟疯了一样！ #情感 #夫妻",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xe8dsk3pwdzkue",
+      "authorName": "百姓调解",
+      "authorUrl": "https://www.kuaishou.com/profile/3xn4jg2tup8svwk",
+      "authorId": "3xn4jg2tup8svwk",
+      "publishTime": "2026-05-06T09:00:00.001Z",
+      "likeCount": 1793,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 529485,
-      "collectedAt": "2026-05-25T08:20:12.477Z",
+      "viewCount": 337568,
+      "collectedAt": "2026-05-25T08:30:12.588Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -66,63 +66,22 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“IP+创新形式+悬念剧情+权威背书+行动号召”的复合结构。前半部分以“首部VR沉浸式互动剧”制造稀缺性和新奇感，中间用剧情描述（危机、失控、梦境）构建悬念，后半部分强调“王者荣耀”与“上海天文馆”的双重权威授权，并以“这个暑假”和“共赴星海”发出明确行动号召，信息密度高且层次清晰。",
-        "hotFactors": [
-          "顶级IP《王者荣耀》的庞大粉丝基础与情感联结",
-          "“首部VR沉浸式互动剧”的创新形式与稀缺性，吸引科技与游戏爱好者",
-          "与《上海天文馆》的跨界权威背书，提升内容可信度与破圈潜力",
-          "暑期档精准发布时间，契合学生及家庭用户娱乐需求",
-          "剧情描述（危机、救援）充满悬念与互动感，激发用户参与想象"
-        ],
-        "category": [
-          "游戏衍生",
-          "科技体验",
-          "IP联动",
-          "暑期娱乐"
-        ],
-        "reason": "顶级IP结合前沿VR技术，形式创新且具备权威背书，悬念剧情与暑期档期形成强吸引力，具备高破圈潜力。"
-      }
-    },
-    {
-      "videoId": "3x9xnjeq8z79da4",
-      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
-      "authorName": "央视频",
-      "authorUrl": "https://www.kuaishou.com/profile/3xqbri2seru7w4e",
-      "authorId": "3xqbri2seru7w4e",
-      "publishTime": "2026-04-29T13:29:39.972Z",
-      "likeCount": 53429,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 1636118,
-      "collectedAt": "2026-05-25T08:20:12.477Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
+        "explosionRate": 75,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用双重否定强调句式（“绝不...绝不能...”），结合感叹号强化情绪，直接点明消费者与主播的对立关系，立场鲜明，具有强烈的号召力和话题性。",
+        "titleAnalysis": "标题采用“悬念+冲突+共情”三段式结构。第一句“婚前隐瞒的秘密（1）”制造悬念，吸引点击；中间部分用“辞职远嫁”与“丈夫不管”形成强烈冲突；结尾用母亲视角的哭诉强化情感共鸣，并使用标签引导流量。",
         "hotFactors": [
-          "央视频官方背书，权威性强",
-          "直击直播带货乱象，引发消费者广泛共鸣",
-          "话题具有普遍性和争议性，易引发讨论"
+          "强冲突剧情（为爱牺牲 vs 惨遭抛弃）",
+          "情感共鸣（女性困境、母爱担忧）",
+          "悬念钩子（秘密是什么？后续如何？）",
+          "社会议题（婚姻责任、女性付出）"
         ],
         "category": [
-          "社会热点",
-          "消费维权",
-          "直播电商"
+          "情感",
+          "家庭伦理",
+          "社会纪实"
         ],
-        "reason": "内容切中直播带货信任危机这一社会痛点，由央视频发布具备公信力，标题情绪强烈易引发共鸣和转发，具备破圈潜力。"
+        "reason": "内容精准击中快手核心用户的情感痛点，冲突强烈、代入感强，且系列标题（1）暗示后续，易引发追更。但评论和分享数据异常低，可能因发布时间短或数据未更新，若内容质量过关，爆发潜力较高。"
       }
     },
     {
@@ -133,11 +92,11 @@
       "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
       "authorId": "3xihaq7trzkx8v4",
       "publishTime": "2026-05-18T05:51:48.643Z",
-      "likeCount": 9379,
+      "likeCount": 9381,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 545210,
-      "collectedAt": "2026-05-25T08:20:12.476Z",
+      "viewCount": 545330,
+      "collectedAt": "2026-05-25T08:30:12.587Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -147,59 +106,22 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 72,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用“地域+身份+行为”的经典冲突结构。'云南老婆'与'猪头扣肉'形成地域饮食文化冲突，'远嫁'和'南北饮食大不同'强化了冲突背景，'夫妻相处之道'则提供了情感共鸣和解决方案的预期，结构完整，信息量足。",
+        "titleAnalysis": "标题采用“地域+身份+反差行为”结构。核心是“云南老婆”与“猪头扣肉”的组合，前者暗示地域文化差异，后者是具体且略带猎奇感的烹饪行为，形成强烈的视觉和认知冲突点。标签#远嫁 #南北饮食大不同 #夫妻相处之道精准覆盖了情感、文化、生活三大流量赛道，能有效吸引特定兴趣人群。",
         "hotFactors": [
           "地域文化冲突（南北饮食差异）",
-          "家庭生活与情感共鸣（远嫁、夫妻相处）"
+          "家庭生活与夫妻关系的共情点",
+          "具体且略带猎奇感的烹饪内容（猪头扣肉）"
         ],
         "category": [
           "美食",
           "家庭生活",
-          "情感"
+          "情感",
+          "地域文化"
         ],
-        "reason": "标题精准切中快手平台高热的地域文化冲突和家庭情感话题，点赞数据已初步验证其吸引力，具备持续发酵和破圈的潜力。"
-      }
-    },
-    {
-      "videoId": "3xz8bznb8mbkga6",
-      "title": "银行最怕你知道这三个号码 #老铁财富密码 #老铁看热点 #文娱百科明日之星 #快成长计划",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xz8bznb8mbkga6",
-      "authorName": "周沫讲理财",
-      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
-      "authorId": "3xhinyavn5y69uc",
-      "publishTime": "2026-05-10T05:38:26.280Z",
-      "likeCount": 19023,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 800179,
-      "collectedAt": "2026-05-25T08:20:12.476Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 75,
-        "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“银行最怕你知道”制造信息差悬念，暗示内容具有稀缺性和颠覆性，能有效激发用户好奇心。数字“三个”具体化，降低理解门槛。标签#老铁财富密码等精准定位财经、生活类受众，并利用平台成长计划标签获取流量扶持。",
-        "hotFactors": [
-          "信息差与稀缺性（银行内部知识）",
-          "实用价值（财富密码）",
-          "精准的垂直领域标签（理财、热点）"
-        ],
-        "category": [
-          "财经理财",
-          "生活技巧",
-          "知识科普"
-        ],
-        "reason": "标题悬念感强，直击用户对“内部消息”和“财富增值”的痛点，点赞量已达1.9万，表明内容已获得初步认可，具备在财经生活类目中持续发酵的潜力。"
+        "reason": "标题精准切入“南北差异”和“远嫁”两大高流量情感与文化议题，通过具体食物（猪头扣肉）制造冲突感和好奇心。点赞量近万，但评论和分享为零，可能处于流量推荐初期或数据抓取异常，但其内容结构具备爆款潜力，易引发讨论和共鸣。"
       }
     }
   ]
