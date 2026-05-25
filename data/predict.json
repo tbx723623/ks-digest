@@ -1,185 +1,99 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T14:53:08.648Z",
+  "generatedAt": "2026-05-25T15:02:19.793Z",
   "date": "2026-05-25",
   "count": 11,
   "items": [
     {
-      "videoId": "3x8dv2bvubcigt9",
-      "title": "张本智和最绝望的一场比赛，3比1就提前庆祝，马龙：我给你脸了？ #体育精神  #乒乓球 #为国争光 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x8dv2bvubcigt9",
-      "authorName": "田径女神🇨🇳",
-      "likeCount": 1194,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "体育",
-        "乒乓球",
-        "竞技对抗"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xgciaghrfubyv4",
-      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
-      "authorName": "潘晓红律师",
-      "likeCount": 1537,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "法律科普",
-        "社会热点",
-        "婚恋情感"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xcif53344gyt54",
-      "title": "#美丽的草原我的家 跟我回家吗？#蒙古舞",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xcif53344gyt54",
-      "authorName": "春雨Rain_",
-      "likeCount": 1829,
+      "videoId": "3xazqqxfjvtddrs",
+      "title": "赐我一个长的白的对象吧……",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xazqqxfjvtddrs",
+      "authorName": "东北小黑姐",
+      "likeCount": 13890,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "民族舞蹈",
-        "才艺展示",
-        "风景人文"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xvf48j5274iife",
-      "title": "建议设置一个孩子寄存处…… @郭冬临·暖男先生(O3xpmagmf9982kne) #暖男先生 #郭冬临",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xvf48j5274iife",
-      "authorName": "郭冬临",
-      "likeCount": 6286,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "生活",
-        "育儿",
-        "喜剧"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x9yjn46k977ens",
-      "title": "#戏精上线",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x9yjn46k977ens",
-      "authorName": "雨佳妈妈",
-      "likeCount": 23453,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "亲子生活",
-        "搞笑日常"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xrnyhzcxi5keug",
-      "title": "#一人分饰多角 #意想不到的结局 #搞笑视频 #原创",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xrnyhzcxi5keug",
-      "authorName": "胖僧",
-      "likeCount": 5001,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "反转",
-      "category": [
-        "搞笑",
-        "剧情",
-        "创意短剧"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xzggpt758xh532",
-      "title": "狗子：老登你要给我扎漏吗？！\r\n\r\n#萌宠春日大赏 #喜爱度激励计划  #快成长计划  #快手宠物天团  ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xzggpt758xh532",
-      "authorName": "辛巴和汤圆",
-      "likeCount": 7541,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "宠物",
-        "搞笑",
-        "生活"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xwziwgmrimtgbw",
-      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
-      "authorName": "远嫁燕子的一家",
-      "likeCount": 9444,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "美食",
-        "家庭生活",
         "情感",
-        "地域文化"
+        "生活",
+        "搞笑"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x632drexg8ewkm",
-      "title": "农村自建房这份文件很重要 #老铁财富密码 #老铁看热点 #快成长计划 #文娱百科明日之星",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x632drexg8ewkm",
-      "authorName": "周沫讲理财",
-      "likeCount": 15356,
+      "videoId": "3x4ei4qffmvegxs",
+      "title": "今天可能位置没选对没钓到龙虾，今天买了点做了个麻辣龙虾看着还不错吧，你们老家河里能掉龙虾了没？#农村守护人 #三农 #记录真实生活",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x4ei4qffmvegxs",
+      "authorName": "李会儿、、",
+      "likeCount": 7414,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
-      "hookType": "悬念",
+      "hookType": "共情",
       "category": [
         "三农",
-        "生活知识",
-        "财经"
+        "乡村生活",
+        "美食"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xeifpswxw2gzmc",
-      "title": "开河蚌的一天，开出许多淡紫色的珍珠",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xeifpswxw2gzmc",
-      "authorName": "捡蚌人",
-      "likeCount": 9498,
+      "videoId": "3xhvcy68dftxnmm",
+      "title": "做人，不管不问不烦恼，少说少管是福气！ #福气  #文静说 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xhvcy68dftxnmm",
+      "authorName": "主持人文静",
+      "likeCount": 8733,
       "commentCount": 0,
       "explosionRate": 65,
-      "trend": "rising",
-      "hookType": "悬念",
+      "trend": "stable",
+      "hookType": "共情",
       "category": [
-        "生活记录",
-        "解压/ASMR",
-        "手工艺/开蚌"
+        "情感/生活感悟",
+        "正能量/人生哲理"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xdehespvwhhjka",
-      "title": "#喜爱度激励计划",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xdehespvwhhjka",
-      "authorName": "小微🍃随缘",
-      "likeCount": 22319,
+      "videoId": "3x548jew68ciwky",
+      "title": "怎么办，两个都要外婆 #宝妈 #二胎家庭 #搞笑 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x548jew68ciwky",
+      "authorName": "小老师呀",
+      "likeCount": 7386,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "母婴育儿",
+        "家庭搞笑",
+        "生活日常"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xjitj8wwf83kiq",
+      "title": "现在的俄罗斯财政，正被锁死在一个死局里 #老铁财富密码  #老铁知识百科  #老铁看热点  #2026新年快乐",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xjitj8wwf83kiq",
+      "authorName": "瞩望云霄",
+      "likeCount": 2239,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "财经",
+        "国际时事",
+        "知识科普"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xnhf6cxvwbhcvq",
+      "title": "#快聊新闻 #五一充电市集 #喜爱度激励计划 #灼见计划 @快手粉条(O3xhcy6vhfzcu3qe) @快手创作者中心(O3xrgtux2ehryffe) @快手热点(O3xddgkd5fav5if9) @快手主持人(O3xnewxpguishmsc)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xnhf6cxvwbhcvq",
+      "authorName": "我是大梅",
+      "likeCount": 9841,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
@@ -187,6 +101,88 @@
       "category": [
         "生活记录",
         "平台活动"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xamn33qhbqwa3i",
+      "title": "#父女俩的欢乐时光 #骗你生女儿",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xamn33qhbqwa3i",
+      "authorName": "小金果宝贝",
+      "likeCount": 1821,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "亲子日常",
+        "萌娃搞笑"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xue4uim3z7uvvw",
+      "title": "警察要查你手机该不该给 #科普知识 #科普法律 #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xue4uim3z7uvvw",
+      "authorName": "周沫讲理财",
+      "likeCount": 2437,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "法律科普",
+        "社会热点"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xhdfqqik3zsmb9",
+      "title": "家里有个小棉袄#农村生活",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xhdfqqik3zsmb9",
+      "authorName": "月亮一家人",
+      "likeCount": 6206,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "家庭生活",
+        "农村纪实",
+        "亲子日常"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xim2kupsvvv7qw",
+      "title": "#实用生活小技巧 #方便又实用 #生活小妙招",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xim2kupsvvv7qw",
+      "authorName": "敏姐电工生活实用小技巧",
+      "likeCount": 5080,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "爽点",
+      "category": [
+        "生活技巧",
+        "实用技能"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xuj4rbh4ghjyd2",
+      "title": "世界上最好的六位伴侣，你认同吗？",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xuj4rbh4ghjyd2",
+      "authorName": "路一鸣",
+      "likeCount": 10786,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "情感",
+        "生活",
+        "观点讨论"
       ],
       "estimatedTime": "2-4小时"
     }
