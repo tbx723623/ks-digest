@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T12:42:54.591Z",
+  "fetchedAt": "2026-05-25T12:53:54.920Z",
   "date": "2026-05-25",
-  "count": 2,
+  "count": 4,
   "items": [
     {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
-      "authorId": "3xa85jgbhtm6hic",
-      "publishTime": "2026-05-09T07:36:21.512Z",
-      "likeCount": 21899,
+      "videoId": "3xz8bznb8mbkga6",
+      "title": "银行最怕你知道这三个号码 #老铁财富密码 #老铁看热点 #文娱百科明日之星 #快成长计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xz8bznb8mbkga6",
+      "authorName": "周沫讲理财",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
+      "authorId": "3xhinyavn5y69uc",
+      "publishTime": "2026-05-10T05:38:26.280Z",
+      "likeCount": 19209,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 490500,
-      "collectedAt": "2026-05-25T12:40:12.133Z",
+      "viewCount": 806732,
+      "collectedAt": "2026-05-25T12:50:12.474Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,35 +28,113 @@
       "aiAnalysis": {
         "explosionRate": 85,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“定性+归因”结构，直接点明核心矛盾（台独）并将其定性为破坏和平的“罪魁祸首”，立场鲜明，情绪强烈，具有明确的指向性和批判性。",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用'最怕你知道'制造信息差悬念，'三个号码'具体化降低理解门槛，配合多个热门话题标签增加曝光。",
         "hotFactors": [
-          "官方权威信源（国防部发布）",
-          "涉及国家主权与领土完整的核心议题",
-          "强烈的民族情感与爱国情绪共鸣",
-          "当前台海局势的持续高关注度"
+          "信息差与揭秘感",
+          "实用理财知识",
+          "强话题标签引流"
         ],
         "category": [
-          "时政",
-          "军事",
-          "爱国主义"
+          "财经理财",
+          "生活技巧"
         ],
-        "reason": "官方权威发布，议题重大且敏感，极易引发广泛共鸣与讨论。点赞量高而评论/分享为零，可能表明内容处于审核或传播限制状态，但其内在的爆款潜力（高情感共鸣、高话题性）依然存在，一旦放开传播，爆发力极强。"
+        "reason": "标题精准戳中用户对银行内部信息的好奇心，实用性强，点赞量高但互动数据异常，可能处于流量爬升期或存在数据延迟。"
       }
     },
     {
-      "videoId": "3xr3uy7bbtyasui",
-      "title": "挑战2口吃完！ #妈呀太香了 #喜爱度激励计划 #公瑾爆蛋 #老铁带你炫美食",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xr3uy7bbtyasui",
-      "authorName": "佳佳子。",
-      "authorUrl": "https://www.kuaishou.com/profile/3xvyzvhrihxwifq",
-      "authorId": "3xvyzvhrihxwifq",
-      "publishTime": "2026-03-19T09:04:17.620Z",
-      "likeCount": 15854,
+      "videoId": "3x9xf2utat8sasq",
+      "title": "山西村头藏着一座神秘的忤逆坟，背后竟有一段荒唐的故事",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xf2utat8sasq",
+      "authorName": "玲玲ALin",
+      "authorUrl": "https://www.kuaishou.com/profile/3xyymzffc46za3w",
+      "authorId": "3xyymzffc46za3w",
+      "publishTime": "2026-04-14T09:42:37.003Z",
+      "likeCount": 6730,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 648600,
-      "collectedAt": "2026-05-25T12:40:12.133Z",
+      "viewCount": 943611,
+      "collectedAt": "2026-05-25T12:50:12.474Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "采用“地点+神秘事物+背后故事”的经典悬念结构。“藏着”、“神秘”、“忤逆坟”、“荒唐的故事”等词汇层层递进，制造强烈好奇心缺口。",
+        "hotFactors": [
+          "地域文化探秘（山西）",
+          "猎奇民俗（忤逆坟）",
+          "悬念叙事（背后故事）",
+          "情感冲突（忤逆暗示）"
+        ],
+        "category": [
+          "民俗探秘",
+          "地方奇闻",
+          "故事解说"
+        ],
+        "reason": "标题精准结合地域猎奇与情感冲突，悬念感强，易引发评论区猜测与分享。点赞量高但互动数据缺失，可能处于流量爬升期，具备爆款潜力。"
+      }
+    },
+    {
+      "videoId": "3xies8kxwbkjj64",
+      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
+      "authorName": "甜吖",
+      "authorUrl": "https://www.kuaishou.com/profile/3xbdz5fic8euk4y",
+      "authorId": "3xbdz5fic8euk4y",
+      "publishTime": "2026-05-08T21:43:26.019Z",
+      "likeCount": 124901,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1293179,
+      "collectedAt": "2026-05-25T12:50:12.474Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 78,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用多标签叠加策略，包含节日热点（#五月嗨翻天 #五一气氛组已就位）、平台活动（#快手乡村超级碗）、情感共鸣点（#思白发望断崖）及官方流量入口（@快手粉条 @快手热点 @快手音乐），结构上通过密集标签覆盖多重流量池，同时以情感化短语（思白发望断崖）制造悬念与共情空间。",
+        "hotFactors": [
+          "节日热点精准绑定（五一）",
+          "平台活动流量加持（乡村超级碗）",
+          "情感化标题引发共鸣",
+          "官方账号矩阵引流"
+        ],
+        "category": [
+          "节日热点",
+          "乡村生活",
+          "情感共鸣"
+        ],
+        "reason": "标题精准绑定五一节日热点与平台活动，通过情感化表达（思白发望断崖）制造共情钩子，叠加官方流量入口引流，具备爆款基础。但评论与分享数据缺失可能影响长期传播，需观察后续互动转化。"
+      }
+    },
+    {
+      "videoId": "3xbkrubrwc956bc",
+      "title": "湖南人小时候的超能力 #湖南 #超能力",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrubrwc956bc",
+      "authorName": "邬天宇",
+      "authorUrl": "https://www.kuaishou.com/profile/3xq8qh4c5huhtrs",
+      "authorId": "3xq8qh4c5huhtrs",
+      "publishTime": "2026-03-06T09:57:17.751Z",
+      "likeCount": 29549,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 641918,
+      "collectedAt": "2026-05-25T12:50:12.474Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -68,18 +146,19 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "爽点",
-        "titleAnalysis": "标题采用“挑战+具体动作（2口吃完）”的强行动指令结构，结合多个热门标签（#妈呀太香了、#老铁带你炫美食）和活动标签（#喜爱度激励计划），具有明确的互动引导性和平台流量加持预期。",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“地域+童年记忆+超能力”的强共鸣结构，将普通童年经历包装为“超能力”，制造了新奇感和怀旧感，精准击中湖南用户的情感共鸣点，并引发其他地区用户的好奇。",
         "hotFactors": [
-          "挑战类内容易引发模仿和围观",
-          "美食题材受众广且易产生食欲共鸣",
-          "标签组合精准，覆盖活动流量与美食兴趣圈层"
+          "精准地域标签（#湖南）引发本地用户强烈认同和分享欲",
+          "童年怀旧主题具有广泛的情感基础和传播力",
+          "“超能力”一词制造了悬念和趣味性，吸引点击"
         ],
         "category": [
-          "美食挑战",
-          "吃播"
+          "生活",
+          "怀旧",
+          "地域文化"
         ],
-        "reason": "挑战形式简单直接、视觉冲击力强，符合快手用户对“爽感”内容的偏好，且标签策略能有效撬动平台活动流量，具备快速起量潜力。"
+        "reason": "标题精准定位湖南用户，利用童年怀旧和“超能力”的趣味包装，极易引发本地用户的情感共鸣和分享，形成地域性传播热点。点赞量已初显潜力，但评论和分享数据缺失，需观察后续互动。"
       }
     }
   ]
