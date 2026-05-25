@@ -1,22 +1,61 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T12:13:50.153Z",
+  "fetchedAt": "2026-05-25T12:22:53.634Z",
   "date": "2026-05-25",
-  "count": 2,
+  "count": 4,
   "items": [
     {
-      "videoId": "3xies8kxwbkjj64",
-      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
-      "authorName": "甜吖",
-      "authorUrl": "https://www.kuaishou.com/profile/3xbdz5fic8euk4y",
-      "authorId": "3xbdz5fic8euk4y",
-      "publishTime": "2026-05-08T21:43:26.019Z",
-      "likeCount": 124777,
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
+      "authorId": "3xa85jgbhtm6hic",
+      "publishTime": "2026-05-09T07:36:21.512Z",
+      "likeCount": 21873,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1291753,
-      "collectedAt": "2026-05-25T12:10:12.689Z",
+      "viewCount": 489763,
+      "collectedAt": "2026-05-25T12:20:12.464Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“定性+归因”结构，直接点明核心矛盾（台独）并将其定性为破坏和平的“罪魁祸首”，立场鲜明，情绪强烈，符合平台用户对重大时政议题的关注习惯。",
+        "hotFactors": [
+          "官方权威信源（国防部发布）",
+          "涉及国家主权与领土完整的核心议题",
+          "标题立场鲜明，易引发强烈共鸣与讨论"
+        ],
+        "category": [
+          "时政",
+          "军事",
+          "社会热点"
+        ],
+        "reason": "由最高军事权威机构发布，议题重大且立场明确，极易在爱国情绪高涨的用户群体中引发广泛共鸣和传播，形成热点话题。"
+      }
+    },
+    {
+      "videoId": "3x6yy3d6gpuvgym",
+      "title": "父亲去世12年，银行突然来催债2万3千多，本金才7千，女儿发出三连问：12年为何从不通知？如何证明是父亲生前消费？有没有义务还债？@快手热点(O3xddgkd5fav5if9) #父亲去世12年银行突然来催债 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6yy3d6gpuvgym",
+      "authorName": "小强说",
+      "authorUrl": "https://www.kuaishou.com/profile/3xq56h4zipv2f9y",
+      "authorId": "3xq56h4zipv2f9y",
+      "publishTime": "2026-04-28T08:07:19.488Z",
+      "likeCount": 5010,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 218557,
+      "collectedAt": "2026-05-25T12:20:12.464Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,35 +67,73 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用多标签组合形式，包含节日热点（#五月嗨翻天 #五一气氛组已就位）、平台活动（#快手乡村超级碗）、情感共鸣点（#思白发望断崖）及官方流量入口（@快手粉条 @快手热点 @快手音乐），结构完整，覆盖了热点、活动、情感和流量引导。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“时间冲突+数字冲击+三连问”结构。12年的时间跨度与突然催债形成强烈反差，2万3与7千的本金利息对比制造数字冲击，三连问直接抛出核心争议点，引导用户代入思考并站队。",
         "hotFactors": [
-          "节日热点（五一）精准借势",
-          "平台官方活动（乡村超级碗）流量扶持",
-          "情感共鸣标签（思白发望断崖）引发怀旧或乡土情怀",
-          "官方账号引流增加曝光"
+          "涉及银行与普通人的债务纠纷，易引发公众对金融机构的负面情绪共鸣",
+          "“父债子偿”的传统观念与法律现实的冲突，具有话题性和普法价值",
+          "“12年不通知”的程序性质疑，触及公众对机构服务与责任的普遍不满"
         ],
         "category": [
-          "乡村生活",
-          "节日热点",
-          "情感共鸣"
+          "社会热点",
+          "法律科普",
+          "家庭伦理"
         ],
-        "reason": "视频结合了五一节日热点与平台官方活动，情感标签易引发共鸣，且通过@官方账号获得流量加持，点赞数据已显示初步爆发潜力，但评论和分享数据缺失可能影响长期传播。"
+        "reason": "话题兼具情感共鸣（亲情、不公）与法律争议，数字对比强烈，三连问结构极易引发评论区讨论和站队，符合快手用户对“家长里短”和“社会不公”类内容的偏好，有较强的破圈潜力。"
       }
     },
     {
-      "videoId": "3xiwuh233nimviq",
-      "title": "就这么个亲姐姐稀罕#老百姓的平凡生活 #讲述老百姓自己的故事 #演员李嘉明 #生活不会辜负每一个努力的人",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xiwuh233nimviq",
-      "authorName": "演员李嘉明 乡村故事之碰瓷疑云即将上线",
-      "authorUrl": "https://www.kuaishou.com/profile/3xf3wwv4w8xdst2",
-      "authorId": "3xf3wwv4w8xdst2",
-      "publishTime": "2026-03-07T04:11:10.967Z",
-      "likeCount": 47246,
+      "videoId": "3x7p2x6buzsup8i",
+      "title": "写个数字7，只要剪一刀，就能轻松剪出双喜字，小朋友也可以轻松学会，快试试吧#亲子手工#剪纸教程 #双喜剪纸 #幼儿园手工",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x7p2x6buzsup8i",
+      "authorName": "小贤手工",
+      "authorUrl": "https://www.kuaishou.com/profile/3xkhpxede659nt6",
+      "authorId": "3xkhpxede659nt6",
+      "publishTime": "2026-05-02T11:23:21.479Z",
+      "likeCount": 2919,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1651191,
-      "collectedAt": "2026-05-25T12:10:12.689Z",
+      "viewCount": 501998,
+      "collectedAt": "2026-05-25T12:20:12.464Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "爽点",
+        "titleAnalysis": "标题采用“结果前置+步骤简化+受众扩大”结构。先展示神奇结果（剪数字7变双喜），再强调过程简单（只要剪一刀），最后通过“小朋友也可以轻松学会”降低门槛并扩大受众，最后以“快试试吧”引导行动，并附带精准的亲子、手工、剪纸、幼儿园等热门标签。",
+        "hotFactors": [
+          "实用性强，结果直观有吸引力",
+          "操作门槛极低，受众广泛（亲子、幼教）",
+          "内容垂直，精准匹配手工、育儿等高互动赛道"
+        ],
+        "category": [
+          "亲子教育",
+          "生活技巧",
+          "手工教程"
+        ],
+        "reason": "内容实用、门槛低、受众精准，符合快手生活技巧类视频的爆款逻辑，且标签覆盖多个高流量领域，易获得推荐。"
+      }
+    },
+    {
+      "videoId": "3xsdvktawhfnia2",
+      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
+      "authorName": "周沫讲理财",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
+      "authorId": "3xhinyavn5y69uc",
+      "publishTime": "2026-04-22T11:27:31.413Z",
+      "likeCount": 29652,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1458970,
+      "collectedAt": "2026-05-25T12:20:12.464Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -68,22 +145,20 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用情感共鸣+身份标签结构。'就这么个亲姐姐稀罕'以口语化、生活化的表达直接引发观众对亲情、手足之情的共鸣。后接多个热门话题标签（#老百姓的平凡生活 #讲述老百姓自己的故事），精准定位下沉市场与普通大众的情感需求。'演员李嘉明'和'生活不会辜负每一个努力的人'则结合了名人效应与正能量价值观，易于传播。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“场景冲突+痛点提问”结构。前半句“去派出所报警被大声嚷嚷”构建了一个极具反差感和情绪张力的具体场景（本应寻求帮助的地方却遭遇不公），后半句“怎么办”直接向观众抛出一个亟待解决的痛点问题，引发强烈共鸣和好奇。",
         "hotFactors": [
-          "亲情共情（姐弟情）",
-          "下沉市场生活化内容",
-          "正能量价值观（努力生活）",
-          "名人（演员）身份加持",
-          "精准的热门话题标签"
+          "强冲突场景（派出所 vs 被嚷嚷）",
+          "普适性痛点（维权难、遭遇不公）",
+          "实用价值（寻求解决方案）",
+          "精准标签（#维权 #老铁看热点）"
         ],
         "category": [
-          "生活",
-          "情感",
-          "正能量",
-          "乡村"
+          "社会热点",
+          "生活技巧",
+          "法律维权"
         ],
-        "reason": "视频内容紧扣'亲情'与'平凡生活'两大快手核心情感赛道，极易引发普通用户共鸣。标题结构清晰，标签精准，能有效触达目标受众。点赞量已初步验证内容吸引力，但评论和分享数据缺失，表明互动深度和传播广度尚未完全爆发，后续需观察。"
+        "reason": "标题精准切中“维权难”的社会情绪痛点，场景冲突感极强，极易引发观众共情和讨论欲。虽评论和分享数据缺失，但高点赞量表明内容已获得初步认可，具备在快手平台因情绪共鸣和实用价值而进一步扩散的潜力。"
       }
     }
   ]
