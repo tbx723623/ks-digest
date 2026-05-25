@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T06:52:30.436Z",
+  "fetchedAt": "2026-05-25T07:32:42.193Z",
   "date": "2026-05-25",
-  "count": 3,
+  "count": 7,
   "items": [
     {
-      "videoId": "3xr2tc28fdu9c4u",
-      "title": "21岁边防战士过生日，用雪水煮了碗方便面，加上一个速食鸡腿。 #科普  #涨知识",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xr2tc28fdu9c4u",
-      "authorName": "梦涵说",
-      "authorUrl": "https://www.kuaishou.com/profile/3x5kfnsqm8d8wk6",
-      "authorId": "3x5kfnsqm8d8wk6",
-      "publishTime": "2026-02-25T06:00:00.248Z",
-      "likeCount": 8172,
+      "videoId": "3xn4f8ewh7kgymk",
+      "title": "《叛变》 #陈语臣  ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xn4f8ewh7kgymk",
+      "authorName": "陈语臣",
+      "authorUrl": "https://www.kuaishou.com/profile/3xsqrg6292augiy",
+      "authorId": "3xsqrg6292augiy",
+      "publishTime": "2026-05-23T09:03:22.254Z",
+      "likeCount": 152080,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 110829,
-      "collectedAt": "2026-05-25T06:50:14.797Z",
+      "viewCount": 10010693,
+      "collectedAt": "2026-05-25T07:30:12.843Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -27,74 +27,232 @@
       },
       "aiAnalysis": {
         "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题极简，仅用一个词《叛变》作为核心冲突点，配合创作者标签#陈语臣，形成强烈的悬念感和身份关联，激发用户点击探索“谁叛变”、“为何叛变”的好奇心。",
+        "hotFactors": [
+          "强悬念标题引发高点击率",
+          "高点赞量（15.2万）表明内容已获得初步流量验证和用户认可",
+          "极简标题+创作者IP标签，易于传播和记忆"
+        ],
+        "category": [
+          "剧情/短剧",
+          "悬疑/反转"
+        ],
+        "reason": "标题悬念感极强，已积累可观点赞量，表明内容质量或话题性已通过初步流量池测试，具备进一步爆发的潜力。"
+      }
+    },
+    {
+      "videoId": "3xkb6inqu9ee6v6",
+      "title": "街头偶遇最快炒饭 锅气十足 最快一分钟出锅#路边摊美味 #街边小吃 #炒饭",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xkb6inqu9ee6v6",
+      "authorName": "奉天小东北",
+      "authorUrl": "https://www.kuaishou.com/profile/3xfchebpvyyp6xe",
+      "authorId": "3xfchebpvyyp6xe",
+      "publishTime": "2026-03-31T09:17:04.940Z",
+      "likeCount": 693803,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 42422802,
+      "collectedAt": "2026-05-25T07:30:12.843Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "爽点",
+        "titleAnalysis": "标题采用“场景+核心看点+数据化亮点+热门标签”的结构。‘街头偶遇’营造真实感和探索感，‘最快炒饭’和‘一分钟出锅’是核心冲突点和爽点，‘锅气十足’是感官刺激，最后用多个热门标签精准引流。",
+        "hotFactors": [
+          "极致效率与技艺展示（一分钟出锅）",
+          "强烈的感官刺激（锅气十足）",
+          "街头美食的烟火气与真实感",
+          "精准的热门标签引流"
+        ],
+        "category": [
+          "美食探店",
+          "街头小吃",
+          "技能展示"
+        ],
+        "reason": "视频精准击中了快手用户对‘快、准、狠’技艺展示和街头烟火气的偏好。‘一分钟出锅’的极致效率形成强烈记忆点和传播点，‘锅气’等感官描述极具诱惑力。尽管评论和分享数据缺失，但69.4万的超高点赞量已证明其内容本身具备极强的爆款基因和传播潜力。"
+      }
+    },
+    {
+      "videoId": "3x8qnfr3872i36i",
+      "title": "接下来你将看到独一无二的“原始部落奇观” #李忆探险家 #部落 #探险 #记录 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x8qnfr3872i36i",
+      "authorName": "李忆在途中",
+      "authorUrl": "https://www.kuaishou.com/profile/3xu3en74x6gktn6",
+      "authorId": "3xu3en74x6gktn6",
+      "publishTime": "2026-04-24T03:58:01.248Z",
+      "likeCount": 265703,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 13668806,
+      "collectedAt": "2026-05-25T07:30:12.843Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“接下来你将看到”的预告式结构，直接设置悬念，引导用户期待“独一无二”的奇观。使用“原始部落”这一充满神秘感和猎奇性的关键词，并搭配探险家身份标签，强化了内容的真实性和专业性。",
+        "hotFactors": [
+          "猎奇题材（原始部落）",
+          "悬念式标题引导",
+          "探险家身份背书",
+          "“独一无二”的稀缺性暗示"
+        ],
+        "category": [
+          "探险纪实",
+          "人文奇观",
+          "猎奇内容"
+        ],
+        "reason": "标题精准利用了用户对未知部落文化的好奇心和猎奇心理，悬念设置直接有效。探险家身份增加了可信度。高点赞量（26.6万）表明内容已获得初步流量验证，具备爆款潜力。"
+      }
+    },
+    {
+      "videoId": "3xqjta57fv85knq",
+      "title": "误闯天家，80平浮雕长城太震撼了",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xqjta57fv85knq",
+      "authorName": "壁画师阿娇（全国出差）",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8x97ftta2qvrk",
+      "authorId": "3x8x97ftta2qvrk",
+      "publishTime": "2026-03-24T03:48:41.743Z",
+      "likeCount": 100537,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 7037829,
+      "collectedAt": "2026-05-25T07:30:12.843Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“误闯天家”制造悬念和反差感，暗示进入了一个非凡或私密的空间。“80平浮雕长城”用具体数字和宏大意象（长城）形成强烈视觉冲击，最后“太震撼了”直接表达情绪，引导用户产生好奇和期待。",
+        "hotFactors": [
+          "视觉奇观（80平浮雕长城）",
+          "悬念感（误闯天家）",
+          "情绪共鸣（震撼）",
+          "手艺展示（壁画师）"
+        ],
+        "category": [
+          "手工技艺",
+          "家居装饰",
+          "视觉艺术"
+        ],
+        "reason": "标题悬念感强，视觉冲击力大，能快速吸引用户停留和互动。点赞量高但评论/分享为零，可能因数据未完全同步或视频处于爆发初期，后续互动潜力大。"
+      }
+    },
+    {
+      "videoId": "3xbsckpvakg84ci",
+      "title": "刷我的卡。",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xbsckpvakg84ci",
+      "authorName": "小李虎的快乐生活",
+      "authorUrl": "https://www.kuaishou.com/profile/3xfvjauinvki9q4",
+      "authorId": "3xfvjauinvki9q4",
+      "publishTime": "2026-04-22T09:32:57.574Z",
+      "likeCount": 220384,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 22126617,
+      "collectedAt": "2026-05-25T07:30:12.843Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "爽点",
+        "titleAnalysis": "标题“刷我的卡”采用第一人称视角，简洁有力，直接暗示了“为他人消费/买单”的场景，具有强烈的代入感和想象空间，容易引发用户对后续内容（如炫富、宠溺、反转等）的好奇。",
+        "hotFactors": [
+          "强代入感与想象空间",
+          "“刷我的卡”这一行为本身具有话题性和争议性",
+          "可能涉及情感、炫富或反转等高互动题材"
+        ],
+        "category": [
+          "生活/情感",
+          "剧情/段子"
+        ],
+        "reason": "标题极具话题性和代入感，点赞量极高（22万）但评论和分享数据为0，可能因数据未完全同步或内容本身引发强烈情绪共鸣但讨论门槛低。高点赞表明内容已获得广泛认可，具备爆款基础。"
+      }
+    },
+    {
+      "videoId": "3xpptaikxytsbn9",
+      "title": "不能走路十三年多了…渴望已久的自由…三十多岁的人骑个三蹦子...确实是不太体面了...但我也是在自己的能力范围内去让自己自由了.…不需谁理解～不需谁懂~那些年不能走出家门的的无助多辛酸自己知道就好…现在的我也不需要多体面我能少说两句求人的话就好…..我为自己加油就好…更感谢那些善良的人们总鼓励我继续前行，谢谢你们让我能继续勇敢的走向人间烟火… #感恩 #励志 #传递正能量",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpptaikxytsbn9",
+      "authorName": "唐小甜",
+      "authorUrl": "https://www.kuaishou.com/profile/3x4ffrvcs3qpvua",
+      "authorId": "3x4ffrvcs3qpvua",
+      "publishTime": "2026-04-07T06:21:09.332Z",
+      "likeCount": 48610,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 4540160,
+      "collectedAt": "2026-05-25T07:30:12.843Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 78,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“年龄+身份+艰苦场景+简单庆祝”的强对比结构，通过“21岁”、“边防战士”、“雪水煮面”、“速食鸡腿”等具体细节，瞬间构建出年轻奉献与艰苦环境的强烈反差，极易引发情感共鸣。",
+        "titleAnalysis": "标题采用第一人称叙事，通过时间跨度（十三年）、身份反差（三十多岁骑三蹦子）、情感递进（无助→感恩）构建完整故事弧。使用省略号和波浪号营造口语化倾诉感，结尾标签强化正能量属性。",
         "hotFactors": [
-          "家国情怀与奉献精神",
-          "年轻战士的艰苦生活细节",
-          "生日庆祝的朴素与感人反差"
+          "残障人士真实生活记录",
+          "逆境中追求自由的励志叙事",
+          "社会边缘群体的尊严表达",
+          "感恩与正能量的传播价值"
         ],
         "category": [
-          "正能量",
-          "军旅生活",
-          "情感共鸣"
+          "励志故事",
+          "生活纪实",
+          "正能量"
         ],
-        "reason": "内容精准击中家国情怀与个人奉献的共情点，细节真实感人，符合平台正能量传播导向，极易引发大规模点赞和情感互动。"
+        "reason": "真实残障人士的奋斗故事极易引发共情，标题中‘不体面’与‘自由’的冲突感强烈，符合平台正能量内容推荐机制。点赞量已达4.9万且仍在上升，具备破圈潜力。"
       }
     },
     {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
-      "authorId": "3xa85jgbhtm6hic",
-      "publishTime": "2026-05-09T07:36:21.512Z",
-      "likeCount": 21706,
+      "videoId": "3xqw8zpz9kdr7g4",
+      "title": "她能为我哭好几天，就是不能为我付顿饭钱 #前任 #情感 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xqw8zpz9kdr7g4",
+      "authorName": "老普追爱记",
+      "authorUrl": "https://www.kuaishou.com/profile/3xkkdvubrrcszhk",
+      "authorId": "3xkkdvubrrcszhk",
+      "publishTime": "2026-03-29T22:00:38.732Z",
+      "likeCount": 98635,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 484757,
-      "collectedAt": "2026-05-25T06:50:14.797Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用‘定性+定罪’结构，直接点明核心矛盾（‘台独’）并将其定性为‘罪魁祸首’，立场鲜明，观点尖锐，具有强烈的冲突性和情绪煽动力，能迅速吸引关注并引发讨论。",
-        "hotFactors": [
-          "官方权威发布（国防部）",
-          "涉及国家主权与领土完整的核心议题",
-          "观点鲜明，立场坚定，易引发民族情感共鸣"
-        ],
-        "category": [
-          "时政",
-          "军事",
-          "爱国"
-        ],
-        "reason": "由国防部官方账号发布，议题重大且立场鲜明，极易在爱国情感和时政讨论中引爆传播。点赞量高而评论/分享为零，可能表明平台进行了评论管控或数据延迟，但不影响其作为爆款内容的潜力。"
-      }
-    },
-    {
-      "videoId": "3x6yy3d6gpuvgym",
-      "title": "父亲去世12年，银行突然来催债2万3千多，本金才7千，女儿发出三连问：12年为何从不通知？如何证明是父亲生前消费？有没有义务还债？@快手热点(O3xddgkd5fav5if9) #父亲去世12年银行突然来催债 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6yy3d6gpuvgym",
-      "authorName": "小强说",
-      "authorUrl": "https://www.kuaishou.com/profile/3xq56h4zipv2f9y",
-      "authorId": "3xq56h4zipv2f9y",
-      "publishTime": "2026-04-28T08:07:19.488Z",
-      "likeCount": 5002,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 218192,
-      "collectedAt": "2026-05-25T06:50:14.797Z",
+      "viewCount": 11230259,
+      "collectedAt": "2026-05-25T07:30:12.843Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -107,19 +265,18 @@
         "explosionRate": 75,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用“时间冲突+数字冲击+悬念三连问”结构。‘父亲去世12年’与‘银行突然催债’形成强烈时间冲突；‘本金7千，债务2万3’的数字对比制造经济冲突；‘三连问’以疑问句式设置悬念，引导观众代入女儿视角寻求答案。",
+        "titleAnalysis": "标题采用强烈的对比结构（'哭好几天' vs '付顿饭钱'），通过具体行为反差制造戏剧冲突，直击情感痛点。使用第一人称叙事增强代入感，标签#前任 #情感精准定位目标受众。",
         "hotFactors": [
-          "涉及银行债务与家庭伦理的普遍社会痛点",
-          "‘父债子偿’传统观念与法律现实的冲突",
-          "数字对比（7千本金vs2.3万债务）引发不公感",
-          "三连问结构激发观众讨论欲和正义感"
+          "情感共鸣（分手后经济纠纷的普遍痛点）",
+          "价值观冲突（情感付出与物质付出的对比）",
+          "话题争议性（易引发评论区站队讨论）"
         ],
         "category": [
-          "社会热点",
-          "法律科普",
-          "家庭伦理"
+          "情感",
+          "生活",
+          "两性关系"
         ],
-        "reason": "题材触及银行债务、家庭责任、法律权益等多重社会敏感点，冲突性强，易引发共情与讨论。标题悬念设置精准，数据对比冲击力强，具备破圈潜力。"
+        "reason": "高点赞量（9.9万）显示内容已引发广泛共鸣，情感类话题在快手有稳定受众。标题冲突性强，易激发用户表达欲，虽评论/分享数据暂未显示，但符合爆款内容初期传播特征。"
       }
     }
   ]

@@ -1,225 +1,208 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T06:52:30.437Z",
+  "generatedAt": "2026-05-25T07:32:42.194Z",
   "date": "2026-05-25",
-  "count": 13,
+  "count": 12,
   "items": [
     {
-      "videoId": "3xr2tc28fdu9c4u",
-      "title": "21岁边防战士过生日，用雪水煮了碗方便面，加上一个速食鸡腿。 #科普  #涨知识",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xr2tc28fdu9c4u",
-      "authorName": "梦涵说",
-      "likeCount": 8172,
+      "videoId": "3xcfbwagbe9pnma",
+      "title": "出门在外多留个心眼总归是好的 #vlog #闺蜜",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xcfbwagbe9pnma",
+      "authorName": "三只狗子_",
+      "likeCount": 1634938,
       "commentCount": 0,
       "explosionRate": 85,
-      "trend": "rising",
+      "trend": "stable",
       "hookType": "共情",
       "category": [
-        "正能量",
-        "军旅生活",
-        "情感共鸣"
+        "生活vlog",
+        "女性情感",
+        "安全提醒"
       ],
       "estimatedTime": "正在爆发"
     },
     {
-      "videoId": "3xpgtbzcea8x4zk",
-      "title": "“台独”是破坏台海和平的罪魁祸首",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
-      "authorName": "国防部发布",
-      "likeCount": 21706,
+      "videoId": "3xn4f8ewh7kgymk",
+      "title": "《叛变》 #陈语臣  ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xn4f8ewh7kgymk",
+      "authorName": "陈语臣",
+      "likeCount": 152080,
       "commentCount": 0,
       "explosionRate": 85,
       "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "时政",
-        "军事",
-        "爱国"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3x6yy3d6gpuvgym",
-      "title": "父亲去世12年，银行突然来催债2万3千多，本金才7千，女儿发出三连问：12年为何从不通知？如何证明是父亲生前消费？有没有义务还债？@快手热点(O3xddgkd5fav5if9) #父亲去世12年银行突然来催债 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6yy3d6gpuvgym",
-      "authorName": "小强说",
-      "likeCount": 5002,
-      "commentCount": 0,
-      "explosionRate": 75,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "社会热点",
-        "法律科普",
-        "家庭伦理"
-      ],
-      "estimatedTime": "1-2小时"
-    },
-    {
-      "videoId": "3xqt2ginuck6vpc",
-      "title": "斑鸠在阳台躲雨却不肯进屋，女人用爱和关怀消除隔阂！ #斑鸠 #万物皆有灵性 #喜爱度激励计划",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xqt2ginuck6vpc",
-      "authorName": "主持人嘉文",
-      "likeCount": 8422,
-      "commentCount": 0,
-      "explosionRate": 75,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "萌宠/动物",
-        "生活记录",
-        "正能量/情感"
-      ],
-      "estimatedTime": "1-2小时"
-    },
-    {
-      "videoId": "3xtijkd5rzemfks",
-      "title": "这才是我们应该追的星 #律师帮帮团 #老铁知识百科",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xtijkd5rzemfks",
-      "authorName": "游者旅行记",
-      "likeCount": 12019,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "正能量",
-        "社会话题",
-        "知识科普"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xniiexxwic7m69",
-      "title": "妈妈胃口不好，爸爸犯了难，还是我来露一手，一道擂椒烧豆腐，开胃又下饭 #幸福乡村丰收季 #幸福乡村春耕季 #喜爱度激励计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xniiexxwic7m69",
-      "authorName": "伍大姐",
-      "likeCount": 2693,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "美食制作",
-        "乡村生活",
-        "家庭情感"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xcir328rwhbq79",
-      "title": "#农村搞笑视频 #乡村守望者计划",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xcir328rwhbq79",
-      "authorName": "张姐搞笑",
-      "likeCount": 3684,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "农村生活",
-        "搞笑",
-        "正能量"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xga9bnxzfggi29",
-      "title": "我们只能尽量去帮扶妹妹，希望妹妹的日子以后可以越过越好 #传递正能量",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xga9bnxzfggi29",
-      "authorName": "轩轩和小妈",
-      "likeCount": 11165,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "生活记录",
-        "家庭情感",
-        "正能量"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x4fadzwa6hh77w",
-      "title": "家里不能，只让一个人做家务 #家务 #情感 #文静说 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4fadzwa6hh77w",
-      "authorName": "主持人文静",
-      "likeCount": 1275,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "冲突",
-      "category": [
-        "家庭情感",
-        "生活观点",
-        "社会话题"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xk5h45jg526v2i",
-      "title": "#喜爱度激励计划 #知识播种计划 #老铁看热点 #快聊新闻 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手创作者中心(O3xrgtux2ehryffe) @快手主持人(O3xnewxpguishmsc)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xk5h45jg526v2i",
-      "authorName": "我是大梅",
-      "likeCount": 19115,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "新闻资讯",
-        "社会热点"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xhdfqqik3zsmb9",
-      "title": "家里有个小棉袄#农村生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xhdfqqik3zsmb9",
-      "authorName": "月亮一家人",
-      "likeCount": 6200,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "家庭生活",
-        "农村纪实",
-        "亲子日常"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xfv3snjgtqh6u6",
-      "title": " @穗岁剧场(O3xc6eti7hmk2qzm) 的精彩视频",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xfv3snjgtqh6u6",
-      "authorName": "穗岁剧场",
-      "likeCount": 13424,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
       "hookType": "悬念",
       "category": [
-        "短剧",
-        "剧情"
+        "剧情/短剧",
+        "悬疑/反转"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xkb6inqu9ee6v6",
+      "title": "街头偶遇最快炒饭 锅气十足 最快一分钟出锅#路边摊美味 #街边小吃 #炒饭",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xkb6inqu9ee6v6",
+      "authorName": "奉天小东北",
+      "likeCount": 693803,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "爽点",
+      "category": [
+        "美食探店",
+        "街头小吃",
+        "技能展示"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3x8qnfr3872i36i",
+      "title": "接下来你将看到独一无二的“原始部落奇观” #李忆探险家 #部落 #探险 #记录 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x8qnfr3872i36i",
+      "authorName": "李忆在途中",
+      "likeCount": 265703,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "悬念",
+      "category": [
+        "探险纪实",
+        "人文奇观",
+        "猎奇内容"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xqjta57fv85knq",
+      "title": "误闯天家，80平浮雕长城太震撼了",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xqjta57fv85knq",
+      "authorName": "壁画师阿娇（全国出差）",
+      "likeCount": 100537,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "悬念",
+      "category": [
+        "手工技艺",
+        "家居装饰",
+        "视觉艺术"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xbsckpvakg84ci",
+      "title": "刷我的卡。",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xbsckpvakg84ci",
+      "authorName": "小李虎的快乐生活",
+      "likeCount": 220384,
+      "commentCount": 0,
+      "explosionRate": 85,
+      "trend": "rising",
+      "hookType": "爽点",
+      "category": [
+        "生活/情感",
+        "剧情/段子"
+      ],
+      "estimatedTime": "正在爆发"
+    },
+    {
+      "videoId": "3xpptaikxytsbn9",
+      "title": "不能走路十三年多了…渴望已久的自由…三十多岁的人骑个三蹦子...确实是不太体面了...但我也是在自己的能力范围内去让自己自由了.…不需谁理解～不需谁懂~那些年不能走出家门的的无助多辛酸自己知道就好…现在的我也不需要多体面我能少说两句求人的话就好…..我为自己加油就好…更感谢那些善良的人们总鼓励我继续前行，谢谢你们让我能继续勇敢的走向人间烟火… #感恩 #励志 #传递正能量",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpptaikxytsbn9",
+      "authorName": "唐小甜",
+      "likeCount": 48610,
+      "commentCount": 0,
+      "explosionRate": 78,
+      "trend": "rising",
+      "hookType": "共情",
+      "category": [
+        "励志故事",
+        "生活纪实",
+        "正能量"
+      ],
+      "estimatedTime": "1-2小时"
+    },
+    {
+      "videoId": "3xqw8zpz9kdr7g4",
+      "title": "她能为我哭好几天，就是不能为我付顿饭钱 #前任 #情感 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xqw8zpz9kdr7g4",
+      "authorName": "老普追爱记",
+      "likeCount": 98635,
+      "commentCount": 0,
+      "explosionRate": 75,
+      "trend": "rising",
+      "hookType": "冲突",
+      "category": [
+        "情感",
+        "生活",
+        "两性关系"
+      ],
+      "estimatedTime": "1-2小时"
+    },
+    {
+      "videoId": "3x75q3z9cwrcg7e",
+      "title": "孩子在自家院子里玩耍 拿高压水枪呲妈妈 网友:没有一顿打是白挨的（Y）",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x75q3z9cwrcg7e",
+      "authorName": "晓辉在路上",
+      "likeCount": 2733,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "亲子日常",
+        "搞笑生活",
+        "家庭趣事"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xwazeqb2ec2s8c",
-      "title": "为什么人老了以后，男人容易走在女人前面 #情感 #家庭 #人生百态 #知识播种计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xwazeqb2ec2s8c",
-      "authorName": "董超",
-      "likeCount": 2820,
+      "videoId": "3xbkrprnnemj4zu",
+      "title": "队友在张子宇面前秒变“小矮人”",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrprnnemj4zu",
+      "authorName": "极速Sports",
+      "likeCount": 3872,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
-      "hookType": "共情",
+      "hookType": "冲突",
       "category": [
-        "情感",
-        "家庭",
-        "健康知识"
+        "体育",
+        "娱乐",
+        "明星"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3x4t5j6umck4hhc",
+      "title": "留学生利用画筒走私盔犀鸟头胄，不料却被海关发现 #优酷影视推广计划 #喜爱度激励计划 #影画演绎未来之星 #快成长计划 @快手热点(O3xddgkd5fav5if9) @快手光合计划助手(O3xxpf2m4brbf3pe) @快手创作者中心(O3xrgtux2ehryffe)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x4t5j6umck4hhc",
+      "authorName": "啊泡影院",
+      "likeCount": 7258,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "反转",
+      "category": [
+        "社会纪实",
+        "猎奇",
+        "法律案例"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xyu5havpgvx5nk",
+      "title": "乡村窄路会车，两车相遇车轮掉沟，斯令帮忙脱困、高手在民间！",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xyu5havpgvx5nk",
+      "authorName": "斯令vlog说车",
+      "likeCount": 10302,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "冲突",
+      "category": [
+        "三农",
+        "汽车",
+        "生活纪实"
       ],
       "estimatedTime": "2-4小时"
     }
