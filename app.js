@@ -2752,6 +2752,8 @@ function wireActions() {
         await refreshHotData({ silent: false });
         // 同时刷新真实爆款数据
         await loadExplosiveData();
+        // 将真实数据注入到今日案例
+        injectRealDataToItems();
         safeRender("explosive", () => renderExplosivePanel());
       } finally {
         els.refreshHotBtn.disabled = false;
@@ -2852,6 +2854,45 @@ function render() {
   safeRender("hot", () => renderHotPanel());
   safeRender("explosive", () => renderExplosivePanel());
   safeRender("pool", () => renderPoolPanel());
+}
+
+// 将真实抓取数据注入到今日案例列表
+function injectRealDataToItems() {
+  if (!state.explosiveItems || state.explosiveItems.length === 0) return;
+
+  const realCases = state.explosiveItems
+    .filter(item => item.isReal || (item.sourceUrl && item.sourceUrl.includes('kuaishou.com')))
+    .map(item => {
+      const explosionRate = item.aiAnalysis?.explosionRate || item.explosionRate || 50;
+      const categories = item.aiAnalysis?.category || ['解压推文'];
+      const hookType = item.aiAnalysis?.hookType || '';
+      const trend = item.aiAnalysis?.trend || '';
+      const viewCount = item.viewCount || item.playCount || 0;
+      const likeCount = item.likeCount || 0;
+
+      return {
+        id: `real_${item.videoId}`,
+        kind: "今日案例",
+        category: ["解压推文", ...categories.slice(0, 2)],
+        title: item.title || '未知标题',
+        play: viewCount > 10000 ? `${(viewCount / 10000).toFixed(1)} 万次` : `${viewCount} 次`,
+        angle: item.aiAnalysis?.titleAnalysis || `爆率${explosionRate}%，${trend === 'rising' ? '上升趋势' : '稳定'}。`,
+        format: hookType ? `${hookType}型 / 真实数据` : '真实推荐流数据',
+        tags: categories,
+        note: `❤️${likeCount > 10000 ? (likeCount/10000).toFixed(1)+'万' : likeCount} | 爆率${explosionRate}%${item.aiAnalysis?.reason ? ' | ' + item.aiAnalysis.reason.substring(0, 50) : ''}`,
+        workUrl: item.sourceUrl || '',
+        isReal: true,
+        _source: 'explosive'
+      };
+    });
+
+  if (realCases.length === 0) return;
+
+  // 移除旧的真实数据，保留硬编码的
+  const nonRealItems = state.items.filter(i => !i.isReal && i._source !== 'explosive');
+  // 真实数据排在前面
+  state.items = [...realCases, ...nonRealItems];
+  console.log(`✅ 注入 ${realCases.length} 条真实数据到今日案例`);
 }
 
 // 加载真实爆款数据（Playwright抓取 + AI分析）
@@ -3514,7 +3555,9 @@ async function init() {
   
   // 加载真实爆款数据（Playwright抓取）
   await loadExplosiveData();
-  
+  // 注入真实数据到今日案例
+  injectRealDataToItems();
+
   await Promise.all([loadHotSnapshot({ silent: true }), loadPool({ silent: true })]);
   render();
   scheduleFeedRefreshLoop();
