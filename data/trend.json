@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T16:02:50.499Z",
+  "fetchedAt": "2026-05-25T16:13:14.789Z",
   "date": "2026-05-25",
-  "count": 3,
+  "count": 2,
   "items": [
     {
-      "videoId": "3x9xnjeq8z79da4",
-      "title": "绝不让消费者再当“冤大头”！主播必须对自己带的货负责任，绝不能当“工具人”！（央视频号：新闻来了）",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x9xnjeq8z79da4",
-      "authorName": "央视频",
-      "authorUrl": "https://www.kuaishou.com/profile/3xqbri2seru7w4e",
-      "authorId": "3xqbri2seru7w4e",
-      "publishTime": "2026-04-29T13:29:39.972Z",
-      "likeCount": 53441,
+      "videoId": "3x6bvq9nhkgutum",
+      "title": "硬核老爸在线开方，一招治好不想上班......\r\n#陈佩斯  #陈大愚 #工作压力大  #调休 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6bvq9nhkgutum",
+      "authorName": "陈佩斯父与子",
+      "authorUrl": "https://www.kuaishou.com/profile/3x64kzif8d4dy39",
+      "authorId": "3x64kzif8d4dy39",
+      "publishTime": "2026-05-08T04:23:53.078Z",
+      "likeCount": 7907,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1636749,
-      "collectedAt": "2026-05-25T16:00:11.979Z",
+      "viewCount": 282883,
+      "collectedAt": "2026-05-25T16:10:12.330Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,75 +28,34 @@
       "aiAnalysis": {
         "explosionRate": 85,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用‘绝不让消费者再当冤大头’的强烈否定句式，直接点明消费者痛点，引发共鸣。‘主播必须对自己带的货负责任’提出明确主张，‘绝不能当工具人’进一步强化冲突，形成对主播行为的批判性立场。整体结构为‘痛点+主张+警告’，情绪强烈，立场鲜明。",
-        "hotFactors": [
-          "央视频官方背书，权威性强",
-          "直击直播带货乱象，切中消费者核心痛点",
-          "情绪化表达，易引发共鸣和讨论",
-          "话题具有广泛社会关注度"
-        ],
-        "category": [
-          "社会热点",
-          "消费维权",
-          "直播电商"
-        ],
-        "reason": "央视频权威发布，话题直击直播带货乱象，易引发消费者共鸣与讨论，具备高传播潜力。"
-      }
-    },
-    {
-      "videoId": "3x45bqjr92pq936",
-      "title": "今天跟何思成真正意义上的分开了，这一次分开不知道什么时候才能相聚，没想到的是一直嬉皮笑脸的老何居然哭成这个样子 #父子 #亲子 #异地恋 #萌娃大哭",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x45bqjr92pq936",
-      "authorName": "小树树",
-      "authorUrl": "https://www.kuaishou.com/profile/3xwvj3yzskww7hw",
-      "authorId": "3xwvj3yzskww7hw",
-      "publishTime": "2026-03-23T09:04:49.835Z",
-      "likeCount": 7294,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 449560,
-      "collectedAt": "2026-05-25T16:00:11.978Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 75,
-        "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“事件+情感反差+标签”的结构。先陈述“分开”这一核心事件，再通过“嬉皮笑脸的老何居然哭成这个样子”制造强烈的情感反差，最后用#父子 #亲子 #异地恋 #萌娃大哭等标签精准定位受众和情绪，引发共鸣。",
+        "titleAnalysis": "标题采用“身份标签（硬核老爸）+ 网络热梗（在线开方）+ 痛点场景（不想上班）”的结构，将家庭关系与社会情绪结合，制造了强烈的代入感和悬念。",
         "hotFactors": [
-          "父子离别的情感冲击",
-          "“反差萌”（父亲外表与内心情感的强烈对比）",
-          "“萌娃大哭”的天然感染力",
-          "“异地”话题引发广泛共鸣"
+          "明星父子（陈佩斯、陈大愚）自带流量与话题",
+          "精准切中“调休”、“工作压力大”等社会情绪痛点",
+          "“硬核老爸”与“开方治病”的反差感和趣味性"
         ],
         "category": [
-          "亲子",
-          "情感",
-          "生活记录"
+          "家庭喜剧",
+          "社会情绪",
+          "明星日常"
         ],
-        "reason": "内容聚焦普世亲情，情感真实强烈，反差设定极具戏剧性，能快速引发观众共情与讨论，具备爆款潜质。"
+        "reason": "视频结合了顶级喜剧演员的国民度、精准的社会情绪洞察（调休、不想上班）以及家庭代际互动的温馨/搞笑元素，极易引发广泛共鸣和二次传播。"
       }
     },
     {
-      "videoId": "3x5wpqmcfbw72bs",
-      "title": "“或许这就是家 有温暖的地方 有盼头的地方 有想念的人” #修车小杨",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x5wpqmcfbw72bs",
-      "authorName": "修车小杨",
-      "authorUrl": "https://www.kuaishou.com/profile/3xthujq8xh9jdva",
-      "authorId": "3xthujq8xh9jdva",
-      "publishTime": "2026-04-20T10:29:30.660Z",
-      "likeCount": 31106,
+      "videoId": "3xkvfac84zuugwg",
+      "title": "五子棋挑战连抓机甲！ #和平精英地铁逃生 #和平精英七周年 #武子弈 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xkvfac84zuugwg",
+      "authorName": "武子弈（五子棋）",
+      "authorUrl": "https://www.kuaishou.com/profile/3xxk956u2kxzutc",
+      "authorId": "3xxk956u2kxzutc",
+      "publishTime": "2026-04-25T09:40:45.316Z",
+      "likeCount": 24185,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1332570,
-      "collectedAt": "2026-05-25T16:00:11.978Z",
+      "viewCount": 724007,
+      "collectedAt": "2026-05-25T16:10:12.330Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -108,19 +67,19 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用抒情散文式结构，通过排比句式（有温暖的地方、有盼头的地方、有想念的人）层层递进，营造情感共鸣。结尾点明创作者身份“修车小杨”，形成反差感（蓝领职业与细腻情感）。",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“挑战+结果”的悬念结构，前半句“五子棋挑战连抓机甲”制造了游戏玩法与游戏内强力装备（机甲）之间的认知冲突和悬念，后半句通过热门话题标签（#和平精英地铁逃生 #和平精英七周年）精准蹭热度，吸引核心玩家点击。",
         "hotFactors": [
-          "情感共鸣（家庭、温暖、思念等普世主题）",
-          "人设反差（修车工人的文艺表达）",
-          "短视频平台对生活化、正能量内容的流量扶持"
+          "游戏玩法创新（五子棋与射击游戏结合）",
+          "精准蹭热门游戏版本/活动热度（地铁逃生、七周年）",
+          "悬念式标题引发好奇"
         ],
         "category": [
-          "生活记录",
-          "情感共鸣",
-          "正能量"
+          "游戏",
+          "创意玩法",
+          "和平精英"
         ],
-        "reason": "标题情感真挚易引发共鸣，蓝领人设与文艺表达的反差具有记忆点，符合平台内容趋势。但评论和分享数据缺失可能反映互动引导不足或数据未更新，影响爆发上限。"
+        "reason": "标题结合了创意玩法与热门游戏话题，能有效吸引《和平精英》玩家的好奇心。点赞数据尚可，但评论和分享为零，表明内容可能缺乏深度互动点或情感共鸣，限制了其成为现象级爆款的潜力。"
       }
     }
   ]
