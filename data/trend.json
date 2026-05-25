@@ -1,22 +1,62 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T16:13:14.789Z",
+  "fetchedAt": "2026-05-25T16:23:05.108Z",
   "date": "2026-05-25",
-  "count": 2,
+  "count": 11,
   "items": [
     {
-      "videoId": "3x6bvq9nhkgutum",
-      "title": "硬核老爸在线开方，一招治好不想上班......\r\n#陈佩斯  #陈大愚 #工作压力大  #调休 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6bvq9nhkgutum",
-      "authorName": "陈佩斯父与子",
-      "authorUrl": "https://www.kuaishou.com/profile/3x64kzif8d4dy39",
-      "authorId": "3x64kzif8d4dy39",
-      "publishTime": "2026-05-08T04:23:53.078Z",
-      "likeCount": 7907,
+      "videoId": "3x7hq537c3uwgys",
+      "title": "家里真换沙发了，三只戏精鹦鹉继续配合的日常！尤其最后一只！😂😂😂#搞笑萌宠 #萌宠 #家有萌宠 #鹦鹉",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x7hq537c3uwgys",
+      "authorName": "招财旺财来财日常",
+      "authorUrl": "https://www.kuaishou.com/profile/3xb2buc5zr4rzku",
+      "authorId": "3xb2buc5zr4rzku",
+      "publishTime": "2026-05-24T00:55:29.890Z",
+      "likeCount": 76674,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 282883,
-      "collectedAt": "2026-05-25T16:10:12.330Z",
+      "viewCount": 3942258,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用“场景+角色+悬念”结构。前半句“家里真换沙发了”建立真实生活场景，中间“三只戏精鹦鹉继续配合”引入核心角色和“戏精”人设，最后“尤其最后一只！”制造悬念和期待，配合表情符号强化搞笑属性。",
+        "hotFactors": [
+          "萌宠拟人化（戏精鹦鹉）",
+          "生活化场景（换沙发）",
+          "悬念引导（尤其最后一只）",
+          "强互动性（搞笑萌宠标签）"
+        ],
+        "category": [
+          "萌宠",
+          "搞笑",
+          "生活记录"
+        ],
+        "reason": "标题精准结合萌宠、搞笑、悬念三要素，数据表现强劲（7.7万点赞），符合快手平台“真实生活+萌宠互动”的爆款公式，具备持续传播潜力。"
+      }
+    },
+    {
+      "videoId": "3xu4hv88bc753tg",
+      "title": "下辈子 还要和你成个家 #读书克喽  @快手热点(O3xddgkd5fav5if9)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xu4hv88bc753tg",
+      "authorName": "婷小姐·",
+      "authorUrl": "https://www.kuaishou.com/profile/3x2gsxaa4sawa9e",
+      "authorId": "3x2gsxaa4sawa9e",
+      "publishTime": "2026-05-02T10:31:28.525Z",
+      "likeCount": 142709,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 2934177,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -29,33 +69,309 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“身份标签（硬核老爸）+ 网络热梗（在线开方）+ 痛点场景（不想上班）”的结构，将家庭关系与社会情绪结合，制造了强烈的代入感和悬念。",
+        "titleAnalysis": "标题采用情感宣言式结构，以'下辈子'的宏大时间跨度制造情感冲击，'还要和你成个家'直击家庭与爱情的核心价值，配合话题标签#读书克喽和@快手热点，精准定位情感共鸣与平台热点流量。",
         "hotFactors": [
-          "明星父子（陈佩斯、陈大愚）自带流量与话题",
-          "精准切中“调休”、“工作压力大”等社会情绪痛点",
-          "“硬核老爸”与“开方治病”的反差感和趣味性"
+          "强烈的情感共鸣（家庭、爱情、承诺）",
+          "符合快手主流情感内容偏好",
+          "标题简洁有力，易于传播",
+          "借助平台热点话题标签引流"
         ],
         "category": [
-          "家庭喜剧",
-          "社会情绪",
-          "明星日常"
+          "情感",
+          "家庭",
+          "生活"
         ],
-        "reason": "视频结合了顶级喜剧演员的国民度、精准的社会情绪洞察（调休、不想上班）以及家庭代际互动的温馨/搞笑元素，极易引发广泛共鸣和二次传播。"
+        "reason": "标题情感浓度极高，精准切中快手用户对家庭、爱情、长久陪伴的深层情感需求，极易引发广泛共鸣和互动。结合平台热点标签，具备快速起量的潜力。"
       }
     },
     {
-      "videoId": "3xkvfac84zuugwg",
-      "title": "五子棋挑战连抓机甲！ #和平精英地铁逃生 #和平精英七周年 #武子弈 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xkvfac84zuugwg",
-      "authorName": "武子弈（五子棋）",
-      "authorUrl": "https://www.kuaishou.com/profile/3xxk956u2kxzutc",
-      "authorId": "3xxk956u2kxzutc",
-      "publishTime": "2026-04-25T09:40:45.316Z",
-      "likeCount": 24185,
+      "videoId": "3xaewx7bir4wb82",
+      "title": "当我意识到我是这条街的小房东 #夜市 #吐司大锤 #美食 #扬帆夜市",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xaewx7bir4wb82",
+      "authorName": "吐司大锤",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8g9zsmirufrui",
+      "authorId": "3x8g9zsmirufrui",
+      "publishTime": "2026-04-25T09:20:46.442Z",
+      "likeCount": 407565,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 724007,
-      "collectedAt": "2026-05-25T16:10:12.330Z",
+      "viewCount": 21214345,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用第一人称视角，以“当我意识到”开头，制造悬念和代入感。“小房东”身份与“夜市”、“美食”等接地气场景形成反差，结尾使用热门话题标签#扬帆夜市#，增强地域性和搜索曝光。",
+        "hotFactors": [
+          "身份反转（房东与夜市摊主的反差）",
+          "地域热点（扬帆夜市）",
+          "美食探店内容",
+          "第一人称叙事增强真实感"
+        ],
+        "category": [
+          "美食探店",
+          "生活记录",
+          "地域文化"
+        ],
+        "reason": "高点赞量（40.8万）表明内容已获得初步验证，身份反转和夜市美食题材易引发好奇与共鸣，结合地域标签有望持续扩散。"
+      }
+    },
+    {
+      "videoId": "3x2athhv54j3e46",
+      "title": "谁说身高两米做不了地铁的！ #两米女孩 #身高两米 #显瘦穿搭 #腿长一米八",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x2athhv54j3e46",
+      "authorName": "两米女孩秋颖👧",
+      "authorUrl": "https://www.kuaishou.com/profile/3x9c74zd5jsg72k",
+      "authorId": "3x9c74zd5jsg72k",
+      "publishTime": "2026-05-22T06:56:09.665Z",
+      "likeCount": 130290,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 6293696,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "反转",
+        "titleAnalysis": "标题采用“谁说...做不了...”的反问句式，直接挑战普遍认知，制造悬念和冲突。核心信息“身高两米”与“地铁”形成强烈反差，后半部分标签#显瘦穿搭 #腿长一米八则精准切入女性用户关注的穿搭和身材话题，形成内容钩子。",
+        "hotFactors": [
+          "极端身高带来的视觉冲击和话题性",
+          "挑战常识的“反差萌”或“逆袭”叙事",
+          "精准切入女性用户关注的穿搭、显瘦、腿长等痛点"
+        ],
+        "category": [
+          "生活记录",
+          "穿搭",
+          "身材管理"
+        ],
+        "reason": "内容具备强冲突性和视觉奇观，精准戳中大众对“特殊身材如何生活”的好奇心与穿搭需求，数据（13万点赞）已验证其吸引力，具备持续发酵潜力。"
+      }
+    },
+    {
+      "videoId": "3xdv9eki8sepxx6",
+      "title": "洪崖洞到底有几个1楼，很多人来到洪崖洞都搞不清楚，别着急跟着导游橘妹带你走一条只要3分钟的快速路线，能快速从洪崖洞1楼去11楼，比打车快多了!!!#重庆 #重庆路线 #重庆导游橘妹 #洪崖洞",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xdv9eki8sepxx6",
+      "authorName": "重庆旅游橘（川渝导游）",
+      "authorUrl": "https://www.kuaishou.com/profile/3x83326zqd47g9e",
+      "authorId": "3x83326zqd47g9e",
+      "publishTime": "2026-04-26T09:10:47.418Z",
+      "likeCount": 202367,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 14189318,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 85,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“痛点提问+解决方案+结果对比”结构。先以“洪崖洞到底有几个1楼”制造认知冲突和悬念，吸引有相同困惑的游客；接着给出“3分钟快速路线”的具体解决方案，并用“比打车快多了”进行结果对比，强化价值感。标签精准覆盖地域和旅游需求。",
+        "hotFactors": [
+          "精准解决旅游场景下的具体痛点（导航混乱）",
+          "提供高价值、可操作的实用信息（3分钟路线）",
+          "强烈的对比和结果承诺（比打车快）",
+          "地域标签精准，易吸引目标用户（重庆旅游）"
+        ],
+        "category": [
+          "旅游攻略",
+          "本地生活",
+          "实用技巧"
+        ],
+        "reason": "视频精准切入重庆旅游的高频痛点（洪崖洞导航），提供明确、高效、有对比的解决方案，实用价值极高，易引发收藏、分享和跟拍模仿，具备强传播属性。"
+      }
+    },
+    {
+      "videoId": "3xy7vtt6ypdsdki",
+      "title": "如果帅是一种感觉那你会喜欢我吗 #进阶倒扑虎 #已成年无不良引导 #娜娜 #会火 @浮生梦.(O3xt3wndwf8rx43g)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xy7vtt6ypdsdki",
+      "authorName": "娜娜🦋",
+      "authorUrl": "https://www.kuaishou.com/profile/3x8qtxge6gmcaqe",
+      "authorId": "3x8qtxge6gmcaqe",
+      "publishTime": "2026-05-22T10:22:03.070Z",
+      "likeCount": 193618,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 3748758,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 78,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用第一人称设问句式，结合自恋式表达（'如果帅是一种感觉'）与互动邀请（'那你会喜欢我吗'），直接引发观众情感共鸣与互动欲望。标签#进阶倒扑虎暗示内容可能包含高难度或反差动作，#已成年无不良引导则规避审核风险并吸引特定受众。",
+        "hotFactors": [
+          "高颜值人设与自信表达引发共情",
+          "悬念式动作标签（#进阶倒扑虎）激发好奇心",
+          "精准的年龄与内容合规声明扩大受众范围"
+        ],
+        "category": [
+          "颜值展示",
+          "才艺/动作挑战",
+          "情感互动"
+        ],
+        "reason": "标题结合自恋式互动与悬念标签，易引发评论区情感共鸣与好奇围观；19.4万点赞显示内容已获初步流量验证，但评论与分享数据缺失可能反映互动引导不足或数据延迟。"
+      }
+    },
+    {
+      "videoId": "3xi48jtbfj3xsv6",
+      "title": "你们家女儿也这样吗？ 只跟爸爸亲，妈妈是外人。＃爸爸的小棉袄 ＃家庭日常 ＃父女 ＃袁家三宝",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xi48jtbfj3xsv6",
+      "authorName": "袁家三宝",
+      "authorUrl": "https://www.kuaishou.com/profile/3xiqrv9k94v2ppq",
+      "authorId": "3xiqrv9k94v2ppq",
+      "publishTime": "2026-05-19T09:26:34.837Z",
+      "likeCount": 59666,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 4360181,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用疑问句式（'你们家女儿也这样吗？'）引发观众共鸣和代入感，紧接着用对比（'只跟爸爸亲，妈妈是外人'）制造家庭日常中的微小冲突和趣味点，最后通过标签（#爸爸的小棉袄 #家庭日常 #父女 #袁家三宝）强化主题和账号人设，结构清晰，情感指向明确。",
+        "hotFactors": [
+          "强共情家庭话题（父女关系、妈妈'吃醋'）",
+          "真实生活场景引发广泛共鸣",
+          "疑问句式标题易引发互动和讨论"
+        ],
+        "category": [
+          "家庭亲子",
+          "日常生活",
+          "情感共鸣"
+        ],
+        "reason": "标题精准切入家庭亲子关系中的常见趣味场景，极易引发有孩家庭（尤其是女儿家庭）的共鸣和讨论。6万点赞表明内容已获得初步认可，具备持续发酵潜力。但评论和分享数据缺失，可能影响后续爆发力判断。"
+      }
+    },
+    {
+      "videoId": "3xgrqx8yz55v9rs",
+      "title": "既然执迷不悟，那就只有把你变成步兵了#成都浩弟 #代驾 #第一人称 #迈凯轮",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xgrqx8yz55v9rs",
+      "authorName": "成都浩弟",
+      "authorUrl": "https://www.kuaishou.com/profile/3xbuh94fjsezf4m",
+      "authorId": "3xbuh94fjsezf4m",
+      "publishTime": "2026-05-05T07:42:13.658Z",
+      "likeCount": 28461,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 4428611,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用‘既然...那就...’的因果递进句式，前半句‘执迷不悟’暗示冲突或矛盾，后半句‘变成步兵’制造悬念和反转，结合#成都浩弟 #代驾 #第一人称 #迈凯轮等标签，构建了‘代驾司机与豪车车主’的戏剧性场景，引发好奇。",
+        "hotFactors": [
+          "第一人称视角增强代入感和真实感",
+          "豪车（迈凯轮）与代驾职业的反差制造冲突和看点",
+          "‘执迷不悟’和‘变成步兵’的悬念和反转钩子"
+        ],
+        "category": [
+          "生活纪实",
+          "职业体验",
+          "豪车相关"
+        ],
+        "reason": "标题悬念和冲突感强，结合豪车与代驾的反差题材，易引发好奇和讨论。点赞量已达2.8万，显示初期热度不错，但评论和分享数据缺失可能影响长期传播。"
+      }
+    },
+    {
+      "videoId": "3xvjszujsgjkbss",
+      "title": "女孩只是吃了一口雪糕，结果吓得旁边大妈撒腿就跑#好剧推荐 #因为一个片段看了整部剧",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xvjszujsgjkbss",
+      "authorName": "晨曦",
+      "authorUrl": "https://www.kuaishou.com/profile/3x26yi27b8drhxa",
+      "authorId": "3x26yi27b8drhxa",
+      "publishTime": "2026-03-04T13:50:32.763Z",
+      "likeCount": 27946,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 4583977,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“反常行为+意外结果”的强悬念结构。前半句“女孩只是吃了一口雪糕”是日常、无害的行为，后半句“吓得旁边大妈撒腿就跑”则是一个完全出乎意料、违反常理的结果，两者形成巨大反差，强烈激发用户的好奇心，想知道“为什么”。标签#好剧推荐 #因为一个片段看了整部剧进一步明确了内容属性，暗示这是一个戏剧性极强的片段，能有效吸引剧迷和寻求刺激的观众。",
+        "hotFactors": [
+          "强烈的悬念与反差感",
+          "精准的剧集推荐标签",
+          "利用日常场景制造戏剧冲突"
+        ],
+        "category": [
+          "影视剪辑",
+          "剧情解说",
+          "悬念/反转"
+        ],
+        "reason": "标题悬念感极强，能有效引发用户点击和评论（询问原因）。数据上点赞量已不错，但评论和分享为0，可能因发布时间尚短或算法推荐未完全启动。一旦进入推荐池，其高点击率潜力有望带动互动数据上涨，具备爆款潜力。"
+      }
+    },
+    {
+      "videoId": "3xsub7h5pk3mx96",
+      "title": "乖乖女终于卸下伪装 #乖乖女 #影画演绎未来之星 #快成长计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xsub7h5pk3mx96",
+      "authorName": "蒸鱼馨馨",
+      "authorUrl": "https://www.kuaishou.com/profile/3xnkxs2yavmjviu",
+      "authorId": "3xnkxs2yavmjviu",
+      "publishTime": "2026-05-25T09:46:06.796Z",
+      "likeCount": 26365,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1358439,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -67,19 +383,59 @@
       "aiAnalysis": {
         "explosionRate": 65,
         "trend": "rising",
-        "hookType": "悬念",
-        "titleAnalysis": "标题采用“挑战+结果”的悬念结构，前半句“五子棋挑战连抓机甲”制造了游戏玩法与游戏内强力装备（机甲）之间的认知冲突和悬念，后半句通过热门话题标签（#和平精英地铁逃生 #和平精英七周年）精准蹭热度，吸引核心玩家点击。",
+        "hookType": "反转",
+        "titleAnalysis": "采用“身份标签+行为反转”结构，前半句“乖乖女”建立人设预期，后半句“卸下伪装”制造强烈反差，符合短视频“人设崩塌”的经典爆款公式。",
         "hotFactors": [
-          "游戏玩法创新（五子棋与射击游戏结合）",
-          "精准蹭热门游戏版本/活动热度（地铁逃生、七周年）",
-          "悬念式标题引发好奇"
+          "人设反转（乖巧→真实）",
+          "情感共鸣（压抑释放）",
+          "成长话题（#快成长计划）"
         ],
         "category": [
-          "游戏",
-          "创意玩法",
-          "和平精英"
+          "情感剧情",
+          "成长励志",
+          "女性话题"
         ],
-        "reason": "标题结合了创意玩法与热门游戏话题，能有效吸引《和平精英》玩家的好奇心。点赞数据尚可，但评论和分享为零，表明内容可能缺乏深度互动点或情感共鸣，限制了其成为现象级爆款的潜力。"
+        "reason": "标题精准击中“标签化社会压力”痛点，2.6万点赞显示初期共鸣强，但零评论/分享可能反映内容深度不足或互动引导弱，需观察后续数据是否突破圈层。"
+      }
+    },
+    {
+      "videoId": "3xnpp8wa7kcp5ry",
+      "title": "两男子酒后欢乐多 将路边石墩当陀螺抽打 网友:让警察喊他俩搬回去（Y）",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xnpp8wa7kcp5ry",
+      "authorName": "晓辉在路上",
+      "authorUrl": "https://www.kuaishou.com/profile/3x55vnqd8a44zv9",
+      "authorId": "3x55vnqd8a44zv9",
+      "publishTime": "2026-05-01T09:49:24.541Z",
+      "likeCount": 35739,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 5229533,
+      "collectedAt": "2026-05-25T16:20:12.657Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“行为描述+后果暗示”结构。前半部分“两男子酒后欢乐多 将路边石墩当陀螺抽打”用具体、反常的行为制造冲突和画面感；后半部分“网友:让警察喊他俩搬回去”引入第三方视角（网友/警察），暗示行为可能违法或引发后果，制造悬念和讨论点。结尾的“（Y）”可能为视频标记或引导符号。",
+        "hotFactors": [
+          "反常行为引发好奇",
+          "酒后失态的社会话题性",
+          "网友调侃与执法介入的潜在冲突",
+          "强画面感和传播性"
+        ],
+        "category": [
+          "社会新闻",
+          "搞笑",
+          "奇闻轶事"
+        ],
+        "reason": "视频内容具有强冲突性和话题性，易引发围观和讨论。标题通过具体行为和后果暗示制造悬念，符合短视频平台对猎奇、冲突类内容的偏好。点赞量已初具规模，具备进一步传播潜力。"
       }
     }
   ]
