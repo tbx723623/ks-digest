@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T10:32:39.207Z",
+  "fetchedAt": "2026-05-25T10:44:18.345Z",
   "date": "2026-05-25",
-  "count": 3,
+  "count": 4,
   "items": [
     {
-      "videoId": "3xjkvkza7e4qn6i",
-      "title": "国防部：解放军始终保持高度戒备 坚决挫败任何“台独”妄动（央视新闻）",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xjkvkza7e4qn6i",
-      "authorName": "三沙卫视",
-      "authorUrl": "https://www.kuaishou.com/profile/3xgftggi6xmdy92",
-      "authorId": "3xgftggi6xmdy92",
-      "publishTime": "2026-05-20T15:10:06.039Z",
-      "likeCount": 1336,
+      "videoId": "3xc63jwxz56smv4",
+      "title": "关系再好，也不要跟别人说的八句话 #忠告  #人际关系 #喜爱度激励计划 #知识播种计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xc63jwxz56smv4",
+      "authorName": "董超",
+      "authorUrl": "https://www.kuaishou.com/profile/3xba59cndhgm629",
+      "authorId": "3xba59cndhgm629",
+      "publishTime": "2026-03-04T07:25:00.519Z",
+      "likeCount": 8960,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 64478,
-      "collectedAt": "2026-05-25T10:30:12.336Z",
+      "viewCount": 371479,
+      "collectedAt": "2026-05-25T10:40:12.300Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -28,57 +28,20 @@
       "aiAnalysis": {
         "explosionRate": 85,
         "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用“权威信源+强硬表态+敏感议题”结构。前半部分“国防部：解放军始终保持高度戒备”确立权威性和严肃性，后半部分“坚决挫败任何‘台独’妄动”直接点明冲突核心，使用“妄动”等情绪化词汇，极具冲击力。",
+        "hookType": "悬念",
+        "titleAnalysis": "标题采用“数字+警告”结构（八句话），结合“关系再好”这一普遍痛点，直接点明内容价值（忠告），并利用#标签强化知识属性和平台激励计划，易于引发好奇和点击。",
         "hotFactors": [
-          "涉及国家主权与领土完整的核心议题，极易引发全民关注和讨论",
-          "官方权威信源（国防部、央视新闻）发布，信息可信度高，传播力强"
+          "普适性强的人际关系话题",
+          "数字清单体提供明确预期",
+          "结合平台激励计划标签获得流量扶持",
+          "“忠告”类内容易引发共鸣和收藏"
         ],
         "category": [
-          "时政",
-          "军事",
-          "国家安全"
+          "人际关系",
+          "生活知识",
+          "情感心理"
         ],
-        "reason": "内容涉及台海局势这一全民高度关注的热点，立场鲜明、情绪强烈，符合平台用户对重大时事的关切，易引发广泛共鸣和二次传播。"
-      }
-    },
-    {
-      "videoId": "3x6xdjswdq9uej4",
-      "title": "王从天降😡😡😡 #三角洲行动",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6xdjswdq9uej4",
-      "authorName": "仙鹤（鹤仙电竞）三角洲行动",
-      "authorUrl": "https://www.kuaishou.com/profile/3xcjpcxyi62mrwg",
-      "authorId": "3xcjpcxyi62mrwg",
-      "publishTime": "2026-05-23T22:46:23.843Z",
-      "likeCount": 25858,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 320709,
-      "collectedAt": "2026-05-25T10:30:12.336Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "冲突",
-        "titleAnalysis": "标题采用‘王从天降’这一夸张、带有冲突感的短语，结合愤怒表情符号😡😡😡，制造强烈的情绪冲击和悬念。后接游戏标签#三角洲行动，精准定位游戏垂类受众，形成‘情绪+内容’的钩子结构。",
-        "hotFactors": [
-          "情绪化标题与表情符号强化冲突感",
-          "精准绑定热门游戏《三角洲行动》垂类流量",
-          "‘天降’概念暗示意外/高光时刻，符合游戏短视频爽点"
-        ],
-        "category": [
-          "游戏",
-          "电竞",
-          "射击游戏"
-        ],
-        "reason": "标题冲突感强，能快速吸引游戏用户点击；绑定热门游戏IP，具备垂类流量基础。但评论和分享数据缺失，可能因发布时间短或互动引导不足，影响后续爆发潜力。"
+        "reason": "话题精准切中大众社交痛点，标题结构清晰有吸引力，点赞数据高但互动（评论/分享）为零，可能处于流量爬升初期或内容引发“默默点赞”行为，具备爆款潜力。"
       }
     },
     {
@@ -92,8 +55,47 @@
       "likeCount": 29537,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 641095,
-      "collectedAt": "2026-05-25T10:30:12.336Z",
+      "viewCount": 641143,
+      "collectedAt": "2026-05-25T10:40:12.300Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 75,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“地域标签+童年回忆+超能力”的结构，精准定位湖南用户群体，利用“超能力”一词制造悬念和趣味性，引发好奇和共鸣。",
+        "hotFactors": [
+          "强烈的地域认同感",
+          "童年怀旧情绪",
+          "“超能力”概念的新奇包装"
+        ],
+        "category": [
+          "生活",
+          "地域文化",
+          "怀旧"
+        ],
+        "reason": "标题精准切入地域和童年怀旧两大流量密码，易引发特定群体共鸣和互动，数据表现良好，具备持续发酵潜力。"
+      }
+    },
+    {
+      "videoId": "3xq2mrgcxfdct5e",
+      "title": "#喜爱度激励计划 #快手乡村超级碗 #100个家乡舞台 \n @快手颜值(O3x9szgbfvmb2h92) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm) @唱作音乐人《付飞社》(O3xtbqgvpkurvnca)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xq2mrgcxfdct5e",
+      "authorName": "析澳农村娃唱跳舞",
+      "authorUrl": "https://www.kuaishou.com/profile/3x6jngx5rjy38iw",
+      "authorId": "3x6jngx5rjy38iw",
+      "publishTime": "2026-05-12T08:49:52.683Z",
+      "likeCount": 1558,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 47679,
+      "collectedAt": "2026-05-25T10:40:12.300Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -106,18 +108,59 @@
         "explosionRate": 65,
         "trend": "rising",
         "hookType": "共情",
-        "titleAnalysis": "标题采用“地域+童年+超能力”的组合结构，通过“湖南人”精准定位地域受众，用“小时候的超能力”唤起集体记忆和好奇心，形成强烈的情感共鸣和身份认同钩子。",
+        "titleAnalysis": "标题采用“平台活动标签+地域文化标签+明星/达人联动”的复合结构。#喜爱度激励计划、#快手乡村超级碗、#100个家乡舞台 三个标签精准定位平台扶持方向、热门赛事和地域文化主题，形成流量叠加。@多位官方账号和知名唱作人，旨在借助其影响力进行初始曝光和背书。",
         "hotFactors": [
-          "精准地域标签（湖南）引发本地用户强烈共鸣",
-          "童年怀旧话题具有广泛情感基础",
-          "“超能力”一词制造悬念和趣味性"
+          "平台官方活动流量扶持（喜爱度激励计划、乡村超级碗）",
+          "地域文化共鸣与乡土情怀（农村娃、家乡舞台）",
+          "明星/达人联动引流（@付飞社等）",
+          "“唱跳舞”形式结合，内容呈现丰富"
         ],
         "category": [
-          "生活/怀旧",
-          "地域文化",
-          "趣味/搞笑"
+          "乡村生活",
+          "才艺展示",
+          "音乐舞蹈",
+          "平台活动"
         ],
-        "reason": "标题精准切入地域怀旧赛道，情感共鸣强，易引发本地用户互动和分享。点赞量已初步验证内容吸引力，但评论和分享数据缺失可能影响爆发上限。"
+        "reason": "视频内容契合快手平台对乡村、才艺、正能量内容的扶持导向，且通过标签和@联动获得了初始流量入口。点赞量尚可但互动（评论、分享）为零，表明内容可能已获得初步曝光但尚未引发深度互动或破圈。若内容质量过硬，有借助活动势能上升的趋势。"
+      }
+    },
+    {
+      "videoId": "3xqfa7sdj9pzyxw",
+      "title": "蛋仔派对真人版来啦",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xqfa7sdj9pzyxw",
+      "authorName": "蒙阿凡",
+      "authorUrl": "https://www.kuaishou.com/profile/3xfw37ve5msw22m",
+      "authorId": "3xfw37ve5msw22m",
+      "publishTime": "2026-05-09T14:47:11.920Z",
+      "likeCount": 13596,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 582714,
+      "collectedAt": "2026-05-25T10:40:12.300Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“IP名称+真人版”结构，直接关联热门游戏《蛋仔派对》，利用游戏本身的庞大玩家基数和情感连接，降低理解门槛，激发好奇心和观看欲望。",
+        "hotFactors": [
+          "热门游戏IP衍生内容",
+          "真人化演绎的视觉反差与趣味性",
+          "精准触达游戏核心用户群体"
+        ],
+        "category": [
+          "游戏衍生",
+          "真人演绎",
+          "趣味短剧"
+        ],
+        "reason": "标题精准绑定高热度游戏IP，内容形式（真人版）易产生新奇感和传播点，初始点赞数据良好，具备在游戏粉丝圈层内快速扩散的潜力。"
       }
     }
   ]

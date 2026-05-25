@@ -1,59 +1,25 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T10:32:39.211Z",
+  "generatedAt": "2026-05-25T10:44:18.346Z",
   "date": "2026-05-25",
-  "count": 10,
+  "count": 13,
   "items": [
     {
-      "videoId": "3xjkvkza7e4qn6i",
-      "title": "国防部：解放军始终保持高度戒备 坚决挫败任何“台独”妄动（央视新闻）",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xjkvkza7e4qn6i",
-      "authorName": "三沙卫视",
-      "likeCount": 1336,
+      "videoId": "3xc63jwxz56smv4",
+      "title": "关系再好，也不要跟别人说的八句话 #忠告  #人际关系 #喜爱度激励计划 #知识播种计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xc63jwxz56smv4",
+      "authorName": "董超",
+      "likeCount": 8960,
       "commentCount": 0,
       "explosionRate": 85,
       "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "时政",
-        "军事",
-        "国家安全"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3x6xdjswdq9uej4",
-      "title": "王从天降😡😡😡 #三角洲行动",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6xdjswdq9uej4",
-      "authorName": "仙鹤（鹤仙电竞）三角洲行动",
-      "likeCount": 25858,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "rising",
-      "hookType": "冲突",
-      "category": [
-        "游戏",
-        "电竞",
-        "射击游戏"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x6h9rxw2eu3puu",
-      "title": "人去世了，欠贷款还要还吗？ #老铁知识百科 #知识播种计划 #未来预备班",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6h9rxw2eu3puu",
-      "authorName": "敬博老师",
-      "likeCount": 5547,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
       "hookType": "悬念",
       "category": [
-        "法律知识",
-        "生活常识",
-        "社会话题"
+        "人际关系",
+        "生活知识",
+        "情感心理"
       ],
-      "estimatedTime": "2-4小时"
+      "estimatedTime": "正在爆发"
     },
     {
       "videoId": "3xbkrubrwc956bc",
@@ -62,13 +28,183 @@
       "authorName": "邬天宇",
       "likeCount": 29537,
       "commentCount": 0,
+      "explosionRate": 75,
+      "trend": "rising",
+      "hookType": "共情",
+      "category": [
+        "生活",
+        "地域文化",
+        "怀旧"
+      ],
+      "estimatedTime": "1-2小时"
+    },
+    {
+      "videoId": "3xv54e5pdirs9em",
+      "title": "被吃掉就淘汰#蛋仔派对 #蛋仔派对创计划 #快手游戏给我流量 #幸福乡村春耕季 @快手游戏(O3xqhn43krsnuvwm) @快手热点(O3xddgkd5fav5if9) @快手粉条(O3xhcy6vhfzcu3qe)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xv54e5pdirs9em",
+      "authorName": "夏末游戏",
+      "likeCount": 11768,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "悬念",
+      "category": [
+        "游戏",
+        "休闲娱乐",
+        "挑战"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xq2mrgcxfdct5e",
+      "title": "#喜爱度激励计划 #快手乡村超级碗 #100个家乡舞台 \n @快手颜值(O3x9szgbfvmb2h92) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm) @唱作音乐人《付飞社》(O3xtbqgvpkurvnca)",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xq2mrgcxfdct5e",
+      "authorName": "析澳农村娃唱跳舞",
+      "likeCount": 1558,
+      "commentCount": 0,
       "explosionRate": 65,
       "trend": "rising",
       "hookType": "共情",
       "category": [
-        "生活/怀旧",
-        "地域文化",
-        "趣味/搞笑"
+        "乡村生活",
+        "才艺展示",
+        "音乐舞蹈",
+        "平台活动"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xe6f7n4i6xcq7k",
+      "title": "这次没有去法国，没想到会有这么好的机会，外婆说马大哈给家里争光了 #外国女婿马大哈",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xe6f7n4i6xcq7k",
+      "authorName": "马大哈夫妇",
+      "likeCount": 8242,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "反转",
+      "category": [
+        "家庭生活",
+        "跨文化",
+        "情感"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xqfa7sdj9pzyxw",
+      "title": "蛋仔派对真人版来啦",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xqfa7sdj9pzyxw",
+      "authorName": "蒙阿凡",
+      "likeCount": 13596,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "rising",
+      "hookType": "共情",
+      "category": [
+        "游戏衍生",
+        "真人演绎",
+        "趣味短剧"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3x4ei4qffmvegxs",
+      "title": "今天可能位置没选对没钓到龙虾，今天买了点做了个麻辣龙虾看着还不错吧，你们老家河里能掉龙虾了没？#农村守护人 #三农 #记录真实生活",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x4ei4qffmvegxs",
+      "authorName": "李会儿、、",
+      "likeCount": 7404,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "三农",
+        "美食",
+        "乡村生活"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3x7x3duw8avf8ui",
+      "title": "#快成长计划 #潮流生活成长之星 #骗你生女儿",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x7x3duw8avf8ui",
+      "authorName": "小金果宝贝",
+      "likeCount": 12361,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "亲子",
+        "萌娃",
+        "生活记录"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xddt7uapfhjuig",
+      "title": "广场人山人海 #口哨表演 #现场演唱 #光合计划 #喜爱度激劢计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xddt7uapfhjuig",
+      "authorName": "惜缘",
+      "likeCount": 6131,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "共情",
+      "category": [
+        "才艺表演",
+        "现场纪实",
+        "生活记录"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xmiyd6rfh2wwze",
+      "title": "四川最美的14个地方，去过一半此生无憾！ #旅行推荐官  #旅行大玩家  #旅游攻略  #四川旅游",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xmiyd6rfh2wwze",
+      "authorName": "Wonderful.",
+      "likeCount": 1629,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "悬念",
+      "category": [
+        "旅行攻略",
+        "地域推荐",
+        "生活记录"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xz8bznb8mbkga6",
+      "title": "银行最怕你知道这三个号码 #老铁财富密码 #老铁看热点 #文娱百科明日之星 #快成长计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xz8bznb8mbkga6",
+      "authorName": "周沫讲理财",
+      "likeCount": 19106,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "悬念",
+      "category": [
+        "财经理财",
+        "生活技巧"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xi5sekbdw3xgfk",
+      "title": "精彩的绝活，最美的展示，高难度动作行云流水 #民间艺术 #知识播种计划",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xi5sekbdw3xgfk",
+      "authorName": "九十玖",
+      "likeCount": 2529,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "爽点",
+      "category": [
+        "才艺展示",
+        "传统文化",
+        "技能技巧"
       ],
       "estimatedTime": "2-4小时"
     },
@@ -77,7 +213,7 @@
       "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
       "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
       "authorName": "远嫁燕子的一家",
-      "likeCount": 9407,
+      "likeCount": 9409,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
@@ -85,93 +221,7 @@
       "category": [
         "美食",
         "家庭生活",
-        "情感"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xfgi7w35dwdb8g",
-      "title": "为什么你拼命运动还是瘦不下来？90%的人忽略了这条“胆经”！ #科普一下",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xfgi7w35dwdb8g",
-      "authorName": "北京卫视养生堂",
-      "likeCount": 3509,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "悬念",
-      "category": [
-        "健康养生",
-        "中医科普",
-        "减肥健身"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xjvtkzwx5catby",
-      "title": "单局80个红色变卖物的诱惑#和平精英地铁逃生 @快手游戏(O3xqhn43krsnuvwm) @快手热点(O3xddgkd5fav5if9) @我要上热门(O3x8er38dpbhvbaa)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xjvtkzwx5catby",
-      "authorName": "胶布✨「胶布电竞」",
-      "likeCount": 6982,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "爽点",
-      "category": [
-        "游戏",
-        "手游",
-        "和平精英",
-        "攻略/高光时刻"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3x45bqjr92pq936",
-      "title": "今天跟何思成真正意义上的分开了，这一次分开不知道什么时候才能相聚，没想到的是一直嬉皮笑脸的老何居然哭成这个样子 #父子 #亲子 #异地恋 #萌娃大哭",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x45bqjr92pq936",
-      "authorName": "小树树",
-      "likeCount": 7291,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "亲子",
-        "情感",
-        "生活记录"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xjvpvkwp7sfbj2",
-      "title": "这就是每一个中国人，都想来看上一眼的南京长江大桥 #争气桥 #我的旅行日记 #南京长江大桥",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xjvpvkwp7sfbj2",
-      "authorName": "豫见China",
-      "likeCount": 1363,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "旅行",
-        "文化地标",
-        "爱国情怀"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xdf9b384b2ibga",
-      "title": "母亲节不止五月中的一天，而妈妈的爱却是岁岁年年，愿全天下父母健康快乐❤️ #关于妈妈的一切 #春日星引力 #快手星朋友 #魏新雨",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xdf9b384b2ibga",
-      "authorName": "魏新雨",
-      "likeCount": 12628,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "共情",
-      "category": [
-        "情感",
-        "节日祝福",
-        "明星/达人"
+        "地域文化"
       ],
       "estimatedTime": "2-4小时"
     }
