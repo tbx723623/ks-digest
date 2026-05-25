@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T10:23:01.210Z",
+  "fetchedAt": "2026-05-25T10:32:39.207Z",
   "date": "2026-05-25",
-  "count": 4,
+  "count": 3,
   "items": [
     {
-      "videoId": "3x6r3ry5wz3ggy6",
-      "title": "全国妈妈的统一夜晚…………到底为什么小孩睡觉会到处滚 #人类幼崽的迷惑行为 #宝宝睡觉 #带娃日常 #人类幼崽",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6r3ry5wz3ggy6",
-      "authorName": "小树树",
-      "authorUrl": "https://www.kuaishou.com/profile/3xwvj3yzskww7hw",
-      "authorId": "3xwvj3yzskww7hw",
-      "publishTime": "2026-03-06T06:05:44.618Z",
-      "likeCount": 5258,
+      "videoId": "3xjkvkza7e4qn6i",
+      "title": "国防部：解放军始终保持高度戒备 坚决挫败任何“台独”妄动（央视新闻）",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xjkvkza7e4qn6i",
+      "authorName": "三沙卫视",
+      "authorUrl": "https://www.kuaishou.com/profile/3xgftggi6xmdy92",
+      "authorId": "3xgftggi6xmdy92",
+      "publishTime": "2026-05-20T15:10:06.039Z",
+      "likeCount": 1336,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 750508,
-      "collectedAt": "2026-05-25T10:20:12.653Z",
+      "viewCount": 64478,
+      "collectedAt": "2026-05-25T10:30:12.336Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,116 +26,35 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 85,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“全国妈妈的统一夜晚”这一高度概括性、引发共鸣的表述作为主标题，直接锁定目标受众（妈妈群体）。副标题“到底为什么小孩睡觉会到处滚”以疑问句形式提出具体、普遍的育儿困惑，引发好奇。标签#人类幼崽的迷惑行为等精准定位内容类型，增强传播性。",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“权威信源+强硬表态+敏感议题”结构。前半部分“国防部：解放军始终保持高度戒备”确立权威性和严肃性，后半部分“坚决挫败任何‘台独’妄动”直接点明冲突核心，使用“妄动”等情绪化词汇，极具冲击力。",
         "hotFactors": [
-          "精准的母婴育儿垂直领域内容",
-          "强烈的群体共鸣与身份认同（妈妈群体）",
-          "提出普遍育儿困惑，引发互动讨论欲望",
-          "使用“人类幼崽”等网络流行语，贴近年轻父母语境"
+          "涉及国家主权与领土完整的核心议题，极易引发全民关注和讨论",
+          "官方权威信源（国防部、央视新闻）发布，信息可信度高，传播力强"
         ],
         "category": [
-          "母婴育儿",
-          "生活日常",
-          "搞笑萌娃"
+          "时政",
+          "军事",
+          "国家安全"
         ],
-        "reason": "内容精准切入母婴育儿这一高活跃度垂直领域，标题和标签设计能有效引发目标受众（妈妈群体）的强烈共鸣和身份认同。提出的“宝宝睡觉乱滚”是普遍存在的育儿场景，容易激发用户分享自身经历、寻求解决方案或单纯会心一笑的互动欲望，具备良好的传播基础。点赞数据已显示初步热度，若评论区能形成有效互动，有望进一步扩散。"
+        "reason": "内容涉及台海局势这一全民高度关注的热点，立场鲜明、情绪强烈，符合平台用户对重大时事的关切，易引发广泛共鸣和二次传播。"
       }
     },
     {
-      "videoId": "3xies8kxwbkjj64",
-      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
-      "authorName": "甜吖",
-      "authorUrl": "https://www.kuaishou.com/profile/3xbdz5fic8euk4y",
-      "authorId": "3xbdz5fic8euk4y",
-      "publishTime": "2026-05-08T21:43:26.019Z",
-      "likeCount": 124479,
+      "videoId": "3x6xdjswdq9uej4",
+      "title": "王从天降😡😡😡 #三角洲行动",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x6xdjswdq9uej4",
+      "authorName": "仙鹤（鹤仙电竞）三角洲行动",
+      "authorUrl": "https://www.kuaishou.com/profile/3xcjpcxyi62mrwg",
+      "authorId": "3xcjpcxyi62mrwg",
+      "publishTime": "2026-05-23T22:46:23.843Z",
+      "likeCount": 25858,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1288049,
-      "collectedAt": "2026-05-25T10:20:12.653Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用多标签组合形式，包含节日热点（#五月嗨翻天、#五一气氛组已就位）、平台活动（#快手乡村超级碗）、情感共鸣（#思白发望断崖）以及官方流量入口（@快手粉条、@快手热点、@快手音乐），结构上旨在最大化曝光和算法推荐。",
-        "hotFactors": [
-          "精准绑定五一节日热点与平台大型活动（快手乡村超级碗）",
-          "情感化标签（思白发望断崖）引发怀旧与乡土情怀共鸣",
-          "主动@多个官方流量账号，争取平台资源倾斜"
-        ],
-        "category": [
-          "乡村生活",
-          "节日热点",
-          "情感共鸣"
-        ],
-        "reason": "视频结合了节日热点、平台活动与情感标签，具备流量基础。高点赞量（12.4万）与零评论、零分享的数据异常，可能表明视频内容具有强即时吸引力但互动深度不足，或数据存在刷量嫌疑。爆率中等偏上，趋势上升，但需观察后续互动数据是否真实增长。"
-      }
-    },
-    {
-      "videoId": "3xyjdwehqgj78fg",
-      "title": "湖南妈妈的超能力 #湖南 #真实",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xyjdwehqgj78fg",
-      "authorName": "邬天宇",
-      "authorUrl": "https://www.kuaishou.com/profile/3xq8qh4c5huhtrs",
-      "authorId": "3xq8qh4c5huhtrs",
-      "publishTime": "2026-04-11T20:39:34.203Z",
-      "likeCount": 13679,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 457297,
-      "collectedAt": "2026-05-25T10:20:12.653Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 65,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“地域+身份+超能力”的结构，通过“超能力”一词制造悬念和期待感，同时“湖南妈妈”精准定位地域和人群，容易引发特定群体的共鸣和好奇。",
-        "hotFactors": [
-          "地域标签精准（湖南）",
-          "身份共鸣（妈妈群体）",
-          "悬念词“超能力”引发好奇",
-          "“真实”标签增强可信度"
-        ],
-        "category": [
-          "家庭生活",
-          "情感共鸣",
-          "地域文化"
-        ],
-        "reason": "标题精准切入地域和家庭情感赛道，利用“超能力”制造悬念，易引发妈妈群体及地域用户的共鸣与好奇。点赞数据尚可，但评论和分享为零，可能处于流量测试初期，若内容能兑现“超能力”的期待（如育儿技巧、生活智慧），则有上升潜力。"
-      }
-    },
-    {
-      "videoId": "3xsdvktawhfnia2",
-      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
-      "authorName": "周沫讲理财",
-      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
-      "authorId": "3xhinyavn5y69uc",
-      "publishTime": "2026-04-22T11:27:31.413Z",
-      "likeCount": 29578,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 1455932,
-      "collectedAt": "2026-05-25T10:20:12.653Z",
+      "viewCount": 320709,
+      "collectedAt": "2026-05-25T10:30:12.336Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -148,18 +67,57 @@
         "explosionRate": 65,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用“场景冲突+痛点提问”结构。前半句“去派出所报警被大声嚷嚷”构建了一个极具反差和冲突感的场景（本应寻求帮助的地方却遭遇不公），后半句“怎么办”直接抛出用户痛点，引发共鸣和好奇。标签#维权、#老铁看热点精准定位了社会热点和实用内容赛道。",
+        "titleAnalysis": "标题采用‘王从天降’这一夸张、带有冲突感的短语，结合愤怒表情符号😡😡😡，制造强烈的情绪冲击和悬念。后接游戏标签#三角洲行动，精准定位游戏垂类受众，形成‘情绪+内容’的钩子结构。",
         "hotFactors": [
-          "强烈的场景冲突与反差感",
-          "精准切中“维权难”的社会痛点与情绪共鸣",
-          "实用性强，提供解决方案的预期"
+          "情绪化标题与表情符号强化冲突感",
+          "精准绑定热门游戏《三角洲行动》垂类流量",
+          "‘天降’概念暗示意外/高光时刻，符合游戏短视频爽点"
         ],
         "category": [
-          "社会热点",
-          "生活技巧",
-          "法律维权"
+          "游戏",
+          "电竞",
+          "射击游戏"
         ],
-        "reason": "内容触及公众对公共服务体验的普遍关切，冲突感强，易引发讨论和分享。点赞量已初步验证吸引力，但评论和分享数据缺失可能表明内容尚未完全破圈或存在争议性。"
+        "reason": "标题冲突感强，能快速吸引游戏用户点击；绑定热门游戏IP，具备垂类流量基础。但评论和分享数据缺失，可能因发布时间短或互动引导不足，影响后续爆发潜力。"
+      }
+    },
+    {
+      "videoId": "3xbkrubrwc956bc",
+      "title": "湖南人小时候的超能力 #湖南 #超能力",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrubrwc956bc",
+      "authorName": "邬天宇",
+      "authorUrl": "https://www.kuaishou.com/profile/3xq8qh4c5huhtrs",
+      "authorId": "3xq8qh4c5huhtrs",
+      "publishTime": "2026-03-06T09:57:17.751Z",
+      "likeCount": 29537,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 641095,
+      "collectedAt": "2026-05-25T10:30:12.336Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "共情",
+        "titleAnalysis": "标题采用“地域+童年+超能力”的组合结构，通过“湖南人”精准定位地域受众，用“小时候的超能力”唤起集体记忆和好奇心，形成强烈的情感共鸣和身份认同钩子。",
+        "hotFactors": [
+          "精准地域标签（湖南）引发本地用户强烈共鸣",
+          "童年怀旧话题具有广泛情感基础",
+          "“超能力”一词制造悬念和趣味性"
+        ],
+        "category": [
+          "生活/怀旧",
+          "地域文化",
+          "趣味/搞笑"
+        ],
+        "reason": "标题精准切入地域怀旧赛道，情感共鸣强，易引发本地用户互动和分享。点赞量已初步验证内容吸引力，但评论和分享数据缺失可能影响爆发上限。"
       }
     }
   ]
