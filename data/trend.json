@@ -1,62 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T12:33:55.238Z",
+  "fetchedAt": "2026-05-25T12:42:54.591Z",
   "date": "2026-05-25",
-  "count": 4,
+  "count": 2,
   "items": [
     {
-      "videoId": "3xies8kxwbkjj64",
-      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
-      "authorName": "甜吖",
-      "authorUrl": "https://www.kuaishou.com/profile/3xbdz5fic8euk4y",
-      "authorId": "3xbdz5fic8euk4y",
-      "publishTime": "2026-05-08T21:43:26.019Z",
-      "likeCount": 124843,
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "authorUrl": "https://www.kuaishou.com/profile/3xa85jgbhtm6hic",
+      "authorId": "3xa85jgbhtm6hic",
+      "publishTime": "2026-05-09T07:36:21.512Z",
+      "likeCount": 21899,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 1292470,
-      "collectedAt": "2026-05-25T12:30:12.459Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 100,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": []
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“节日热点+平台活动+情感共鸣”的复合结构。前三个话题标签（#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗）精准绑定五一节日流量和平台官方活动，获取基础曝光。后两个标签（#思白发望断崖）引入具体、有画面感的歌曲或场景，引发情感共鸣。最后@官方账号（快手粉条、快手热点、快手音乐）是寻求官方流量助推的关键动作。",
-        "hotFactors": [
-          "精准绑定五一节日热点与平台官方活动（快手乡村超级碗）",
-          "标题包含具体、有画面感的歌曲/场景关键词（思白发望断崖），易引发情感共鸣",
-          "主动@多个官方流量账号，寻求算法推荐和曝光加持",
-          "发布者“甜吖”可能为乡村生活或情感类创作者，内容与标签高度契合"
-        ],
-        "category": [
-          "节日热点",
-          "乡村生活",
-          "情感音乐"
-        ],
-        "reason": "视频成功将节日热点、平台活动、情感内容与官方流量引导相结合，结构完整，爆率高。点赞量已达12.5万，但评论和分享为0，可能因数据延迟或内容偏向单向情感宣泄，互动性稍弱，但不影响其成为爆款。"
-      }
-    },
-    {
-      "videoId": "3xr66ia9rck4y49",
-      "title": "你给我等着😡",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xr66ia9rck4y49",
-      "authorName": "东北小黑姐",
-      "authorUrl": "https://www.kuaishou.com/profile/3xpkwgh5gmxpug6",
-      "authorId": "3xpkwgh5gmxpug6",
-      "publishTime": "2026-03-20T10:14:07.597Z",
-      "likeCount": 12468,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 436367,
-      "collectedAt": "2026-05-25T12:30:12.459Z",
+      "viewCount": 490500,
+      "collectedAt": "2026-05-25T12:40:12.133Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -69,73 +29,34 @@
         "explosionRate": 85,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "使用情绪化表情符号（😡）和挑衅性短句，制造强烈冲突感和悬念，激发用户好奇心和互动欲。",
+        "titleAnalysis": "标题采用“定性+归因”结构，直接点明核心矛盾（台独）并将其定性为破坏和平的“罪魁祸首”，立场鲜明，情绪强烈，具有明确的指向性和批判性。",
         "hotFactors": [
-          "强情绪表达",
-          "悬念式标题",
-          "人设鲜明（东北小黑姐）"
+          "官方权威信源（国防部发布）",
+          "涉及国家主权与领土完整的核心议题",
+          "强烈的民族情感与爱国情绪共鸣",
+          "当前台海局势的持续高关注度"
         ],
         "category": [
-          "生活/情感",
-          "剧情/冲突"
+          "时政",
+          "军事",
+          "爱国主义"
         ],
-        "reason": "标题冲突感强，情绪张力大，易引发评论区站队和讨论；高点赞低互动数据可能处于爆发初期，后续评论和分享有望快速增长。"
+        "reason": "官方权威发布，议题重大且敏感，极易引发广泛共鸣与讨论。点赞量高而评论/分享为零，可能表明内容处于审核或传播限制状态，但其内在的爆款潜力（高情感共鸣、高话题性）依然存在，一旦放开传播，爆发力极强。"
       }
     },
     {
-      "videoId": "3x556by2znbfsyg",
-      "title": "八句良言 #优质内容创作计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x556by2znbfsyg",
-      "authorName": "半盏清欢",
-      "authorUrl": "https://www.kuaishou.com/profile/3xqxbnfvb4aszp6",
-      "authorId": "3xqxbnfvb4aszp6",
-      "publishTime": "2026-04-21T13:30:30.980Z",
-      "likeCount": 14386,
+      "videoId": "3xr3uy7bbtyasui",
+      "title": "挑战2口吃完！ #妈呀太香了 #喜爱度激励计划 #公瑾爆蛋 #老铁带你炫美食",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xr3uy7bbtyasui",
+      "authorName": "佳佳子。",
+      "authorUrl": "https://www.kuaishou.com/profile/3xvyzvhrihxwifq",
+      "authorId": "3xvyzvhrihxwifq",
+      "publishTime": "2026-03-19T09:04:17.620Z",
+      "likeCount": 15854,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 90527,
-      "collectedAt": "2026-05-25T12:30:12.460Z",
-      "isReal": true,
-      "source": "hot_intercept",
-      "health": {
-        "score": 80,
-        "level": "excellent",
-        "isHealthy": true,
-        "warnings": [
-          "点赞率异常偏高"
-        ]
-      },
-      "aiAnalysis": {
-        "explosionRate": 85,
-        "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用数字+价值承诺结构（'八句'暗示内容精炼、信息密度高，'良言'直接点明内容价值），符合短视频用户快速获取干货的心理预期。标签#优质内容创作计划进一步强化了内容的权威性和平台推荐属性。",
-        "hotFactors": [
-          "高价值干货内容（良言/金句类）",
-          "强共情与收藏属性（易引发'说得对'的认同感）",
-          "符合平台优质内容扶持计划",
-          "标题简洁有力，降低用户理解成本"
-        ],
-        "category": [
-          "情感/人生感悟",
-          "知识/干货分享"
-        ],
-        "reason": "高点赞（1.4万）与零互动（评论/分享为0）的极端数据组合，是典型的'沉默爆款'特征。内容本身具有极强的共鸣和收藏价值，用户倾向于默默点赞收藏而非评论，这在金句、语录、人生道理类视频中非常常见。结合平台'优质内容创作计划'标签，该视频很可能已获得算法推荐，正处于流量上升期。"
-      }
-    },
-    {
-      "videoId": "3xbkrubrwc956bc",
-      "title": "湖南人小时候的超能力 #湖南 #超能力",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xbkrubrwc956bc",
-      "authorName": "邬天宇",
-      "authorUrl": "https://www.kuaishou.com/profile/3xq8qh4c5huhtrs",
-      "authorId": "3xq8qh4c5huhtrs",
-      "publishTime": "2026-03-06T09:57:17.751Z",
-      "likeCount": 29549,
-      "commentCount": 0,
-      "shareCount": 0,
-      "viewCount": 641798,
-      "collectedAt": "2026-05-25T12:30:12.460Z",
+      "viewCount": 648600,
+      "collectedAt": "2026-05-25T12:40:12.133Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -147,19 +68,18 @@
       "aiAnalysis": {
         "explosionRate": 75,
         "trend": "rising",
-        "hookType": "共情",
-        "titleAnalysis": "标题采用“地域标签+童年回忆+悬念词”结构。'湖南人'精准定位地域受众，'小时候的超能力'制造悬念和好奇，'超能力'一词带有夸张和趣味性，易于引发点击和讨论。",
+        "hookType": "爽点",
+        "titleAnalysis": "标题采用“挑战+具体动作（2口吃完）”的强行动指令结构，结合多个热门标签（#妈呀太香了、#老铁带你炫美食）和活动标签（#喜爱度激励计划），具有明确的互动引导性和平台流量加持预期。",
         "hotFactors": [
-          "强烈的地域认同感和集体回忆",
-          "童年怀旧情绪的普遍共鸣",
-          "悬念式标题引发好奇"
+          "挑战类内容易引发模仿和围观",
+          "美食题材受众广且易产生食欲共鸣",
+          "标签组合精准，覆盖活动流量与美食兴趣圈层"
         ],
         "category": [
-          "生活",
-          "搞笑",
-          "地域文化"
+          "美食挑战",
+          "吃播"
         ],
-        "reason": "标题精准切入湖南用户的童年集体记忆，情感共鸣强，易引发同地域用户的互动和分享。点赞数据已显示初步热度，但评论和分享数据缺失，可能因视频内容或发布时间较短，后续爆发潜力较大。"
+        "reason": "挑战形式简单直接、视觉冲击力强，符合快手用户对“爽感”内容的偏好，且标签策略能有效撬动平台活动流量，具备快速起量潜力。"
       }
     }
   ]

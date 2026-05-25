@@ -1,57 +1,41 @@
 {
   "source": "AI预测 + 真实数据",
-  "generatedAt": "2026-05-25T12:33:55.239Z",
+  "generatedAt": "2026-05-25T12:42:54.592Z",
   "date": "2026-05-25",
   "count": 11,
   "items": [
     {
-      "videoId": "3xies8kxwbkjj64",
-      "title": "#五月嗨翻天 #五一气氛组已就位 #快手乡村超级碗 #思白发望断崖 @快手粉条(O3xhcy6vhfzcu3qe) @快手热点(O3xddgkd5fav5if9) @快手音乐(O3xjy3yfphyeczxm)",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xies8kxwbkjj64",
-      "authorName": "甜吖",
-      "likeCount": 124843,
-      "commentCount": 0,
-      "explosionRate": 85,
-      "trend": "rising",
-      "hookType": "共情",
-      "category": [
-        "节日热点",
-        "乡村生活",
-        "情感音乐"
-      ],
-      "estimatedTime": "正在爆发"
-    },
-    {
-      "videoId": "3xr66ia9rck4y49",
-      "title": "你给我等着😡",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xr66ia9rck4y49",
-      "authorName": "东北小黑姐",
-      "likeCount": 12468,
+      "videoId": "3xpgtbzcea8x4zk",
+      "title": "“台独”是破坏台海和平的罪魁祸首",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xpgtbzcea8x4zk",
+      "authorName": "国防部发布",
+      "likeCount": 21899,
       "commentCount": 0,
       "explosionRate": 85,
       "trend": "rising",
       "hookType": "冲突",
       "category": [
-        "生活/情感",
-        "剧情/冲突"
+        "时政",
+        "军事",
+        "爱国主义"
       ],
       "estimatedTime": "正在爆发"
     },
     {
-      "videoId": "3x556by2znbfsyg",
-      "title": "八句良言 #优质内容创作计划 ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x556by2znbfsyg",
-      "authorName": "半盏清欢",
-      "likeCount": 14386,
+      "videoId": "3xr3uy7bbtyasui",
+      "title": "挑战2口吃完！ #妈呀太香了 #喜爱度激励计划 #公瑾爆蛋 #老铁带你炫美食",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xr3uy7bbtyasui",
+      "authorName": "佳佳子。",
+      "likeCount": 15854,
       "commentCount": 0,
-      "explosionRate": 85,
+      "explosionRate": 75,
       "trend": "rising",
-      "hookType": "共情",
+      "hookType": "爽点",
       "category": [
-        "情感/人生感悟",
-        "知识/干货分享"
+        "美食挑战",
+        "吃播"
       ],
-      "estimatedTime": "正在爆发"
+      "estimatedTime": "1-2小时"
     },
     {
       "videoId": "3xbkrubrwc956bc",
@@ -60,114 +44,129 @@
       "authorName": "邬天宇",
       "likeCount": 29549,
       "commentCount": 0,
-      "explosionRate": 75,
-      "trend": "rising",
+      "explosionRate": 65,
+      "trend": "stable",
       "hookType": "共情",
       "category": [
-        "生活",
-        "搞笑",
+        "生活/怀旧",
         "地域文化"
       ],
-      "estimatedTime": "1-2小时"
+      "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xtijkd5rzemfks",
-      "title": "这才是我们应该追的星 #律师帮帮团 #老铁知识百科",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xtijkd5rzemfks",
-      "authorName": "游者旅行记",
-      "likeCount": 12023,
+      "videoId": "3x3g48hhpzw64sw",
+      "title": "都说回家为了照顾父母，可是每天都会睡到中午 #当代年轻人过年现状 #被这首歌戳中了 #别让陪伴留遗憾 #面妹孔佳奇",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x3g48hhpzw64sw",
+      "authorName": "面妹《孔佳奇》",
+      "likeCount": 19870,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "正能量",
-        "职业纪实",
-        "社会热点"
+        "生活记录",
+        "情感共鸣",
+        "社会现象"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x6ypmb4p53fqfe",
-      "title": "带着小孙孙一起跳中国娃 #正能量 #中国娃 #爷孙组合",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x6ypmb4p53fqfe",
-      "authorName": "曳舞布大叔",
-      "likeCount": 3152,
+      "videoId": "3xv764uj8p5xhyu",
+      "title": "教你一招 没人敢欺负你！ #一招制敌",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xv764uj8p5xhyu",
+      "authorName": "孔教官教防身",
+      "likeCount": 14049,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "爽点",
+      "category": [
+        "生活技巧",
+        "安全教育",
+        "实用技能"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xq86qh7jm8c8ne",
+      "title": "没事不要和任何人搅合在一起 #人生忠告 #情感共鸣 #知识播种计划 ",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xq86qh7jm8c8ne",
+      "authorName": "董超育儿现场",
+      "likeCount": 2811,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "家庭生活",
-        "正能量",
-        "舞蹈"
+        "情感",
+        "人生感悟",
+        "知识分享"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xyqjhvtzweik84",
-      "title": "是谁和我说零号大坝会出手机的！！！ #幸福乡村春耕季 #花式过五一 #三角洲 #三角洲行动  @马大哈奇遇记(O3xryu36qu4xjmvw) ",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xyqjhvtzweik84",
-      "authorName": "黑大帅历险记",
-      "likeCount": 11060,
+      "videoId": "3x2sds7htqdcnza",
+      "title": "#空调匹数计算 #空调小常识",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3x2sds7htqdcnza",
+      "authorName": "一招哥",
+      "likeCount": 4098,
+      "commentCount": 0,
+      "explosionRate": 65,
+      "trend": "stable",
+      "hookType": "实用/痛点",
+      "category": [
+        "生活技巧",
+        "家居知识",
+        "家电使用"
+      ],
+      "estimatedTime": "2-4小时"
+    },
+    {
+      "videoId": "3xt764v8v8wn869",
+      "title": "狗子：老登你要辣亖我吗？！ #萌宠春日大赏 #喜爱度激励计划  #快成长计划  #快手宠物天团",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xt764v8v8wn869",
+      "authorName": "辛巴和汤圆",
+      "likeCount": 1226,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "冲突",
       "category": [
-        "游戏",
-        "生活",
-        "吐槽"
+        "萌宠",
+        "搞笑",
+        "生活"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3x4ei4qffmvegxs",
-      "title": "今天可能位置没选对没钓到龙虾，今天买了点做了个麻辣龙虾看着还不错吧，你们老家河里能掉龙虾了没？#农村守护人 #三农 #记录真实生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3x4ei4qffmvegxs",
-      "authorName": "李会儿、、",
-      "likeCount": 7408,
+      "videoId": "3xu5c6fnefy7iwm",
+      "title": "什么都不会 只会对你好 #快成长计划 #青春娱乐创作之星 #我曾像使子一样爱你 #夫妻舞蹈",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xu5c6fnefy7iwm",
+      "authorName": "辰爸辰妈舞蹈燃脂课堂",
+      "likeCount": 10017,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "三农",
-        "美食",
-        "生活记录"
+        "情感生活",
+        "舞蹈健身"
       ],
       "estimatedTime": "2-4小时"
     },
     {
-      "videoId": "3xhdfqqik3zsmb9",
-      "title": "家里有个小棉袄#农村生活",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xhdfqqik3zsmb9",
-      "authorName": "月亮一家人",
-      "likeCount": 6203,
+      "videoId": "3xnudvyx7neuudw",
+      "title": "#生活小妙招 #生活小技巧 #实用小妙招 #实用小技巧",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xnudvyx7neuudw",
+      "authorName": "朱丽爱生活",
+      "likeCount": 7023,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
-        "家庭生活",
-        "农村纪实",
-        "亲子日常"
-      ],
-      "estimatedTime": "2-4小时"
-    },
-    {
-      "videoId": "3xc6zm8y3i4zrse",
-      "title": " @指间播客(O3xj945sdc2sgid4) 的精彩视频",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xc6zm8y3i4zrse",
-      "authorName": "指间播客",
-      "likeCount": 21663,
-      "commentCount": 0,
-      "explosionRate": 65,
-      "trend": "stable",
-      "hookType": "悬念",
-      "category": [
-        "播客",
-        "观点输出"
+        "生活技巧",
+        "实用干货"
       ],
       "estimatedTime": "2-4小时"
     },
@@ -176,15 +175,15 @@
       "title": "半路电瓶车没电，一直解决 #电瓶车",
       "sourceUrl": "https://www.kuaishou.com/short-video/3xyzja4tda28ya9",
       "authorName": "壹哥说车",
-      "likeCount": 3612,
+      "likeCount": 3614,
       "commentCount": 0,
       "explosionRate": 65,
       "trend": "stable",
       "hookType": "共情",
       "category": [
         "生活技巧",
-        "出行问题",
-        "电瓶车"
+        "出行",
+        "实用技能"
       ],
       "estimatedTime": "2-4小时"
     }
