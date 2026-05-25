@@ -1,22 +1,22 @@
 {
   "source": "上升趋势真实视频",
-  "fetchedAt": "2026-05-25T13:32:37.264Z",
+  "fetchedAt": "2026-05-25T13:43:32.547Z",
   "date": "2026-05-25",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "videoId": "3xgciaghrfubyv4",
-      "title": "以后结婚，不能随便要彩礼了！\n#知识播种计划 #老铁知识百科 #老铁帮帮团 #律师帮帮团",
-      "sourceUrl": "https://www.kuaishou.com/short-video/3xgciaghrfubyv4",
-      "authorName": "潘晓红律师",
-      "authorUrl": "https://www.kuaishou.com/profile/3x2medae3wtb55k",
-      "authorId": "3x2medae3wtb55k",
-      "publishTime": "2026-05-04T03:44:03.113Z",
-      "likeCount": 1535,
+      "videoId": "3xwziwgmrimtgbw",
+      "title": "看我云南老婆怎么做猪头扣肉 #远嫁 #南北饮食大不同 #夫妻相处之道",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xwziwgmrimtgbw",
+      "authorName": "远嫁燕子的一家",
+      "authorUrl": "https://www.kuaishou.com/profile/3xihaq7trzkx8v4",
+      "authorId": "3xihaq7trzkx8v4",
+      "publishTime": "2026-05-18T05:51:48.643Z",
+      "likeCount": 9433,
       "commentCount": 0,
       "shareCount": 0,
-      "viewCount": 87009,
-      "collectedAt": "2026-05-25T13:30:12.438Z",
+      "viewCount": 549043,
+      "collectedAt": "2026-05-25T13:40:12.528Z",
       "isReal": true,
       "source": "hot_intercept",
       "health": {
@@ -26,21 +26,62 @@
         "warnings": []
       },
       "aiAnalysis": {
-        "explosionRate": 75,
+        "explosionRate": 72,
         "trend": "rising",
         "hookType": "冲突",
-        "titleAnalysis": "标题采用“以后...不能...”的未来警示句式，结合“结婚”、“彩礼”等社会热点话题，直接冲击传统观念，制造强烈的认知冲突和讨论空间。",
+        "titleAnalysis": "标题采用“地域差异+家庭生活”结构，通过“云南老婆”、“猪头扣肉”、“南北饮食大不同”等关键词制造地域文化冲突和饮食猎奇感，同时以“夫妻相处之道”引发情感共鸣，符合快手平台对家庭生活、地域文化类内容的偏好。",
         "hotFactors": [
-          "社会热点议题（彩礼）",
-          "专业身份背书（律师）",
-          "观点颠覆性（挑战传统）"
+          "地域文化冲突（南北饮食差异）",
+          "家庭生活与夫妻关系话题",
+          "猎奇性食材（猪头扣肉）",
+          "真实生活记录风格"
         ],
         "category": [
-          "法律科普",
-          "社会热点",
-          "婚恋情感"
+          "家庭生活",
+          "美食制作",
+          "地域文化",
+          "情感关系"
         ],
-        "reason": "彩礼话题自带流量与争议，律师身份增加权威性，标题观点鲜明易引发站队讨论，符合快手用户对实用、有冲突感内容的偏好。"
+        "reason": "标题精准结合地域冲突、家庭情感与美食猎奇，符合快手下沉市场用户对真实生活、家庭话题的高关注度。点赞量近万但互动数据（评论/分享）为零，可能因视频发布初期或数据未完全同步，但核心话题具备持续发酵潜力。"
+      }
+    },
+    {
+      "videoId": "3xsdvktawhfnia2",
+      "title": "去派出所报警被大声嚷嚷怎么办 #维权  #老铁财富密码 #老铁看热点",
+      "sourceUrl": "https://www.kuaishou.com/short-video/3xsdvktawhfnia2",
+      "authorName": "周沫讲理财",
+      "authorUrl": "https://www.kuaishou.com/profile/3xhinyavn5y69uc",
+      "authorId": "3xhinyavn5y69uc",
+      "publishTime": "2026-04-22T11:27:31.413Z",
+      "likeCount": 29697,
+      "commentCount": 0,
+      "shareCount": 0,
+      "viewCount": 1461269,
+      "collectedAt": "2026-05-25T13:40:12.528Z",
+      "isReal": true,
+      "source": "hot_intercept",
+      "health": {
+        "score": 100,
+        "level": "excellent",
+        "isHealthy": true,
+        "warnings": []
+      },
+      "aiAnalysis": {
+        "explosionRate": 65,
+        "trend": "rising",
+        "hookType": "冲突",
+        "titleAnalysis": "标题采用“场景+痛点+解决方案”结构。前半句“去派出所报警被大声嚷嚷”构建了一个极具冲突感和代入感的场景，后半句“怎么办”直接点明用户需求，并关联热门话题标签，引导用户寻求答案。",
+        "hotFactors": [
+          "强冲突场景（派出所、被嚷嚷）引发共情与好奇",
+          "精准切入“维权”这一大众痛点，提供“财富密码”式解决方案的预期",
+          "发布者“周沫讲理财”的财经属性与维权话题结合，形成跨界反差"
+        ],
+        "category": [
+          "社会热点",
+          "生活技巧",
+          "法律维权"
+        ],
+        "reason": "标题精准戳中“维权难”的普遍社会情绪，冲突场景极具代入感，能快速激发用户点击寻求解决方案的欲望。结合发布者财经属性，可能提供独特视角，具备爆款潜力。"
       }
     }
   ]
